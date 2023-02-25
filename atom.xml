@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/"/>
-  <updated>2023-02-25T00:58:32.170Z</updated>
+  <updated>2023-02-25T03:03:41.331Z</updated>
   <id>https://blog.emn178.cc/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>DreamStudio - AI藝術生成器</title>
-    <link href="https://blog.emn178.cc/2023/02/25/DreamStudio-AI%E8%97%9D%E8%A1%93%E7%94%9F%E6%88%90%E5%99%A8/"/>
-    <id>https://blog.emn178.cc/2023/02/25/DreamStudio-AI%E8%97%9D%E8%A1%93%E7%94%9F%E6%88%90%E5%99%A8/</id>
-    <published>2023-02-25T12:34:05.000Z</published>
-    <updated>2023-02-25T00:58:32.170Z</updated>
+    <link href="https://blog.emn178.cc/2023/02/24/DreamStudio-AI%E8%97%9D%E8%A1%93%E7%94%9F%E6%88%90%E5%99%A8/"/>
+    <id>https://blog.emn178.cc/2023/02/24/DreamStudio-AI%E8%97%9D%E8%A1%93%E7%94%9F%E6%88%90%E5%99%A8/</id>
+    <published>2023-02-24T12:34:05.000Z</published>
+    <updated>2023-02-25T03:03:41.331Z</updated>
     
     
       
@@ -35,6 +35,8 @@
     
     
     <category term="AI" scheme="https://blog.emn178.cc/tags/AI/"/>
+    
+    <category term="Stable Diffusion" scheme="https://blog.emn178.cc/tags/Stable-Diffusion/"/>
     
   </entry>
   

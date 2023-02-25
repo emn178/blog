@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.emn178.cc/2023/02/25/DreamStudio-AI%E8%97%9D%E8%A1%93%E7%94%9F%E6%88%90%E5%99%A8/</loc>
+    <loc>https://blog.emn178.cc/2023/02/24/DreamStudio-AI%E8%97%9D%E8%A1%93%E7%94%9F%E6%88%90%E5%99%A8/</loc>
     
     <lastmod>2023-02-25</lastmod>
     
@@ -87,6 +87,13 @@
   
   <url>
     <loc>https://blog.emn178.cc/tags/AI/</loc>
+    <lastmod>2023-02-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.emn178.cc/tags/Stable-Diffusion/</loc>
     <lastmod>2023-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
