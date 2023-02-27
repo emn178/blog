@@ -84,6 +84,62 @@
       <div class="outer">
         <section id="main">
   
+    <article id="post-解決-Mac-OS-升級後-Postgresql-跑不起來" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/2023/02/27/%E8%A7%A3%E6%B1%BA-Mac-OS-%E5%8D%87%E7%B4%9A%E5%BE%8C-Postgresql-%E8%B7%91%E4%B8%8D%E8%B5%B7%E4%BE%86/" class="article-date">
+  <time class="dt-published" datetime="2023-02-27T04:01:53.000Z" itemprop="datePublished">2023-02-27</time>
+</a>
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="p-name article-title" href="/2023/02/27/%E8%A7%A3%E6%B1%BA-Mac-OS-%E5%8D%87%E7%B4%9A%E5%BE%8C-Postgresql-%E8%B7%91%E4%B8%8D%E8%B5%B7%E4%BE%86/">解決 Mac OS 升級後 Postgresql 跑不起來</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="e-content article-entry" itemprop="articleBody">
+      
+        <p>最近把 Mac OS 從 Monterey 升級到 Ventura 後， brew 安裝的 Postgresql 就跑不起來，</p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_">$ </span><span class="language-bash">brew services info postgresql</span></span><br><span class="line">Warning: Use postgresql@14 instead of deprecated postgresql</span><br><span class="line">postgresql@14 (homebrew.mxcl.postgresql@14)</span><br><span class="line">Running: ✘</span><br><span class="line">Loaded: ✔</span><br><span class="line">Schedulable: ✘</span><br></pre></td></tr></table></figure>
+<p>重啟或重新安裝都沒有用，也沒有明確的錯誤訊息。到 Homebrew 的 log 資料夾下查詢</p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_">$ </span><span class="language-bash"><span class="built_in">tail</span> /opt/homebrew/var/log/postgres.log</span></span><br></pre></td></tr></table></figure>
+<p>看到錯誤訊息</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">Referenced from: &lt;B17C4116-8D6C-32B3-8403-3EBE2BBCA14E&gt; /opt/homebrew/Cellar/postgresql@14/14.2_1/bin/postgres</span><br><span class="line">Reason: tried: &#x27;/opt/homebrew/opt/icu4c/lib/libicui18n.70.dylib&#x27; (no such file), &#x27;/System/Volumes/Preboot/Cryptexes/OS/opt/homebrew/opt/icu4c/lib/libicui18n.70.dylib&#x27; (no such file), &#x27;/opt/homebrew/opt/icu4c/lib/libicui18n.70.dylib&#x27; (no such file), &#x27;/usr/local/lib/libicui18n.70.dylib&#x27; (no such file), &#x27;/usr/lib/libicui18n.70.dylib&#x27; (no such file, not in dyld cache), &#x27;/opt/homebrew/Cellar/icu4c/72.1/lib/libicui18n.70.dylib&#x27; (no such file), &#x27;/System/Volumes/Preboot/Cryptexes/OS/opt/homebrew/Cellar/icu4c/72.1/lib/libicui18n.70.dylib&#x27; (no such file), &#x27;/opt/homebrew/Cellar/icu4c/72.1/lib/libicui18n.70.dylib&#x27; (no such file), &#x27;/usr/local/lib/libicui18n.70.dylib&#x27; (no such file), &#x27;/usr/lib/libicui18n.70.dylib&#x27; (no such file, not in dyld cache)</span><br></pre></td></tr></table></figure>
+<p>重新安裝 icu4c</p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_">$ </span><span class="language-bash">brew reinstall icu4c</span></span><br></pre></td></tr></table></figure>
+<p>重啟 postgresql</p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_">$ </span><span class="language-bash">brew services restart postgresql</span></span><br></pre></td></tr></table></figure>
+<p>成功啟動</p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_">$ </span><span class="language-bash">brew services info postgresql</span></span><br><span class="line">Warning: Use postgresql@14 instead of deprecated postgresql</span><br><span class="line">postgresql@14 (homebrew.mxcl.postgresql@14)</span><br><span class="line">Running: ✔</span><br><span class="line">Loaded: ✔</span><br><span class="line">Schedulable: ✘</span><br><span class="line">User: emn178</span><br><span class="line">PID: 17984</span><br></pre></td></tr></table></figure>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="https://blog.emn178.cc/2023/02/27/%E8%A7%A3%E6%B1%BA-Mac-OS-%E5%8D%87%E7%B4%9A%E5%BE%8C-Postgresql-%E8%B7%91%E4%B8%8D%E8%B5%B7%E4%BE%86/" data-id="clemavcn60002s70af3e71e2l" data-title="解決 Mac OS 升級後 Postgresql 跑不起來" class="article-share-link">分享</a>
+      
+      
+      
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Postgresql/" rel="tag">Postgresql</a></li></ul>
+
+    </footer>
+  </div>
+  
+</article>
+
+
+
+  
     <article id="post-Midjourney-AI藝術生成器" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
   <div class="article-meta">
     <a href="/2023/02/26/Midjourney-AI%E8%97%9D%E8%A1%93%E7%94%9F%E6%88%90%E5%99%A8/" class="article-date">
@@ -770,7 +826,7 @@
   <div class="widget-wrap">
     <h3 class="widget-title">分類</h3>
     <div class="widget">
-      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/AI/">AI</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E6%97%85%E9%81%8A/">旅遊</a></li></ul>
+      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/AI/">AI</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E6%97%85%E9%81%8A/">旅遊</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</a></li></ul>
     </div>
   </div>
 
@@ -780,7 +836,7 @@
   <div class="widget-wrap">
     <h3 class="widget-title">標籤</h3>
     <div class="widget">
-      <ul class="tag-list" itemprop="keywords"><li class="tag-list-item"><a class="tag-list-link" href="/tags/AI/" rel="tag">AI</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Stable-Diffusion/" rel="tag">Stable Diffusion</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/" rel="tag">自由行</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E9%9F%93%E5%9C%8B/" rel="tag">韓國</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E9%A6%96%E7%88%BE/" rel="tag">首爾</a></li></ul>
+      <ul class="tag-list" itemprop="keywords"><li class="tag-list-item"><a class="tag-list-link" href="/tags/AI/" rel="tag">AI</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Postgresql/" rel="tag">Postgresql</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Stable-Diffusion/" rel="tag">Stable Diffusion</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/" rel="tag">自由行</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E9%9F%93%E5%9C%8B/" rel="tag">韓國</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E9%A6%96%E7%88%BE/" rel="tag">首爾</a></li></ul>
     </div>
   </div>
 
@@ -790,7 +846,7 @@
   <div class="widget-wrap">
     <h3 class="widget-title">標籤雲</h3>
     <div class="widget tagcloud">
-      <a href="/tags/AI/" style="font-size: 15px;">AI</a> <a href="/tags/Stable-Diffusion/" style="font-size: 10px;">Stable Diffusion</a> <a href="/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/" style="font-size: 20px;">自由行</a> <a href="/tags/%E9%9F%93%E5%9C%8B/" style="font-size: 20px;">韓國</a> <a href="/tags/%E9%A6%96%E7%88%BE/" style="font-size: 20px;">首爾</a>
+      <a href="/tags/AI/" style="font-size: 15px;">AI</a> <a href="/tags/Postgresql/" style="font-size: 10px;">Postgresql</a> <a href="/tags/Stable-Diffusion/" style="font-size: 10px;">Stable Diffusion</a> <a href="/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/" style="font-size: 20px;">自由行</a> <a href="/tags/%E9%9F%93%E5%9C%8B/" style="font-size: 20px;">韓國</a> <a href="/tags/%E9%A6%96%E7%88%BE/" style="font-size: 20px;">首爾</a>
     </div>
   </div>
 
@@ -812,6 +868,10 @@
       <ul>
         
           <li>
+            <a href="/2023/02/27/%E8%A7%A3%E6%B1%BA-Mac-OS-%E5%8D%87%E7%B4%9A%E5%BE%8C-Postgresql-%E8%B7%91%E4%B8%8D%E8%B5%B7%E4%BE%86/">解決 Mac OS 升級後 Postgresql 跑不起來</a>
+          </li>
+        
+          <li>
             <a href="/2023/02/26/Midjourney-AI%E8%97%9D%E8%A1%93%E7%94%9F%E6%88%90%E5%99%A8/">Midjourney - AI藝術生成器</a>
           </li>
         
@@ -825,10 +885,6 @@
         
           <li>
             <a href="/2023/02/05/%E9%9F%93%E5%9C%8B%E9%A6%96%E7%88%BE%E8%87%AA%E7%94%B1%E8%A1%8C-Day-4-%E9%A6%96%E7%88%BE%E5%A1%94/">韓國首爾自由行 Day 4 (首爾塔)</a>
-          </li>
-        
-          <li>
-            <a href="/2023/01/29/%E9%9F%93%E5%9C%8B%E9%A6%96%E7%88%BE%E8%87%AA%E7%94%B1%E8%A1%8C-Day-3-%E6%B4%AA%E5%B7%9D%E5%A4%A7%E6%98%8E%E6%BB%91%E9%9B%AA%E6%9D%91/">韓國首爾自由行 Day 3 (洪川大明滑雪村)</a>
           </li>
         
       </ul>
