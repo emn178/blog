@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.emn178.cc/post/solve-postgresql-can-not-run-after-upgrade-mac-os/</loc>
+    
+    <lastmod>2023-02-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.emn178.cc/post/midjourney-ai-art-generator/</loc>
+    
+    <lastmod>2023-02-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.emn178.cc/post/korea-seoul-free-travel/</loc>
     
     <lastmod>2023-02-28</lastmod>
     
@@ -47,25 +65,7 @@
   </url>
   
   <url>
-    <loc>https://blog.emn178.cc/post/korea-seoul-free-travel/</loc>
-    
-    <lastmod>2023-02-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.emn178.cc/post/korea-seoul-free-travel-day-2-gyeongbokgung-samcheong-dong-bukchon-hanok-village/</loc>
-    
-    <lastmod>2023-02-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.emn178.cc/post/solve-postgresql-can-not-run-after-upgrade-mac-os/</loc>
     
     <lastmod>2023-02-28</lastmod>
     
