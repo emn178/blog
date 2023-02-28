@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/"/>
-  <updated>2023-02-27T04:11:55.838Z</updated>
+  <updated>2023-02-28T02:19:18.086Z</updated>
   <id>https://blog.emn178.cc/</id>
   
   <author>
@@ -18,17 +18,13 @@
   
   <entry>
     <title>解決 Mac OS 升級後 Postgresql 跑不起來</title>
-    <link href="https://blog.emn178.cc/2023/02/27/%E8%A7%A3%E6%B1%BA-Mac-OS-%E5%8D%87%E7%B4%9A%E5%BE%8C-Postgresql-%E8%B7%91%E4%B8%8D%E8%B5%B7%E4%BE%86/"/>
-    <id>https://blog.emn178.cc/2023/02/27/%E8%A7%A3%E6%B1%BA-Mac-OS-%E5%8D%87%E7%B4%9A%E5%BE%8C-Postgresql-%E8%B7%91%E4%B8%8D%E8%B5%B7%E4%BE%86/</id>
+    <link href="https://blog.emn178.cc/post/solve-postgresql-can-not-run-after-upgrade-mac-os/"/>
+    <id>https://blog.emn178.cc/post/solve-postgresql-can-not-run-after-upgrade-mac-os/</id>
     <published>2023-02-27T04:01:53.000Z</published>
-    <updated>2023-02-27T04:11:55.838Z</updated>
+    <updated>2023-02-28T02:19:18.086Z</updated>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;最近把 Mac OS 從 Monterey 升級到 Ventura 後， brew 安裝的 Postgresql 就跑不起來，&lt;/p&gt;
-&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;s</summary>
-      
+    <summary type="html">本篇文章記錄如何解決 Mac OS 從 Monterey 升級到 Ventura 後，使用 Homebrew 安裝的 Postgresql 跑不起來的問題。</summary>
     
     
     
@@ -41,10 +37,10 @@
   
   <entry>
     <title>Midjourney - AI藝術生成器</title>
-    <link href="https://blog.emn178.cc/2023/02/26/Midjourney-AI%E8%97%9D%E8%A1%93%E7%94%9F%E6%88%90%E5%99%A8/"/>
-    <id>https://blog.emn178.cc/2023/02/26/Midjourney-AI%E8%97%9D%E8%A1%93%E7%94%9F%E6%88%90%E5%99%A8/</id>
+    <link href="https://blog.emn178.cc/post/midjourney-ai-art-generator/"/>
+    <id>https://blog.emn178.cc/post/midjourney-ai-art-generator/</id>
     <published>2023-02-26T02:58:07.000Z</published>
-    <updated>2023-02-26T06:34:37.097Z</updated>
+    <updated>2023-02-28T02:29:17.988Z</updated>
     
     
       
@@ -63,10 +59,10 @@
   
   <entry>
     <title>DreamStudio - AI藝術生成器</title>
-    <link href="https://blog.emn178.cc/2023/02/24/DreamStudio-AI%E8%97%9D%E8%A1%93%E7%94%9F%E6%88%90%E5%99%A8/"/>
-    <id>https://blog.emn178.cc/2023/02/24/DreamStudio-AI%E8%97%9D%E8%A1%93%E7%94%9F%E6%88%90%E5%99%A8/</id>
+    <link href="https://blog.emn178.cc/post/dreamstudio-ai-art-generator/"/>
+    <id>https://blog.emn178.cc/post/dreamstudio-ai-art-generator/</id>
     <published>2023-02-24T12:34:05.000Z</published>
-    <updated>2023-02-26T06:32:07.717Z</updated>
+    <updated>2023-02-28T02:29:09.983Z</updated>
     
     
       
@@ -87,10 +83,10 @@
   
   <entry>
     <title>DALL·E 2 - AI藝術生成器</title>
-    <link href="https://blog.emn178.cc/2023/02/14/DALL%C2%B7E-2-AI%E8%97%9D%E8%A1%93%E7%94%9F%E6%88%90%E5%99%A8/"/>
-    <id>https://blog.emn178.cc/2023/02/14/DALL%C2%B7E-2-AI%E8%97%9D%E8%A1%93%E7%94%9F%E6%88%90%E5%99%A8/</id>
+    <link href="https://blog.emn178.cc/post/dall%C2%B7e-2-ai-art-generator/"/>
+    <id>https://blog.emn178.cc/post/dall%C2%B7e-2-ai-art-generator/</id>
     <published>2023-02-14T15:34:35.000Z</published>
-    <updated>2023-02-26T06:32:00.639Z</updated>
+    <updated>2023-02-28T02:28:57.153Z</updated>
     
     
       
@@ -109,10 +105,10 @@
   
   <entry>
     <title>韓國首爾自由行 Day 4 (首爾塔)</title>
-    <link href="https://blog.emn178.cc/2023/02/05/%E9%9F%93%E5%9C%8B%E9%A6%96%E7%88%BE%E8%87%AA%E7%94%B1%E8%A1%8C-Day-4-%E9%A6%96%E7%88%BE%E5%A1%94/"/>
-    <id>https://blog.emn178.cc/2023/02/05/%E9%9F%93%E5%9C%8B%E9%A6%96%E7%88%BE%E8%87%AA%E7%94%B1%E8%A1%8C-Day-4-%E9%A6%96%E7%88%BE%E5%A1%94/</id>
+    <link href="https://blog.emn178.cc/post/korea-seoul-free-travel-day-4-n-seoul-tower/"/>
+    <id>https://blog.emn178.cc/post/korea-seoul-free-travel-day-4-n-seoul-tower/</id>
     <published>2023-02-05T08:28:59.000Z</published>
-    <updated>2023-02-15T14:14:48.277Z</updated>
+    <updated>2023-02-28T02:26:38.132Z</updated>
     
     
       
@@ -135,10 +131,10 @@
   
   <entry>
     <title>韓國首爾自由行 Day 3 (洪川大明滑雪村)</title>
-    <link href="https://blog.emn178.cc/2023/01/29/%E9%9F%93%E5%9C%8B%E9%A6%96%E7%88%BE%E8%87%AA%E7%94%B1%E8%A1%8C-Day-3-%E6%B4%AA%E5%B7%9D%E5%A4%A7%E6%98%8E%E6%BB%91%E9%9B%AA%E6%9D%91/"/>
-    <id>https://blog.emn178.cc/2023/01/29/%E9%9F%93%E5%9C%8B%E9%A6%96%E7%88%BE%E8%87%AA%E7%94%B1%E8%A1%8C-Day-3-%E6%B4%AA%E5%B7%9D%E5%A4%A7%E6%98%8E%E6%BB%91%E9%9B%AA%E6%9D%91/</id>
+    <link href="https://blog.emn178.cc/post/korea-seoul-free-travel-day-3-vivaldi-park/"/>
+    <id>https://blog.emn178.cc/post/korea-seoul-free-travel-day-3-vivaldi-park/</id>
     <published>2023-01-29T14:18:54.000Z</published>
-    <updated>2023-02-15T14:13:37.093Z</updated>
+    <updated>2023-02-28T02:26:03.956Z</updated>
     
     
       
@@ -160,11 +156,11 @@
   </entry>
   
   <entry>
-    <title>韓國首爾自由行 Day 2 (景福宮+三清洞+北村韓屋村)</title>
-    <link href="https://blog.emn178.cc/2023/01/27/%E9%9F%93%E5%9C%8B%E9%A6%96%E7%88%BE%E8%87%AA%E7%94%B1%E8%A1%8C-Day-2-%E6%99%AF%E7%A6%8F%E5%AE%AE-%E4%B8%89%E6%B8%85%E6%B4%9E-%E5%8C%97%E6%9D%91%E9%9F%93%E5%B1%8B%E6%9D%91/"/>
-    <id>https://blog.emn178.cc/2023/01/27/%E9%9F%93%E5%9C%8B%E9%A6%96%E7%88%BE%E8%87%AA%E7%94%B1%E8%A1%8C-Day-2-%E6%99%AF%E7%A6%8F%E5%AE%AE-%E4%B8%89%E6%B8%85%E6%B4%9E-%E5%8C%97%E6%9D%91%E9%9F%93%E5%B1%8B%E6%9D%91/</id>
+    <title>韓國首爾自由行第二天 (景福宮+三清洞+北村韓屋村)</title>
+    <link href="https://blog.emn178.cc/post/korea-seoul-free-travel-day-2-gyeongbokgung-samcheong-dong-bukchon-hanok-village/"/>
+    <id>https://blog.emn178.cc/post/korea-seoul-free-travel-day-2-gyeongbokgung-samcheong-dong-bukchon-hanok-village/</id>
     <published>2023-01-27T03:22:11.000Z</published>
-    <updated>2023-02-15T14:13:47.302Z</updated>
+    <updated>2023-02-28T02:23:10.303Z</updated>
     
     
       
@@ -187,10 +183,10 @@
   
   <entry>
     <title>韓國首爾自由行</title>
-    <link href="https://blog.emn178.cc/2023/01/24/%E9%9F%93%E5%9C%8B%E9%A6%96%E7%88%BE%E8%87%AA%E7%94%B1%E8%A1%8C/"/>
-    <id>https://blog.emn178.cc/2023/01/24/%E9%9F%93%E5%9C%8B%E9%A6%96%E7%88%BE%E8%87%AA%E7%94%B1%E8%A1%8C/</id>
+    <link href="https://blog.emn178.cc/post/korea-seoul-free-travel/"/>
+    <id>https://blog.emn178.cc/post/korea-seoul-free-travel/</id>
     <published>2023-01-24T01:56:27.000Z</published>
-    <updated>2023-02-15T14:19:02.063Z</updated>
+    <updated>2023-02-28T02:23:20.849Z</updated>
     
     
       
