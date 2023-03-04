@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.emn178.cc/post/solve-postgresql-can-not-run-after-upgrade-mac-os/</loc>
+    
+    <lastmod>2023-03-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.emn178.cc/post/dall%C2%B7e-2-ai-art-generator/</loc>
     
     <lastmod>2023-03-04</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>https://blog.emn178.cc/post/midjourney-ai-art-generator/</loc>
-    
-    <lastmod>2023-03-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.emn178.cc/post/solve-postgresql-can-not-run-after-upgrade-mac-os/</loc>
     
     <lastmod>2023-03-04</lastmod>
     

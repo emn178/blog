@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>小殘的程式光廊</title>
   
-  <subtitle>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</subtitle>
+  <subtitle>紀錄程式技術和旅遊生活的部落格</subtitle>
   <link href="https://blog.emn178.cc/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/"/>
-  <updated>2023-03-04T03:39:00.816Z</updated>
+  <updated>2023-03-04T09:34:16.870Z</updated>
   <id>https://blog.emn178.cc/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.emn178.cc/post/solve-postgresql-can-not-run-after-upgrade-mac-os/"/>
     <id>https://blog.emn178.cc/post/solve-postgresql-can-not-run-after-upgrade-mac-os/</id>
     <published>2023-02-27T04:01:53.000Z</published>
-    <updated>2023-03-04T03:39:00.816Z</updated>
+    <updated>2023-03-04T09:34:16.870Z</updated>
     
     
     <summary type="html">本篇文章記錄如何解決 Mac OS 從 Monterey 升級到 Ventura 後，使用 Homebrew 安裝的 Postgresql 跑不起來的問題。</summary>
@@ -87,7 +87,7 @@
     <link href="https://blog.emn178.cc/post/dall%C2%B7e-2-ai-art-generator/"/>
     <id>https://blog.emn178.cc/post/dall%C2%B7e-2-ai-art-generator/</id>
     <published>2023-02-14T15:34:35.000Z</published>
-    <updated>2023-03-04T06:50:47.077Z</updated>
+    <updated>2023-03-04T09:24:51.091Z</updated>
     
     
       
