@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>小殘的程式光廊</title>
+    <link>https://blog.emn178.cc/</link>
+    
+    <atom:link href="https://blog.emn178.cc/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
+    <pubDate>Sat, 04 Mar 2023 03:39:00 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>解決 Mac OS 升級後 Postgresql 跑不起來</title>
+      <link>https://blog.emn178.cc/post/solve-postgresql-can-not-run-after-upgrade-mac-os/</link>
+      <guid>https://blog.emn178.cc/post/solve-postgresql-can-not-run-after-upgrade-mac-os/</guid>
+      <pubDate>Mon, 27 Feb 2023 04:01:53 GMT</pubDate>
+      
+      <description>本篇文章記錄如何解決 Mac OS 從 Monterey 升級到 Ventura 後，使用 Homebrew 安裝的 Postgresql 跑不起來的問題。</description>
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      <category domain="https://blog.emn178.cc/tags/Postgresql/">Postgresql</category>
+      
+      
+      <comments>https://blog.emn178.cc/post/solve-postgresql-can-not-run-after-upgrade-mac-os/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Midjourney - AI藝術生成器</title>
+      <link>https://blog.emn178.cc/post/midjourney-ai-art-generator/</link>
+      <guid>https://blog.emn178.cc/post/midjourney-ai-art-generator/</guid>
+      <pubDate>Sun, 26 Feb 2023 02:58:07 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;Midjourney 由同名研究實驗室所開的發的 AI 文生圖程式，透過 Discord 操作。本篇文章介紹 Midjourney 這個 AI 藝術生成器的使用心得。&lt;/p&gt;
+&lt;h2 id=&quot;基本資訊&quot;&gt;&lt;a href=&quot;#基本資訊&quot; class=&quot;headerlink&quot; </description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/categories/AI/">AI</category>
+      
+      
+      <category domain="https://blog.emn178.cc/tags/AI/">AI</category>
+      
+      
+      <comments>https://blog.emn178.cc/post/midjourney-ai-art-generator/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>DreamStudio - AI藝術生成器</title>
+      <link>https://blog.emn178.cc/post/dreamstudio-ai-art-generator/</link>
+      <guid>https://blog.emn178.cc/post/dreamstudio-ai-art-generator/</guid>
+      <pubDate>Fri, 24 Feb 2023 12:34:05 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;Stable Diffusion 是由 StabilityAI 公司所開發的模型。由於 Stable Diffusion 是開源的，所以可以找到許多線上 AI 藝術生成服務使用這個模型。而官方推出的線上服務是 DreamStudio 這個產品，本篇文章將介紹這個網站的使用心</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/categories/AI/">AI</category>
+      
+      
+      <category domain="https://blog.emn178.cc/tags/AI/">AI</category>
+      
+      <category domain="https://blog.emn178.cc/tags/Stable-Diffusion/">Stable Diffusion</category>
+      
+      
+      <comments>https://blog.emn178.cc/post/dreamstudio-ai-art-generator/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>DALL·E 2 - AI藝術生成器</title>
+      <link>https://blog.emn178.cc/post/dall%C2%B7e-2-ai-art-generator/</link>
+      <guid>https://blog.emn178.cc/post/dall%C2%B7e-2-ai-art-generator/</guid>
+      <pubDate>Tue, 14 Feb 2023 15:34:35 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;DALL·E 2 是由 OpenAI 公司所開發的 AI 文生圖程式， OpenAI 同時也開發了另一個熱門的產品 ChatGPT ，應該不少人聽過。本篇文章介紹 DALL·E 2 這個網站的使用心得。&lt;/p&gt;
+&lt;h2 id=&quot;基本資訊&quot;&gt;&lt;a href=&quot;#基本資訊&quot; c</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/categories/AI/">AI</category>
+      
+      
+      <category domain="https://blog.emn178.cc/tags/AI/">AI</category>
+      
+      
+      <comments>https://blog.emn178.cc/post/dall%C2%B7e-2-ai-art-generator/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>韓國首爾自由行 Day 4 (首爾塔)</title>
+      <link>https://blog.emn178.cc/post/korea-seoul-free-travel-day-4-n-seoul-tower/</link>
+      <guid>https://blog.emn178.cc/post/korea-seoul-free-travel-day-4-n-seoul-tower/</guid>
+      <pubDate>Sun, 05 Feb 2023 08:28:59 GMT</pubDate>
+      
+        
+        
+      <description>&lt;!-- ![首爾塔](https://lh3.googleusercontent.com/pw/AMWts8Cg7nGo0_Uc2jY2LJWNUeHEqU2FWq-S0CGMZg7KQDu66FUfcCK1FuiFJpzneBp0HEHA5FS56Y_WJp6atBeVrGV</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/categories/%E6%97%85%E9%81%8A/">旅遊</category>
+      
+      
+      <category domain="https://blog.emn178.cc/tags/%E9%9F%93%E5%9C%8B/">韓國</category>
+      
+      <category domain="https://blog.emn178.cc/tags/%E9%A6%96%E7%88%BE/">首爾</category>
+      
+      <category domain="https://blog.emn178.cc/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/">自由行</category>
+      
+      
+      <comments>https://blog.emn178.cc/post/korea-seoul-free-travel-day-4-n-seoul-tower/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>韓國首爾自由行 Day 3 (洪川大明滑雪村)</title>
+      <link>https://blog.emn178.cc/post/korea-seoul-free-travel-day-3-vivaldi-park/</link>
+      <guid>https://blog.emn178.cc/post/korea-seoul-free-travel-day-3-vivaldi-park/</guid>
+      <pubDate>Sun, 29 Jan 2023 14:18:54 GMT</pubDate>
+      
+        
+        
+      <description>&lt;!-- ![洪川大明滑雪村](https://lh3.googleusercontent.com/pw/AMWts8Dic_m0U4hK95aR_hZ6O0eypmmegvZFqDKgzrkLlVj0ysxT6Nt6uOzdDzh-pnqtMrsecqGZ7mgSwx9sIUg</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/categories/%E6%97%85%E9%81%8A/">旅遊</category>
+      
+      
+      <category domain="https://blog.emn178.cc/tags/%E9%9F%93%E5%9C%8B/">韓國</category>
+      
+      <category domain="https://blog.emn178.cc/tags/%E9%A6%96%E7%88%BE/">首爾</category>
+      
+      <category domain="https://blog.emn178.cc/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/">自由行</category>
+      
+      
+      <comments>https://blog.emn178.cc/post/korea-seoul-free-travel-day-3-vivaldi-park/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>韓國首爾自由行第二天 (景福宮+三清洞+北村韓屋村)</title>
+      <link>https://blog.emn178.cc/post/korea-seoul-free-travel-day-2-gyeongbokgung-samcheong-dong-bukchon-hanok-village/</link>
+      <guid>https://blog.emn178.cc/post/korea-seoul-free-travel-day-2-gyeongbokgung-samcheong-dong-bukchon-hanok-village/</guid>
+      <pubDate>Fri, 27 Jan 2023 03:22:11 GMT</pubDate>
+      
+        
+        
+      <description>&lt;!-- ![景福宮](https://lh3.googleusercontent.com/pw/AMWts8DYjO8d9kqPyvDCmJ6fQkbr2ATmkcCENfMlfKvn7378q84KQs2ddKga5MNO09xVlHwQl5yz6RLBTg3S69FxnK9</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/categories/%E6%97%85%E9%81%8A/">旅遊</category>
+      
+      
+      <category domain="https://blog.emn178.cc/tags/%E9%9F%93%E5%9C%8B/">韓國</category>
+      
+      <category domain="https://blog.emn178.cc/tags/%E9%A6%96%E7%88%BE/">首爾</category>
+      
+      <category domain="https://blog.emn178.cc/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/">自由行</category>
+      
+      
+      <comments>https://blog.emn178.cc/post/korea-seoul-free-travel-day-2-gyeongbokgung-samcheong-dong-bukchon-hanok-village/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>韓國首爾自由行</title>
+      <link>https://blog.emn178.cc/post/korea-seoul-free-travel/</link>
+      <guid>https://blog.emn178.cc/post/korea-seoul-free-travel/</guid>
+      <pubDate>Tue, 24 Jan 2023 01:56:27 GMT</pubDate>
+      
+        
+        
+      <description>&lt;!-- ![韓國首爾自由行](https://lh3.googleusercontent.com/pw/AMWts8D5s5iMTviTToCyUWKgBK43Wa_XgIVL0Q7QYdLfZiEAGcNndk9w8qE3Ly1DGDFaBWnozeZyPJbg7D2yii1</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/categories/%E6%97%85%E9%81%8A/">旅遊</category>
+      
+      
+      <category domain="https://blog.emn178.cc/tags/%E9%9F%93%E5%9C%8B/">韓國</category>
+      
+      <category domain="https://blog.emn178.cc/tags/%E9%A6%96%E7%88%BE/">首爾</category>
+      
+      <category domain="https://blog.emn178.cc/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/">自由行</category>
+      
+      
+      <comments>https://blog.emn178.cc/post/korea-seoul-free-travel/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
