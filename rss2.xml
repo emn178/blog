@@ -9,8 +9,27 @@
     <atom:link href="https://blog.emn178.cc/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sun, 05 Mar 2023 07:50:12 GMT</pubDate>
+    <pubDate>Sun, 05 Mar 2023 14:50:50 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>瀏覽器停用轉址</title>
+      <link>https://blog.emn178.cc/post/disable-redirects-in-browser/</link>
+      <guid>https://blog.emn178.cc/post/disable-redirects-in-browser/</guid>
+      <pubDate>Sun, 05 Mar 2023 14:11:10 GMT</pubDate>
+      
+      <description>本篇文章記錄如何使用 FireFox 瀏覽器來停用轉址功能，可以解決例如痞客邦等，使用第三方平台後台編輯文章內容錯誤設定造成轉址進不去的問題。</description>
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/post/disable-redirects-in-browser/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>解決 Mac OS 升級後 Postgresql 跑不起來</title>
