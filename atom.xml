@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/"/>
-  <updated>2023-03-05T14:50:50.780Z</updated>
+  <updated>2023-03-09T13:24:04.956Z</updated>
   <id>https://blog.emn178.cc/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Midjourney 進階技巧教學 - 隱藏訊息</title>
+    <link href="https://blog.emn178.cc/post/midjourney-hide-messages/"/>
+    <id>https://blog.emn178.cc/post/midjourney-hide-messages/</id>
+    <published>2023-03-09T13:11:10.000Z</published>
+    <updated>2023-03-09T13:24:04.956Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;由於 Midjourney 是透過 Discord 聊天室來操作，所以在作圖過程會看到大量別人的訊息，造成自己的訊息不好找，同時別人也會看到自己在作圖的過程。本篇文章將教你如何隱藏其他人的訊息，在聊天室裡不會被其他人大量的訊息淹沒自己的作圖，同時達到讓別人看不到自己作圖的隱</summary>
+      
+    
+    
+    
+    <category term="AI" scheme="https://blog.emn178.cc/categories/AI/"/>
+    
+    
+    <category term="AI" scheme="https://blog.emn178.cc/tags/AI/"/>
+    
+    <category term="Midjourney" scheme="https://blog.emn178.cc/tags/Midjourney/"/>
+    
+  </entry>
   
   <entry>
     <title>瀏覽器停用轉址</title>
@@ -53,17 +77,17 @@
   </entry>
   
   <entry>
-    <title>Midjourney - AI藝術生成器</title>
+    <title>Midjourney - AI藝術生成器基本教學</title>
     <link href="https://blog.emn178.cc/post/midjourney-ai-art-generator/"/>
     <id>https://blog.emn178.cc/post/midjourney-ai-art-generator/</id>
     <published>2023-02-26T02:58:07.000Z</published>
-    <updated>2023-03-05T07:49:32.794Z</updated>
+    <updated>2023-03-09T13:17:07.984Z</updated>
     
     
       
       
-    <summary type="html">&lt;p&gt;Midjourney 由同名研究實驗室所開的發的 AI 文生圖程式，透過 Discord 操作。本篇文章介紹 Midjourney 這個 AI 藝術生成器的使用心得。&lt;/p&gt;
-&lt;h2 id=&quot;基本資訊&quot;&gt;&lt;a href=&quot;#基本資訊&quot; class=&quot;headerlink&quot; </summary>
+    <summary type="html">&lt;p&gt;Midjourney 是由同名研究實驗室所開發的 AI 文生圖程式，透過 Discord 操作。本篇文章介紹 Midjourney 這個 AI 藝術生成器的基本資料、操作教學，以及一些實測結果和使用心得。&lt;/p&gt;
+&lt;h2 id=&quot;基本資訊&quot;&gt;&lt;a href=&quot;#基本資訊&quot; </summary>
       
     
     
@@ -73,19 +97,21 @@
     
     <category term="AI" scheme="https://blog.emn178.cc/tags/AI/"/>
     
+    <category term="Midjourney" scheme="https://blog.emn178.cc/tags/Midjourney/"/>
+    
   </entry>
   
   <entry>
-    <title>DreamStudio - AI藝術生成器</title>
+    <title>DreamStudio - AI藝術生成器基本教學</title>
     <link href="https://blog.emn178.cc/post/dreamstudio-ai-art-generator/"/>
     <id>https://blog.emn178.cc/post/dreamstudio-ai-art-generator/</id>
     <published>2023-02-24T12:34:05.000Z</published>
-    <updated>2023-03-05T07:47:32.643Z</updated>
+    <updated>2023-03-09T12:24:44.764Z</updated>
     
     
       
       
-    <summary type="html">&lt;p&gt;Stable Diffusion 是由 StabilityAI 公司所開發的模型。由於 Stable Diffusion 是開源的，所以可以找到許多線上 AI 藝術生成服務使用這個模型。而官方推出的線上服務是 DreamStudio 這個產品，本篇文章將介紹這個網站的使用心</summary>
+    <summary type="html">&lt;p&gt;Stable Diffusion 是由 StabilityAI 公司所開發的模型。由於 Stable Diffusion 是開源的，所以可以找到許多線上 AI 藝術生成服務使用這個模型。而官方推出的線上服務是 DreamStudio 這個產品，本篇文章將介紹這個網站基本資訊</summary>
       
     
     
@@ -100,17 +126,17 @@
   </entry>
   
   <entry>
-    <title>DALL·E 2 - AI藝術生成器</title>
+    <title>DALL·E 2 - AI藝術生成器基本教學</title>
     <link href="https://blog.emn178.cc/post/dall%C2%B7e-2-ai-art-generator/"/>
     <id>https://blog.emn178.cc/post/dall%C2%B7e-2-ai-art-generator/</id>
     <published>2023-02-14T15:34:35.000Z</published>
-    <updated>2023-03-05T07:45:10.653Z</updated>
+    <updated>2023-03-09T12:25:01.312Z</updated>
     
     
       
       
-    <summary type="html">&lt;p&gt;DALL·E 2 是由 OpenAI 公司所開發的 AI 文生圖程式， OpenAI 同時也開發了另一個熱門的產品 ChatGPT ，應該不少人聽過。本篇文章介紹 DALL·E 2 這個網站的使用心得。&lt;/p&gt;
-&lt;h2 id=&quot;基本資訊&quot;&gt;&lt;a href=&quot;#基本資訊&quot; c</summary>
+    <summary type="html">&lt;p&gt;DALL·E 2 是由 OpenAI 公司所開發的 AI 文生圖程式， OpenAI 同時也開發了另一個熱門的產品 ChatGPT ，應該不少人聽過。本篇文章介紹 DALL·E 2 這個網站的基本資訊、操作教學，以及一些實測和使用心得。&lt;/p&gt;
+&lt;h2 id=&quot;基本資訊&quot;&gt;</summary>
       
     
     
