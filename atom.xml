@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/"/>
-  <updated>2023-03-09T14:25:50.467Z</updated>
+  <updated>2023-03-11T07:43:40.809Z</updated>
   <id>https://blog.emn178.cc/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>解決 You have already activated x, but your Gemfile requires y</title>
+    <link href="https://blog.emn178.cc/post/how-to-solve-you-have-already-activated-x-but-your-gemfile-requires-y/"/>
+    <id>https://blog.emn178.cc/post/how-to-solve-you-have-already-activated-x-but-your-gemfile-requires-y/</id>
+    <published>2023-03-11T07:43:17.000Z</published>
+    <updated>2023-03-11T07:43:40.809Z</updated>
+    
+    
+    <summary type="html">本篇文章說明 Ruby on Rails 專案部署到伺服器後，出現這個錯誤的兩種解決方法。</summary>
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    
+    <category term="Ruby" scheme="https://blog.emn178.cc/tags/Ruby/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Midjourney 進階技巧教學 - 隱藏訊息</title>
     <link href="https://blog.emn178.cc/post/midjourney-hide-messages/"/>
     <id>https://blog.emn178.cc/post/midjourney-hide-messages/</id>
     <published>2023-03-09T13:11:10.000Z</published>
-    <updated>2023-03-09T14:25:50.467Z</updated>
+    <updated>2023-03-10T15:43:33.882Z</updated>
     
     
       
@@ -62,10 +81,10 @@
     <link href="https://blog.emn178.cc/post/solve-postgresql-can-not-run-after-upgrade-mac-os/"/>
     <id>https://blog.emn178.cc/post/solve-postgresql-can-not-run-after-upgrade-mac-os/</id>
     <published>2023-02-27T04:01:53.000Z</published>
-    <updated>2023-03-05T07:50:12.503Z</updated>
+    <updated>2023-03-11T07:37:28.961Z</updated>
     
     
-    <summary type="html">本篇文章記錄如何解決 Mac OS 從 Monterey 升級到 Ventura 後，使用 Homebrew 安裝的 Postgresql 跑不起來的問題。</summary>
+    <summary type="html">本篇文章記錄如何解決 Mac OS 從 Monterey 升級到 Ventura 後，使用 Homebrew 安裝的 Postgresql 跑不起來的問題 libicui18n.70.dylib&#39; (no such file)。</summary>
     
     
     
