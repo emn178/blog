@@ -9,8 +9,34 @@
     <atom:link href="https://blog.emn178.cc/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sat, 11 Mar 2023 07:43:40 GMT</pubDate>
+    <pubDate>Sun, 12 Mar 2023 08:51:07 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Midjourney 教學參數說明 - 長寬比 (Aspect Ratios)</title>
+      <link>https://blog.emn178.cc/post/midjourney-parameters-aspect-ratios/</link>
+      <guid>https://blog.emn178.cc/post/midjourney-parameters-aspect-ratios/</guid>
+      <pubDate>Sun, 12 Mar 2023 05:38:12 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;說明&quot;&gt;&lt;a href=&quot;#說明&quot; class=&quot;headerlink&quot; title=&quot;說明&quot;&gt;&lt;/a&gt;說明&lt;/h2&gt;&lt;p&gt;&lt;code&gt;--aspect &amp;lt;value&amp;gt;:&amp;lt;value&amp;gt;&lt;/code&gt; 或 &lt;code&gt;--ar &amp;lt;val</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/categories/AI/">AI</category>
+      
+      
+      <category domain="https://blog.emn178.cc/tags/Midjourney/">Midjourney</category>
+      
+      <category domain="https://blog.emn178.cc/tags/AI/">AI</category>
+      
+      
+      <comments>https://blog.emn178.cc/post/midjourney-parameters-aspect-ratios/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>解決 You have already activated x, but your Gemfile requires y</title>
@@ -41,7 +67,7 @@
       
         
         
-      <description>&lt;p&gt;由於 Midjourney 是透過 Discord 聊天室來操作，所以在作圖過程會看到大量別人的訊息，造成自己的訊息不好找，同時別人也會看到自己在作圖的過程。本篇文章將教你如何隱藏其他人的訊息，在聊天室裡不會被其他人大量的訊息淹沒自己的作圖，同時達到讓別人看不到自己作圖的隱</description>
+      <description>&lt;h2 id=&quot;說明&quot;&gt;&lt;a href=&quot;#說明&quot; class=&quot;headerlink&quot; title=&quot;說明&quot;&gt;&lt;/a&gt;說明&lt;/h2&gt;&lt;p&gt;由於 Midjourney 是透過 Discord 聊天室來操作，所以在作圖過程會看到大量別人的訊息，造成自己的訊息不好找，同時別人也會看到</description>
         
       
       
@@ -49,8 +75,6 @@
       
       <category domain="https://blog.emn178.cc/categories/AI/">AI</category>
       
-      
-      <category domain="https://blog.emn178.cc/tags/AI/">AI</category>
       
       <category domain="https://blog.emn178.cc/tags/Midjourney/">Midjourney</category>
       
@@ -117,9 +141,9 @@
       <category domain="https://blog.emn178.cc/categories/AI/">AI</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/AI/">AI</category>
-      
       <category domain="https://blog.emn178.cc/tags/Midjourney/">Midjourney</category>
+      
+      <category domain="https://blog.emn178.cc/tags/AI/">AI</category>
       
       
       <comments>https://blog.emn178.cc/post/midjourney-ai-art-generator/#disqus_thread</comments>
@@ -143,9 +167,9 @@
       <category domain="https://blog.emn178.cc/categories/AI/">AI</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/AI/">AI</category>
-      
       <category domain="https://blog.emn178.cc/tags/Stable-Diffusion/">Stable Diffusion</category>
+      
+      <category domain="https://blog.emn178.cc/tags/AI/">AI</category>
       
       
       <comments>https://blog.emn178.cc/post/dreamstudio-ai-art-generator/#disqus_thread</comments>
