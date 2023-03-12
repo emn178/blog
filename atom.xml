@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/"/>
-  <updated>2023-03-12T08:51:07.504Z</updated>
+  <updated>2023-03-12T11:55:43.267Z</updated>
   <id>https://blog.emn178.cc/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.emn178.cc/post/midjourney-parameters-aspect-ratios/"/>
     <id>https://blog.emn178.cc/post/midjourney-parameters-aspect-ratios/</id>
     <published>2023-03-12T05:38:12.000Z</published>
-    <updated>2023-03-12T08:51:07.504Z</updated>
+    <updated>2023-03-12T11:55:43.267Z</updated>
     
     
       
@@ -35,8 +35,6 @@
     
     
     <category term="Midjourney" scheme="https://blog.emn178.cc/tags/Midjourney/"/>
-    
-    <category term="AI" scheme="https://blog.emn178.cc/tags/AI/"/>
     
   </entry>
   
@@ -122,7 +120,7 @@
     <link href="https://blog.emn178.cc/post/midjourney-ai-art-generator/"/>
     <id>https://blog.emn178.cc/post/midjourney-ai-art-generator/</id>
     <published>2023-02-26T02:58:07.000Z</published>
-    <updated>2023-03-12T08:44:19.162Z</updated>
+    <updated>2023-03-12T11:55:29.034Z</updated>
     
     
       
@@ -138,8 +136,6 @@
     
     <category term="Midjourney" scheme="https://blog.emn178.cc/tags/Midjourney/"/>
     
-    <category term="AI" scheme="https://blog.emn178.cc/tags/AI/"/>
-    
   </entry>
   
   <entry>
@@ -147,7 +143,7 @@
     <link href="https://blog.emn178.cc/post/dreamstudio-ai-art-generator/"/>
     <id>https://blog.emn178.cc/post/dreamstudio-ai-art-generator/</id>
     <published>2023-02-24T12:34:05.000Z</published>
-    <updated>2023-03-12T08:44:15.965Z</updated>
+    <updated>2023-03-12T11:55:26.358Z</updated>
     
     
       
@@ -162,8 +158,6 @@
     
     <category term="Stable Diffusion" scheme="https://blog.emn178.cc/tags/Stable-Diffusion/"/>
     
-    <category term="AI" scheme="https://blog.emn178.cc/tags/AI/"/>
-    
   </entry>
   
   <entry>
@@ -171,7 +165,7 @@
     <link href="https://blog.emn178.cc/post/dall%C2%B7e-2-ai-art-generator/"/>
     <id>https://blog.emn178.cc/post/dall%C2%B7e-2-ai-art-generator/</id>
     <published>2023-02-14T15:34:35.000Z</published>
-    <updated>2023-03-12T08:44:13.630Z</updated>
+    <updated>2023-03-12T11:55:22.954Z</updated>
     
     
       
@@ -184,8 +178,6 @@
     
     <category term="AI" scheme="https://blog.emn178.cc/categories/AI/"/>
     
-    
-    <category term="AI" scheme="https://blog.emn178.cc/tags/AI/"/>
     
   </entry>
   

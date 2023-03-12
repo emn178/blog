@@ -1,9 +1,9 @@
-https://blog.emn178.cc/post/hsinchu-green-grassland/
-https://blog.emn178.cc/post/lake-placid-and-hsinchu-park/
 https://blog.emn178.cc/post/midjourney-parameters-aspect-ratios/
 https://blog.emn178.cc/post/midjourney-ai-art-generator/
 https://blog.emn178.cc/post/dreamstudio-ai-art-generator/
 https://blog.emn178.cc/post/dall%C2%B7e-2-ai-art-generator/
+https://blog.emn178.cc/post/hsinchu-green-grassland/
+https://blog.emn178.cc/post/lake-placid-and-hsinchu-park/
 https://blog.emn178.cc/post/midjourney-hide-messages/
 https://blog.emn178.cc/post/how-to-solve-you-have-already-activated-x-but-your-gemfile-requires-y/
 https://blog.emn178.cc/post/solve-postgresql-can-not-run-after-upgrade-mac-os/
@@ -22,7 +22,6 @@ https://blog.emn178.cc/tags/Stable-Diffusion/
 https://blog.emn178.cc/tags/Midjourney/
 https://blog.emn178.cc/tags/Postgresql/
 https://blog.emn178.cc/tags/Ruby/
-https://blog.emn178.cc/tags/AI/
 https://blog.emn178.cc/tags/%E6%96%B0%E7%AB%B9/
 https://blog.emn178.cc/tags/%E6%99%AF%E9%BB%9E/
 https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/

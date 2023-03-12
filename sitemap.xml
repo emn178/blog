@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.emn178.cc/post/hsinchu-green-grassland/</loc>
-    
-    <lastmod>2023-03-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.emn178.cc/post/lake-placid-and-hsinchu-park/</loc>
-    
-    <lastmod>2023-03-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.emn178.cc/post/midjourney-parameters-aspect-ratios/</loc>
     
     <lastmod>2023-03-12</lastmod>
@@ -48,6 +30,24 @@
   
   <url>
     <loc>https://blog.emn178.cc/post/dall%C2%B7e-2-ai-art-generator/</loc>
+    
+    <lastmod>2023-03-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.emn178.cc/post/hsinchu-green-grassland/</loc>
+    
+    <lastmod>2023-03-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.emn178.cc/post/lake-placid-and-hsinchu-park/</loc>
     
     <lastmod>2023-03-12</lastmod>
     
@@ -198,13 +198,6 @@
   
   <url>
     <loc>https://blog.emn178.cc/tags/Ruby/</loc>
-    <lastmod>2023-03-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.emn178.cc/tags/AI/</loc>
     <lastmod>2023-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
