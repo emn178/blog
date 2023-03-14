@@ -9,8 +9,32 @@
     <atom:link href="https://blog.emn178.cc/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Mon, 13 Mar 2023 15:31:35 GMT</pubDate>
+    <pubDate>Tue, 14 Mar 2023 15:25:58 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Stable Diffusion 教學 - 在 MacBook M1 安裝 web UI</title>
+      <link>https://blog.emn178.cc/post/install-stable-diffusion-webui-on-macbook-m1/</link>
+      <guid>https://blog.emn178.cc/post/install-stable-diffusion-webui-on-macbook-m1/</guid>
+      <pubDate>Tue, 14 Mar 2023 15:24:28 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;說明&quot;&gt;&lt;a href=&quot;#說明&quot; class=&quot;headerlink&quot; title=&quot;說明&quot;&gt;&lt;/a&gt;說明&lt;/h2&gt;&lt;p&gt;Stable Diffusion web UI 是一套基於 Gradio 開發的開源軟體，提供網頁介面的方式來使用 Stable Diffu</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/categories/AI/">AI</category>
+      
+      
+      <category domain="https://blog.emn178.cc/tags/Stable-Diffusion/">Stable Diffusion</category>
+      
+      
+      <comments>https://blog.emn178.cc/post/install-stable-diffusion-webui-on-macbook-m1/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Midjourney 教學參數說明 - 混沌度 (Chaos)</title>

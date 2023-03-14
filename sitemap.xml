@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.emn178.cc/post/install-stable-diffusion-webui-on-macbook-m1/</loc>
+    
+    <lastmod>2023-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.emn178.cc/post/midjourney-parameters-aspect-ratios/</loc>
+    
+    <lastmod>2023-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.emn178.cc/post/midjourney-parameters-chaos/</loc>
     
     <lastmod>2023-03-13</lastmod>
@@ -59,15 +77,6 @@
     <loc>https://blog.emn178.cc/post/korea-seoul-free-travel-day-3-vivaldi-park/</loc>
     
     <lastmod>2023-03-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.emn178.cc/post/midjourney-parameters-aspect-ratios/</loc>
-    
-    <lastmod>2023-03-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -157,7 +166,7 @@
 
   <url>
     <loc>https://blog.emn178.cc/</loc>
-    <lastmod>2023-03-13</lastmod>
+    <lastmod>2023-03-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -165,63 +174,63 @@
   
   <url>
     <loc>https://blog.emn178.cc/tags/Midjourney/</loc>
-    <lastmod>2023-03-13</lastmod>
+    <lastmod>2023-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.emn178.cc/tags/Stable-Diffusion/</loc>
-    <lastmod>2023-03-13</lastmod>
+    <lastmod>2023-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.emn178.cc/tags/%E6%96%B0%E7%AB%B9/</loc>
-    <lastmod>2023-03-13</lastmod>
+    <lastmod>2023-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.emn178.cc/tags/%E6%99%AF%E9%BB%9E/</loc>
-    <lastmod>2023-03-13</lastmod>
+    <lastmod>2023-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.emn178.cc/tags/%E9%9F%93%E5%9C%8B/</loc>
-    <lastmod>2023-03-13</lastmod>
+    <lastmod>2023-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.emn178.cc/tags/%E9%A6%96%E7%88%BE/</loc>
-    <lastmod>2023-03-13</lastmod>
+    <lastmod>2023-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.emn178.cc/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/</loc>
-    <lastmod>2023-03-13</lastmod>
+    <lastmod>2023-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.emn178.cc/tags/Postgresql/</loc>
-    <lastmod>2023-03-13</lastmod>
+    <lastmod>2023-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.emn178.cc/tags/Ruby/</loc>
-    <lastmod>2023-03-13</lastmod>
+    <lastmod>2023-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -230,21 +239,21 @@
   
   <url>
     <loc>https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/</loc>
-    <lastmod>2023-03-13</lastmod>
+    <lastmod>2023-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.emn178.cc/categories/AI/</loc>
-    <lastmod>2023-03-13</lastmod>
+    <lastmod>2023-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.emn178.cc/categories/%E6%97%85%E9%81%8A/</loc>
-    <lastmod>2023-03-13</lastmod>
+    <lastmod>2023-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
