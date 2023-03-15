@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/"/>
-  <updated>2023-03-14T15:33:26.281Z</updated>
+  <updated>2023-03-15T01:29:59.118Z</updated>
   <id>https://blog.emn178.cc/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.emn178.cc/post/install-stable-diffusion-webui-on-macbook-m1/"/>
     <id>https://blog.emn178.cc/post/install-stable-diffusion-webui-on-macbook-m1/</id>
     <published>2023-03-14T15:24:28.000Z</published>
-    <updated>2023-03-14T15:33:26.281Z</updated>
+    <updated>2023-03-15T01:29:59.118Z</updated>
     
     
       
@@ -43,7 +43,7 @@
     <link href="https://blog.emn178.cc/post/midjourney-parameters-chaos/"/>
     <id>https://blog.emn178.cc/post/midjourney-parameters-chaos/</id>
     <published>2023-03-13T03:31:33.000Z</published>
-    <updated>2023-03-13T15:31:35.914Z</updated>
+    <updated>2023-03-15T01:32:17.715Z</updated>
     
     
       
@@ -65,7 +65,7 @@
     <link href="https://blog.emn178.cc/post/midjourney-parameters-aspect-ratios/"/>
     <id>https://blog.emn178.cc/post/midjourney-parameters-aspect-ratios/</id>
     <published>2023-03-12T05:38:12.000Z</published>
-    <updated>2023-03-14T15:22:28.681Z</updated>
+    <updated>2023-03-15T01:32:29.863Z</updated>
     
     
       
@@ -87,7 +87,7 @@
     <link href="https://blog.emn178.cc/post/how-to-solve-you-have-already-activated-x-but-your-gemfile-requires-y/"/>
     <id>https://blog.emn178.cc/post/how-to-solve-you-have-already-activated-x-but-your-gemfile-requires-y/</id>
     <published>2023-03-11T07:43:17.000Z</published>
-    <updated>2023-03-11T13:36:16.320Z</updated>
+    <updated>2023-03-15T01:33:32.913Z</updated>
     
     
     <summary type="html">本篇文章說明 Ruby on Rails 專案部署到伺服器後，出現這個錯誤的兩種解決方法。</summary>
@@ -99,6 +99,8 @@
     
     <category term="Ruby" scheme="https://blog.emn178.cc/tags/Ruby/"/>
     
+    <category term="Ruby on Rails" scheme="https://blog.emn178.cc/tags/Ruby-on-Rails/"/>
+    
   </entry>
   
   <entry>
@@ -106,7 +108,7 @@
     <link href="https://blog.emn178.cc/post/midjourney-hide-messages/"/>
     <id>https://blog.emn178.cc/post/midjourney-hide-messages/</id>
     <published>2023-03-09T13:11:10.000Z</published>
-    <updated>2023-03-12T06:06:59.459Z</updated>
+    <updated>2023-03-15T01:34:23.052Z</updated>
     
     
       
@@ -128,7 +130,7 @@
     <link href="https://blog.emn178.cc/post/disable-redirects-in-browser/"/>
     <id>https://blog.emn178.cc/post/disable-redirects-in-browser/</id>
     <published>2023-03-05T14:11:10.000Z</published>
-    <updated>2023-03-05T14:50:50.780Z</updated>
+    <updated>2023-03-15T01:35:05.318Z</updated>
     
     
     <summary type="html">本篇文章記錄如何使用 FireFox 瀏覽器來停用轉址功能，可以解決例如痞客邦等，使用第三方平台後台編輯文章內容錯誤設定造成轉址進不去的問題。</summary>
@@ -145,7 +147,7 @@
     <link href="https://blog.emn178.cc/post/solve-postgresql-can-not-run-after-upgrade-mac-os/"/>
     <id>https://blog.emn178.cc/post/solve-postgresql-can-not-run-after-upgrade-mac-os/</id>
     <published>2023-02-27T04:01:53.000Z</published>
-    <updated>2023-03-11T07:37:28.961Z</updated>
+    <updated>2023-03-15T01:35:33.086Z</updated>
     
     
     <summary type="html">本篇文章記錄如何解決 Mac OS 從 Monterey 升級到 Ventura 後，使用 Homebrew 安裝的 Postgresql 跑不起來的問題 libicui18n.70.dylib&#39; (no such file)。</summary>
@@ -164,7 +166,7 @@
     <link href="https://blog.emn178.cc/post/midjourney-ai-art-generator/"/>
     <id>https://blog.emn178.cc/post/midjourney-ai-art-generator/</id>
     <published>2023-02-26T02:58:07.000Z</published>
-    <updated>2023-03-12T11:55:29.034Z</updated>
+    <updated>2023-03-15T01:35:57.437Z</updated>
     
     
       
@@ -187,7 +189,7 @@
     <link href="https://blog.emn178.cc/post/dreamstudio-ai-art-generator/"/>
     <id>https://blog.emn178.cc/post/dreamstudio-ai-art-generator/</id>
     <published>2023-02-24T12:34:05.000Z</published>
-    <updated>2023-03-12T11:55:26.358Z</updated>
+    <updated>2023-03-15T01:36:56.301Z</updated>
     
     
       
@@ -209,7 +211,7 @@
     <link href="https://blog.emn178.cc/post/dall%C2%B7e-2-ai-art-generator/"/>
     <id>https://blog.emn178.cc/post/dall%C2%B7e-2-ai-art-generator/</id>
     <published>2023-02-14T15:34:35.000Z</published>
-    <updated>2023-03-12T11:55:22.954Z</updated>
+    <updated>2023-03-15T01:37:18.241Z</updated>
     
     
       
@@ -230,7 +232,7 @@
     <link href="https://blog.emn178.cc/post/korea-seoul-free-travel-day-4-n-seoul-tower/"/>
     <id>https://blog.emn178.cc/post/korea-seoul-free-travel-day-4-n-seoul-tower/</id>
     <published>2023-02-05T08:28:59.000Z</published>
-    <updated>2023-03-13T13:23:29.023Z</updated>
+    <updated>2023-03-15T01:38:50.673Z</updated>
     
     
       
@@ -260,7 +262,7 @@
     <link href="https://blog.emn178.cc/post/korea-seoul-free-travel-day-3-vivaldi-park/"/>
     <id>https://blog.emn178.cc/post/korea-seoul-free-travel-day-3-vivaldi-park/</id>
     <published>2023-01-29T14:18:54.000Z</published>
-    <updated>2023-03-13T13:23:24.824Z</updated>
+    <updated>2023-03-15T01:39:50.106Z</updated>
     
     
       
@@ -290,7 +292,7 @@
     <link href="https://blog.emn178.cc/post/korea-seoul-free-travel-day-2-gyeongbokgung-samcheong-dong-bukchon-hanok-village/"/>
     <id>https://blog.emn178.cc/post/korea-seoul-free-travel-day-2-gyeongbokgung-samcheong-dong-bukchon-hanok-village/</id>
     <published>2023-01-27T03:22:11.000Z</published>
-    <updated>2023-03-13T15:31:06.010Z</updated>
+    <updated>2023-03-15T01:41:52.765Z</updated>
     
     
       
@@ -319,7 +321,7 @@
     <link href="https://blog.emn178.cc/post/korea-seoul-free-travel/"/>
     <id>https://blog.emn178.cc/post/korea-seoul-free-travel/</id>
     <published>2023-01-24T01:56:27.000Z</published>
-    <updated>2023-03-13T15:30:44.588Z</updated>
+    <updated>2023-03-15T01:43:16.516Z</updated>
     
     
     <summary type="html">分享2023年韓國首爾自由行經驗，包含入境、換錢、上網、交通和地圖導航等等心得和注意事項，以及每日行程紀錄、心得和一些特別的經驗。行程包含景福宮、洪川大明滑雪村和南山首爾塔等知名景點，韓服和汗蒸幕體驗，以及一些知名餐廳等地點。</summary>
@@ -342,7 +344,7 @@
     <link href="https://blog.emn178.cc/post/lake-placid-and-hsinchu-park/"/>
     <id>https://blog.emn178.cc/post/lake-placid-and-hsinchu-park/</id>
     <published>2012-08-27T10:54:00.000Z</published>
-    <updated>2023-03-13T13:56:13.903Z</updated>
+    <updated>2023-03-15T01:44:26.978Z</updated>
     
     
       
@@ -368,7 +370,7 @@
     <link href="https://blog.emn178.cc/post/hsinchu-green-grassland/"/>
     <id>https://blog.emn178.cc/post/hsinchu-green-grassland/</id>
     <published>2010-08-28T10:54:00.000Z</published>
-    <updated>2023-03-13T15:30:14.677Z</updated>
+    <updated>2023-03-15T01:45:22.241Z</updated>
     
     
       
