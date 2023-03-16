@@ -9,8 +9,33 @@
     <atom:link href="https://blog.emn178.cc/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Wed, 15 Mar 2023 01:29:59 GMT</pubDate>
+    <pubDate>Thu, 16 Mar 2023 15:14:08 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Stable Diffusion 教學 - web UI 文生圖基本功能</title>
+      <link>https://blog.emn178.cc/post/stable-diffusion-webui-txt2img/</link>
+      <guid>https://blog.emn178.cc/post/stable-diffusion-webui-txt2img/</guid>
+      <pubDate>Wed, 15 Mar 2023 13:28:11 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;本篇文章介紹 Stable Diffusion web UI 文生圖頁面的基本功能。&lt;/p&gt;
+&lt;h2 id=&quot;功能區塊&quot;&gt;&lt;a href=&quot;#功能區塊&quot; class=&quot;headerlink&quot; title=&quot;功能區塊&quot;&gt;&lt;/a&gt;功能區塊&lt;/h2&gt;&lt;p&gt;進入 stable-di</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/categories/AI/">AI</category>
+      
+      
+      <category domain="https://blog.emn178.cc/tags/Stable-Diffusion/">Stable Diffusion</category>
+      
+      
+      <comments>https://blog.emn178.cc/post/stable-diffusion-webui-txt2img/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Stable Diffusion 教學 - 在 MacBook M1 安裝 web UI</title>
