@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.emn178.cc/zh-TW/post/how-to-solve-you-have-already-activated-x-but-your-gemfile-requires-y/</loc>
+    
+    <lastmod>2023-03-20</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.emn178.cc/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/</loc>
     
     <lastmod>2023-03-20</lastmod>
@@ -66,13 +73,6 @@
   
   <url>
     <loc>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-txt2img/</loc>
-    
-    <lastmod>2023-03-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.emn178.cc/zh-TW/post/how-to-solve-you-have-already-activated-x-but-your-gemfile-requires-y/</loc>
     
     <lastmod>2023-03-20</lastmod>
     

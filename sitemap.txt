@@ -1,3 +1,4 @@
+https://blog.emn178.cc/zh-TW/post/how-to-solve-you-have-already-activated-x-but-your-gemfile-requires-y/
 https://blog.emn178.cc/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/
 https://blog.emn178.cc/zh-TW/post/midjourney-parameters-chaos/
 https://blog.emn178.cc/zh-TW/post/midjourney-parameters-aspect-ratios/
@@ -8,7 +9,6 @@ https://blog.emn178.cc/zh-TW/post/dreamstudio-ai-art-generator/
 https://blog.emn178.cc/zh-TW/post/how-to-disable-redirects-in-browser/
 https://blog.emn178.cc/zh-TW/post/dall-e-2-ai-art-generator/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-txt2img/
-https://blog.emn178.cc/zh-TW/post/how-to-solve-you-have-already-activated-x-but-your-gemfile-requires-y/
 https://blog.emn178.cc/zh-TW/post/korea-seoul-vivaldi-park/
 https://blog.emn178.cc/zh-TW/post/korea-seoul-gyeongbokgung-samcheong-dong-bukchon-hanok-village/
 https://blog.emn178.cc/zh-TW/post/korea-seoul-tour/

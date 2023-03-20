@@ -111,7 +111,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/how-to-solve-you-have-already-activated-x-but-your-gemfile-requires-y/"/>
     <id>https://blog.emn178.cc/zh-TW/post/how-to-solve-you-have-already-activated-x-but-your-gemfile-requires-y/</id>
     <published>2023-03-11T07:43:17.000Z</published>
-    <updated>2023-03-20T10:38:41.628Z</updated>
+    <updated>2023-03-20T15:39:37.782Z</updated>
     
     
     <summary type="html">本篇文章說明如何解決 Ruby on Rails 專案部署到伺服器後，出現這個錯誤訊息「You have already activated x, but your Gemfile requires y」的兩種解決方法。</summary>
