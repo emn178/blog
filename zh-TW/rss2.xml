@@ -9,8 +9,33 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Mon, 20 Mar 2023 13:20:35 GMT</pubDate>
+    <pubDate>Tue, 21 Mar 2023 10:46:19 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Stable Diffusion 教學 - web UI 圖生圖 (img2img)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img/</guid>
+      <pubDate>Tue, 21 Mar 2023 10:46:47 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;本篇文章介紹 Stable Diffusion web UI 圖生圖頁面的基本功能，重點內容包含查詢提示詞 (interrogate)、調整大小機制說明和影像降噪強度 (Denoising strength) 說明。&lt;/p&gt;
+&lt;h2 id=&quot;功能區塊&quot;&gt;&lt;a href=&quot;#</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/categories/AI/">AI</category>
+      
+      
+      <category domain="https://blog.emn178.cc/tags/Stable-Diffusion/">Stable Diffusion</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Stable Diffusion 教學 - web UI 文生圖 (txt2img)</title>

@@ -1,3 +1,4 @@
+https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img/
 https://blog.emn178.cc/zh-TW/post/how-to-solve-you-have-already-activated-x-but-your-gemfile-requires-y/
 https://blog.emn178.cc/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/
 https://blog.emn178.cc/zh-TW/post/midjourney-parameters-chaos/

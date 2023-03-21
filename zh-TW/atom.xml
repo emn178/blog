@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/"/>
-  <updated>2023-03-20T13:20:35.136Z</updated>
+  <updated>2023-03-21T10:46:19.743Z</updated>
   <id>https://blog.emn178.cc/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Stable Diffusion 教學 - web UI 圖生圖 (img2img)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img/</id>
+    <published>2023-03-21T10:46:47.000Z</published>
+    <updated>2023-03-21T10:46:19.743Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;本篇文章介紹 Stable Diffusion web UI 圖生圖頁面的基本功能，重點內容包含查詢提示詞 (interrogate)、調整大小機制說明和影像降噪強度 (Denoising strength) 說明。&lt;/p&gt;
+&lt;h2 id=&quot;功能區塊&quot;&gt;&lt;a href=&quot;#</summary>
+      
+    
+    
+    
+    <category term="AI" scheme="https://blog.emn178.cc/categories/AI/"/>
+    
+    
+    <category term="Stable Diffusion" scheme="https://blog.emn178.cc/tags/Stable-Diffusion/"/>
+    
+  </entry>
   
   <entry>
     <title>Stable Diffusion 教學 - web UI 文生圖 (txt2img)</title>
