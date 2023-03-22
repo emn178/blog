@@ -1,5 +1,5 @@
-https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-variable-ordering/
 https://blog.emn178.cc/en/post/solidity-gas-optimization-variable-ordering/
+https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-variable-ordering/
 https://blog.emn178.cc/zh-TW/tags/
 https://blog.emn178.cc/zh-TW/categories/
 https://blog.emn178.cc/en/categories/
