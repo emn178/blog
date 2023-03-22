@@ -2,6 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.emn178.cc/zh-TW/tags/</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.emn178.cc/zh-TW/categories/</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.emn178.cc/en/categories/</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.emn178.cc/en/tags/</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.emn178.cc/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.emn178.cc/en/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.emn178.cc/en/post/node-js-how-to-integrate-travis-ci-with-github/</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.emn178.cc/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img/</loc>
     
     <lastmod>2023-03-21</lastmod>
@@ -114,20 +170,6 @@
   </url>
   
   <url>
-    <loc>https://blog.emn178.cc/zh-TW/tags/</loc>
-    
-    <lastmod>2023-03-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.emn178.cc/zh-TW/categories/</loc>
-    
-    <lastmod>2023-03-19</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.emn178.cc/zh-TW/post/hsinchu-green-grassland/</loc>
     
     <lastmod>2023-03-15</lastmod>
@@ -145,75 +187,104 @@
   
   <url>
     <loc>https://blog.emn178.cc/zh-TW/</loc>
-    <lastmod>2023-03-21</lastmod>
+    <lastmod>2023-03-22</lastmod>
   </url>
 
     
   <url>
-    <loc>https://blog.emn178.cc/zh-TW/categories/AI/</loc>
-    <lastmod>2023-03-21</lastmod>
+    <loc>https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/</loc>
+    <lastmod>2023-03-22</lastmod>
   </url>
     
   <url>
-    <loc>https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/</loc>
-    <lastmod>2023-03-21</lastmod>
+    <loc>https://blog.emn178.cc/zh-TW/categories/AI/</loc>
+    <lastmod>2023-03-22</lastmod>
   </url>
     
   <url>
     <loc>https://blog.emn178.cc/zh-TW/categories/%E6%97%85%E9%81%8A/</loc>
-    <lastmod>2023-03-21</lastmod>
+    <lastmod>2023-03-22</lastmod>
   </url>
     
 
     
   <url>
     <loc>https://blog.emn178.cc/zh-TW/tags/Midjourney/</loc>
-    <lastmod>2023-03-21</lastmod>
-  </url>
-    
-  <url>
-    <loc>https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/</loc>
-    <lastmod>2023-03-21</lastmod>
-  </url>
-    
-  <url>
-    <loc>https://blog.emn178.cc/zh-TW/tags/%E6%96%B0%E7%AB%B9/</loc>
-    <lastmod>2023-03-21</lastmod>
-  </url>
-    
-  <url>
-    <loc>https://blog.emn178.cc/zh-TW/tags/%E6%99%AF%E9%BB%9E/</loc>
-    <lastmod>2023-03-21</lastmod>
+    <lastmod>2023-03-22</lastmod>
   </url>
     
   <url>
     <loc>https://blog.emn178.cc/zh-TW/tags/%E9%9F%93%E5%9C%8B/</loc>
-    <lastmod>2023-03-21</lastmod>
+    <lastmod>2023-03-22</lastmod>
   </url>
     
   <url>
     <loc>https://blog.emn178.cc/zh-TW/tags/%E9%A6%96%E7%88%BE/</loc>
-    <lastmod>2023-03-21</lastmod>
+    <lastmod>2023-03-22</lastmod>
   </url>
     
   <url>
     <loc>https://blog.emn178.cc/zh-TW/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/</loc>
-    <lastmod>2023-03-21</lastmod>
+    <lastmod>2023-03-22</lastmod>
   </url>
     
   <url>
-    <loc>https://blog.emn178.cc/zh-TW/tags/Postgresql/</loc>
-    <lastmod>2023-03-21</lastmod>
+    <loc>https://blog.emn178.cc/zh-TW/tags/%E6%96%B0%E7%AB%B9/</loc>
+    <lastmod>2023-03-22</lastmod>
+  </url>
+    
+  <url>
+    <loc>https://blog.emn178.cc/zh-TW/tags/%E6%99%AF%E9%BB%9E/</loc>
+    <lastmod>2023-03-22</lastmod>
   </url>
     
   <url>
     <loc>https://blog.emn178.cc/zh-TW/tags/Ruby/</loc>
-    <lastmod>2023-03-21</lastmod>
+    <lastmod>2023-03-22</lastmod>
+  </url>
+    
+  <url>
+    <loc>https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/</loc>
+    <lastmod>2023-03-22</lastmod>
+  </url>
+    
+  <url>
+    <loc>https://blog.emn178.cc/zh-TW/tags/Postgresql/</loc>
+    <lastmod>2023-03-22</lastmod>
   </url>
     
   <url>
     <loc>https://blog.emn178.cc/zh-TW/tags/Ruby-on-Rails/</loc>
-    <lastmod>2023-03-21</lastmod>
+    <lastmod>2023-03-22</lastmod>
+  </url>
+    
+  
+  <url>
+    <loc>https://blog.emn178.cc/en/</loc>
+    <lastmod>2023-03-22</lastmod>
+  </url>
+
+    
+  <url>
+    <loc>https://blog.emn178.cc/en/categories/Programming/</loc>
+    <lastmod>2023-03-22</lastmod>
+  </url>
+    
+
+    
+  <url>
+    <loc>https://blog.emn178.cc/en/tags/Node-js/</loc>
+    <lastmod>2023-03-22</lastmod>
+  </url>
+    
+  <url>
+    <loc>https://blog.emn178.cc/en/tags/JavaScript/</loc>
+    <lastmod>2023-03-22</lastmod>
+  </url>
+    
+  <url>
+    <loc>https://blog.emn178.cc/en/tags/Ruby/</loc>
+    <lastmod>2023-03-22</lastmod>
   </url>
     
   

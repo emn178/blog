@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小殘的程式光廊</title>
+  
+  <subtitle>紀錄程式技術和旅遊生活的部落格</subtitle>
+  <link href="https://blog.emn178.cc/en/atom.xml" rel="self"/>
+  
+  <link href="https://blog.emn178.cc/"/>
+  <updated>2023-03-21T14:59:59.243Z</updated>
+  <id>https://blog.emn178.cc/</id>
+  
+  <author>
+    <name>小殘</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>How to Measure JavaScript Code Coverage With jscoverage</title>
+    <link href="https://blog.emn178.cc/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/"/>
+    <id>https://blog.emn178.cc/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/</id>
+    <published>2015-10-30T09:34:00.000Z</published>
+    <updated>2023-03-21T14:59:59.243Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;We had known &lt;a href=&quot;../how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests&quot;&gt;How to Write a Library for Node.js and Bro</summary>
+      
+    
+    
+    
+    <category term="Programming" scheme="https://blog.emn178.cc/categories/Programming/"/>
+    
+    
+    <category term="Node.js" scheme="https://blog.emn178.cc/tags/Node-js/"/>
+    
+    <category term="JavaScript" scheme="https://blog.emn178.cc/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>How to Write a Library for Node.js and Browser with Mocha Unit Tests</title>
+    <link href="https://blog.emn178.cc/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/"/>
+    <id>https://blog.emn178.cc/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/</id>
+    <published>2015-10-28T09:20:00.000Z</published>
+    <updated>2023-03-21T14:39:43.621Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;http://mochajs.org/&quot;&gt;Mocha&lt;/a&gt; is a test framework for JavaScript, it provides Node.js and browser versions. Assume we implement</summary>
+      
+    
+    
+    
+    <category term="Programming" scheme="https://blog.emn178.cc/categories/Programming/"/>
+    
+    
+    <category term="Node.js" scheme="https://blog.emn178.cc/tags/Node-js/"/>
+    
+    <category term="JavaScript" scheme="https://blog.emn178.cc/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Node.js - How to Integrate Travis CI with GitHub</title>
+    <link href="https://blog.emn178.cc/en/post/node-js-how-to-integrate-travis-ci-with-github/"/>
+    <id>https://blog.emn178.cc/en/post/node-js-how-to-integrate-travis-ci-with-github/</id>
+    <published>2015-10-28T07:50:00.000Z</published>
+    <updated>2023-03-21T14:53:08.558Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://travis-ci.com/&quot;&gt;Travis CI&lt;/a&gt; is service for Continuous Integration and it is easy to integrate with the projects on Git</summary>
+      
+    
+    
+    
+    <category term="Programming" scheme="https://blog.emn178.cc/categories/Programming/"/>
+    
+    
+    <category term="Node.js" scheme="https://blog.emn178.cc/tags/Node-js/"/>
+    
+    <category term="JavaScript" scheme="https://blog.emn178.cc/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>How to omit bundle exec prefix by bundle binstubs</title>
+    <link href="https://blog.emn178.cc/en/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/"/>
+    <id>https://blog.emn178.cc/en/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/</id>
+    <published>2015-10-28T06:00:00.000Z</published>
+    <updated>2023-03-21T14:53:20.617Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;bundle-binstubs&quot;&gt;&lt;a href=&quot;#bundle-binstubs&quot; class=&quot;headerlink&quot; title=&quot;bundle binstubs&quot;&gt;&lt;/a&gt;bundle binstubs&lt;/h2&gt;&lt;p&gt;In Ruby, we use Bu</summary>
+      
+    
+    
+    
+    <category term="Programming" scheme="https://blog.emn178.cc/categories/Programming/"/>
+    
+    
+    <category term="Ruby" scheme="https://blog.emn178.cc/tags/Ruby/"/>
+    
+  </entry>
+  
+</feed>
