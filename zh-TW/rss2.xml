@@ -415,6 +415,27 @@
     </item>
     
     <item>
+      <title>Solidity 智能合約 Gas 優化技巧 - 變數順序</title>
+      <link>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-variable-ordering/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-variable-ordering/</guid>
+      <pubDate>Sun, 09 Sep 2018 02:26:38 GMT</pubDate>
+      
+      <description>本篇文章說明 Solidity 智能合約 Gas 優化技巧，說明變數順序影響 Gas 消耗的原因和特性，提供兩種優化的策略教學來減少 Gas 消耗。</description>
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      <category domain="https://blog.emn178.cc/tags/Solidity/">Solidity</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-variable-ordering/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>新竹旅遊景點 - 靜心湖和新竹公園</title>
       <link>https://blog.emn178.cc/zh-TW/post/lake-placid-and-hsinchu-park/</link>
       <guid>https://blog.emn178.cc/zh-TW/post/lake-placid-and-hsinchu-park/</guid>

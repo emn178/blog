@@ -9,8 +9,29 @@
     <atom:link href="https://blog.emn178.cc/en/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Tue, 21 Mar 2023 14:59:59 GMT</pubDate>
+    <pubDate>Wed, 22 Mar 2023 15:04:54 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Solidity Gas Optimizations - Variable Ordering</title>
+      <link>https://blog.emn178.cc/en/post/solidity-gas-optimization-variable-ordering/</link>
+      <guid>https://blog.emn178.cc/en/post/solidity-gas-optimization-variable-ordering/</guid>
+      <pubDate>Tue, 11 Sep 2018 02:26:38 GMT</pubDate>
+      
+      <description>本篇文章說明 Solidity 智能合約 Gas 優化技巧，說明變數順序影響 Gas 消耗的原因和特性，提供兩種優化的策略教學來減少 Gas 消耗。</description>
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/categories/Programming/">Programming</category>
+      
+      
+      <category domain="https://blog.emn178.cc/tags/Solidity/">Solidity</category>
+      
+      
+      <comments>https://blog.emn178.cc/en/post/solidity-gas-optimization-variable-ordering/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>How to Measure JavaScript Code Coverage With jscoverage</title>
@@ -29,9 +50,9 @@
       <category domain="https://blog.emn178.cc/categories/Programming/">Programming</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/Node-js/">Node.js</category>
-      
       <category domain="https://blog.emn178.cc/tags/JavaScript/">JavaScript</category>
+      
+      <category domain="https://blog.emn178.cc/tags/Node-js/">Node.js</category>
       
       
       <comments>https://blog.emn178.cc/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/#disqus_thread</comments>
@@ -55,9 +76,9 @@
       <category domain="https://blog.emn178.cc/categories/Programming/">Programming</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/Node-js/">Node.js</category>
-      
       <category domain="https://blog.emn178.cc/tags/JavaScript/">JavaScript</category>
+      
+      <category domain="https://blog.emn178.cc/tags/Node-js/">Node.js</category>
       
       
       <comments>https://blog.emn178.cc/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/#disqus_thread</comments>
@@ -81,9 +102,9 @@
       <category domain="https://blog.emn178.cc/categories/Programming/">Programming</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/Node-js/">Node.js</category>
-      
       <category domain="https://blog.emn178.cc/tags/JavaScript/">JavaScript</category>
+      
+      <category domain="https://blog.emn178.cc/tags/Node-js/">Node.js</category>
       
       
       <comments>https://blog.emn178.cc/en/post/node-js-how-to-integrate-travis-ci-with-github/#disqus_thread</comments>

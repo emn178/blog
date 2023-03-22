@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-variable-ordering/</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.emn178.cc/en/post/solidity-gas-optimization-variable-ordering/</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.emn178.cc/zh-TW/tags/</loc>
     
     <lastmod>2023-03-21</lastmod>
@@ -209,7 +223,22 @@
 
     
   <url>
+    <loc>https://blog.emn178.cc/zh-TW/tags/Solidity/</loc>
+    <lastmod>2023-03-22</lastmod>
+  </url>
+    
+  <url>
     <loc>https://blog.emn178.cc/zh-TW/tags/Midjourney/</loc>
+    <lastmod>2023-03-22</lastmod>
+  </url>
+    
+  <url>
+    <loc>https://blog.emn178.cc/zh-TW/tags/%E6%96%B0%E7%AB%B9/</loc>
+    <lastmod>2023-03-22</lastmod>
+  </url>
+    
+  <url>
+    <loc>https://blog.emn178.cc/zh-TW/tags/%E6%99%AF%E9%BB%9E/</loc>
     <lastmod>2023-03-22</lastmod>
   </url>
     
@@ -229,27 +258,17 @@
   </url>
     
   <url>
-    <loc>https://blog.emn178.cc/zh-TW/tags/%E6%96%B0%E7%AB%B9/</loc>
-    <lastmod>2023-03-22</lastmod>
-  </url>
-    
-  <url>
-    <loc>https://blog.emn178.cc/zh-TW/tags/%E6%99%AF%E9%BB%9E/</loc>
-    <lastmod>2023-03-22</lastmod>
-  </url>
-    
-  <url>
-    <loc>https://blog.emn178.cc/zh-TW/tags/Ruby/</loc>
-    <lastmod>2023-03-22</lastmod>
-  </url>
-    
-  <url>
     <loc>https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/</loc>
     <lastmod>2023-03-22</lastmod>
   </url>
     
   <url>
     <loc>https://blog.emn178.cc/zh-TW/tags/Postgresql/</loc>
+    <lastmod>2023-03-22</lastmod>
+  </url>
+    
+  <url>
+    <loc>https://blog.emn178.cc/zh-TW/tags/Ruby/</loc>
     <lastmod>2023-03-22</lastmod>
   </url>
     
@@ -273,7 +292,12 @@
 
     
   <url>
-    <loc>https://blog.emn178.cc/en/tags/Node-js/</loc>
+    <loc>https://blog.emn178.cc/en/tags/Solidity/</loc>
+    <lastmod>2023-03-22</lastmod>
+  </url>
+    
+  <url>
+    <loc>https://blog.emn178.cc/en/tags/Ruby/</loc>
     <lastmod>2023-03-22</lastmod>
   </url>
     
@@ -283,7 +307,7 @@
   </url>
     
   <url>
-    <loc>https://blog.emn178.cc/en/tags/Ruby/</loc>
+    <loc>https://blog.emn178.cc/en/tags/Node-js/</loc>
     <lastmod>2023-03-22</lastmod>
   </url>
     
