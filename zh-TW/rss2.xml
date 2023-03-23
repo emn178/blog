@@ -9,7 +9,7 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Tue, 21 Mar 2023 13:10:01 GMT</pubDate>
+    <pubDate>Thu, 23 Mar 2023 06:38:31 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -20,8 +20,8 @@
       
         
         
-      <description>&lt;p&gt;本篇文章介紹 Stable Diffusion web UI 圖生圖頁面的基本功能，重點內容包含查詢提示詞 (interrogate)、調整大小機制說明和影像降噪強度 (Denoising strength) 說明。&lt;/p&gt;
-&lt;h2 id=&quot;功能區塊&quot;&gt;&lt;a href=&quot;#</description>
+      <description>&lt;p&gt;本篇文章介紹 Stable Diffusion web UI 圖生圖頁面的基本功能，重點內容包含查詢提示詞 (interrogate)、調整大小機制說明和降噪強度 (Denoising strength) 說明。&lt;/p&gt;
+&lt;h2 id=&quot;功能區塊&quot;&gt;&lt;a href=&quot;#功能</description>
         
       
       
@@ -70,7 +70,7 @@
       
         
         
-      <description>&lt;h2 id=&quot;說明&quot;&gt;&lt;a href=&quot;#說明&quot; class=&quot;headerlink&quot; title=&quot;說明&quot;&gt;&lt;/a&gt;說明&lt;/h2&gt;&lt;p&gt;Stable Diffusion web UI 是一套基於 Gradio 開發的開源軟體，提供網頁介面的方式來使用 Stable Diffu</description>
+      <description>&lt;h2 id=&quot;說明&quot;&gt;&lt;a href=&quot;#說明&quot; class=&quot;headerlink&quot; title=&quot;說明&quot;&gt;&lt;/a&gt;說明&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/AUTOMATIC1111/stable-diffusion-webui&quot;&gt;Stab</description>
         
       
       

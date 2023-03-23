@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/"/>
-  <updated>2023-03-21T13:10:01.968Z</updated>
+  <updated>2023-03-23T06:38:31.727Z</updated>
   <id>https://blog.emn178.cc/</id>
   
   <author>
@@ -21,13 +21,13 @@
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img/</id>
     <published>2023-03-21T10:46:47.000Z</published>
-    <updated>2023-03-21T13:10:01.968Z</updated>
+    <updated>2023-03-23T06:38:31.727Z</updated>
     
     
       
       
-    <summary type="html">&lt;p&gt;本篇文章介紹 Stable Diffusion web UI 圖生圖頁面的基本功能，重點內容包含查詢提示詞 (interrogate)、調整大小機制說明和影像降噪強度 (Denoising strength) 說明。&lt;/p&gt;
-&lt;h2 id=&quot;功能區塊&quot;&gt;&lt;a href=&quot;#</summary>
+    <summary type="html">&lt;p&gt;本篇文章介紹 Stable Diffusion web UI 圖生圖頁面的基本功能，重點內容包含查詢提示詞 (interrogate)、調整大小機制說明和降噪強度 (Denoising strength) 說明。&lt;/p&gt;
+&lt;h2 id=&quot;功能區塊&quot;&gt;&lt;a href=&quot;#功能</summary>
       
     
     
@@ -44,7 +44,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-txt2img/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-txt2img/</id>
     <published>2023-03-15T13:28:11.000Z</published>
-    <updated>2023-03-20T13:20:35.136Z</updated>
+    <updated>2023-03-23T06:38:25.408Z</updated>
     
     
       
@@ -67,12 +67,12 @@
     <link href="https://blog.emn178.cc/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/"/>
     <id>https://blog.emn178.cc/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/</id>
     <published>2023-03-14T15:24:28.000Z</published>
-    <updated>2023-03-20T13:26:02.893Z</updated>
+    <updated>2023-03-23T06:37:07.447Z</updated>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;說明&quot;&gt;&lt;a href=&quot;#說明&quot; class=&quot;headerlink&quot; title=&quot;說明&quot;&gt;&lt;/a&gt;說明&lt;/h2&gt;&lt;p&gt;Stable Diffusion web UI 是一套基於 Gradio 開發的開源軟體，提供網頁介面的方式來使用 Stable Diffu</summary>
+    <summary type="html">&lt;h2 id=&quot;說明&quot;&gt;&lt;a href=&quot;#說明&quot; class=&quot;headerlink&quot; title=&quot;說明&quot;&gt;&lt;/a&gt;說明&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/AUTOMATIC1111/stable-diffusion-webui&quot;&gt;Stab</summary>
       
     
     
@@ -213,7 +213,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/midjourney-ai-art-generator/"/>
     <id>https://blog.emn178.cc/zh-TW/post/midjourney-ai-art-generator/</id>
     <published>2023-02-26T02:58:07.000Z</published>
-    <updated>2023-03-20T13:24:54.024Z</updated>
+    <updated>2023-03-23T06:34:13.266Z</updated>
     
     
       
@@ -236,7 +236,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/dreamstudio-ai-art-generator/"/>
     <id>https://blog.emn178.cc/zh-TW/post/dreamstudio-ai-art-generator/</id>
     <published>2023-02-24T12:34:05.000Z</published>
-    <updated>2023-03-20T13:24:18.178Z</updated>
+    <updated>2023-03-23T06:33:52.441Z</updated>
     
     
       
@@ -258,7 +258,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/dall-e-2-ai-art-generator/"/>
     <id>https://blog.emn178.cc/zh-TW/post/dall-e-2-ai-art-generator/</id>
     <published>2023-02-14T15:34:35.000Z</published>
-    <updated>2023-03-20T13:21:36.032Z</updated>
+    <updated>2023-03-23T06:33:58.959Z</updated>
     
     
       
