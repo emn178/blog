@@ -9,7 +9,7 @@
     <atom:link href="https://blog.emn178.cc/en/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Wed, 22 Mar 2023 15:07:26 GMT</pubDate>
+    <pubDate>Fri, 24 Mar 2023 01:10:47 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -18,7 +18,7 @@
       <guid>https://blog.emn178.cc/en/post/solidity-gas-optimization-variable-ordering/</guid>
       <pubDate>Tue, 11 Sep 2018 02:26:38 GMT</pubDate>
       
-      <description>本篇文章說明 Solidity 智能合約 Gas 優化技巧，說明變數順序影響 Gas 消耗的原因和特性，提供兩種優化的策略教學來減少 Gas 消耗。</description>
+      <description>This article explains the gas optimization techniques of Solidity smart contracts, explains how variable ordering affect gas consumption, and provides two optimization strategies to reduce gas consumption.</description>
       
       
       

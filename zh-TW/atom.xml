@@ -457,4 +457,46 @@
     
   </entry>
   
+  <entry>
+    <title>PHP教學 - 基本語法 (Syntax)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/php-tutorial-syntax/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/php-tutorial-syntax/</id>
+    <published>2010-04-07T14:00:37.000Z</published>
+    <updated>2023-03-24T00:51:36.633Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;介紹 PHP 基本的語法和使用方式，包含如何執行 PHP、在 HTML 嵌入 PHP 與註解。&lt;/p&gt;
+&lt;h2 id=&quot;如何執行PHP&quot;&gt;&lt;a href=&quot;#如何執行PHP&quot; class=&quot;headerlink&quot; title=&quot;如何執行PHP&quot;&gt;&lt;/a&gt;如何執行PHP&lt;/h</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    
+    <category term="PHP" scheme="https://blog.emn178.cc/tags/PHP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>解決 PHP Startup: Unable to load dynamic library php_exif.dll</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/php-startup-unable-to-load-dynamic-library-php-exif-dll/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/php-startup-unable-to-load-dynamic-library-php-exif-dll/</id>
+    <published>2010-04-06T12:19:37.000Z</published>
+    <updated>2023-03-22T01:45:18.871Z</updated>
+    
+    
+    <summary type="html">本篇文章說明如何解決 PHP 開啟 exif 模組後，出現這個錯誤訊息「PHP Startup: Unable to load dynamic library php_exif.dll」的解決方法。</summary>
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    
+    <category term="PHP" scheme="https://blog.emn178.cc/tags/PHP/"/>
+    
+  </entry>
+  
 </feed>

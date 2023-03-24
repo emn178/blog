@@ -1,11 +1,13 @@
+https://blog.emn178.cc/en/post/solidity-gas-optimization-variable-ordering/
+https://blog.emn178.cc/zh-TW/post/php-tutorial-syntax/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-txt2img/
 https://blog.emn178.cc/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/
 https://blog.emn178.cc/zh-TW/post/midjourney-ai-art-generator/
 https://blog.emn178.cc/zh-TW/post/dall-e-2-ai-art-generator/
 https://blog.emn178.cc/zh-TW/post/dreamstudio-ai-art-generator/
-https://blog.emn178.cc/en/post/solidity-gas-optimization-variable-ordering/
 https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-variable-ordering/
+https://blog.emn178.cc/zh-TW/post/php-startup-unable-to-load-dynamic-library-php-exif-dll/
 https://blog.emn178.cc/zh-TW/tags/
 https://blog.emn178.cc/zh-TW/categories/
 https://blog.emn178.cc/en/categories/
@@ -41,6 +43,7 @@ https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/
 https://blog.emn178.cc/zh-TW/tags/Postgresql/
 https://blog.emn178.cc/zh-TW/tags/Ruby/
 https://blog.emn178.cc/zh-TW/tags/Ruby-on-Rails/
+https://blog.emn178.cc/zh-TW/tags/PHP/
 https://blog.emn178.cc/en/
 https://blog.emn178.cc/en/categories/Programming/
 https://blog.emn178.cc/en/tags/Solidity/
