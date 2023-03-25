@@ -458,11 +458,147 @@
   </entry>
   
   <entry>
+    <title>PHP 教學 - 運算子 (Operators) - 下</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/php-tutorial-operators-final/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/php-tutorial-operators-final/</id>
+    <published>2010-05-18T01:05:37.000Z</published>
+    <updated>2023-03-25T02:34:12.690Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;介紹 PHP 中運算子的用法，包含執行運算子 (Execution Operator)、增值 &amp;#x2F; 減值運算子 (Incrementing &amp;#x2F; Decrementing Operator)、邏輯運算子 (Logical Operator)、字串運算子 (S</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    
+    <category term="PHP" scheme="https://blog.emn178.cc/tags/PHP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PHP 教學 - 運算子 (Operators) - 上</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/php-tutorial-operators/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/php-tutorial-operators/</id>
+    <published>2010-05-13T03:09:11.000Z</published>
+    <updated>2023-03-25T02:33:14.326Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;介紹 PHP 中運算子的用法，包含種類、優先順序、算術運算子 (Arithmetic Operator)、指派運算子 (Assignment Operator)、位元運算子 (Bitwise Operator)、比較運算子 (Comparison Operator)、三元運</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    
+    <category term="PHP" scheme="https://blog.emn178.cc/tags/PHP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PHP 教學 - 常數 (Constants)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/php-tutorial-constants/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/php-tutorial-constants/</id>
+    <published>2010-05-01T02:10:59.000Z</published>
+    <updated>2023-03-25T02:01:15.559Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;介紹PHP中常術的用法，包含語法、命名規則和魔術常數 (Magic constant)。&lt;/p&gt;
+&lt;h2 id=&quot;語法&quot;&gt;&lt;a href=&quot;#語法&quot; class=&quot;headerlink&quot; title=&quot;語法&quot;&gt;&lt;/a&gt;語法&lt;/h2&gt;&lt;p&gt;變數的值會改變而稱為變數，那相對於變</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    
+    <category term="PHP" scheme="https://blog.emn178.cc/tags/PHP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PHP 教學 - 變數 (Variables)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/php-tutorial-variables/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/php-tutorial-variables/</id>
+    <published>2010-04-29T08:21:13.000Z</published>
+    <updated>2023-03-25T02:32:07.771Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;介紹 PHP 變數的用法，包含命名、指派 (assign)、宣告、變數範圍、預定義變數、全域變數、可變變數 (Variable variables)、POST、GET、REQUEST 和 COOKIE。&lt;/p&gt;
+&lt;h2 id=&quot;基礎&quot;&gt;&lt;a href=&quot;#基礎&quot; class</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    
+    <category term="PHP" scheme="https://blog.emn178.cc/tags/PHP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PHP 教學 - 資料型態 (Data Type) - 下</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/php-tutorial-data-type-final/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/php-tutorial-data-type-final/</id>
+    <published>2010-04-18T06:02:13.000Z</published>
+    <updated>2023-03-25T02:29:46.837Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;介紹 PHP 中的資料型態 (型別)，包含字串 (String)、陣列 (Array)、物件 (Object)、資源 (Resource)、NULL，型別的判斷與轉型。&lt;/p&gt;
+&lt;h2 id=&quot;字串-String&quot;&gt;&lt;a href=&quot;#字串-String&quot; class=&quot;h</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    
+    <category term="PHP" scheme="https://blog.emn178.cc/tags/PHP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PHP 教學 - 資料型態 (Data Type) - 上</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/php-tutorial-data-type/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/php-tutorial-data-type/</id>
+    <published>2010-04-11T11:33:13.000Z</published>
+    <updated>2023-03-25T02:23:45.342Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;介紹 PHP 中的資料型態 (型別)，包含布林 (Boolean)、整數 (Integer)、浮點數 (Float)，型別的判斷與轉型。&lt;/p&gt;
+&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    
+    <category term="PHP" scheme="https://blog.emn178.cc/tags/PHP/"/>
+    
+  </entry>
+  
+  <entry>
     <title>PHP教學 - 基本語法 (Syntax)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/php-tutorial-syntax/"/>
     <id>https://blog.emn178.cc/zh-TW/post/php-tutorial-syntax/</id>
     <published>2010-04-07T14:00:37.000Z</published>
-    <updated>2023-03-24T00:51:36.633Z</updated>
+    <updated>2023-03-25T02:22:04.893Z</updated>
     
     
       
