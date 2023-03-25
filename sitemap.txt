@@ -1,9 +1,9 @@
+https://blog.emn178.cc/zh-TW/post/php-tutorial-syntax/
 https://blog.emn178.cc/zh-TW/post/php-tutorial-operators-final/
 https://blog.emn178.cc/zh-TW/post/php-tutorial-operators/
 https://blog.emn178.cc/zh-TW/post/php-tutorial-variables/
 https://blog.emn178.cc/zh-TW/post/php-tutorial-data-type-final/
 https://blog.emn178.cc/zh-TW/post/php-tutorial-data-type/
-https://blog.emn178.cc/zh-TW/post/php-tutorial-syntax/
 https://blog.emn178.cc/zh-TW/post/php-tutorial-constants/
 https://blog.emn178.cc/en/post/solidity-gas-optimization-variable-ordering/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img/

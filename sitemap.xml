@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.emn178.cc/zh-TW/post/php-tutorial-syntax/</loc>
+    
+    <lastmod>2023-03-25</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.emn178.cc/zh-TW/post/php-tutorial-operators-final/</loc>
     
     <lastmod>2023-03-25</lastmod>
@@ -31,13 +38,6 @@
   
   <url>
     <loc>https://blog.emn178.cc/zh-TW/post/php-tutorial-data-type/</loc>
-    
-    <lastmod>2023-03-25</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.emn178.cc/zh-TW/post/php-tutorial-syntax/</loc>
     
     <lastmod>2023-03-25</lastmod>
     
