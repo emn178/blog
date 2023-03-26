@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/en/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/"/>
-  <updated>2023-03-24T01:10:47.278Z</updated>
+  <updated>2023-03-26T14:44:22.886Z</updated>
   <id>https://blog.emn178.cc/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>zkSync Airdrop Guide</title>
+    <link href="https://blog.emn178.cc/en/post/zksync-airdrop-strategy/"/>
+    <id>https://blog.emn178.cc/en/post/zksync-airdrop-strategy/</id>
+    <published>2023-03-26T14:43:07.000Z</published>
+    <updated>2023-03-26T14:44:22.886Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Arbitrum has been airdropped a while ago, and I heard that some people have retired by airdrop. &lt;a href=&quot;https://zksync.io/&quot;&gt;zkSync&lt;/a&gt; i</summary>
+      
+    
+    
+    
+    <category term="Blockchain" scheme="https://blog.emn178.cc/categories/Blockchain/"/>
+    
+    
+    <category term="zkSync" scheme="https://blog.emn178.cc/tags/zkSync/"/>
+    
+  </entry>
   
   <entry>
     <title>Solidity Gas Optimizations - Variable Ordering</title>

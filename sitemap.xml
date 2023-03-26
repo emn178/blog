@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.emn178.cc/en/post/zksync-airdrop-strategy/</loc>
+    
+    <lastmod>2023-03-26</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/</loc>
     
     <lastmod>2023-03-26</lastmod>
@@ -367,6 +374,11 @@
     <lastmod>2023-03-26</lastmod>
   </url>
     
+  <url>
+    <loc>https://blog.emn178.cc/en/categories/Blockchain/</loc>
+    <lastmod>2023-03-26</lastmod>
+  </url>
+    
 
     
   <url>
@@ -386,6 +398,11 @@
     
   <url>
     <loc>https://blog.emn178.cc/en/tags/JavaScript/</loc>
+    <lastmod>2023-03-26</lastmod>
+  </url>
+    
+  <url>
+    <loc>https://blog.emn178.cc/en/tags/zkSync/</loc>
     <lastmod>2023-03-26</lastmod>
   </url>
     

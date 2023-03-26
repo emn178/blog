@@ -1,3 +1,4 @@
+https://blog.emn178.cc/en/post/zksync-airdrop-strategy/
 https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/
 https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-variable-ordering/
 https://blog.emn178.cc/zh-TW/post/php-tutorial-syntax/
@@ -55,8 +56,10 @@ https://blog.emn178.cc/zh-TW/tags/Ruby-on-Rails/
 https://blog.emn178.cc/zh-TW/tags/zkSync/
 https://blog.emn178.cc/en/
 https://blog.emn178.cc/en/categories/Programming/
+https://blog.emn178.cc/en/categories/Blockchain/
 https://blog.emn178.cc/en/tags/Solidity/
 https://blog.emn178.cc/en/tags/Ruby/
 https://blog.emn178.cc/en/tags/Node-js/
 https://blog.emn178.cc/en/tags/JavaScript/
+https://blog.emn178.cc/en/tags/zkSync/
 

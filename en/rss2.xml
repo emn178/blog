@@ -9,8 +9,32 @@
     <atom:link href="https://blog.emn178.cc/en/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Fri, 24 Mar 2023 01:10:47 GMT</pubDate>
+    <pubDate>Sun, 26 Mar 2023 14:44:22 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>zkSync Airdrop Guide</title>
+      <link>https://blog.emn178.cc/en/post/zksync-airdrop-strategy/</link>
+      <guid>https://blog.emn178.cc/en/post/zksync-airdrop-strategy/</guid>
+      <pubDate>Sun, 26 Mar 2023 14:43:07 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;Arbitrum has been airdropped a while ago, and I heard that some people have retired by airdrop. &lt;a href=&quot;https://zksync.io/&quot;&gt;zkSync&lt;/a&gt; i</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/categories/Blockchain/">Blockchain</category>
+      
+      
+      <category domain="https://blog.emn178.cc/tags/zkSync/">zkSync</category>
+      
+      
+      <comments>https://blog.emn178.cc/en/post/zksync-airdrop-strategy/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Solidity Gas Optimizations - Variable Ordering</title>
