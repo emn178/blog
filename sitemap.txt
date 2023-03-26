@@ -1,4 +1,5 @@
 https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/
+https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-variable-ordering/
 https://blog.emn178.cc/zh-TW/post/php-tutorial-syntax/
 https://blog.emn178.cc/zh-TW/post/php-tutorial-operators-final/
 https://blog.emn178.cc/zh-TW/post/php-tutorial-operators/
@@ -13,7 +14,6 @@ https://blog.emn178.cc/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/
 https://blog.emn178.cc/zh-TW/post/midjourney-ai-art-generator/
 https://blog.emn178.cc/zh-TW/post/dall-e-2-ai-art-generator/
 https://blog.emn178.cc/zh-TW/post/dreamstudio-ai-art-generator/
-https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-variable-ordering/
 https://blog.emn178.cc/zh-TW/post/php-startup-unable-to-load-dynamic-library-php-exif-dll/
 https://blog.emn178.cc/zh-TW/tags/
 https://blog.emn178.cc/zh-TW/categories/
