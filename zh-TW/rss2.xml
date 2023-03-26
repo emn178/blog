@@ -9,8 +9,33 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Thu, 23 Mar 2023 06:38:31 GMT</pubDate>
+    <pubDate>Sun, 26 Mar 2023 08:26:42 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>zkSync 空投策略</title>
+      <link>https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/</guid>
+      <pubDate>Sun, 26 Mar 2023 08:20:02 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;前陣子 Arbitrum 已經空投，聽說有人嚕到退休了。&lt;a href=&quot;https://zksync.io/&quot;&gt;zkSync&lt;/a&gt; 是下一個熱門空投的機會，這邊研究並整理一份資料給大家參考。&lt;/p&gt;
+&lt;h2 id=&quot;空投規則&quot;&gt;&lt;a href=&quot;#空投規則&quot; class</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      
+      
+      <category domain="https://blog.emn178.cc/tags/zkSync/">zkSync</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Stable Diffusion 教學 - web UI 圖生圖 (img2img)</title>

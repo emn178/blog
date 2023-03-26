@@ -1,3 +1,4 @@
+https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/
 https://blog.emn178.cc/zh-TW/post/php-tutorial-syntax/
 https://blog.emn178.cc/zh-TW/post/php-tutorial-operators-final/
 https://blog.emn178.cc/zh-TW/post/php-tutorial-operators/
@@ -38,6 +39,7 @@ https://blog.emn178.cc/zh-TW/
 https://blog.emn178.cc/zh-TW/categories/AI/
 https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/
 https://blog.emn178.cc/zh-TW/categories/%E6%97%85%E9%81%8A/
+https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/
 https://blog.emn178.cc/zh-TW/tags/Midjourney/
 https://blog.emn178.cc/zh-TW/tags/PHP/
 https://blog.emn178.cc/zh-TW/tags/%E9%9F%93%E5%9C%8B/
@@ -50,6 +52,7 @@ https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/
 https://blog.emn178.cc/zh-TW/tags/Postgresql/
 https://blog.emn178.cc/zh-TW/tags/Ruby/
 https://blog.emn178.cc/zh-TW/tags/Ruby-on-Rails/
+https://blog.emn178.cc/zh-TW/tags/zkSync/
 https://blog.emn178.cc/en/
 https://blog.emn178.cc/en/categories/Programming/
 https://blog.emn178.cc/en/tags/Solidity/
