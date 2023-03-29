@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/en/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/"/>
-  <updated>2023-03-26T14:44:22.886Z</updated>
+  <updated>2023-03-29T09:03:26.186Z</updated>
   <id>https://blog.emn178.cc/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.emn178.cc/en/post/zksync-airdrop-strategy/"/>
     <id>https://blog.emn178.cc/en/post/zksync-airdrop-strategy/</id>
     <published>2023-03-26T14:43:07.000Z</published>
-    <updated>2023-03-26T14:44:22.886Z</updated>
+    <updated>2023-03-29T09:03:26.186Z</updated>
     
     
       
@@ -31,10 +31,10 @@
     
     
     
-    <category term="Blockchain" scheme="https://blog.emn178.cc/categories/Blockchain/"/>
+    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
     
     
-    <category term="zkSync" scheme="https://blog.emn178.cc/tags/zkSync/"/>
+    <category term="zkSync" scheme="https://blog.emn178.cc/en/tags/zkSync/"/>
     
   </entry>
   
@@ -50,10 +50,10 @@
     
     
     
-    <category term="Programming" scheme="https://blog.emn178.cc/categories/Programming/"/>
+    <category term="Programming" scheme="https://blog.emn178.cc/en/categories/Programming/"/>
     
     
-    <category term="Solidity" scheme="https://blog.emn178.cc/tags/Solidity/"/>
+    <category term="Solidity" scheme="https://blog.emn178.cc/en/tags/Solidity/"/>
     
   </entry>
   
@@ -62,22 +62,22 @@
     <link href="https://blog.emn178.cc/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/"/>
     <id>https://blog.emn178.cc/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/</id>
     <published>2015-10-30T09:34:00.000Z</published>
-    <updated>2023-03-21T14:59:59.243Z</updated>
+    <updated>2023-03-29T12:42:40.057Z</updated>
     
     
       
       
-    <summary type="html">&lt;p&gt;We had known &lt;a href=&quot;../how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests&quot;&gt;How to Write a Library for Node.js and Bro</summary>
+    <summary type="html">&lt;p&gt;We had known &lt;a href=&quot;/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests&quot;&gt;How to Write a Library for Node.js a</summary>
       
     
     
     
-    <category term="Programming" scheme="https://blog.emn178.cc/categories/Programming/"/>
+    <category term="Programming" scheme="https://blog.emn178.cc/en/categories/Programming/"/>
     
     
-    <category term="Node.js" scheme="https://blog.emn178.cc/tags/Node-js/"/>
+    <category term="Node.js" scheme="https://blog.emn178.cc/en/tags/Node-js/"/>
     
-    <category term="JavaScript" scheme="https://blog.emn178.cc/tags/JavaScript/"/>
+    <category term="JavaScript" scheme="https://blog.emn178.cc/en/tags/JavaScript/"/>
     
   </entry>
   
@@ -96,12 +96,12 @@
     
     
     
-    <category term="Programming" scheme="https://blog.emn178.cc/categories/Programming/"/>
+    <category term="Programming" scheme="https://blog.emn178.cc/en/categories/Programming/"/>
     
     
-    <category term="Node.js" scheme="https://blog.emn178.cc/tags/Node-js/"/>
+    <category term="Node.js" scheme="https://blog.emn178.cc/en/tags/Node-js/"/>
     
-    <category term="JavaScript" scheme="https://blog.emn178.cc/tags/JavaScript/"/>
+    <category term="JavaScript" scheme="https://blog.emn178.cc/en/tags/JavaScript/"/>
     
   </entry>
   
@@ -120,12 +120,12 @@
     
     
     
-    <category term="Programming" scheme="https://blog.emn178.cc/categories/Programming/"/>
+    <category term="Programming" scheme="https://blog.emn178.cc/en/categories/Programming/"/>
     
     
-    <category term="Node.js" scheme="https://blog.emn178.cc/tags/Node-js/"/>
+    <category term="Node.js" scheme="https://blog.emn178.cc/en/tags/Node-js/"/>
     
-    <category term="JavaScript" scheme="https://blog.emn178.cc/tags/JavaScript/"/>
+    <category term="JavaScript" scheme="https://blog.emn178.cc/en/tags/JavaScript/"/>
     
   </entry>
   
@@ -144,10 +144,10 @@
     
     
     
-    <category term="Programming" scheme="https://blog.emn178.cc/categories/Programming/"/>
+    <category term="Programming" scheme="https://blog.emn178.cc/en/categories/Programming/"/>
     
     
-    <category term="Ruby" scheme="https://blog.emn178.cc/tags/Ruby/"/>
+    <category term="Ruby" scheme="https://blog.emn178.cc/en/tags/Ruby/"/>
     
   </entry>
   

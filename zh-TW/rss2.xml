@@ -9,8 +9,32 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sun, 26 Mar 2023 14:21:52 GMT</pubDate>
+    <pubDate>Wed, 29 Mar 2023 12:48:05 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>zkSync 空投交互教學</title>
+      <link>https://blog.emn178.cc/zh-TW/post/zksync-airdrop-step-by-step/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/zksync-airdrop-step-by-step/</guid>
+      <pubDate>Wed, 29 Mar 2023 06:45:07 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;本篇文章以圖文的方式來說明如何進行跨橋 (Bridge) ，以及和應用如何交互。上一篇文章 &lt;a href=&quot;/zh-TW/post/zksync-airdrop-strategy&quot;&gt;zkSync 空投策略&lt;/a&gt;了解策略後，我們可以開始進行交互。如果進行一次交互的策略，準</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/zkSync/">zkSync</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/zksync-airdrop-step-by-step/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>zkSync 空投策略</title>
@@ -20,17 +44,16 @@
       
         
         
-      <description>&lt;p&gt;前陣子 Arbitrum 已經空投，聽說有人嚕到退休了。&lt;a href=&quot;https://zksync.io/&quot;&gt;zkSync&lt;/a&gt; 是下一個熱門空投的機會，這邊研究並整理一份資料給大家參考。&lt;/p&gt;
-&lt;h2 id=&quot;空投規則&quot;&gt;&lt;a href=&quot;#空投規則&quot; class</description>
+      <description>&lt;p&gt;前陣子 Arbitrum 已經空投，聽說有人嚕到退休了。&lt;a href=&quot;https://zksync.io/&quot;&gt;zkSync&lt;/a&gt; 是下一個熱門空投的機會，這邊研究並整理一份資料給大家參考。下一篇文章 &lt;a href=&quot;/zh-TW/post/zksync-airdro</description>
         
       
       
       
       
-      <category domain="https://blog.emn178.cc/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/zkSync/">zkSync</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/zkSync/">zkSync</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/#disqus_thread</comments>
@@ -52,10 +75,10 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/AI/">AI</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/AI/">AI</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/Stable-Diffusion/">Stable Diffusion</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/">Stable Diffusion</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img/#disqus_thread</comments>
@@ -77,10 +100,10 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/AI/">AI</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/AI/">AI</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/Stable-Diffusion/">Stable Diffusion</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/">Stable Diffusion</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-txt2img/#disqus_thread</comments>
@@ -101,10 +124,10 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/AI/">AI</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/AI/">AI</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/Stable-Diffusion/">Stable Diffusion</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/">Stable Diffusion</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/#disqus_thread</comments>
@@ -125,10 +148,10 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/AI/">AI</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/AI/">AI</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/Midjourney/">Midjourney</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Midjourney/">Midjourney</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/midjourney-parameters-chaos/#disqus_thread</comments>
@@ -150,10 +173,10 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/AI/">AI</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/AI/">AI</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/Midjourney/">Midjourney</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Midjourney/">Midjourney</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/midjourney-parameters-aspect-ratios/#disqus_thread</comments>
@@ -171,12 +194,12 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/Ruby/">Ruby</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Ruby/">Ruby</category>
       
-      <category domain="https://blog.emn178.cc/tags/Ruby-on-Rails/">Ruby on Rails</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Ruby-on-Rails/">Ruby on Rails</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/how-to-solve-you-have-already-activated-x-but-your-gemfile-requires-y/#disqus_thread</comments>
@@ -197,10 +220,10 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/AI/">AI</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/AI/">AI</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/Midjourney/">Midjourney</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Midjourney/">Midjourney</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/midjourney-hide-messages/#disqus_thread</comments>
@@ -218,7 +241,7 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
       
       
       
@@ -237,10 +260,10 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/Postgresql/">Postgresql</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Postgresql/">Postgresql</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/how-to-solve-libicui18n-dylib-no-such-file-not-in-dyld-cache/#disqus_thread</comments>
@@ -262,10 +285,10 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/AI/">AI</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/AI/">AI</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/Midjourney/">Midjourney</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Midjourney/">Midjourney</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/midjourney-ai-art-generator/#disqus_thread</comments>
@@ -286,10 +309,10 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/AI/">AI</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/AI/">AI</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/Stable-Diffusion/">Stable Diffusion</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/">Stable Diffusion</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/dreamstudio-ai-art-generator/#disqus_thread</comments>
@@ -311,7 +334,7 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/AI/">AI</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/AI/">AI</category>
       
       
       
@@ -337,14 +360,14 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/%E6%97%85%E9%81%8A/">旅遊</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E6%97%85%E9%81%8A/">旅遊</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/%E9%9F%93%E5%9C%8B/">韓國</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/%E9%9F%93%E5%9C%8B/">韓國</category>
       
-      <category domain="https://blog.emn178.cc/tags/%E9%A6%96%E7%88%BE/">首爾</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/%E9%A6%96%E7%88%BE/">首爾</category>
       
-      <category domain="https://blog.emn178.cc/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/">自由行</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/">自由行</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/korea-seoul-n-seoul-tower/#disqus_thread</comments>
@@ -369,14 +392,14 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/%E6%97%85%E9%81%8A/">旅遊</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E6%97%85%E9%81%8A/">旅遊</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/%E9%9F%93%E5%9C%8B/">韓國</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/%E9%9F%93%E5%9C%8B/">韓國</category>
       
-      <category domain="https://blog.emn178.cc/tags/%E9%A6%96%E7%88%BE/">首爾</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/%E9%A6%96%E7%88%BE/">首爾</category>
       
-      <category domain="https://blog.emn178.cc/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/">自由行</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/">自由行</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/korea-seoul-vivaldi-park/#disqus_thread</comments>
@@ -400,14 +423,14 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/%E6%97%85%E9%81%8A/">旅遊</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E6%97%85%E9%81%8A/">旅遊</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/%E9%9F%93%E5%9C%8B/">韓國</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/%E9%9F%93%E5%9C%8B/">韓國</category>
       
-      <category domain="https://blog.emn178.cc/tags/%E9%A6%96%E7%88%BE/">首爾</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/%E9%A6%96%E7%88%BE/">首爾</category>
       
-      <category domain="https://blog.emn178.cc/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/">自由行</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/">自由行</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/korea-seoul-gyeongbokgung-samcheong-dong-bukchon-hanok-village/#disqus_thread</comments>
@@ -425,14 +448,14 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/%E6%97%85%E9%81%8A/">旅遊</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E6%97%85%E9%81%8A/">旅遊</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/%E9%9F%93%E5%9C%8B/">韓國</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/%E9%9F%93%E5%9C%8B/">韓國</category>
       
-      <category domain="https://blog.emn178.cc/tags/%E9%A6%96%E7%88%BE/">首爾</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/%E9%A6%96%E7%88%BE/">首爾</category>
       
-      <category domain="https://blog.emn178.cc/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/">自由行</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/">自由行</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/korea-seoul-tour/#disqus_thread</comments>
@@ -450,10 +473,10 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/Solidity/">Solidity</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Solidity/">Solidity</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-variable-ordering/#disqus_thread</comments>
@@ -476,12 +499,12 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/%E6%97%85%E9%81%8A/">旅遊</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E6%97%85%E9%81%8A/">旅遊</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/%E6%96%B0%E7%AB%B9/">新竹</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/%E6%96%B0%E7%AB%B9/">新竹</category>
       
-      <category domain="https://blog.emn178.cc/tags/%E6%99%AF%E9%BB%9E/">景點</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/%E6%99%AF%E9%BB%9E/">景點</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/lake-placid-and-hsinchu-park/#disqus_thread</comments>
@@ -504,12 +527,12 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/%E6%97%85%E9%81%8A/">旅遊</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E6%97%85%E9%81%8A/">旅遊</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/%E6%96%B0%E7%AB%B9/">新竹</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/%E6%96%B0%E7%AB%B9/">新竹</category>
       
-      <category domain="https://blog.emn178.cc/tags/%E6%99%AF%E9%BB%9E/">景點</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/%E6%99%AF%E9%BB%9E/">景點</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/hsinchu-green-grassland/#disqus_thread</comments>
@@ -530,10 +553,10 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/PHP/">PHP</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/PHP/">PHP</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/php-tutorial-operators-final/#disqus_thread</comments>
@@ -554,10 +577,10 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/PHP/">PHP</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/PHP/">PHP</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/php-tutorial-operators/#disqus_thread</comments>
@@ -579,10 +602,10 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/PHP/">PHP</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/PHP/">PHP</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/php-tutorial-constants/#disqus_thread</comments>
@@ -604,10 +627,10 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/PHP/">PHP</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/PHP/">PHP</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/php-tutorial-variables/#disqus_thread</comments>
@@ -629,10 +652,10 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/PHP/">PHP</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/PHP/">PHP</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/php-tutorial-data-type-final/#disqus_thread</comments>
@@ -654,10 +677,10 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/PHP/">PHP</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/PHP/">PHP</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/php-tutorial-data-type/#disqus_thread</comments>
@@ -679,10 +702,10 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/PHP/">PHP</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/PHP/">PHP</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/php-tutorial-syntax/#disqus_thread</comments>
@@ -700,10 +723,10 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/PHP/">PHP</category>
+      <category domain="https://blog.emn178.cc/zh-TW/tags/PHP/">PHP</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/php-startup-unable-to-load-dynamic-library-php-exif-dll/#disqus_thread</comments>

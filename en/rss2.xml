@@ -9,7 +9,7 @@
     <atom:link href="https://blog.emn178.cc/en/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sun, 26 Mar 2023 14:44:22 GMT</pubDate>
+    <pubDate>Wed, 29 Mar 2023 09:03:26 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -26,10 +26,10 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/Blockchain/">Blockchain</category>
+      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/zkSync/">zkSync</category>
+      <category domain="https://blog.emn178.cc/en/tags/zkSync/">zkSync</category>
       
       
       <comments>https://blog.emn178.cc/en/post/zksync-airdrop-strategy/#disqus_thread</comments>
@@ -47,10 +47,10 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/Programming/">Programming</category>
+      <category domain="https://blog.emn178.cc/en/categories/Programming/">Programming</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/Solidity/">Solidity</category>
+      <category domain="https://blog.emn178.cc/en/tags/Solidity/">Solidity</category>
       
       
       <comments>https://blog.emn178.cc/en/post/solidity-gas-optimization-variable-ordering/#disqus_thread</comments>
@@ -65,18 +65,18 @@
       
         
         
-      <description>&lt;p&gt;We had known &lt;a href=&quot;../how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests&quot;&gt;How to Write a Library for Node.js and Bro</description>
+      <description>&lt;p&gt;We had known &lt;a href=&quot;/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests&quot;&gt;How to Write a Library for Node.js a</description>
         
       
       
       
       
-      <category domain="https://blog.emn178.cc/categories/Programming/">Programming</category>
+      <category domain="https://blog.emn178.cc/en/categories/Programming/">Programming</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/Node-js/">Node.js</category>
+      <category domain="https://blog.emn178.cc/en/tags/Node-js/">Node.js</category>
       
-      <category domain="https://blog.emn178.cc/tags/JavaScript/">JavaScript</category>
+      <category domain="https://blog.emn178.cc/en/tags/JavaScript/">JavaScript</category>
       
       
       <comments>https://blog.emn178.cc/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/#disqus_thread</comments>
@@ -97,12 +97,12 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/Programming/">Programming</category>
+      <category domain="https://blog.emn178.cc/en/categories/Programming/">Programming</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/Node-js/">Node.js</category>
+      <category domain="https://blog.emn178.cc/en/tags/Node-js/">Node.js</category>
       
-      <category domain="https://blog.emn178.cc/tags/JavaScript/">JavaScript</category>
+      <category domain="https://blog.emn178.cc/en/tags/JavaScript/">JavaScript</category>
       
       
       <comments>https://blog.emn178.cc/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/#disqus_thread</comments>
@@ -123,12 +123,12 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/Programming/">Programming</category>
+      <category domain="https://blog.emn178.cc/en/categories/Programming/">Programming</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/Node-js/">Node.js</category>
+      <category domain="https://blog.emn178.cc/en/tags/Node-js/">Node.js</category>
       
-      <category domain="https://blog.emn178.cc/tags/JavaScript/">JavaScript</category>
+      <category domain="https://blog.emn178.cc/en/tags/JavaScript/">JavaScript</category>
       
       
       <comments>https://blog.emn178.cc/en/post/node-js-how-to-integrate-travis-ci-with-github/#disqus_thread</comments>
@@ -149,10 +149,10 @@
       
       
       
-      <category domain="https://blog.emn178.cc/categories/Programming/">Programming</category>
+      <category domain="https://blog.emn178.cc/en/categories/Programming/">Programming</category>
       
       
-      <category domain="https://blog.emn178.cc/tags/Ruby/">Ruby</category>
+      <category domain="https://blog.emn178.cc/en/tags/Ruby/">Ruby</category>
       
       
       <comments>https://blog.emn178.cc/en/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/#disqus_thread</comments>
