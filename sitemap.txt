@@ -3,6 +3,7 @@ https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/
 https://blog.emn178.cc/zh-TW/post/php-tutorial-syntax/
 https://blog.emn178.cc/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/
 https://blog.emn178.cc/en/post/zksync-airdrop-strategy/
+https://blog.emn178.cc/en/post/node-js-how-to-integrate-travis-ci-with-github/
 https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-variable-ordering/
 https://blog.emn178.cc/zh-TW/post/php-tutorial-operators-final/
 https://blog.emn178.cc/zh-TW/post/php-tutorial-operators/
@@ -23,7 +24,6 @@ https://blog.emn178.cc/zh-TW/categories/
 https://blog.emn178.cc/en/categories/
 https://blog.emn178.cc/en/tags/
 https://blog.emn178.cc/en/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/
-https://blog.emn178.cc/en/post/node-js-how-to-integrate-travis-ci-with-github/
 https://blog.emn178.cc/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/
 https://blog.emn178.cc/zh-TW/post/how-to-solve-you-have-already-activated-x-but-your-gemfile-requires-y/
 https://blog.emn178.cc/zh-TW/post/midjourney-parameters-chaos/

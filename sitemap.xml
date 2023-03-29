@@ -37,6 +37,13 @@
   </url>
   
   <url>
+    <loc>https://blog.emn178.cc/en/post/node-js-how-to-integrate-travis-ci-with-github/</loc>
+    
+    <lastmod>2023-03-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-variable-ordering/</loc>
     
     <lastmod>2023-03-26</lastmod>
@@ -171,13 +178,6 @@
   
   <url>
     <loc>https://blog.emn178.cc/en/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.emn178.cc/en/post/node-js-how-to-integrate-travis-ci-with-github/</loc>
     
     <lastmod>2023-03-21</lastmod>
     

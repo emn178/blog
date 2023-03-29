@@ -4,19 +4,19 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>小殘的程式光廊</title>
-    <link>https://blog.emn178.cc/</link>
+    <link>https://blog.emn178.cc/zh-TW/</link>
     
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Wed, 29 Mar 2023 12:48:05 GMT</pubDate>
+    <pubDate>Wed, 29 Mar 2023 13:02:56 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>zkSync 空投交互教學</title>
       <link>https://blog.emn178.cc/zh-TW/post/zksync-airdrop-step-by-step/</link>
       <guid>https://blog.emn178.cc/zh-TW/post/zksync-airdrop-step-by-step/</guid>
-      <pubDate>Wed, 29 Mar 2023 06:45:07 GMT</pubDate>
+      <pubDate>Wed, 29 Mar 2023 13:02:07 GMT</pubDate>
       
         
         
