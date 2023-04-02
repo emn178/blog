@@ -9,8 +9,30 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sat, 01 Apr 2023 12:25:19 GMT</pubDate>
+    <pubDate>Sun, 02 Apr 2023 00:05:09 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>StarkNet 空投資訊整理</title>
+      <link>https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/</guid>
+      <pubDate>Sun, 02 Apr 2023 00:05:27 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;&lt;a href=&quot;https://www.starknet.io/&quot;&gt;StarkNet&lt;/a&gt; 是其中一個 ZK Rollup 的 L2 方案，一樣是熱門空投機會，這邊研究並整理一份資料給大家參考。作為同樣 L2 ZK Rollup 的方案，策略就一樣參考之前的 &lt;a hr</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>區塊鏈詐騙 - AI-A (AI Avail) 代幣</title>
