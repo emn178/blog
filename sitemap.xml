@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.emn178.cc/en/post/starknet-airdrop-guide/</loc>
+    
+    <lastmod>2023-04-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.emn178.cc/en/post/zksync-airdrop-strategy/</loc>
+    
+    <lastmod>2023-04-02</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.emn178.cc/zh-TW/post/korea-seoul-tour/</loc>
     
     <lastmod>2023-04-02</lastmod>
@@ -31,13 +45,6 @@
   
   <url>
     <loc>https://blog.emn178.cc/zh-TW/post/ai-a-scam-token/</loc>
-    
-    <lastmod>2023-04-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.emn178.cc/en/post/zksync-airdrop-strategy/</loc>
     
     <lastmod>2023-04-01</lastmod>
     
@@ -438,6 +445,11 @@
     
   <url>
     <loc>https://blog.emn178.cc/en/tags/zkSync/</loc>
+    <lastmod>2023-04-02</lastmod>
+  </url>
+    
+  <url>
+    <loc>https://blog.emn178.cc/en/tags/StarkNet/</loc>
     <lastmod>2023-04-02</lastmod>
   </url>
     
