@@ -1,7 +1,7 @@
+https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint/
 https://blog.emn178.cc/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-txt2img/
-https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint/
 https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/
 https://blog.emn178.cc/en/post/zksync-airdrop-strategy/
 https://blog.emn178.cc/en/post/zksync-airdrop-step-by-step/
