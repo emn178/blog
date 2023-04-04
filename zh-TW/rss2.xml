@@ -9,8 +9,33 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sun, 02 Apr 2023 00:05:09 GMT</pubDate>
+    <pubDate>Tue, 04 Apr 2023 14:09:46 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Stable Diffusion 教學 - web UI 圖像修復 (Inpaint)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint/</guid>
+      <pubDate>Tue, 04 Apr 2023 14:05:11 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;本篇文章介紹 Stable Diffusion web UI 圖像修復 (Inpaint) 頁面的基本功能。&lt;/p&gt;
+&lt;h2 id=&quot;功能區塊&quot;&gt;&lt;a href=&quot;#功能區塊&quot; class=&quot;headerlink&quot; title=&quot;功能區塊&quot;&gt;&lt;/a&gt;功能區塊&lt;/h2&gt;&lt;p&gt;</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/AI/">AI</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/">Stable Diffusion</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>StarkNet 空投資訊整理</title>

@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2023-04-02T00:05:09.954Z</updated>
+  <updated>2023-04-04T14:09:46.010Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Stable Diffusion 教學 - web UI 圖像修復 (Inpaint)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint/</id>
+    <published>2023-04-04T14:05:11.000Z</published>
+    <updated>2023-04-04T14:09:46.010Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;本篇文章介紹 Stable Diffusion web UI 圖像修復 (Inpaint) 頁面的基本功能。&lt;/p&gt;
+&lt;h2 id=&quot;功能區塊&quot;&gt;&lt;a href=&quot;#功能區塊&quot; class=&quot;headerlink&quot; title=&quot;功能區塊&quot;&gt;&lt;/a&gt;功能區塊&lt;/h2&gt;&lt;p&gt;</summary>
+      
+    
+    
+    
+    <category term="AI" scheme="https://blog.emn178.cc/zh-TW/categories/AI/"/>
+    
+    
+    <category term="Stable Diffusion" scheme="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/"/>
+    
+  </entry>
   
   <entry>
     <title>StarkNet 空投資訊整理</title>
@@ -106,7 +129,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img/</id>
     <published>2023-03-21T10:46:47.000Z</published>
-    <updated>2023-04-03T03:06:32.731Z</updated>
+    <updated>2023-04-04T14:11:00.489Z</updated>
     
     
       
@@ -129,7 +152,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-txt2img/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-txt2img/</id>
     <published>2023-03-15T13:28:11.000Z</published>
-    <updated>2023-03-23T06:38:25.408Z</updated>
+    <updated>2023-04-04T14:10:21.410Z</updated>
     
     
       
@@ -152,7 +175,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/"/>
     <id>https://blog.emn178.cc/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/</id>
     <published>2023-03-14T15:24:28.000Z</published>
-    <updated>2023-03-23T06:37:07.447Z</updated>
+    <updated>2023-04-04T14:11:04.599Z</updated>
     
     
       

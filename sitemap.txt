@@ -1,8 +1,11 @@
+https://blog.emn178.cc/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/
+https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img/
+https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-txt2img/
+https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint/
 https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/
 https://blog.emn178.cc/en/post/zksync-airdrop-strategy/
 https://blog.emn178.cc/en/post/zksync-airdrop-step-by-step/
 https://blog.emn178.cc/zh-TW/post/zksync-airdrop-step-by-step/
-https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img/
 https://blog.emn178.cc/en/post/starknet-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/korea-seoul-tour/
 https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/
@@ -19,8 +22,6 @@ https://blog.emn178.cc/zh-TW/post/php-tutorial-data-type-final/
 https://blog.emn178.cc/zh-TW/post/php-tutorial-data-type/
 https://blog.emn178.cc/zh-TW/post/php-tutorial-constants/
 https://blog.emn178.cc/en/post/solidity-gas-optimization-variable-ordering/
-https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-txt2img/
-https://blog.emn178.cc/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/
 https://blog.emn178.cc/zh-TW/post/midjourney-ai-art-generator/
 https://blog.emn178.cc/zh-TW/post/dall-e-2-ai-art-generator/
 https://blog.emn178.cc/zh-TW/post/dreamstudio-ai-art-generator/
