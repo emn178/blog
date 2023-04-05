@@ -518,13 +518,10 @@
     <link href="https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-data-compression/"/>
     <id>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-data-compression/</id>
     <published>2018-05-07T15:29:52.000Z</published>
-    <updated>2023-04-05T01:36:20.712Z</updated>
+    <updated>2023-04-05T10:25:17.893Z</updated>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;在開發 &lt;a href=&quot;https://joyso.io/&quot;&gt;JOYSO&lt;/a&gt; 的過程，由於想要能夠達到多筆撮合的功能，我們實作了一個函式能夠輸入多筆訂單資料。在隨著我們加入了越來越多的功能，同時為了確保合約公正性，而需要越來越的參數，例如：礦工手續費、taker 手續</summary>
-      
+    <summary type="html">本篇文章說明 Solidity 智能合約 Gas 優化技巧。如何利用資料合併和編碼的方式，來壓縮資料達到減少變數和 Gas 消耗的目的。</summary>
     
     
     
@@ -559,7 +556,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization/"/>
     <id>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization/</id>
     <published>2018-02-13T14:38:38.000Z</published>
-    <updated>2023-04-05T01:24:57.783Z</updated>
+    <updated>2023-04-05T09:06:17.325Z</updated>
     
     
     <summary type="html">本篇文章說明 Solidity 智能合約 Gas 優化技巧，文章將整理分析智能合約中，影響 gas 消耗的一些因素，有助於我們了解消耗最大的指令是哪些，並謹慎的使用。</summary>

@@ -559,10 +559,7 @@
       <guid>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-data-compression/</guid>
       <pubDate>Mon, 07 May 2018 15:29:52 GMT</pubDate>
       
-        
-        
-      <description>&lt;p&gt;在開發 &lt;a href=&quot;https://joyso.io/&quot;&gt;JOYSO&lt;/a&gt; 的過程，由於想要能夠達到多筆撮合的功能，我們實作了一個函式能夠輸入多筆訂單資料。在隨著我們加入了越來越多的功能，同時為了確保合約公正性，而需要越來越的參數，例如：礦工手續費、taker 手續</description>
-        
+      <description>本篇文章說明 Solidity 智能合約 Gas 優化技巧。如何利用資料合併和編碼的方式，來壓縮資料達到減少變數和 Gas 消耗的目的。</description>
       
       
       

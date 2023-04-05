@@ -1,8 +1,11 @@
+https://blog.emn178.cc/en/post/solidity-gas-optimization-data-compression/
 https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-data-compression/
+https://blog.emn178.cc/en/post/solidity-gas-optimization-variable-ordering/
+https://blog.emn178.cc/en/post/solidity-gas-optimization-function-name/
+https://blog.emn178.cc/en/post/solidity-gas-optimization/
+https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization/
 https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-variable-ordering/
 https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-function-name/
-https://blog.emn178.cc/en/post/solidity-gas-optimization-variable-ordering/
-https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization/
 https://blog.emn178.cc/en/post/starknet-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/
 https://blog.emn178.cc/zh-TW/post/zksync-airdrop-step-by-step/

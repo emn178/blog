@@ -117,13 +117,76 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Programming/">Programming</category>
+      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
       
       
       <category domain="https://blog.emn178.cc/en/tags/Solidity/">Solidity</category>
       
       
       <comments>https://blog.emn178.cc/en/post/solidity-gas-optimization-variable-ordering/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Solidity Gas Optimizations - Data Compression</title>
+      <link>https://blog.emn178.cc/en/post/solidity-gas-optimization-data-compression/</link>
+      <guid>https://blog.emn178.cc/en/post/solidity-gas-optimization-data-compression/</guid>
+      <pubDate>Mon, 07 May 2018 10:26:05 GMT</pubDate>
+      
+      <description>This article explains the gas optimization techniques of Solidity smart contracts. Explain how to use data merging and numbering to compress data to reduce variables and gas consumption.</description>
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      
+      
+      <category domain="https://blog.emn178.cc/en/tags/Solidity/">Solidity</category>
+      
+      
+      <comments>https://blog.emn178.cc/en/post/solidity-gas-optimization-data-compression/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Solidity Gas Optimizations - Function Name</title>
+      <link>https://blog.emn178.cc/en/post/solidity-gas-optimization-function-name/</link>
+      <guid>https://blog.emn178.cc/en/post/solidity-gas-optimization-function-name/</guid>
+      <pubDate>Fri, 04 May 2018 09:04:52 GMT</pubDate>
+      
+      <description>This article explains the gas optimization techniques of Solidity smart contracts. The article will explain the rules and principles of function names on gas consumption, explain the definition and generation of function signatures and Method IDs, and finally provide optimization methods.</description>
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/en/categories/Programming/">Programming</category>
+      
+      
+      <category domain="https://blog.emn178.cc/en/tags/Solidity/">Solidity</category>
+      
+      
+      <comments>https://blog.emn178.cc/en/post/solidity-gas-optimization-function-name/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Solidity Gas Optimizations</title>
+      <link>https://blog.emn178.cc/en/post/solidity-gas-optimization/</link>
+      <guid>https://blog.emn178.cc/en/post/solidity-gas-optimization/</guid>
+      <pubDate>Wed, 07 Mar 2018 09:02:40 GMT</pubDate>
+      
+      <description>This article explains the gas optimization techniques of Solidity smart contracts. This article will organize and analyze some factors that affect gas consumption in smart contracts, which will help us understand which instructions consume the most and use them cautiously.</description>
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      
+      
+      <category domain="https://blog.emn178.cc/en/tags/Solidity/">Solidity</category>
+      
+      
+      <comments>https://blog.emn178.cc/en/post/solidity-gas-optimization/#disqus_thread</comments>
       
     </item>
     
