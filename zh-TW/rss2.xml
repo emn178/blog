@@ -538,18 +538,84 @@
       <guid>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-variable-ordering/</guid>
       <pubDate>Sun, 09 Sep 2018 02:26:38 GMT</pubDate>
       
-      <description>本篇文章說明 Solidity 智能合約 Gas 優化技巧，說明變數順序影響 Gas 消耗的原因和特性，提供兩種優化的策略教學來減少 Gas 消耗。</description>
+      <description>本篇文章說明 Solidity 智能合約 Gas 優化技巧，說明變數順序影響 gas 消耗的原因和特性，提供兩種優化的策略教學來減少 gas 消耗。</description>
       
       
       
       
-      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
       
       
       <category domain="https://blog.emn178.cc/zh-TW/tags/Solidity/">Solidity</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-variable-ordering/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Solidity 智能合約 Gas 優化技巧 - 資料壓縮</title>
+      <link>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-data-compression/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-data-compression/</guid>
+      <pubDate>Mon, 07 May 2018 15:29:52 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;在開發 &lt;a href=&quot;https://joyso.io/&quot;&gt;JOYSO&lt;/a&gt; 的過程，由於想要能夠達到多筆撮合的功能，我們實作了一個函式能夠輸入多筆訂單資料。在隨著我們加入了越來越多的功能，同時為了確保合約公正性，而需要越來越的參數，例如：礦工手續費、taker 手續</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Solidity/">Solidity</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-data-compression/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Solidity 智能合約 Gas 優化技巧 - 函式名稱</title>
+      <link>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-function-name/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-function-name/</guid>
+      <pubDate>Thu, 22 Mar 2018 15:30:38 GMT</pubDate>
+      
+      <description>本篇文章說明 Solidity 智能合約 Gas 優化技巧，文章將說明函式名稱對 gas 消耗的規則和原理，解釋函式簽章和 Method ID 定義和產生，最後提供優化的方法。</description>
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Solidity/">Solidity</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-function-name/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Solidity 智能合約 Gas 優化技巧</title>
+      <link>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization/</guid>
+      <pubDate>Tue, 13 Feb 2018 14:38:38 GMT</pubDate>
+      
+      <description>本篇文章說明 Solidity 智能合約 Gas 優化技巧，文章將整理分析智能合約中，影響 gas 消耗的一些因素，有助於我們了解消耗最大的指令是哪些，並謹慎的使用。</description>
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Solidity/">Solidity</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization/#disqus_thread</comments>
       
     </item>
     

@@ -44,7 +44,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/"/>
     <id>https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/</id>
     <published>2023-04-02T00:05:27.000Z</published>
-    <updated>2023-04-02T00:05:09.954Z</updated>
+    <updated>2023-04-04T15:40:09.039Z</updated>
     
     
       
@@ -85,7 +85,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/zksync-airdrop-step-by-step/"/>
     <id>https://blog.emn178.cc/zh-TW/post/zksync-airdrop-step-by-step/</id>
     <published>2023-03-29T13:02:07.000Z</published>
-    <updated>2023-04-04T03:55:04.251Z</updated>
+    <updated>2023-04-04T15:43:35.271Z</updated>
     
     
       
@@ -107,7 +107,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/"/>
     <id>https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/</id>
     <published>2023-03-26T08:20:02.000Z</published>
-    <updated>2023-04-04T05:33:45.124Z</updated>
+    <updated>2023-04-04T15:43:37.136Z</updated>
     
     
       
@@ -499,14 +499,74 @@
     <link href="https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-variable-ordering/"/>
     <id>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-variable-ordering/</id>
     <published>2018-09-09T02:26:38.000Z</published>
-    <updated>2023-03-26T08:25:57.954Z</updated>
+    <updated>2023-04-05T01:29:01.994Z</updated>
     
     
-    <summary type="html">本篇文章說明 Solidity 智能合約 Gas 優化技巧，說明變數順序影響 Gas 消耗的原因和特性，提供兩種優化的策略教學來減少 Gas 消耗。</summary>
+    <summary type="html">本篇文章說明 Solidity 智能合約 Gas 優化技巧，說明變數順序影響 gas 消耗的原因和特性，提供兩種優化的策略教學來減少 gas 消耗。</summary>
     
     
     
-    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    <category term="區塊鏈" scheme="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/"/>
+    
+    
+    <category term="Solidity" scheme="https://blog.emn178.cc/zh-TW/tags/Solidity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Solidity 智能合約 Gas 優化技巧 - 資料壓縮</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-data-compression/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-data-compression/</id>
+    <published>2018-05-07T15:29:52.000Z</published>
+    <updated>2023-04-05T01:31:02.880Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;在開發 &lt;a href=&quot;https://joyso.io/&quot;&gt;JOYSO&lt;/a&gt; 的過程，由於想要能夠達到多筆撮合的功能，我們實作了一個函式能夠輸入多筆訂單資料。在隨著我們加入了越來越多的功能，同時為了確保合約公正性，而需要越來越的參數，例如：礦工手續費、taker 手續</summary>
+      
+    
+    
+    
+    <category term="區塊鏈" scheme="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/"/>
+    
+    
+    <category term="Solidity" scheme="https://blog.emn178.cc/zh-TW/tags/Solidity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Solidity 智能合約 Gas 優化技巧 - 函式名稱</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-function-name/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-function-name/</id>
+    <published>2018-03-22T15:30:38.000Z</published>
+    <updated>2023-04-05T01:28:04.034Z</updated>
+    
+    
+    <summary type="html">本篇文章說明 Solidity 智能合約 Gas 優化技巧，文章將說明函式名稱對 gas 消耗的規則和原理，解釋函式簽章和 Method ID 定義和產生，最後提供優化的方法。</summary>
+    
+    
+    
+    <category term="區塊鏈" scheme="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/"/>
+    
+    
+    <category term="Solidity" scheme="https://blog.emn178.cc/zh-TW/tags/Solidity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Solidity 智能合約 Gas 優化技巧</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization/</id>
+    <published>2018-02-13T14:38:38.000Z</published>
+    <updated>2023-04-05T01:24:57.783Z</updated>
+    
+    
+    <summary type="html">本篇文章說明 Solidity 智能合約 Gas 優化技巧，文章將整理分析智能合約中，影響 gas 消耗的一些因素，有助於我們了解消耗最大的指令是哪些，並謹慎的使用。</summary>
+    
+    
+    
+    <category term="區塊鏈" scheme="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/"/>
     
     
     <category term="Solidity" scheme="https://blog.emn178.cc/zh-TW/tags/Solidity/"/>
