@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2023-04-04T14:28:04.985Z</updated>
+  <updated>2023-04-06T14:35:47.989Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint/</id>
     <published>2023-04-04T14:05:11.000Z</published>
-    <updated>2023-04-04T14:28:04.985Z</updated>
+    <updated>2023-04-06T14:35:47.989Z</updated>
     
     
       
@@ -44,7 +44,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/"/>
     <id>https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/</id>
     <published>2023-04-02T00:05:27.000Z</published>
-    <updated>2023-04-04T15:40:09.039Z</updated>
+    <updated>2023-04-06T14:36:58.175Z</updated>
     
     
       
@@ -85,12 +85,12 @@
     <link href="https://blog.emn178.cc/zh-TW/post/zksync-airdrop-step-by-step/"/>
     <id>https://blog.emn178.cc/zh-TW/post/zksync-airdrop-step-by-step/</id>
     <published>2023-03-29T13:02:07.000Z</published>
-    <updated>2023-04-04T15:43:35.271Z</updated>
+    <updated>2023-04-06T14:36:52.972Z</updated>
     
     
       
       
-    <summary type="html">&lt;p&gt;本篇文章以圖文的方式來說明如何進行跨橋 (Bridge) ，以及和應用如何交互。上一篇文章 &lt;a href=&quot;/zh-TW/post/zksync-airdrop-strategy&quot;&gt;zkSync 空投策略&lt;/a&gt;了解策略後，我們可以開始進行交互。如果進行一次交互的策略，準</summary>
+    <summary type="html">&lt;p&gt;本篇文章以圖文的方式來說明如何進行跨橋 (Bridge) ，以及和應用如何交互。上一篇文章 &lt;a href=&quot;/zh-TW/post/zksync-airdrop-strategy/&quot;&gt;zkSync 空投策略&lt;/a&gt;了解策略後，我們可以開始進行交互。如果進行一次交互的策略，</summary>
       
     
     
@@ -107,7 +107,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/"/>
     <id>https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/</id>
     <published>2023-03-26T08:20:02.000Z</published>
-    <updated>2023-04-04T15:43:37.136Z</updated>
+    <updated>2023-04-06T14:36:48.017Z</updated>
     
     
       
@@ -129,7 +129,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img/</id>
     <published>2023-03-21T10:46:47.000Z</published>
-    <updated>2023-04-04T14:11:00.489Z</updated>
+    <updated>2023-04-06T14:35:34.162Z</updated>
     
     
       
@@ -152,7 +152,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-txt2img/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-txt2img/</id>
     <published>2023-03-15T13:28:11.000Z</published>
-    <updated>2023-04-04T14:10:21.410Z</updated>
+    <updated>2023-04-06T14:35:27.124Z</updated>
     
     
       
@@ -175,7 +175,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/"/>
     <id>https://blog.emn178.cc/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/</id>
     <published>2023-03-14T15:24:28.000Z</published>
-    <updated>2023-04-04T14:11:04.599Z</updated>
+    <updated>2023-04-06T14:35:22.942Z</updated>
     
     
       
@@ -627,7 +627,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/php-tutorial-operators-final/"/>
     <id>https://blog.emn178.cc/zh-TW/post/php-tutorial-operators-final/</id>
     <published>2010-05-18T01:05:37.000Z</published>
-    <updated>2023-03-25T02:34:12.690Z</updated>
+    <updated>2023-04-06T14:34:56.580Z</updated>
     
     
       
@@ -649,7 +649,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/php-tutorial-operators/"/>
     <id>https://blog.emn178.cc/zh-TW/post/php-tutorial-operators/</id>
     <published>2010-05-13T03:09:11.000Z</published>
-    <updated>2023-03-25T02:33:14.326Z</updated>
+    <updated>2023-04-06T14:34:51.543Z</updated>
     
     
       
@@ -671,7 +671,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/php-tutorial-constants/"/>
     <id>https://blog.emn178.cc/zh-TW/post/php-tutorial-constants/</id>
     <published>2010-05-01T02:10:59.000Z</published>
-    <updated>2023-03-25T02:01:15.559Z</updated>
+    <updated>2023-04-06T14:33:17.561Z</updated>
     
     
       
@@ -694,7 +694,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/php-tutorial-variables/"/>
     <id>https://blog.emn178.cc/zh-TW/post/php-tutorial-variables/</id>
     <published>2010-04-29T08:21:13.000Z</published>
-    <updated>2023-03-25T02:32:07.771Z</updated>
+    <updated>2023-04-06T14:32:56.645Z</updated>
     
     
       
@@ -717,7 +717,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/php-tutorial-data-type-final/"/>
     <id>https://blog.emn178.cc/zh-TW/post/php-tutorial-data-type-final/</id>
     <published>2010-04-18T06:02:13.000Z</published>
-    <updated>2023-03-25T02:29:46.837Z</updated>
+    <updated>2023-04-06T14:33:35.139Z</updated>
     
     
       
@@ -740,7 +740,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/php-tutorial-data-type/"/>
     <id>https://blog.emn178.cc/zh-TW/post/php-tutorial-data-type/</id>
     <published>2010-04-11T11:33:13.000Z</published>
-    <updated>2023-03-25T02:23:45.342Z</updated>
+    <updated>2023-04-06T14:32:46.585Z</updated>
     
     
       
@@ -763,7 +763,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/php-tutorial-syntax/"/>
     <id>https://blog.emn178.cc/zh-TW/post/php-tutorial-syntax/</id>
     <published>2010-04-07T14:00:37.000Z</published>
-    <updated>2023-03-29T12:44:40.094Z</updated>
+    <updated>2023-04-06T14:34:24.712Z</updated>
     
     
       

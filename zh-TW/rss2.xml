@@ -9,7 +9,7 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Tue, 04 Apr 2023 14:28:04 GMT</pubDate>
+    <pubDate>Thu, 06 Apr 2023 14:35:47 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -90,7 +90,7 @@
       
         
         
-      <description>&lt;p&gt;本篇文章以圖文的方式來說明如何進行跨橋 (Bridge) ，以及和應用如何交互。上一篇文章 &lt;a href=&quot;/zh-TW/post/zksync-airdrop-strategy&quot;&gt;zkSync 空投策略&lt;/a&gt;了解策略後，我們可以開始進行交互。如果進行一次交互的策略，準</description>
+      <description>&lt;p&gt;本篇文章以圖文的方式來說明如何進行跨橋 (Bridge) ，以及和應用如何交互。上一篇文章 &lt;a href=&quot;/zh-TW/post/zksync-airdrop-strategy/&quot;&gt;zkSync 空投策略&lt;/a&gt;了解策略後，我們可以開始進行交互。如果進行一次交互的策略，</description>
         
       
       
