@@ -1,3 +1,4 @@
+https://blog.emn178.cc/zh-TW/post/dall-e-2-ai-art-generator/
 https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/
 https://blog.emn178.cc/zh-TW/post/zksync-airdrop-step-by-step/
@@ -29,7 +30,6 @@ https://blog.emn178.cc/zh-TW/post/korea-seoul-tour/
 https://blog.emn178.cc/en/post/ai-a-scam-token/
 https://blog.emn178.cc/zh-TW/post/ai-a-scam-token/
 https://blog.emn178.cc/zh-TW/post/midjourney-ai-art-generator/
-https://blog.emn178.cc/zh-TW/post/dall-e-2-ai-art-generator/
 https://blog.emn178.cc/zh-TW/post/dreamstudio-ai-art-generator/
 https://blog.emn178.cc/zh-TW/post/php-startup-unable-to-load-dynamic-library-php-exif-dll/
 https://blog.emn178.cc/zh-TW/tags/
