@@ -9,8 +9,33 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Thu, 06 Apr 2023 14:35:47 GMT</pubDate>
+    <pubDate>Thu, 13 Apr 2023 14:56:54 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Stable Diffusion 教學 - web UI 手繪生圖 (Sketch)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-sketch/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-sketch/</guid>
+      <pubDate>Thu, 13 Apr 2023 14:55:59 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;本篇文章介紹 Stable Diffusion web UI 手繪生圖 (Sketch) 頁面的基本功能。基本上這個功能一樣是圖生圖，但在送出生圖之前，可以先自己做一些手繪調整。&lt;/p&gt;
+&lt;h2 id=&quot;功能區塊&quot;&gt;&lt;a href=&quot;#功能區塊&quot; class=&quot;header</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/AI/">AI</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/">Stable Diffusion</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-sketch/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Stable Diffusion 教學 - web UI 圖像修復 (Inpaint)</title>

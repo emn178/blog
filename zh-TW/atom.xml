@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2023-04-06T14:35:47.989Z</updated>
+  <updated>2023-04-13T14:56:54.224Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Stable Diffusion 教學 - web UI 手繪生圖 (Sketch)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-sketch/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-sketch/</id>
+    <published>2023-04-13T14:55:59.000Z</published>
+    <updated>2023-04-13T14:56:54.224Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;本篇文章介紹 Stable Diffusion web UI 手繪生圖 (Sketch) 頁面的基本功能。基本上這個功能一樣是圖生圖，但在送出生圖之前，可以先自己做一些手繪調整。&lt;/p&gt;
+&lt;h2 id=&quot;功能區塊&quot;&gt;&lt;a href=&quot;#功能區塊&quot; class=&quot;header</summary>
+      
+    
+    
+    
+    <category term="AI" scheme="https://blog.emn178.cc/zh-TW/categories/AI/"/>
+    
+    
+    <category term="Stable Diffusion" scheme="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Stable Diffusion 教學 - web UI 圖像修復 (Inpaint)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint/</id>
     <published>2023-04-04T14:05:11.000Z</published>
-    <updated>2023-04-06T14:35:47.989Z</updated>
+    <updated>2023-04-13T14:57:30.181Z</updated>
     
     
       
