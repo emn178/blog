@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2023-04-13T15:00:50.701Z</updated>
+  <updated>2023-04-14T15:45:33.426Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-sketch/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-sketch/</id>
     <published>2023-04-13T14:55:59.000Z</published>
-    <updated>2023-04-13T15:00:50.701Z</updated>
+    <updated>2023-04-14T15:45:33.426Z</updated>
     
     
       
@@ -67,7 +67,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/"/>
     <id>https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/</id>
     <published>2023-04-02T00:05:27.000Z</published>
-    <updated>2023-04-08T00:46:05.342Z</updated>
+    <updated>2023-04-15T01:36:45.842Z</updated>
     
     
       
@@ -130,7 +130,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/"/>
     <id>https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/</id>
     <published>2023-03-26T08:20:02.000Z</published>
-    <updated>2023-04-12T15:12:04.481Z</updated>
+    <updated>2023-04-15T02:12:06.402Z</updated>
     
     
       
@@ -715,6 +715,29 @@
   </entry>
   
   <entry>
+    <title>Maximum execution time of 30 seconds exceeded</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/maximum-execution-time-of-30-seconds-exceeded/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/maximum-execution-time-of-30-seconds-exceeded/</id>
+    <published>2010-05-03T03:16:42.000Z</published>
+    <updated>2023-04-14T15:43:00.898Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;問題&quot;&gt;&lt;a href=&quot;#問題&quot; class=&quot;headerlink&quot; title=&quot;問題&quot;&gt;&lt;/a&gt;問題&lt;/h2&gt;&lt;p&gt;PHP程式執行一段時間，最後出現以下錯誤訊息：&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    
+    <category term="PHP" scheme="https://blog.emn178.cc/zh-TW/tags/PHP/"/>
+    
+  </entry>
+  
+  <entry>
     <title>PHP 教學 - 常數 (Constants)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/php-tutorial-constants/"/>
     <id>https://blog.emn178.cc/zh-TW/post/php-tutorial-constants/</id>
@@ -834,7 +857,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/php-startup-unable-to-load-dynamic-library-php-exif-dll/"/>
     <id>https://blog.emn178.cc/zh-TW/post/php-startup-unable-to-load-dynamic-library-php-exif-dll/</id>
     <published>2010-04-06T12:19:37.000Z</published>
-    <updated>2023-03-22T01:45:18.871Z</updated>
+    <updated>2023-04-14T15:42:58.436Z</updated>
     
     
     <summary type="html">本篇文章說明如何解決 PHP 開啟 exif 模組後，出現這個錯誤訊息「PHP Startup: Unable to load dynamic library php_exif.dll」的解決方法。</summary>
