@@ -719,14 +719,10 @@
     <link href="https://blog.emn178.cc/zh-TW/post/maximum-execution-time-of-30-seconds-exceeded/"/>
     <id>https://blog.emn178.cc/zh-TW/post/maximum-execution-time-of-30-seconds-exceeded/</id>
     <published>2010-05-03T03:16:42.000Z</published>
-    <updated>2023-04-14T15:43:00.898Z</updated>
+    <updated>2023-04-15T03:29:54.709Z</updated>
     
     
-      
-      
-    <summary type="html">&lt;h2 id=&quot;問題&quot;&gt;&lt;a href=&quot;#問題&quot; class=&quot;headerlink&quot; title=&quot;問題&quot;&gt;&lt;/a&gt;問題&lt;/h2&gt;&lt;p&gt;PHP程式執行一段時間，最後出現以下錯誤訊息：&lt;/p&gt;
-&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table</summary>
-      
+    <summary type="html">本篇文章說明 PHP 出現誤訊息「Fatal error: Maximum execution time of 30 seconds exceeded in ....php on line ...」的原因和解決方法。</summary>
     
     
     

@@ -778,11 +778,7 @@
       <guid>https://blog.emn178.cc/zh-TW/post/maximum-execution-time-of-30-seconds-exceeded/</guid>
       <pubDate>Mon, 03 May 2010 03:16:42 GMT</pubDate>
       
-        
-        
-      <description>&lt;h2 id=&quot;問題&quot;&gt;&lt;a href=&quot;#問題&quot; class=&quot;headerlink&quot; title=&quot;問題&quot;&gt;&lt;/a&gt;問題&lt;/h2&gt;&lt;p&gt;PHP程式執行一段時間，最後出現以下錯誤訊息：&lt;/p&gt;
-&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table</description>
-        
+      <description>本篇文章說明 PHP 出現誤訊息「Fatal error: Maximum execution time of 30 seconds exceeded in ....php on line ...」的原因和解決方法。</description>
       
       
       
