@@ -1,3 +1,6 @@
+https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-sketch/
+https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint-sketch/
+https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint/
 https://blog.emn178.cc/zh-TW/post/shirokiya-museum-yingge-ceramics-museum/
 https://blog.emn178.cc/zh-TW/post/hsinchu-green-grassland/
 https://blog.emn178.cc/zh-TW/post/lake-placid-and-hsinchu-park/
@@ -5,10 +8,8 @@ https://blog.emn178.cc/zh-TW/post/maximum-execution-time-of-30-seconds-exceeded/
 https://blog.emn178.cc/en/post/zksync-airdrop-strategy/
 https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/
 https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/
-https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-sketch/
 https://blog.emn178.cc/zh-TW/post/php-startup-unable-to-load-dynamic-library-php-exif-dll/
 https://blog.emn178.cc/zh-TW/post/hsinchu-green-grass-lake-water-dance-show/
-https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint/
 https://blog.emn178.cc/zh-TW/post/zksync-airdrop-step-by-step/
 https://blog.emn178.cc/zh-TW/post/dall-e-2-ai-art-generator/
 https://blog.emn178.cc/en/post/zksync-airdrop-step-by-step/

@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2023-04-14T15:45:33.426Z</updated>
+  <updated>2023-04-16T06:10:03.581Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Stable Diffusion 教學 - web UI 手繪 + 圖像修復 (Inpaint sketch)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint-sketch/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint-sketch/</id>
+    <published>2023-04-16T04:14:24.000Z</published>
+    <updated>2023-04-16T06:10:03.581Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;本篇文章介紹 Stable Diffusion web UI 手繪 + 圖像修復 (Inpaint sketch) 頁面的基本功能。這個功能如同字面上的意思，結合了手繪功能和圖像修復。&lt;/p&gt;
+&lt;h2 id=&quot;功能區塊&quot;&gt;&lt;a href=&quot;#功能區塊&quot; class=&quot;hea</summary>
+      
+    
+    
+    
+    <category term="AI" scheme="https://blog.emn178.cc/zh-TW/categories/AI/"/>
+    
+    
+    <category term="Stable Diffusion" scheme="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Stable Diffusion 教學 - web UI 手繪生圖 (Sketch)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-sketch/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-sketch/</id>
     <published>2023-04-13T14:55:59.000Z</published>
-    <updated>2023-04-14T15:45:33.426Z</updated>
+    <updated>2023-04-16T06:10:33.843Z</updated>
     
     
       
@@ -44,7 +67,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint/</id>
     <published>2023-04-04T14:05:11.000Z</published>
-    <updated>2023-04-13T14:57:30.181Z</updated>
+    <updated>2023-04-15T14:17:07.123Z</updated>
     
     
       
