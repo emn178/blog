@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/en/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/en/"/>
-  <updated>2023-04-06T14:36:42.227Z</updated>
+  <updated>2023-04-17T01:37:34.946Z</updated>
   <id>https://blog.emn178.cc/en/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.emn178.cc/en/post/starknet-airdrop-guide/"/>
     <id>https://blog.emn178.cc/en/post/starknet-airdrop-guide/</id>
     <published>2023-04-02T12:09:49.000Z</published>
-    <updated>2023-04-06T14:36:42.227Z</updated>
+    <updated>2023-04-17T01:37:34.946Z</updated>
     
     
       
@@ -43,7 +43,7 @@
     <link href="https://blog.emn178.cc/en/post/ai-a-scam-token/"/>
     <id>https://blog.emn178.cc/en/post/ai-a-scam-token/</id>
     <published>2023-04-01T12:21:32.000Z</published>
-    <updated>2023-04-01T12:35:56.865Z</updated>
+    <updated>2023-04-17T01:37:34.946Z</updated>
     
     
       
@@ -63,7 +63,7 @@
     <link href="https://blog.emn178.cc/en/post/zksync-airdrop-step-by-step/"/>
     <id>https://blog.emn178.cc/en/post/zksync-airdrop-step-by-step/</id>
     <published>2023-03-30T14:14:18.000Z</published>
-    <updated>2023-04-07T05:36:52.882Z</updated>
+    <updated>2023-04-17T14:58:09.374Z</updated>
     
     
       
@@ -85,7 +85,7 @@
     <link href="https://blog.emn178.cc/en/post/zksync-airdrop-strategy/"/>
     <id>https://blog.emn178.cc/en/post/zksync-airdrop-strategy/</id>
     <published>2023-03-26T14:43:07.000Z</published>
-    <updated>2023-04-15T02:43:22.912Z</updated>
+    <updated>2023-04-17T14:57:50.228Z</updated>
     
     
       
@@ -107,7 +107,7 @@
     <link href="https://blog.emn178.cc/en/post/solidity-gas-optimization-variable-ordering/"/>
     <id>https://blog.emn178.cc/en/post/solidity-gas-optimization-variable-ordering/</id>
     <published>2018-09-11T02:26:38.000Z</published>
-    <updated>2023-04-05T10:23:57.930Z</updated>
+    <updated>2023-04-17T14:40:52.923Z</updated>
     
     
     <summary type="html">This article explains the gas optimization techniques of Solidity smart contracts, explains how variable ordering affect gas consumption, and provides two optimization strategies to reduce gas consumption.</summary>
@@ -126,7 +126,7 @@
     <link href="https://blog.emn178.cc/en/post/solidity-gas-optimization-data-compression/"/>
     <id>https://blog.emn178.cc/en/post/solidity-gas-optimization-data-compression/</id>
     <published>2018-05-07T10:26:05.000Z</published>
-    <updated>2023-04-05T10:26:35.546Z</updated>
+    <updated>2023-04-17T14:40:52.922Z</updated>
     
     
     <summary type="html">This article explains the gas optimization techniques of Solidity smart contracts. Explain how to use data merging and numbering to compress data to reduce variables and gas consumption.</summary>
@@ -145,7 +145,7 @@
     <link href="https://blog.emn178.cc/en/post/solidity-gas-optimization-function-name/"/>
     <id>https://blog.emn178.cc/en/post/solidity-gas-optimization-function-name/</id>
     <published>2018-05-04T09:04:52.000Z</published>
-    <updated>2023-04-05T10:23:41.783Z</updated>
+    <updated>2023-04-17T14:40:52.922Z</updated>
     
     
     <summary type="html">This article explains the gas optimization techniques of Solidity smart contracts. The article will explain the rules and principles of function names on gas consumption, explain the definition and generation of function signatures and Method IDs, and finally provide optimization methods.</summary>
@@ -164,7 +164,7 @@
     <link href="https://blog.emn178.cc/en/post/solidity-gas-optimization/"/>
     <id>https://blog.emn178.cc/en/post/solidity-gas-optimization/</id>
     <published>2018-03-07T09:02:40.000Z</published>
-    <updated>2023-04-05T09:31:54.673Z</updated>
+    <updated>2023-04-17T14:40:52.922Z</updated>
     
     
     <summary type="html">This article explains the gas optimization techniques of Solidity smart contracts. This article will organize and analyze some factors that affect gas consumption in smart contracts, which will help us understand which instructions consume the most and use them cautiously.</summary>
@@ -183,7 +183,7 @@
     <link href="https://blog.emn178.cc/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/"/>
     <id>https://blog.emn178.cc/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/</id>
     <published>2015-10-30T09:34:00.000Z</published>
-    <updated>2023-04-06T14:36:01.681Z</updated>
+    <updated>2023-04-17T14:40:52.921Z</updated>
     
     
       
@@ -207,7 +207,7 @@
     <link href="https://blog.emn178.cc/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/"/>
     <id>https://blog.emn178.cc/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/</id>
     <published>2015-10-28T09:20:00.000Z</published>
-    <updated>2023-03-21T14:39:43.621Z</updated>
+    <updated>2023-04-17T01:37:34.943Z</updated>
     
     
       
@@ -231,7 +231,7 @@
     <link href="https://blog.emn178.cc/en/post/node-js-how-to-integrate-travis-ci-with-github/"/>
     <id>https://blog.emn178.cc/en/post/node-js-how-to-integrate-travis-ci-with-github/</id>
     <published>2015-10-28T07:50:00.000Z</published>
-    <updated>2023-04-06T14:34:01.251Z</updated>
+    <updated>2023-04-17T14:40:52.921Z</updated>
     
     
       
@@ -255,7 +255,7 @@
     <link href="https://blog.emn178.cc/en/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/"/>
     <id>https://blog.emn178.cc/en/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/</id>
     <published>2015-10-28T06:00:00.000Z</published>
-    <updated>2023-03-21T14:53:20.617Z</updated>
+    <updated>2023-04-17T01:37:34.943Z</updated>
     
     
       
