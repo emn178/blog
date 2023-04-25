@@ -9,8 +9,33 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Mon, 24 Apr 2023 13:34:52 GMT</pubDate>
+    <pubDate>Tue, 25 Apr 2023 12:40:19 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Stable Diffusion 教學 - web UI 批次圖生圖 (Batch)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img-batch/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img-batch/</guid>
+      <pubDate>Tue, 25 Apr 2023 12:40:54 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;本篇文章介紹 Stable Diffusion web UI 批次圖生圖 (Batch) 頁面的基本功能，這是圖生圖頁籤的最後一個功能。利用這個功能，可以輸入資料夾將所有圖片進行圖生圖操作。&lt;/p&gt;
+&lt;h2 id=&quot;功能區塊&quot;&gt;&lt;a href=&quot;#功能區塊&quot; class=&quot;</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/AI/">AI</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/">Stable Diffusion</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img-batch/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Stable Diffusion 教學 - web UI 圖像修復 + 遮罩上傳 (Inpaint upload)</title>

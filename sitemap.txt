@@ -1,3 +1,4 @@
+https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img-batch/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint-upload/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint-sketch/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-sketch/
