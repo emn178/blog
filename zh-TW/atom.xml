@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2023-04-25T12:40:19.491Z</updated>
+  <updated>2023-05-13T14:26:10.442Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Stable Diffusion 教學 - web UI 提示詞 (Prompt)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-prompt/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-prompt/</id>
+    <published>2023-05-13T14:23:26.000Z</published>
+    <updated>2023-05-13T14:26:10.442Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;本篇文章介紹 Stable Diffusion web UI 提示詞 (Prompt) 的特殊語法。提示詞為我們描述要產生圖片的主要內容，除了一般的描述用法之外，還有一些特殊的寫法和功能。&lt;/p&gt;
+&lt;h2 id=&quot;權重&quot;&gt;&lt;a href=&quot;#權重&quot; class=&quot;heade</summary>
+      
+    
+    
+    
+    <category term="AI" scheme="https://blog.emn178.cc/zh-TW/categories/AI/"/>
+    
+    
+    <category term="Stable Diffusion" scheme="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Stable Diffusion 教學 - web UI 批次圖生圖 (Batch)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img-batch/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img-batch/</id>
     <published>2023-04-25T12:40:54.000Z</published>
-    <updated>2023-04-25T12:40:19.491Z</updated>
+    <updated>2023-05-13T14:26:36.312Z</updated>
     
     
       

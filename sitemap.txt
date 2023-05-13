@@ -1,3 +1,5 @@
+https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img-batch/
+https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-prompt/
 https://blog.emn178.cc/en/post/node-js-how-to-integrate-travis-ci-with-github/
 https://blog.emn178.cc/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/
 https://blog.emn178.cc/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/
@@ -16,7 +18,6 @@ https://blog.emn178.cc/zh-TW/post/midjourney-parameters-chaos/
 https://blog.emn178.cc/zh-TW/post/midjourney-hide-messages/
 https://blog.emn178.cc/en/post/zksync-airdrop-step-by-step/
 https://blog.emn178.cc/en/post/solidity-gas-optimization-data-compression/
-https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img-batch/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint-upload/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint-sketch/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-sketch/

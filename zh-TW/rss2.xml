@@ -9,8 +9,33 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Tue, 25 Apr 2023 12:40:19 GMT</pubDate>
+    <pubDate>Sat, 13 May 2023 14:26:10 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Stable Diffusion 教學 - web UI 提示詞 (Prompt)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-prompt/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-prompt/</guid>
+      <pubDate>Sat, 13 May 2023 14:23:26 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;本篇文章介紹 Stable Diffusion web UI 提示詞 (Prompt) 的特殊語法。提示詞為我們描述要產生圖片的主要內容，除了一般的描述用法之外，還有一些特殊的寫法和功能。&lt;/p&gt;
+&lt;h2 id=&quot;權重&quot;&gt;&lt;a href=&quot;#權重&quot; class=&quot;heade</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/AI/">AI</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/">Stable Diffusion</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-prompt/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Stable Diffusion 教學 - web UI 批次圖生圖 (Batch)</title>
