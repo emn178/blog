@@ -1,3 +1,7 @@
+https://blog.emn178.cc/en/post/zksync-airdrop-step-by-step/
+https://blog.emn178.cc/en/post/zksync-airdrop-strategy/
+https://blog.emn178.cc/zh-TW/post/zksync-airdrop-step-by-step/
+https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-prompt/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img-batch/
 https://blog.emn178.cc/en/post/node-js-how-to-integrate-travis-ci-with-github/
@@ -16,7 +20,6 @@ https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img/
 https://blog.emn178.cc/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/
 https://blog.emn178.cc/zh-TW/post/midjourney-parameters-chaos/
 https://blog.emn178.cc/zh-TW/post/midjourney-hide-messages/
-https://blog.emn178.cc/en/post/zksync-airdrop-step-by-step/
 https://blog.emn178.cc/en/post/solidity-gas-optimization-data-compression/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint-upload/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint-sketch/
@@ -28,10 +31,7 @@ https://blog.emn178.cc/zh-TW/post/hsinchu-green-grass-lake-water-dance-show/
 https://blog.emn178.cc/zh-TW/post/shirokiya-museum-yingge-ceramics-museum/
 https://blog.emn178.cc/zh-TW/post/hsinchu-green-grassland/
 https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-data-compression/
-https://blog.emn178.cc/en/post/zksync-airdrop-strategy/
-https://blog.emn178.cc/zh-TW/post/zksync-airdrop-step-by-step/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-inpaint/
-https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/
 https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-function-name/
 https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-variable-ordering/
 https://blog.emn178.cc/zh-TW/post/php-tutorial-operators-final/
