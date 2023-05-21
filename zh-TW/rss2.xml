@@ -9,8 +9,31 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sat, 13 May 2023 14:39:39 GMT</pubDate>
+    <pubDate>Sun, 21 May 2023 15:11:21 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Linea 空投資訊整理</title>
+      <link>https://blog.emn178.cc/zh-TW/post/linea-airdrop-guide/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/linea-airdrop-guide/</guid>
+      <pubDate>Sun, 21 May 2023 03:07:08 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;&lt;a href=&quot;https://linea.build/&quot;&gt;Linea&lt;/a&gt; 是其中一個 ZK Rollup 的 L2 方案，背後公司是 Consensys，也是知名的錢包 Metamask 的開發公司。目前還是測試網，就先列一些基本的交互。&lt;/p&gt;
+&lt;h2 id=&quot;錢</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/linea-airdrop-guide/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Stable Diffusion 教學 - web UI 提示詞 (Prompt)</title>
@@ -765,6 +788,33 @@
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/lake-placid-and-hsinchu-park/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>新竹旅遊景點 - 山上人家和張學良故居</title>
+      <link>https://blog.emn178.cc/zh-TW/post/hsinchu-shan-shang-homestay-and-zhang-xueliang-cultural-park/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/hsinchu-shan-shang-homestay-and-zhang-xueliang-cultural-park/</guid>
+      <pubDate>Sun, 07 Aug 2011 05:46:31 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;拍攝時間：2011 年 7 月 31 日&lt;/p&gt;
+&lt;h2 id=&quot;行程&quot;&gt;&lt;a href=&quot;#行程&quot; class=&quot;headerlink&quot; title=&quot;行程&quot;&gt;&lt;/a&gt;行程&lt;/h2&gt;&lt;p&gt;今天和朋友們計畫了山上人家和張學良故居的一日遊，雖然說是計畫…不過計畫內容也只有如下</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E6%97%85%E9%81%8A/">旅遊</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/%E6%99%AF%E9%BB%9E/">景點</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/%E6%96%B0%E7%AB%B9/">新竹</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/hsinchu-shan-shang-homestay-and-zhang-xueliang-cultural-park/#disqus_thread</comments>
       
     </item>
     
