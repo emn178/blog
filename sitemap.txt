@@ -1,3 +1,5 @@
+https://blog.emn178.cc/zh-TW/post/awesome-crypto-world-acw-scam-token/
+https://blog.emn178.cc/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/
 https://blog.emn178.cc/zh-TW/post/layerzero-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/linea-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/hsinchu-shan-shang-homestay-and-zhang-xueliang-cultural-park/
@@ -20,7 +22,6 @@ https://blog.emn178.cc/zh-TW/post/midjourney-ai-art-generator/
 https://blog.emn178.cc/zh-TW/post/midjourney-parameters-aspect-ratios/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-txt2img/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img/
-https://blog.emn178.cc/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/
 https://blog.emn178.cc/zh-TW/post/midjourney-parameters-chaos/
 https://blog.emn178.cc/zh-TW/post/midjourney-hide-messages/
 https://blog.emn178.cc/en/post/solidity-gas-optimization-data-compression/
