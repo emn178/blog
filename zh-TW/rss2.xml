@@ -9,8 +9,31 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Mon, 05 Jun 2023 15:14:26 GMT</pubDate>
+    <pubDate>Thu, 08 Jun 2023 14:35:36 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>詐騙代幣檢驗工具 - Token Sniffer 和 GoPlus</title>
+      <link>https://blog.emn178.cc/zh-TW/post/scam-token-check-tools-token-sniffer-and-goplus/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/scam-token-check-tools-token-sniffer-and-goplus/</guid>
+      <pubDate>Thu, 08 Jun 2023 14:35:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;區塊鏈詐騙手法很多，其中一種是空投或販售詐騙代幣，在合約動手腳，從中獲取利益。之前也分享過幾篇相關文章，本篇文章找了幾個工具來檢驗代幣是否安全。&lt;/p&gt;
+&lt;h2 id=&quot;Token-Sniffer&quot;&gt;&lt;a href=&quot;#Token-Sniffer&quot; class=&quot;heade</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/scam-token-check-tools-token-sniffer-and-goplus/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>區塊鏈詐騙 - Awesome Crypto World (ACW) 代幣</title>
@@ -20,7 +43,7 @@
       
         
         
-      <description>&lt;p&gt;最近出現蠻多空投的詐騙代幣，這次看到的是 Awesome Crypto World (ACW)，手法和上次&lt;a href=&quot;/zh-TW/post/ai-a-scam-token/&quot;&gt;區塊鏈詐騙 - AI-A (AI Avail) 代幣&lt;/a&gt;如出一轍。直接在瀏覽器上隨機查</description>
+      <description>&lt;p&gt;最近出現蠻多空投的詐騙代幣，這次看到的是 &lt;a href=&quot;https://bscscan.com/token/0x82d0952f3524df3e0f003d6bb231015d312f9164&quot;&gt;Awesome Crypto World (ACW)&lt;/a&gt;，手法和上次&lt;</description>
         
       
       
@@ -262,7 +285,7 @@
       
         
         
-      <description>&lt;p&gt;在 Debank 上偶然看到有一筆轉帳，23000 AI-A (AI Avail)，價值 $1740 ?&lt;br&gt;&lt;img src=&quot;/images/zh-TW/post/2023/ai-a-scam-token/20230330231513.png&quot; alt=&quot;空投&quot; ti</description>
+      <description>&lt;p&gt;在 Debank 上偶然看到有一筆轉帳，23000 &lt;a href=&quot;https://bscscan.com/address/0xd048b4c23af828e5be412505a51a8dd7b37782dd&quot;&gt;AI-A (AI Avail)&lt;/a&gt;，價值 $1740 ?</description>
         
       
       
