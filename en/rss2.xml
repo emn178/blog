@@ -9,8 +9,30 @@
     <atom:link href="https://blog.emn178.cc/en/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>A blog sharing experiences about programming and technology.</description>
-    <pubDate>Wed, 07 Jun 2023 14:31:56 GMT</pubDate>
+    <pubDate>Fri, 09 Jun 2023 14:32:10 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>LayerZero Airdrop Guide</title>
+      <link>https://blog.emn178.cc/en/post/layerzero-airdrop-guide/</link>
+      <guid>https://blog.emn178.cc/en/post/layerzero-airdrop-guide/</guid>
+      <pubDate>Fri, 09 Jun 2023 14:32:17 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;&lt;a href=&quot;https://layerzero.network/&quot;&gt;LayerZero&lt;/a&gt; is a cross-chain solution, and it is also a possible airdrop project that everyone has</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/en/post/layerzero-airdrop-guide/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Linea Airdrop Guide</title>
@@ -28,8 +50,6 @@
       
       <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
       
-      
-      <category domain="https://blog.emn178.cc/en/tags/Linea/">Linea</category>
       
       
       <comments>https://blog.emn178.cc/en/post/linea-airdrop-guide/#disqus_thread</comments>
@@ -74,8 +94,6 @@
       
       <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
       
-      
-      <category domain="https://blog.emn178.cc/en/tags/StarkNet/">StarkNet</category>
       
       
       <comments>https://blog.emn178.cc/en/post/starknet-airdrop-guide/#disqus_thread</comments>

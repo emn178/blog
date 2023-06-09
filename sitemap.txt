@@ -1,11 +1,12 @@
+https://blog.emn178.cc/en/post/layerzero-airdrop-guide/
+https://blog.emn178.cc/en/post/starknet-airdrop-guide/
+https://blog.emn178.cc/en/post/linea-airdrop-guide/
+https://blog.emn178.cc/zh-TW/post/scam-token-check-tools-token-sniffer-and-goplus/
 https://blog.emn178.cc/zh-TW/post/awesome-crypto-world-acw-scam-token/
 https://blog.emn178.cc/zh-TW/post/ai-a-scam-token/
-https://blog.emn178.cc/zh-TW/post/scam-token-check-tools-token-sniffer-and-goplus/
 https://blog.emn178.cc/en/post/awesome-crypto-world-acw-scam-token/
 https://blog.emn178.cc/en/post/ai-a-scam-token/
-https://blog.emn178.cc/en/post/starknet-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/
-https://blog.emn178.cc/en/post/linea-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/linea-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/
 https://blog.emn178.cc/zh-TW/post/layerzero-airdrop-guide/
@@ -87,9 +88,7 @@ https://blog.emn178.cc/en/categories/Blockchain/
 https://blog.emn178.cc/en/categories/Programming/
 https://blog.emn178.cc/en/tags/Solidity/
 https://blog.emn178.cc/en/tags/zkSync/
-https://blog.emn178.cc/en/tags/StarkNet/
 https://blog.emn178.cc/en/tags/Node-js/
 https://blog.emn178.cc/en/tags/JavaScript/
 https://blog.emn178.cc/en/tags/Ruby/
-https://blog.emn178.cc/en/tags/Linea/
 
