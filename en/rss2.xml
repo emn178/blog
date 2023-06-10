@@ -9,8 +9,30 @@
     <atom:link href="https://blog.emn178.cc/en/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>A blog sharing experiences about programming and technology.</description>
-    <pubDate>Fri, 09 Jun 2023 14:32:10 GMT</pubDate>
+    <pubDate>Sat, 10 Jun 2023 12:33:31 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Token Checker - Token Sniffer and GoPlus</title>
+      <link>https://blog.emn178.cc/en/post/scam-token-check-tools-token-sniffer-and-goplus/</link>
+      <guid>https://blog.emn178.cc/en/post/scam-token-check-tools-token-sniffer-and-goplus/</guid>
+      <pubDate>Sat, 10 Jun 2023 12:33:37 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;There are many methods of blockchain fraud, one of which is to airdrop or sell fraudulent tokens, and manipulate the contract to obtain b</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/en/post/scam-token-check-tools-token-sniffer-and-goplus/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>LayerZero Airdrop Guide</title>
