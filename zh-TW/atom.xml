@@ -819,6 +819,29 @@
   </entry>
   
   <entry>
+    <title>Java 讀取設定檔</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/load-a-config-file-in-java/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/load-a-config-file-in-java/</id>
+    <published>2011-08-16T12:55:33.000Z</published>
+    <updated>2023-06-11T13:19:31.641Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;在 Java 中可以使用 &lt;code&gt;Properties&lt;/code&gt; 的類別來讀取設定檔，例如有一個設定檔 &lt;code&gt;config.properties&lt;/code&gt; 其中包含以下設定&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    
+    <category term="Java" scheme="https://blog.emn178.cc/zh-TW/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
     <title>C# 以屬性的方式存取陣列元素</title>
     <link href="https://blog.emn178.cc/zh-TW/post/using-property-to-access-elements-of-array-in-csharp/"/>
     <id>https://blog.emn178.cc/zh-TW/post/using-property-to-access-elements-of-array-in-csharp/</id>
