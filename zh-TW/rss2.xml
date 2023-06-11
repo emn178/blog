@@ -887,6 +887,30 @@
     </item>
     
     <item>
+      <title>PHP 執行外部程式</title>
+      <link>https://blog.emn178.cc/zh-TW/post/execute-external-programs-in-php/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/execute-external-programs-in-php/</guid>
+      <pubDate>Wed, 10 Aug 2011 12:10:57 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;說明 PHP 如何執行外部程式，以及可能造成無法成功執行的原因，包含 SELinux、php.ini 設定、Sudoer、環境變數路徑和參數問題。在 PHP 中可以使用 &lt;code&gt;shell_exec()&lt;/code&gt;、&lt;code&gt;exec()&lt;/code&gt;、&lt;code&gt;</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/PHP/">PHP</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/execute-external-programs-in-php/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>新竹旅遊景點 - 山上人家和張學良故居</title>
       <link>https://blog.emn178.cc/zh-TW/post/hsinchu-shan-shang-homestay-and-zhang-xueliang-cultural-park/</link>
       <guid>https://blog.emn178.cc/zh-TW/post/hsinchu-shan-shang-homestay-and-zhang-xueliang-cultural-park/</guid>
