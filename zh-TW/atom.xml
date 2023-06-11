@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2023-06-10T10:14:08.224Z</updated>
+  <updated>2023-06-11T08:59:37.263Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Stable Diffusion 教學 - 種子 (Seed)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-seed/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-seed/</id>
+    <published>2023-06-11T08:59:34.000Z</published>
+    <updated>2023-06-11T08:59:37.263Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;本篇文章介紹 Stable Diffusion web UI 種子 (Seed) 的功能和用法。&lt;/p&gt;
+&lt;h2 id=&quot;說明&quot;&gt;&lt;a href=&quot;#說明&quot; class=&quot;headerlink&quot; title=&quot;說明&quot;&gt;&lt;/a&gt;說明&lt;/h2&gt;&lt;p&gt;在產圖的時候，我們可以發現，</summary>
+      
+    
+    
+    
+    <category term="AI" scheme="https://blog.emn178.cc/zh-TW/categories/AI/"/>
+    
+    
+    <category term="Stable Diffusion" scheme="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/"/>
+    
+  </entry>
   
   <entry>
     <title>詐騙代幣檢驗工具 - Token Sniffer 和 GoPlus</title>
