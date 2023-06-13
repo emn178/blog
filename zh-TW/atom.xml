@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2023-06-11T08:59:37.263Z</updated>
+  <updated>2023-06-13T12:37:51.467Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Stable Diffusion 教學 - PNG Info</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-png-info/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-png-info/</id>
+    <published>2023-06-13T12:37:48.000Z</published>
+    <updated>2023-06-13T12:37:51.467Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;本篇文章介紹 Stable Diffusion web UI PNG Info 的功能和用法，這個功能主要用來將之前產圖所用的相關資料重新載入出來。&lt;/p&gt;
+&lt;h2 id=&quot;功能區塊&quot;&gt;&lt;a href=&quot;#功能區塊&quot; class=&quot;headerlink&quot; title=&quot;功能</summary>
+      
+    
+    
+    
+    <category term="AI" scheme="https://blog.emn178.cc/zh-TW/categories/AI/"/>
+    
+    
+    <category term="Stable Diffusion" scheme="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Stable Diffusion 教學 - 種子 (Seed)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-seed/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-seed/</id>
     <published>2023-06-11T08:59:34.000Z</published>
-    <updated>2023-06-11T08:59:37.263Z</updated>
+    <updated>2023-06-12T15:51:32.200Z</updated>
     
     
       
@@ -129,7 +152,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-prompt/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-prompt/</id>
     <published>2023-05-13T14:23:26.000Z</published>
-    <updated>2023-05-13T14:39:39.354Z</updated>
+    <updated>2023-06-12T15:50:02.966Z</updated>
     
     
       
@@ -815,6 +838,27 @@
     <category term="景點" scheme="https://blog.emn178.cc/zh-TW/tags/%E6%99%AF%E9%BB%9E/"/>
     
     <category term="新竹" scheme="https://blog.emn178.cc/zh-TW/tags/%E6%96%B0%E7%AB%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux chmod 修改資料夾和子資料夾權限</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/recursively-chmod-all-directories/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/recursively-chmod-all-directories/</id>
+    <published>2011-08-18T14:27:57.000Z</published>
+    <updated>2023-06-12T15:18:21.538Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;有時候會需要針對一個目錄下的所有資料夾和子資料夾做 &lt;code&gt;chmod&lt;/code&gt;，例如從 Windows 傳過來的檔案或 zip 解開的檔案，權限會變成 777，這時候可以使用搭配 &lt;code&gt;find&lt;/code&gt; 指令來找出特定類型的資料處理：&lt;/p&gt;
+&lt;p&gt;將</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
     
   </entry>
   

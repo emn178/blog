@@ -9,8 +9,33 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sun, 11 Jun 2023 08:59:37 GMT</pubDate>
+    <pubDate>Tue, 13 Jun 2023 12:37:51 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Stable Diffusion 教學 - PNG Info</title>
+      <link>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-png-info/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-png-info/</guid>
+      <pubDate>Tue, 13 Jun 2023 12:37:48 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;本篇文章介紹 Stable Diffusion web UI PNG Info 的功能和用法，這個功能主要用來將之前產圖所用的相關資料重新載入出來。&lt;/p&gt;
+&lt;h2 id=&quot;功能區塊&quot;&gt;&lt;a href=&quot;#功能區塊&quot; class=&quot;headerlink&quot; title=&quot;功能</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/AI/">AI</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/">Stable Diffusion</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-png-info/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Stable Diffusion 教學 - 種子 (Seed)</title>
@@ -883,6 +908,29 @@
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/lake-placid-and-hsinchu-park/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Linux chmod 修改資料夾和子資料夾權限</title>
+      <link>https://blog.emn178.cc/zh-TW/post/recursively-chmod-all-directories/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/recursively-chmod-all-directories/</guid>
+      <pubDate>Thu, 18 Aug 2011 14:27:57 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;有時候會需要針對一個目錄下的所有資料夾和子資料夾做 &lt;code&gt;chmod&lt;/code&gt;，例如從 Windows 傳過來的檔案或 zip 解開的檔案，權限會變成 777，這時候可以使用搭配 &lt;code&gt;find&lt;/code&gt; 指令來找出特定類型的資料處理：&lt;/p&gt;
+&lt;p&gt;將</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/recursively-chmod-all-directories/#disqus_thread</comments>
       
     </item>
     
