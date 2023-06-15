@@ -9,14 +9,14 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Thu, 15 Jun 2023 14:59:44 GMT</pubDate>
+    <pubDate>Thu, 15 Jun 2023 15:02:06 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>使用 Ethers.js 解析 Custom Error</title>
       <link>https://blog.emn178.cc/zh-TW/post/ethers-js-parse-custom-error/</link>
       <guid>https://blog.emn178.cc/zh-TW/post/ethers-js-parse-custom-error/</guid>
-      <pubDate>Fri, 16 Jun 2023 14:36:49 GMT</pubDate>
+      <pubDate>Thu, 15 Jun 2023 03:02:49 GMT</pubDate>
       
         
         
@@ -38,7 +38,7 @@
       <title>Solidity 智能合約 - Custom Error</title>
       <link>https://blog.emn178.cc/zh-TW/post/solidity-gas-custom-error/</link>
       <guid>https://blog.emn178.cc/zh-TW/post/solidity-gas-custom-error/</guid>
-      <pubDate>Thu, 15 Jun 2023 14:51:35 GMT</pubDate>
+      <pubDate>Wed, 14 Jun 2023 14:51:35 GMT</pubDate>
       
         
         
