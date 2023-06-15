@@ -1,4 +1,3 @@
-https://blog.emn178.cc/zh-TW/post/ethers-js-parse-custom-error/
 https://blog.emn178.cc/zh-TW/post/solidity-gas-custom-error/
 https://blog.emn178.cc/en/post/linea-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/linea-airdrop-guide/
