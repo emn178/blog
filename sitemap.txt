@@ -1,8 +1,9 @@
+https://blog.emn178.cc/en/post/solidity-custom-error/
+https://blog.emn178.cc/zh-TW/post/solidity-custom-error/
 https://blog.emn178.cc/en/post/layerzero-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/layerzero-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/using-web3-js-to-parse-custom-error/
 https://blog.emn178.cc/zh-TW/post/ethers-js-parse-custom-error/
-https://blog.emn178.cc/zh-TW/post/solidity-custom-error/
 https://blog.emn178.cc/en/post/linea-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/linea-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-data-compression/

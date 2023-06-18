@@ -9,8 +9,33 @@
     <atom:link href="https://blog.emn178.cc/en/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>A blog sharing experiences about programming and technology.</description>
-    <pubDate>Sat, 10 Jun 2023 12:33:31 GMT</pubDate>
+    <pubDate>Sun, 18 Jun 2023 15:20:59 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Solidity - Custom Error</title>
+      <link>https://blog.emn178.cc/en/post/solidity-custom-error/</link>
+      <guid>https://blog.emn178.cc/en/post/solidity-custom-error/</guid>
+      <pubDate>Sun, 18 Jun 2023 15:20:31 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;This article introduces the usage of custom error in Solidity, including ways to define errors, usage, and error handling.&lt;/p&gt;
+&lt;h2 id=&quot;Us</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      
+      
+      <category domain="https://blog.emn178.cc/en/tags/Solidity/">Solidity</category>
+      
+      
+      <comments>https://blog.emn178.cc/en/post/solidity-custom-error/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Token Checker - Token Sniffer and GoPlus</title>
