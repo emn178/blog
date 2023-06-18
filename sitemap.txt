@@ -1,7 +1,9 @@
-https://blog.emn178.cc/en/post/linea-airdrop-guide/
-https://blog.emn178.cc/zh-TW/post/linea-airdrop-guide/
+https://blog.emn178.cc/zh-TW/post/using-web3-js-to-parse-custom-error/
 https://blog.emn178.cc/zh-TW/post/ethers-js-parse-custom-error/
 https://blog.emn178.cc/zh-TW/post/solidity-custom-error/
+https://blog.emn178.cc/zh-TW/post/layerzero-airdrop-guide/
+https://blog.emn178.cc/en/post/linea-airdrop-guide/
+https://blog.emn178.cc/zh-TW/post/linea-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-data-compression/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-png-info/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-seed/
@@ -20,7 +22,6 @@ https://blog.emn178.cc/zh-TW/post/awesome-crypto-world-acw-scam-token/
 https://blog.emn178.cc/zh-TW/post/ai-a-scam-token/
 https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/
-https://blog.emn178.cc/zh-TW/post/layerzero-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/hsinchu-shan-shang-homestay-and-zhang-xueliang-cultural-park/
 https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/
 https://blog.emn178.cc/en/post/zksync-airdrop-step-by-step/

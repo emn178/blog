@@ -9,8 +9,30 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Thu, 15 Jun 2023 15:07:10 GMT</pubDate>
+    <pubDate>Sun, 18 Jun 2023 07:48:48 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>使用 Web3.js 解析 Custom Error</title>
+      <link>https://blog.emn178.cc/zh-TW/post/using-web3-js-to-parse-custom-error/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/using-web3-js-to-parse-custom-error/</guid>
+      <pubDate>Sun, 18 Jun 2023 07:44:36 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;之前的文章 &lt;a href=&quot;/zh-TW/post/solidity-custom-error/&quot;&gt;Solidity 智能合約 - Custom Error&lt;/a&gt; 中提到如何在智能合約中使用 Custom Error，這篇文章延續這個主題，說明使用 &lt;a href=&quot;h</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/using-web3-js-to-parse-custom-error/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>使用 Ethers.js 解析 Custom Error</title>
