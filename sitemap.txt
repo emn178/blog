@@ -1,7 +1,8 @@
+https://blog.emn178.cc/en/post/layerzero-airdrop-guide/
+https://blog.emn178.cc/zh-TW/post/layerzero-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/using-web3-js-to-parse-custom-error/
 https://blog.emn178.cc/zh-TW/post/ethers-js-parse-custom-error/
 https://blog.emn178.cc/zh-TW/post/solidity-custom-error/
-https://blog.emn178.cc/zh-TW/post/layerzero-airdrop-guide/
 https://blog.emn178.cc/en/post/linea-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/linea-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization-data-compression/
@@ -17,7 +18,6 @@ https://blog.emn178.cc/en/post/awesome-crypto-world-acw-scam-token/
 https://blog.emn178.cc/en/post/ai-a-scam-token/
 https://blog.emn178.cc/zh-TW/post/scam-token-check-tools-token-sniffer-and-goplus/
 https://blog.emn178.cc/en/post/starknet-airdrop-guide/
-https://blog.emn178.cc/en/post/layerzero-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/awesome-crypto-world-acw-scam-token/
 https://blog.emn178.cc/zh-TW/post/ai-a-scam-token/
 https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/
