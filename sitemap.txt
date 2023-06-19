@@ -1,3 +1,4 @@
+https://blog.emn178.cc/en/post/ethers-js-parse-custom-error/
 https://blog.emn178.cc/en/post/solidity-custom-error/
 https://blog.emn178.cc/zh-TW/post/solidity-custom-error/
 https://blog.emn178.cc/en/post/layerzero-airdrop-guide/
