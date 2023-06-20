@@ -9,8 +9,30 @@
     <atom:link href="https://blog.emn178.cc/en/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>A blog sharing experiences about programming and technology.</description>
-    <pubDate>Mon, 19 Jun 2023 15:21:13 GMT</pubDate>
+    <pubDate>Tue, 20 Jun 2023 14:04:04 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Using Web3.js to Parse Custom Error</title>
+      <link>https://blog.emn178.cc/en/post/using-web3-js-to-parse-custom-error/</link>
+      <guid>https://blog.emn178.cc/en/post/using-web3-js-to-parse-custom-error/</guid>
+      <pubDate>Tue, 20 Jun 2023 13:43:40 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;The previous article &lt;a href=&quot;/en/post/solidity-custom-error/&quot;&gt;Solidity - Custom Error&lt;/a&gt; mentioned how to use custom error in smart con</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/en/post/using-web3-js-to-parse-custom-error/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Using Ethers.js to Parse Custom Error</title>
