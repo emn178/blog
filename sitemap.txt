@@ -1,3 +1,7 @@
+https://blog.emn178.cc/zh-TW/post/parse-command-line-arguments-in-java/
+https://blog.emn178.cc/zh-TW/post/how-to-create-file-and-directory-in-java/
+https://blog.emn178.cc/zh-TW/post/load-a-config-file-in-java/
+https://blog.emn178.cc/zh-TW/post/clear-database-transaction-log-file/
 https://blog.emn178.cc/en/post/solidity-custom-error/
 https://blog.emn178.cc/zh-TW/post/solidity-custom-error/
 https://blog.emn178.cc/en/post/using-web3-js-to-parse-custom-error/
@@ -13,7 +17,6 @@ https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-png-info/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-seed/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-prompt/
 https://blog.emn178.cc/zh-TW/post/recursively-chmod-all-directories/
-https://blog.emn178.cc/zh-TW/post/load-a-config-file-in-java/
 https://blog.emn178.cc/zh-TW/post/using-property-to-access-elements-of-array-in-csharp/
 https://blog.emn178.cc/zh-TW/post/execute-external-programs-in-php/
 https://blog.emn178.cc/en/post/scam-token-check-tools-token-sniffer-and-goplus/

@@ -981,6 +981,78 @@
     </item>
     
     <item>
+      <title>Java 如何解析命令列參數</title>
+      <link>https://blog.emn178.cc/zh-TW/post/parse-command-line-arguments-in-java/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/parse-command-line-arguments-in-java/</guid>
+      <pubDate>Mon, 22 Aug 2011 13:46:37 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;網路上有很多專門處理參數的套件，而本文使用 apache 的 commons-cli 來做說明。如果沒有這個套件請先&lt;a href=&quot;http://commons.apache.org/cli/download_cli.cgi&quot;&gt;下載&lt;/a&gt;(例如撰寫此文時最新的版本是 c</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Java/">Java</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/parse-command-line-arguments-in-java/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>清除 SQL Server Log 檔</title>
+      <link>https://blog.emn178.cc/zh-TW/post/clear-database-transaction-log-file/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/clear-database-transaction-log-file/</guid>
+      <pubDate>Sun, 21 Aug 2011 04:14:16 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;如果沒有限制資料庫的Log成長，一不小心某天就發現硬碟竟然滿了，此時會出現這樣的錯誤訊息：&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;lin</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/clear-database-transaction-log-file/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Java 如何新增檔案和資料夾</title>
+      <link>https://blog.emn178.cc/zh-TW/post/how-to-create-file-and-directory-in-java/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/how-to-create-file-and-directory-in-java/</guid>
+      <pubDate>Sat, 20 Aug 2011 01:33:29 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;例如我們要建立一個檔案路徑為 &lt;code&gt;logs/test.log&lt;/code&gt;，使用 &lt;code&gt;File&lt;/code&gt; 類別如下&lt;/p&gt;
+&lt;figure class=&quot;highlight java&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Java/">Java</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/how-to-create-file-and-directory-in-java/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>Linux chmod 修改資料夾和子資料夾權限</title>
       <link>https://blog.emn178.cc/zh-TW/post/recursively-chmod-all-directories/</link>
       <guid>https://blog.emn178.cc/zh-TW/post/recursively-chmod-all-directories/</guid>
