@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2023-06-20T13:55:19.067Z</updated>
+  <updated>2023-06-24T15:07:14.630Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Xapo 使用心得</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/xapo-review/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/xapo-review/</id>
+    <published>2023-06-24T15:07:16.000Z</published>
+    <updated>2023-06-24T15:07:14.630Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;Xapo 是一家直布羅陀的銀行，整合了 USDC、USDT 和 BTC 加密貨幣。會使用它主要是支援 USDC &amp;#x2F; USDT 等穩</summary>
+      
+    
+    
+    
+    <category term="區塊鏈" scheme="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>使用 Web3.js 解析 Custom Error</title>
@@ -84,7 +104,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-png-info/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-png-info/</id>
     <published>2023-06-13T12:37:48.000Z</published>
-    <updated>2023-06-13T12:37:51.467Z</updated>
+    <updated>2023-06-24T13:58:20.600Z</updated>
     
     
       
@@ -107,7 +127,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-seed/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-seed/</id>
     <published>2023-06-11T08:59:34.000Z</published>
-    <updated>2023-06-12T15:51:32.200Z</updated>
+    <updated>2023-06-24T13:58:02.828Z</updated>
     
     
       

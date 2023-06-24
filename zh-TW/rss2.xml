@@ -9,8 +9,30 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Tue, 20 Jun 2023 13:55:19 GMT</pubDate>
+    <pubDate>Sat, 24 Jun 2023 15:07:14 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Xapo 使用心得</title>
+      <link>https://blog.emn178.cc/zh-TW/post/xapo-review/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/xapo-review/</guid>
+      <pubDate>Sat, 24 Jun 2023 15:07:16 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;Xapo 是一家直布羅陀的銀行，整合了 USDC、USDT 和 BTC 加密貨幣。會使用它主要是支援 USDC &amp;#x2F; USDT 等穩</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/xapo-review/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>使用 Web3.js 解析 Custom Error</title>
