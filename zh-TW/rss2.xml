@@ -9,8 +9,30 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sun, 25 Jun 2023 14:33:34 GMT</pubDate>
+    <pubDate>Fri, 30 Jun 2023 14:55:22 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>GCP Cloud Storage 無法下載或複製</title>
+      <link>https://blog.emn178.cc/zh-TW/post/gcp-cloud-storage-can-not-download-or-copy/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/gcp-cloud-storage-can-not-download-or-copy/</guid>
+      <pubDate>Fri, 30 Jun 2023 12:45:50 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;問題&quot;&gt;&lt;a href=&quot;#問題&quot; class=&quot;headerlink&quot; title=&quot;問題&quot;&gt;&lt;/a&gt;問題&lt;/h2&gt;&lt;p&gt;使用 GCP Cloud Storage 的網頁時，想把物件複製到別的地方，結果出現錯誤&lt;code&gt;無法複製您的物件。 存取遭拒&lt;/code</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/gcp-cloud-storage-can-not-download-or-copy/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Xapo 使用心得</title>
