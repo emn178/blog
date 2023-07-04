@@ -1,4 +1,6 @@
 https://blog.emn178.cc/zh-TW/post/xapo-review/
+https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/
+https://blog.emn178.cc/en/post/zksync-airdrop-strategy/
 https://blog.emn178.cc/zh-TW/post/gcp-cloud-storage-can-not-download-or-copy/
 https://blog.emn178.cc/en/post/linea-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/linea-airdrop-guide/
@@ -31,9 +33,7 @@ https://blog.emn178.cc/zh-TW/post/ai-a-scam-token/
 https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/
 https://blog.emn178.cc/zh-TW/post/hsinchu-shan-shang-homestay-and-zhang-xueliang-cultural-park/
-https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/
 https://blog.emn178.cc/en/post/zksync-airdrop-step-by-step/
-https://blog.emn178.cc/en/post/zksync-airdrop-strategy/
 https://blog.emn178.cc/zh-TW/post/zksync-airdrop-step-by-step/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img-batch/
 https://blog.emn178.cc/en/post/node-js-how-to-integrate-travis-ci-with-github/
