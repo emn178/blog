@@ -9,8 +9,31 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sat, 01 Jul 2023 14:03:24 GMT</pubDate>
+    <pubDate>Thu, 06 Jul 2023 13:08:18 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>GCP Cloud Monitoring 減少流量和費用</title>
+      <link>https://blog.emn178.cc/zh-TW/post/gcp-cloud-monitoring-reduce-data-and-cost/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/gcp-cloud-monitoring-reduce-data-and-cost/</guid>
+      <pubDate>Thu, 06 Jul 2023 13:08:30 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;Cloud Monitoring 可以用來監控系統狀態，並透過它來寄出警示通知。主要用來監控硬碟容量和一些自訂狀態，於是在所有機器裝上了 Ops Agent 來監控硬碟狀態。但後來發現帳單的費用驚人，於是研究了一下他的費用和如何降低成本。&lt;/p&gt;
+&lt;h2 id=&quot;費用&quot;&gt;&lt;</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/gcp-cloud-monitoring-reduce-data-and-cost/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>GCP Cloud Storage 無法下載或複製</title>

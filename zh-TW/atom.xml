@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2023-07-01T14:03:24.381Z</updated>
+  <updated>2023-07-06T13:08:18.315Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GCP Cloud Monitoring 減少流量和費用</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/gcp-cloud-monitoring-reduce-data-and-cost/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/gcp-cloud-monitoring-reduce-data-and-cost/</id>
+    <published>2023-07-06T13:08:30.000Z</published>
+    <updated>2023-07-06T13:08:18.315Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Cloud Monitoring 可以用來監控系統狀態，並透過它來寄出警示通知。主要用來監控硬碟容量和一些自訂狀態，於是在所有機器裝上了 Ops Agent 來監控硬碟狀態。但後來發現帳單的費用驚人，於是研究了一下他的費用和如何降低成本。&lt;/p&gt;
+&lt;h2 id=&quot;費用&quot;&gt;&lt;</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>GCP Cloud Storage 無法下載或複製</title>
@@ -393,7 +414,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/"/>
     <id>https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/</id>
     <published>2023-04-02T00:05:27.000Z</published>
-    <updated>2023-06-08T01:11:45.389Z</updated>
+    <updated>2023-07-06T07:31:35.180Z</updated>
     
     
       
@@ -455,7 +476,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/"/>
     <id>https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/</id>
     <published>2023-03-26T08:20:02.000Z</published>
-    <updated>2023-07-02T13:42:17.705Z</updated>
+    <updated>2023-07-06T07:31:15.974Z</updated>
     
     
       

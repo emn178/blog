@@ -1,6 +1,9 @@
-https://blog.emn178.cc/zh-TW/post/xapo-review/
-https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/
+https://blog.emn178.cc/zh-TW/post/gcp-cloud-monitoring-reduce-data-and-cost/
+https://blog.emn178.cc/en/post/starknet-airdrop-guide/
 https://blog.emn178.cc/en/post/zksync-airdrop-strategy/
+https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/
+https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/
+https://blog.emn178.cc/zh-TW/post/xapo-review/
 https://blog.emn178.cc/zh-TW/post/gcp-cloud-storage-can-not-download-or-copy/
 https://blog.emn178.cc/en/post/linea-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/linea-airdrop-guide/
@@ -27,10 +30,8 @@ https://blog.emn178.cc/en/post/scam-token-check-tools-token-sniffer-and-goplus/
 https://blog.emn178.cc/en/post/awesome-crypto-world-acw-scam-token/
 https://blog.emn178.cc/en/post/ai-a-scam-token/
 https://blog.emn178.cc/zh-TW/post/scam-token-check-tools-token-sniffer-and-goplus/
-https://blog.emn178.cc/en/post/starknet-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/awesome-crypto-world-acw-scam-token/
 https://blog.emn178.cc/zh-TW/post/ai-a-scam-token/
-https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/
 https://blog.emn178.cc/zh-TW/post/hsinchu-shan-shang-homestay-and-zhang-xueliang-cultural-park/
 https://blog.emn178.cc/en/post/zksync-airdrop-step-by-step/
