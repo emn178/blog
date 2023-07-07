@@ -9,8 +9,31 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Thu, 06 Jul 2023 13:08:18 GMT</pubDate>
+    <pubDate>Fri, 07 Jul 2023 10:31:57 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>使用嘉信理財投資美國債券</title>
+      <link>https://blog.emn178.cc/zh-TW/post/using-schwab-to-invest-bonds/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/using-schwab-to-invest-bonds/</guid>
+      <pubDate>Fri, 07 Jul 2023 10:31:01 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;本篇文章分享使用嘉信理財投資美債的方法、資訊和使用經驗。&lt;/p&gt;
+&lt;h2 id=&quot;債券首頁&quot;&gt;&lt;a href=&quot;#債券首頁&quot; class=&quot;headerlink&quot; title=&quot;債券首頁&quot;&gt;&lt;/a&gt;債券首頁&lt;/h2&gt;&lt;p&gt;選擇在 Trade 類別下的 Bonds&lt;br&gt;&lt;i</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1/">投資理財</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/using-schwab-to-invest-bonds/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>GCP Cloud Monitoring 減少流量和費用</title>
