@@ -1,3 +1,5 @@
+https://blog.emn178.cc/en/post/linea-airdrop-guide/
+https://blog.emn178.cc/zh-TW/post/linea-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/xapo-review/
 https://blog.emn178.cc/zh-TW/post/using-schwab-to-invest-bonds/
 https://blog.emn178.cc/zh-TW/post/gcp-cloud-monitoring-reduce-data-and-cost/
@@ -6,8 +8,6 @@ https://blog.emn178.cc/en/post/zksync-airdrop-strategy/
 https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/
 https://blog.emn178.cc/zh-TW/post/gcp-cloud-storage-can-not-download-or-copy/
-https://blog.emn178.cc/en/post/linea-airdrop-guide/
-https://blog.emn178.cc/zh-TW/post/linea-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-png-info/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-seed/
 https://blog.emn178.cc/zh-TW/post/parse-command-line-arguments-in-java/
