@@ -9,8 +9,30 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Fri, 07 Jul 2023 10:31:57 GMT</pubDate>
+    <pubDate>Thu, 13 Jul 2023 03:14:50 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>FTX 填寫索賠證明</title>
+      <link>https://blog.emn178.cc/zh-TW/post/ftx-proof-of-claim/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/ftx-proof-of-claim/</guid>
+      <pubDate>Thu, 13 Jul 2023 03:14:20 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;本篇文章說明如何填寫 FTX 索賠證明，從 FTX 點擊[提交索賠證明]後，會跳到 Kroll 平台進行填寫，首先會看到以下畫面&lt;br&gt;&lt;img src=&quot;/images/zh-TW/post/2023/ftx-proof-of-claim/20230713102211.j</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/ftx-proof-of-claim/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>使用嘉信理財投資美國債券</title>
