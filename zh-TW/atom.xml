@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2023-07-13T03:14:50.137Z</updated>
+  <updated>2023-07-15T12:31:18.749Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>非同步載入 CSS</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/load-css-asynchronously/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/load-css-asynchronously/</id>
+    <published>2023-07-15T12:31:31.000Z</published>
+    <updated>2023-07-15T12:31:18.749Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;本篇文章說明無樣式內容閃爍 FOUC(Flash of unstyled content)、渲染阻塞 (render-blocking) 的問題，以及如何非同步載入 CSS。&lt;/p&gt;
+&lt;h2 id=&quot;無樣式內容閃爍&quot;&gt;&lt;a href=&quot;#無樣式內容閃爍&quot; class=&quot;he</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>FTX 填寫索賠證明</title>
