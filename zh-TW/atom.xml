@@ -987,7 +987,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization/"/>
     <id>https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization/</id>
     <published>2018-02-13T14:38:38.000Z</published>
-    <updated>2023-04-17T14:40:52.932Z</updated>
+    <updated>2023-07-16T04:58:47.777Z</updated>
     
     
     <summary type="html">本篇文章說明 Solidity 智能合約 Gas 優化技巧，文章將整理分析智能合約中，影響 gas 消耗的一些因素，有助於我們了解消耗最大的指令是哪些，並謹慎的使用。</summary>
@@ -1028,11 +1028,59 @@
   </entry>
   
   <entry>
+    <title>ASP.NET C# Routing(IIS URL Rewrite 替代方案)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/routing-in-asp-dot-net-c-sharp-iis-url-rewrite-alternate/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/routing-in-asp-dot-net-c-sharp-iis-url-rewrite-alternate/</id>
+    <published>2011-09-24T03:10:36.000Z</published>
+    <updated>2023-07-16T07:19:57.169Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;使用 apache 時可以方便的使用 &lt;code&gt;mod_rewrite&lt;/code&gt;，來做重寫網址的功能，而到了 IIS 則可使用 &lt;code&gt;IIS URL Rewrite Module&lt;/code&gt; 來達成，而 .NET 3.5 SP1 之後新增加了 &lt;code&gt;Sy</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="C#" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/c-sharp/"/>
+    
+    
+    <category term="C#" scheme="https://blog.emn178.cc/zh-TW/tags/c-sharp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PHP 使用者 (會員) 權限設計 - 以位元表示</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/php-user-permission-design-using-bitwise/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/php-user-permission-design-using-bitwise/</id>
+    <published>2011-09-14T13:39:25.000Z</published>
+    <updated>2023-07-16T06:52:02.930Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;網路上有人提到這個問題，整理了一下自己提出的回應寫成這篇提供參考。一般做法通常使用資料表紀錄人與權限的關聯，甚至是有群組和角色等更複雜的機制，在檢查是否具有權限時可能要 Join 許多 Table 來達成。而此篇文章則以不同的方式來設計，簡單的以位元的方式來表示使用者具有之</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="PHP" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/"/>
+    
+    
+    <category term="PHP" scheme="https://blog.emn178.cc/zh-TW/tags/PHP/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Java 如何解析命令列參數</title>
     <link href="https://blog.emn178.cc/zh-TW/post/parse-command-line-arguments-in-java/"/>
     <id>https://blog.emn178.cc/zh-TW/post/parse-command-line-arguments-in-java/</id>
     <published>2011-08-22T13:46:37.000Z</published>
-    <updated>2023-06-22T04:54:26.127Z</updated>
+    <updated>2023-07-16T04:51:05.044Z</updated>
     
     
       
@@ -1043,6 +1091,8 @@
     
     
     <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="Java" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Java/"/>
     
     
     <category term="Java" scheme="https://blog.emn178.cc/zh-TW/tags/Java/"/>
@@ -1075,7 +1125,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/how-to-create-file-and-directory-in-java/"/>
     <id>https://blog.emn178.cc/zh-TW/post/how-to-create-file-and-directory-in-java/</id>
     <published>2011-08-20T01:33:29.000Z</published>
-    <updated>2023-06-22T04:53:55.148Z</updated>
+    <updated>2023-07-16T04:51:01.566Z</updated>
     
     
       
@@ -1087,6 +1137,8 @@
     
     
     <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="Java" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Java/"/>
     
     
     <category term="Java" scheme="https://blog.emn178.cc/zh-TW/tags/Java/"/>
@@ -1119,7 +1171,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/load-a-config-file-in-java/"/>
     <id>https://blog.emn178.cc/zh-TW/post/load-a-config-file-in-java/</id>
     <published>2011-08-16T12:55:33.000Z</published>
-    <updated>2023-06-22T04:51:57.537Z</updated>
+    <updated>2023-07-16T04:50:56.787Z</updated>
     
     
       
@@ -1132,6 +1184,8 @@
     
     <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
     
+    <category term="Java" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Java/"/>
+    
     
     <category term="Java" scheme="https://blog.emn178.cc/zh-TW/tags/Java/"/>
     
@@ -1142,7 +1196,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/using-property-to-access-elements-of-array-in-csharp/"/>
     <id>https://blog.emn178.cc/zh-TW/post/using-property-to-access-elements-of-array-in-csharp/</id>
     <published>2011-08-13T11:42:45.000Z</published>
-    <updated>2023-06-11T09:52:02.051Z</updated>
+    <updated>2023-07-16T04:49:15.902Z</updated>
     
     
       
@@ -1155,8 +1209,10 @@
     
     <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
     
+    <category term="C#" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/c-sharp/"/>
     
-    <category term="C#" scheme="https://blog.emn178.cc/zh-TW/tags/C/"/>
+    
+    <category term="C#" scheme="https://blog.emn178.cc/zh-TW/tags/c-sharp/"/>
     
   </entry>
   
@@ -1165,7 +1221,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/execute-external-programs-in-php/"/>
     <id>https://blog.emn178.cc/zh-TW/post/execute-external-programs-in-php/</id>
     <published>2011-08-10T12:10:57.000Z</published>
-    <updated>2023-06-11T09:27:17.058Z</updated>
+    <updated>2023-07-16T04:49:04.066Z</updated>
     
     
       
@@ -1176,6 +1232,8 @@
     
     
     <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="PHP" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/"/>
     
     
     <category term="PHP" scheme="https://blog.emn178.cc/zh-TW/tags/PHP/"/>
@@ -1289,7 +1347,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/php-tutorial-operators-final/"/>
     <id>https://blog.emn178.cc/zh-TW/post/php-tutorial-operators-final/</id>
     <published>2010-05-18T01:05:37.000Z</published>
-    <updated>2023-04-17T14:40:52.932Z</updated>
+    <updated>2023-07-16T04:48:53.061Z</updated>
     
     
       
@@ -1301,6 +1359,8 @@
     
     <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
     
+    <category term="PHP" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/"/>
+    
     
     <category term="PHP" scheme="https://blog.emn178.cc/zh-TW/tags/PHP/"/>
     
@@ -1311,7 +1371,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/php-tutorial-operators/"/>
     <id>https://blog.emn178.cc/zh-TW/post/php-tutorial-operators/</id>
     <published>2010-05-13T03:09:11.000Z</published>
-    <updated>2023-04-17T14:40:52.931Z</updated>
+    <updated>2023-07-16T04:48:51.144Z</updated>
     
     
       
@@ -1323,6 +1383,8 @@
     
     <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
     
+    <category term="PHP" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/"/>
+    
     
     <category term="PHP" scheme="https://blog.emn178.cc/zh-TW/tags/PHP/"/>
     
@@ -1333,7 +1395,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/maximum-execution-time-of-30-seconds-exceeded/"/>
     <id>https://blog.emn178.cc/zh-TW/post/maximum-execution-time-of-30-seconds-exceeded/</id>
     <published>2010-05-03T03:16:42.000Z</published>
-    <updated>2023-04-17T01:37:34.948Z</updated>
+    <updated>2023-07-16T04:48:49.343Z</updated>
     
     
     <summary type="html">本篇文章說明 PHP 出現誤訊息「Fatal error: Maximum execution time of 30 seconds exceeded in ....php on line ...」的原因和解決方法。</summary>
@@ -1341,6 +1403,8 @@
     
     
     <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="PHP" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/"/>
     
     
     <category term="PHP" scheme="https://blog.emn178.cc/zh-TW/tags/PHP/"/>
@@ -1352,7 +1416,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/php-tutorial-constants/"/>
     <id>https://blog.emn178.cc/zh-TW/post/php-tutorial-constants/</id>
     <published>2010-05-01T02:10:59.000Z</published>
-    <updated>2023-04-17T14:40:52.931Z</updated>
+    <updated>2023-07-16T04:48:46.394Z</updated>
     
     
       
@@ -1365,6 +1429,8 @@
     
     <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
     
+    <category term="PHP" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/"/>
+    
     
     <category term="PHP" scheme="https://blog.emn178.cc/zh-TW/tags/PHP/"/>
     
@@ -1375,7 +1441,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/php-tutorial-variables/"/>
     <id>https://blog.emn178.cc/zh-TW/post/php-tutorial-variables/</id>
     <published>2010-04-29T08:21:13.000Z</published>
-    <updated>2023-04-17T14:40:52.930Z</updated>
+    <updated>2023-07-16T04:48:44.698Z</updated>
     
     
       
@@ -1388,6 +1454,8 @@
     
     <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
     
+    <category term="PHP" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/"/>
+    
     
     <category term="PHP" scheme="https://blog.emn178.cc/zh-TW/tags/PHP/"/>
     
@@ -1398,7 +1466,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/php-tutorial-data-type-final/"/>
     <id>https://blog.emn178.cc/zh-TW/post/php-tutorial-data-type-final/</id>
     <published>2010-04-18T06:02:13.000Z</published>
-    <updated>2023-04-17T14:40:52.929Z</updated>
+    <updated>2023-07-16T04:48:39.706Z</updated>
     
     
       
@@ -1411,6 +1479,8 @@
     
     <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
     
+    <category term="PHP" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/"/>
+    
     
     <category term="PHP" scheme="https://blog.emn178.cc/zh-TW/tags/PHP/"/>
     
@@ -1421,7 +1491,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/php-tutorial-data-type/"/>
     <id>https://blog.emn178.cc/zh-TW/post/php-tutorial-data-type/</id>
     <published>2010-04-11T11:33:13.000Z</published>
-    <updated>2023-04-17T14:40:52.928Z</updated>
+    <updated>2023-07-16T04:48:28.314Z</updated>
     
     
       
@@ -1434,6 +1504,8 @@
     
     <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
     
+    <category term="PHP" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/"/>
+    
     
     <category term="PHP" scheme="https://blog.emn178.cc/zh-TW/tags/PHP/"/>
     
@@ -1444,7 +1516,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/php-tutorial-syntax/"/>
     <id>https://blog.emn178.cc/zh-TW/post/php-tutorial-syntax/</id>
     <published>2010-04-07T14:00:37.000Z</published>
-    <updated>2023-04-17T14:40:52.927Z</updated>
+    <updated>2023-07-16T04:48:23.587Z</updated>
     
     
       
@@ -1457,6 +1529,8 @@
     
     <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
     
+    <category term="PHP" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/"/>
+    
     
     <category term="PHP" scheme="https://blog.emn178.cc/zh-TW/tags/PHP/"/>
     
@@ -1467,7 +1541,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/php-startup-unable-to-load-dynamic-library-php-exif-dll/"/>
     <id>https://blog.emn178.cc/zh-TW/post/php-startup-unable-to-load-dynamic-library-php-exif-dll/</id>
     <published>2010-04-06T12:19:37.000Z</published>
-    <updated>2023-04-17T01:37:34.946Z</updated>
+    <updated>2023-07-16T04:48:21.901Z</updated>
     
     
     <summary type="html">本篇文章說明如何解決 PHP 開啟 exif 模組後，出現這個錯誤訊息「PHP Startup: Unable to load dynamic library php_exif.dll」的解決方法。</summary>
@@ -1475,6 +1549,8 @@
     
     
     <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="PHP" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/"/>
     
     
     <category term="PHP" scheme="https://blog.emn178.cc/zh-TW/tags/PHP/"/>

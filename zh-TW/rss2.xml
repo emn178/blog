@@ -1116,6 +1116,58 @@
     </item>
     
     <item>
+      <title>ASP.NET C# Routing(IIS URL Rewrite 替代方案)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/routing-in-asp-dot-net-c-sharp-iis-url-rewrite-alternate/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/routing-in-asp-dot-net-c-sharp-iis-url-rewrite-alternate/</guid>
+      <pubDate>Sat, 24 Sep 2011 03:10:36 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;使用 apache 時可以方便的使用 &lt;code&gt;mod_rewrite&lt;/code&gt;，來做重寫網址的功能，而到了 IIS 則可使用 &lt;code&gt;IIS URL Rewrite Module&lt;/code&gt; 來達成，而 .NET 3.5 SP1 之後新增加了 &lt;code&gt;Sy</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/c-sharp/">C#</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/c-sharp/">C#</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/routing-in-asp-dot-net-c-sharp-iis-url-rewrite-alternate/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>PHP 使用者 (會員) 權限設計 - 以位元表示</title>
+      <link>https://blog.emn178.cc/zh-TW/post/php-user-permission-design-using-bitwise/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/php-user-permission-design-using-bitwise/</guid>
+      <pubDate>Wed, 14 Sep 2011 13:39:25 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;網路上有人提到這個問題，整理了一下自己提出的回應寫成這篇提供參考。一般做法通常使用資料表紀錄人與權限的關聯，甚至是有群組和角色等更複雜的機制，在檢查是否具有權限時可能要 Join 許多 Table 來達成。而此篇文章則以不同的方式來設計，簡單的以位元的方式來表示使用者具有之</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/">PHP</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/PHP/">PHP</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/php-user-permission-design-using-bitwise/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>Java 如何解析命令列參數</title>
       <link>https://blog.emn178.cc/zh-TW/post/parse-command-line-arguments-in-java/</link>
       <guid>https://blog.emn178.cc/zh-TW/post/parse-command-line-arguments-in-java/</guid>
@@ -1130,6 +1182,8 @@
       
       
       <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Java/">Java</category>
       
       
       <category domain="https://blog.emn178.cc/zh-TW/tags/Java/">Java</category>
@@ -1179,6 +1233,8 @@
       
       <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
       
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Java/">Java</category>
+      
       
       <category domain="https://blog.emn178.cc/zh-TW/tags/Java/">Java</category>
       
@@ -1227,6 +1283,8 @@
       
       <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
       
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Java/">Java</category>
+      
       
       <category domain="https://blog.emn178.cc/zh-TW/tags/Java/">Java</category>
       
@@ -1252,8 +1310,10 @@
       
       <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
       
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/c-sharp/">C#</category>
       
-      <category domain="https://blog.emn178.cc/zh-TW/tags/C/">C#</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/c-sharp/">C#</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/using-property-to-access-elements-of-array-in-csharp/#disqus_thread</comments>
@@ -1275,6 +1335,8 @@
       
       
       <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/">PHP</category>
       
       
       <category domain="https://blog.emn178.cc/zh-TW/tags/PHP/">PHP</category>
@@ -1410,6 +1472,8 @@
       
       <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
       
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/">PHP</category>
+      
       
       <category domain="https://blog.emn178.cc/zh-TW/tags/PHP/">PHP</category>
       
@@ -1434,6 +1498,8 @@
       
       <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
       
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/">PHP</category>
+      
       
       <category domain="https://blog.emn178.cc/zh-TW/tags/PHP/">PHP</category>
       
@@ -1454,6 +1520,8 @@
       
       
       <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/">PHP</category>
       
       
       <category domain="https://blog.emn178.cc/zh-TW/tags/PHP/">PHP</category>
@@ -1480,6 +1548,8 @@
       
       <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
       
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/">PHP</category>
+      
       
       <category domain="https://blog.emn178.cc/zh-TW/tags/PHP/">PHP</category>
       
@@ -1504,6 +1574,8 @@
       
       
       <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/">PHP</category>
       
       
       <category domain="https://blog.emn178.cc/zh-TW/tags/PHP/">PHP</category>
@@ -1530,6 +1602,8 @@
       
       <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
       
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/">PHP</category>
+      
       
       <category domain="https://blog.emn178.cc/zh-TW/tags/PHP/">PHP</category>
       
@@ -1554,6 +1628,8 @@
       
       
       <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/">PHP</category>
       
       
       <category domain="https://blog.emn178.cc/zh-TW/tags/PHP/">PHP</category>
@@ -1580,6 +1656,8 @@
       
       <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
       
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/">PHP</category>
+      
       
       <category domain="https://blog.emn178.cc/zh-TW/tags/PHP/">PHP</category>
       
@@ -1600,6 +1678,8 @@
       
       
       <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/">PHP</category>
       
       
       <category domain="https://blog.emn178.cc/zh-TW/tags/PHP/">PHP</category>
