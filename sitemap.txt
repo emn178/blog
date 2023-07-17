@@ -1,3 +1,5 @@
+https://blog.emn178.cc/zh-TW/post/how-to-truncate-a-table-with-foreign-key-in-sql-server/
+https://blog.emn178.cc/zh-TW/post/how-to-show-windows-form-in-fullscreen-mode-using-c-sharp/
 https://blog.emn178.cc/zh-TW/post/routing-in-asp-dot-net-c-sharp-iis-url-rewrite-alternate/
 https://blog.emn178.cc/zh-TW/post/php-user-permission-design-using-bitwise/
 https://blog.emn178.cc/zh-TW/post/solidity-gas-optimization/

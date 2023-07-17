@@ -1116,6 +1116,56 @@
     </item>
     
     <item>
+      <title>SQL SERVER 如何 Truncate 具有 Foreign Key 的資料表</title>
+      <link>https://blog.emn178.cc/zh-TW/post/how-to-truncate-a-table-with-foreign-key-in-sql-server/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/how-to-truncate-a-table-with-foreign-key-in-sql-server/</guid>
+      <pubDate>Thu, 03 Nov 2011 11:39:09 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;當想要清空資料表時，我們可以用 &lt;code&gt;TRUNCATE&lt;/code&gt; 語句來達到，但是當該資料表有使用外部索引鍵時，會出現如下錯誤：&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutte</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/how-to-truncate-a-table-with-foreign-key-in-sql-server/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>C# 如何設定 Windows Form 顯示為全螢幕模式</title>
+      <link>https://blog.emn178.cc/zh-TW/post/how-to-show-windows-form-in-fullscreen-mode-using-c-sharp/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/how-to-show-windows-form-in-fullscreen-mode-using-c-sharp/</guid>
+      <pubDate>Sun, 16 Oct 2011 06:54:04 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;在 C# 中，只要簡單設定 &lt;code&gt;Form&lt;/code&gt; 物件的屬性就可以達到全螢幕的效果，可從設計頁或用程式碼方式去設定，而依據使用情境又可使用不同方式來實作，這邊說明兩種情境：&lt;/p&gt;
+&lt;h2 id=&quot;情境一：程式全螢幕阻擋&quot;&gt;&lt;a href=&quot;#情境一：程式全螢</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/c-sharp/">C#</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/c-sharp/">C#</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/how-to-show-windows-form-in-fullscreen-mode-using-c-sharp/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>ASP.NET C# Routing(IIS URL Rewrite 替代方案)</title>
       <link>https://blog.emn178.cc/zh-TW/post/routing-in-asp-dot-net-c-sharp-iis-url-rewrite-alternate/</link>
       <guid>https://blog.emn178.cc/zh-TW/post/routing-in-asp-dot-net-c-sharp-iis-url-rewrite-alternate/</guid>
