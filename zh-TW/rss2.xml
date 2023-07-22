@@ -9,7 +9,7 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sat, 22 Jul 2023 07:00:48 GMT</pubDate>
+    <pubDate>Sat, 22 Jul 2023 07:16:29 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -1134,6 +1134,54 @@
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/lake-placid-and-hsinchu-park/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>C# 在非 Web 專案模擬 HttpContext 進行單元測試</title>
+      <link>https://blog.emn178.cc/zh-TW/post/simulate-httpcontext-for-unit-test-in-non-web-project-using-c-sharp/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/simulate-httpcontext-for-unit-test-in-non-web-project-using-c-sharp/</guid>
+      <pubDate>Sat, 19 Nov 2011 06:02:26 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;開發 Web 專案時常會使用到 HttpContext 物件，例如使用 HttpContext.Current 取得資料，而有時候我們可能會因為單元測試方便、分工或其他因素，將一些功能寫在別的類別庫專案再進行引用。但是非 Web 專案使用到 HttpContext.Curr</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/c-sharp/">C#</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/c-sharp/">C#</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/simulate-httpcontext-for-unit-test-in-non-web-project-using-c-sharp/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>MySQL EXPLAIN - 效能分析語句</title>
+      <link>https://blog.emn178.cc/zh-TW/post/mysql-explain-profiling/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/mysql-explain-profiling/</guid>
+      <pubDate>Thu, 17 Nov 2011 11:58:25 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;有時候在開發程式會遇到一些效能上的瓶頸，可能是 SQL 語法下的不好或者是索引建立不當所造成，不過在初期開發資料量不大的時候，可能無法明顯的感覺到效能上的差異，我們可以透過 EXPLAIN 語句來分析查詢語句的效能，確保在開發初期就能使用有效率的 SQL 語句。EXPLAI</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/mysql-explain-profiling/#disqus_thread</comments>
       
     </item>
     

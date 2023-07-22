@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.emn178.cc/zh-TW/post/simulate-httpcontext-for-unit-test-in-non-web-project-using-c-sharp/</loc>
+    
+    <lastmod>2023-07-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.emn178.cc/zh-TW/post/mysql-explain-profiling/</loc>
+    
+    <lastmod>2023-07-22</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.emn178.cc/zh-TW/post/pagespeed-remove-unused-css/</loc>
     
     <lastmod>2023-07-22</lastmod>
