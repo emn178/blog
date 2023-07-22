@@ -9,8 +9,30 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sat, 15 Jul 2023 13:34:00 GMT</pubDate>
+    <pubDate>Sat, 22 Jul 2023 07:00:48 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>PageSpeed - 減少無用的 CSS</title>
+      <link>https://blog.emn178.cc/zh-TW/post/pagespeed-remove-unused-css/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/pagespeed-remove-unused-css/</guid>
+      <pubDate>Sat, 22 Jul 2023 06:59:42 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;說明&quot;&gt;&lt;a href=&quot;#說明&quot; class=&quot;headerlink&quot; title=&quot;說明&quot;&gt;&lt;/a&gt;說明&lt;/h2&gt;&lt;p&gt;使用 PageSpeed 或 Lighthouse 測試網頁的時候，很容易遇到這個錯誤，原因也如字面上一樣的淺顯易懂，就是 CSS 過大。可</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/pagespeed-remove-unused-css/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>非同步載入 CSS</title>
