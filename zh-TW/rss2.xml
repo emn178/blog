@@ -1138,6 +1138,50 @@
     </item>
     
     <item>
+      <title>OPDS Catalog 1.1 格式說明</title>
+      <link>https://blog.emn178.cc/zh-TW/post/opds-catalog/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/opds-catalog/</guid>
+      <pubDate>Fri, 30 Dec 2011 14:16:21 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;Open Publication Distribution System 中文翻譯作開放出版發行系統，是一種基於 Atom 用來對電子出版物</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/opds-catalog/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Atom Feed 格式說明</title>
+      <link>https://blog.emn178.cc/zh-TW/post/atom-feed/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/atom-feed/</guid>
+      <pubDate>Fri, 16 Dec 2011 13:39:05 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;Atom Syndication Format 中文翻譯作 Atom 聯合格式，是一種基於 XML 用來對網站內容做格式化的規範，與 RSS</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/atom-feed/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>C# 在非 Web 專案模擬 HttpContext 進行單元測試</title>
       <link>https://blog.emn178.cc/zh-TW/post/simulate-httpcontext-for-unit-test-in-non-web-project-using-c-sharp/</link>
       <guid>https://blog.emn178.cc/zh-TW/post/simulate-httpcontext-for-unit-test-in-non-web-project-using-c-sharp/</guid>

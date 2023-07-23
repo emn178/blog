@@ -1,3 +1,5 @@
+https://blog.emn178.cc/zh-TW/post/opds-catalog/
+https://blog.emn178.cc/zh-TW/post/atom-feed/
 https://blog.emn178.cc/zh-TW/post/simulate-httpcontext-for-unit-test-in-non-web-project-using-c-sharp/
 https://blog.emn178.cc/zh-TW/post/mysql-explain-profiling/
 https://blog.emn178.cc/zh-TW/post/pagespeed-remove-unused-css/
