@@ -1,4 +1,3 @@
-https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-sampling-method/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-png-info/
 https://blog.emn178.cc/zh-TW/post/opds-catalog/
 https://blog.emn178.cc/zh-TW/post/atom-feed/
