@@ -9,8 +9,33 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sat, 22 Jul 2023 07:16:29 GMT</pubDate>
+    <pubDate>Mon, 24 Jul 2023 15:20:04 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Stable Diffusion 教學 - 採樣方法 (Sampling Method)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-sampling-method/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-sampling-method/</guid>
+      <pubDate>Mon, 24 Jul 2023 15:03:09 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;本篇文章介紹 Stable Diffusion web UI 採樣方法 (Sampling Method) 的功能和實驗結果，比較效率以及最後總結的建議。&lt;/p&gt;
+&lt;h2 id=&quot;功能區塊&quot;&gt;&lt;a href=&quot;#功能區塊&quot; class=&quot;headerlink&quot; title=</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/AI/">AI</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/">Stable Diffusion</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-sampling-method/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>PageSpeed - 減少無用的 CSS</title>
