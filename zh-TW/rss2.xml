@@ -9,8 +9,33 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Tue, 25 Jul 2023 15:40:01 GMT</pubDate>
+    <pubDate>Thu, 27 Jul 2023 13:34:36 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Stable Diffusion 教學 - 檢查點 (Checkpoint)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-checkpoint/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-checkpoint/</guid>
+      <pubDate>Thu, 27 Jul 2023 13:34:21 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;本篇文章介紹 Stable Diffusion web UI 檢查點 (Checkpoint)，包含格式、如何新增和模型下載平台 Civitai 。&lt;/p&gt;
+&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/AI/">AI</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/">Stable Diffusion</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-checkpoint/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Stable Diffusion 教學 - 採樣方法 (Sampling Method)</title>
@@ -1159,6 +1184,29 @@
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/lake-placid-and-hsinchu-park/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>OpenSearch 格式說明</title>
+      <link>https://blog.emn178.cc/zh-TW/post/opensearch/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/opensearch/</guid>
+      <pubDate>Wed, 15 Feb 2012 11:57:48 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;OpenSearch 是一種以 XML 方式定義搜索的方法，網站依據此規範實作可與其他程式介接等用途。&lt;/p&gt;
+&lt;p&gt;完整的規範可以在此&lt;a</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/opensearch/#disqus_thread</comments>
       
     </item>
     

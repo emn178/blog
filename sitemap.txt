@@ -1,3 +1,8 @@
+https://blog.emn178.cc/en/post/gcp-cloud-monitoring-reduce-data-and-cost/
+https://blog.emn178.cc/zh-TW/post/opensearch/
+https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-checkpoint/
+https://blog.emn178.cc/en/post/starknet-airdrop-guide/
+https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-png-info/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-sampling-method/
 https://blog.emn178.cc/zh-TW/post/opds-catalog/
@@ -31,9 +36,7 @@ https://blog.emn178.cc/en/post/linea-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/linea-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/using-schwab-to-invest-bonds/
 https://blog.emn178.cc/zh-TW/post/gcp-cloud-monitoring-reduce-data-and-cost/
-https://blog.emn178.cc/en/post/starknet-airdrop-guide/
 https://blog.emn178.cc/en/post/zksync-airdrop-strategy/
-https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/
 https://blog.emn178.cc/zh-TW/post/gcp-cloud-storage-can-not-download-or-copy/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-seed/
@@ -124,6 +127,7 @@ https://blog.emn178.cc/zh-TW/tags/Java/
 https://blog.emn178.cc/en/
 https://blog.emn178.cc/en/categories/Blockchain/
 https://blog.emn178.cc/en/categories/Programming/
+https://blog.emn178.cc/en/categories/DevOps/
 https://blog.emn178.cc/en/tags/Solidity/
 https://blog.emn178.cc/en/tags/zkSync/
 https://blog.emn178.cc/en/tags/Node-js/

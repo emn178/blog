@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2023-07-25T15:40:01.844Z</updated>
+  <updated>2023-07-27T13:34:36.664Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Stable Diffusion 教學 - 檢查點 (Checkpoint)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-checkpoint/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-checkpoint/</id>
+    <published>2023-07-27T13:34:21.000Z</published>
+    <updated>2023-07-27T13:34:36.664Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;本篇文章介紹 Stable Diffusion web UI 檢查點 (Checkpoint)，包含格式、如何新增和模型下載平台 Civitai 。&lt;/p&gt;
+&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/</summary>
+      
+    
+    
+    
+    <category term="AI" scheme="https://blog.emn178.cc/zh-TW/categories/AI/"/>
+    
+    
+    <category term="Stable Diffusion" scheme="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/"/>
+    
+  </entry>
   
   <entry>
     <title>Stable Diffusion 教學 - 採樣方法 (Sampling Method)</title>
@@ -519,7 +542,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/"/>
     <id>https://blog.emn178.cc/zh-TW/post/starknet-airdrop-guide/</id>
     <published>2023-04-02T00:05:27.000Z</published>
-    <updated>2023-07-06T07:31:35.180Z</updated>
+    <updated>2023-07-26T07:56:53.634Z</updated>
     
     
       
@@ -1067,6 +1090,27 @@
     <category term="景點" scheme="https://blog.emn178.cc/zh-TW/tags/%E6%99%AF%E9%BB%9E/"/>
     
     <category term="新竹" scheme="https://blog.emn178.cc/zh-TW/tags/%E6%96%B0%E7%AB%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>OpenSearch 格式說明</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/opensearch/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/opensearch/</id>
+    <published>2012-02-15T11:57:48.000Z</published>
+    <updated>2023-07-27T14:27:49.885Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;OpenSearch 是一種以 XML 方式定義搜索的方法，網站依據此規範實作可與其他程式介接等用途。&lt;/p&gt;
+&lt;p&gt;完整的規範可以在此&lt;a</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
     
   </entry>
   
