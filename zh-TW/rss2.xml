@@ -9,8 +9,30 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Thu, 27 Jul 2023 15:28:39 GMT</pubDate>
+    <pubDate>Fri, 28 Jul 2023 14:23:26 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>zkEVM 空投資訊整理</title>
+      <link>https://blog.emn178.cc/zh-TW/post/zkevm-airdrop-guide/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/zkevm-airdrop-guide/</guid>
+      <pubDate>Fri, 28 Jul 2023 12:24:33 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;&lt;a href=&quot;https://polygon.technology/polygon-zkevm&quot;&gt;zkEVM&lt;/a&gt; 是其中一個 ZK Rollup 的 L2 方案，雖然已經有 MATIC 代幣，但據說可能也有空投機會，這邊研究並整理一份資料給大家參考。作為同樣 L2 </description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/zkevm-airdrop-guide/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Stable Diffusion 教學 - 檢查點 (Checkpoint)</title>
@@ -1184,6 +1206,29 @@
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/lake-placid-and-hsinchu-park/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>MySQL 修改密碼與忘記密碼重設</title>
+      <link>https://blog.emn178.cc/zh-TW/post/change-or-reset-user-password-on-mysql/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/change-or-reset-user-password-on-mysql/</guid>
+      <pubDate>Fri, 02 Mar 2012 11:49:48 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;本篇文章說明 MySQL 如何修改密碼與忘記密碼時如何重設密碼。&lt;/p&gt;
+&lt;h2 id=&quot;設定-root-密碼&quot;&gt;&lt;a href=&quot;#設定-root-密碼&quot; class=&quot;headerlink&quot; title=&quot;設定 root 密碼&quot;&gt;&lt;/a&gt;設定 root 密碼&lt;/h2&gt;&lt;</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/change-or-reset-user-password-on-mysql/#disqus_thread</comments>
       
     </item>
     

@@ -9,8 +9,31 @@
     <atom:link href="https://blog.emn178.cc/en/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>A blog sharing experiences about programming and technology.</description>
-    <pubDate>Thu, 27 Jul 2023 15:12:35 GMT</pubDate>
+    <pubDate>Fri, 28 Jul 2023 14:20:12 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Load CSS Asynchronously</title>
+      <link>https://blog.emn178.cc/en/post/load-css-asynchronously/</link>
+      <guid>https://blog.emn178.cc/en/post/load-css-asynchronously/</guid>
+      <pubDate>Fri, 28 Jul 2023 14:20:34 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;This article explains FOUC (Flash of unstyled content), render-blocking issues, and how to load CSS asynchronously.&lt;/p&gt;
+&lt;h2 id=&quot;Flash-of-</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/en/categories/Programming/">Programming</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/en/post/load-css-asynchronously/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>GCP Cloud Monitoring - Reduce Data and Cost</title>

@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/en/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/en/"/>
-  <updated>2023-07-27T15:12:35.446Z</updated>
+  <updated>2023-07-28T14:20:12.076Z</updated>
   <id>https://blog.emn178.cc/en/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Load CSS Asynchronously</title>
+    <link href="https://blog.emn178.cc/en/post/load-css-asynchronously/"/>
+    <id>https://blog.emn178.cc/en/post/load-css-asynchronously/</id>
+    <published>2023-07-28T14:20:34.000Z</published>
+    <updated>2023-07-28T14:20:12.076Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;This article explains FOUC (Flash of unstyled content), render-blocking issues, and how to load CSS asynchronously.&lt;/p&gt;
+&lt;h2 id=&quot;Flash-of-</summary>
+      
+    
+    
+    
+    <category term="Programming" scheme="https://blog.emn178.cc/en/categories/Programming/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>GCP Cloud Monitoring - Reduce Data and Cost</title>
@@ -184,7 +205,7 @@
     <link href="https://blog.emn178.cc/en/post/starknet-airdrop-guide/"/>
     <id>https://blog.emn178.cc/en/post/starknet-airdrop-guide/</id>
     <published>2023-04-02T12:09:49.000Z</published>
-    <updated>2023-07-26T07:56:59.475Z</updated>
+    <updated>2023-07-28T02:20:43.671Z</updated>
     
     
       
