@@ -1,3 +1,5 @@
+https://blog.emn178.cc/zh-TW/post/linea-airdrop-guide/
+https://blog.emn178.cc/en/post/linea-airdrop-guide/
 https://blog.emn178.cc/en/post/zksync-airdrop-strategy/
 https://blog.emn178.cc/zh-TW/post/zksync-airdrop-strategy/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-checkpoint/
@@ -34,8 +36,6 @@ https://blog.emn178.cc/zh-TW/post/php-startup-unable-to-load-dynamic-library-php
 https://blog.emn178.cc/zh-TW/post/load-css-asynchronously/
 https://blog.emn178.cc/zh-TW/post/xapo-review/
 https://blog.emn178.cc/zh-TW/post/ftx-proof-of-claim/
-https://blog.emn178.cc/en/post/linea-airdrop-guide/
-https://blog.emn178.cc/zh-TW/post/linea-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/using-schwab-to-invest-bonds/
 https://blog.emn178.cc/zh-TW/post/gcp-cloud-monitoring-reduce-data-and-cost/
 https://blog.emn178.cc/zh-TW/post/gcp-cloud-storage-can-not-download-or-copy/
