@@ -9,7 +9,7 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Fri, 28 Jul 2023 14:23:26 GMT</pubDate>
+    <pubDate>Sun, 30 Jul 2023 07:42:28 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -438,8 +438,7 @@
       
         
         
-      <description>&lt;p&gt;&lt;a href=&quot;https://linea.build/&quot;&gt;Linea&lt;/a&gt; 是其中一個 ZK Rollup 的 L2 方案，背後公司是 Consensys，也是知名的錢包 Metamask 的開發公司。目前還是測試網，就先列一些基本的交互，以參加活動為主。&lt;/p&gt;
-&lt;</description>
+      <description>&lt;p&gt;&lt;a href=&quot;https://linea.build/&quot;&gt;Linea&lt;/a&gt; 是其中一個 ZK Rollup 的 L2 方案，背後公司是 Consensys，也是知名的錢包 Metamask 的開發公司。目前已經上主網，這邊研究並整理一份資料給大家參考。作為同樣 L2 </description>
         
       
       
