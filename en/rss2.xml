@@ -9,8 +9,30 @@
     <atom:link href="https://blog.emn178.cc/en/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>A blog sharing experiences about programming and technology.</description>
-    <pubDate>Fri, 28 Jul 2023 14:20:12 GMT</pubDate>
+    <pubDate>Sun, 30 Jul 2023 10:06:03 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>zkEVM Airdrop Guide</title>
+      <link>https://blog.emn178.cc/en/post/zkevm-airdrop-guide/</link>
+      <guid>https://blog.emn178.cc/en/post/zkevm-airdrop-guide/</guid>
+      <pubDate>Sun, 30 Jul 2023 10:06:32 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;&lt;a href=&quot;https://polygon.technology/polygon-zkevm&quot;&gt;zkEVM&lt;/a&gt; is one of the L2 solutions of ZK Rollup. While there is already a MATIC coin</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/en/post/zkevm-airdrop-guide/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Load CSS Asynchronously</title>
