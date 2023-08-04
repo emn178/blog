@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2023-08-02T01:17:30.785Z</updated>
+  <updated>2023-08-04T15:01:08.604Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Stable Diffusion 教學 - 擴充功能 (Extensions)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-extensions/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-extensions/</id>
+    <published>2023-08-04T15:01:55.000Z</published>
+    <updated>2023-08-04T15:01:08.604Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;本篇文章介紹 Stable Diffusion web UI 擴充功能 (Extensions) 的功能和用法，透過這個頁面可以安裝不同額外的功能。本篇文章會說明如何安裝、停用和移除擴充等功能。&lt;/p&gt;
+&lt;h2 id=&quot;功能區塊&quot;&gt;&lt;a href=&quot;#功能區塊&quot; class</summary>
+      
+    
+    
+    
+    <category term="AI" scheme="https://blog.emn178.cc/zh-TW/categories/AI/"/>
+    
+    
+    <category term="Stable Diffusion" scheme="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/"/>
+    
+  </entry>
+  
+  <entry>
     <title>zkEVM 空投資訊整理</title>
     <link href="https://blog.emn178.cc/zh-TW/post/zkevm-airdrop-guide/"/>
     <id>https://blog.emn178.cc/zh-TW/post/zkevm-airdrop-guide/</id>
     <published>2023-07-28T12:24:33.000Z</published>
-    <updated>2023-08-02T01:17:30.785Z</updated>
+    <updated>2023-08-03T02:39:29.674Z</updated>
     
     
       
@@ -41,7 +64,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-checkpoint/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-checkpoint/</id>
     <published>2023-07-27T13:34:21.000Z</published>
-    <updated>2023-07-27T15:28:39.581Z</updated>
+    <updated>2023-08-04T14:59:26.472Z</updated>
     
     
       
@@ -403,7 +426,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/linea-airdrop-guide/"/>
     <id>https://blog.emn178.cc/zh-TW/post/linea-airdrop-guide/</id>
     <published>2023-05-21T03:07:08.000Z</published>
-    <updated>2023-07-30T07:04:25.792Z</updated>
+    <updated>2023-08-04T05:40:46.592Z</updated>
     
     
       

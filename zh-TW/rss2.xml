@@ -9,8 +9,33 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Wed, 02 Aug 2023 01:17:30 GMT</pubDate>
+    <pubDate>Fri, 04 Aug 2023 15:01:08 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Stable Diffusion 教學 - 擴充功能 (Extensions)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-extensions/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-extensions/</guid>
+      <pubDate>Fri, 04 Aug 2023 15:01:55 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;本篇文章介紹 Stable Diffusion web UI 擴充功能 (Extensions) 的功能和用法，透過這個頁面可以安裝不同額外的功能。本篇文章會說明如何安裝、停用和移除擴充等功能。&lt;/p&gt;
+&lt;h2 id=&quot;功能區塊&quot;&gt;&lt;a href=&quot;#功能區塊&quot; class</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/AI/">AI</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/">Stable Diffusion</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-extensions/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>zkEVM 空投資訊整理</title>
