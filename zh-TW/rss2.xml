@@ -1234,6 +1234,78 @@
     </item>
     
     <item>
+      <title>最大子序列 (Maximum Subarray)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/maximum-subarray/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/maximum-subarray/</guid>
+      <pubDate>Sun, 15 Apr 2012 02:04:01 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;最大子序列 (Maximum Subarray 或稱作 Maximum Subsequence) 為在一個具有正負數陣列當中，找出一段連續的</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/">演算法</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/maximum-subarray/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>二元搜索法 (Binary Search)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/binary-search/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/binary-search/</guid>
+      <pubDate>Wed, 11 Apr 2012 13:36:53 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;二元搜索法 (Binary Search) 又稱折半搜索，搜索演算法的一種，可使用 &lt;a href=&quot;/zh-TW/post/divide-</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/">演算法</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/binary-search/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>快速排序法 (Quick Sort)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/quick-sort/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/quick-sort/</guid>
+      <pubDate>Sun, 01 Apr 2012 01:28:48 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;快速排序法是排序演算法的一種，使用 &lt;a href=&quot;/zh-TW/post/divide-and-conquer/&quot;&gt;Divide and</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/">演算法</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/quick-sort/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>合併排序法 (Merge Sort)</title>
       <link>https://blog.emn178.cc/zh-TW/post/merge-sort/</link>
       <guid>https://blog.emn178.cc/zh-TW/post/merge-sort/</guid>
@@ -1308,7 +1380,7 @@
     </item>
     
     <item>
-      <title>解決 The script tried to execute a method or access a property of an incomplete object.</title>
+      <title>解決 The script tried to execute a method or access a property of an incomplete object</title>
       <link>https://blog.emn178.cc/zh-TW/post/the-script-tried-to-execute-a-method-or-access-a-property-of-an-incomplete-object/</link>
       <guid>https://blog.emn178.cc/zh-TW/post/the-script-tried-to-execute-a-method-or-access-a-property-of-an-incomplete-object/</guid>
       <pubDate>Tue, 06 Mar 2012 12:28:02 GMT</pubDate>
