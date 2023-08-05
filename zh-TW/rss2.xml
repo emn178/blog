@@ -9,7 +9,7 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Fri, 04 Aug 2023 15:01:08 GMT</pubDate>
+    <pubDate>Fri, 04 Aug 2023 15:05:37 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -1230,6 +1230,107 @@
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/lake-placid-and-hsinchu-park/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>合併排序法 (Merge Sort)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/merge-sort/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/merge-sort/</guid>
+      <pubDate>Sun, 11 Mar 2012 06:19:04 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;合併排序法 (或稱歸併排序法)，是排序演算法的一種，使用 &lt;a href=&quot;/zh-TW/post/divide-and-conquer/&quot;</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/">演算法</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/merge-sort/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>河內塔 (Tower of Hanoi)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/tower-of-hanoi/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/tower-of-hanoi/</guid>
+      <pubDate>Fri, 09 Mar 2012 12:43:56 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;也翻譯作漢諾塔，這是根據一個傳說演變而成的題目，題目的規則如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;有三根竿子，例如編號為 A、B 和 C，竿子上面</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/">演算法</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/tower-of-hanoi/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>分治法 (Divide and conquer)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/divide-and-conquer/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/divide-and-conquer/</guid>
+      <pubDate>Thu, 08 Mar 2012 12:57:10 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;Divide and conquer 中文翻作分治法，概念如字面上的意義，將問題先切分成小問題後再解決，再將結果合併求出原始問題的答案。&lt;/</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/">演算法</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/divide-and-conquer/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>解決 The script tried to execute a method or access a property of an incomplete object.</title>
+      <link>https://blog.emn178.cc/zh-TW/post/the-script-tried-to-execute-a-method-or-access-a-property-of-an-incomplete-object/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/the-script-tried-to-execute-a-method-or-access-a-property-of-an-incomplete-object/</guid>
+      <pubDate>Tue, 06 Mar 2012 12:28:02 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;問題&quot;&gt;&lt;a href=&quot;#問題&quot; class=&quot;headerlink&quot; title=&quot;問題&quot;&gt;&lt;/a&gt;問題&lt;/h2&gt;&lt;p&gt;程式執行出現以下錯誤&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td clas</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/">PHP</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/PHP/">PHP</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/the-script-tried-to-execute-a-method-or-access-a-property-of-an-incomplete-object/#disqus_thread</comments>
       
     </item>
     

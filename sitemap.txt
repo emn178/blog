@@ -1,3 +1,7 @@
+https://blog.emn178.cc/zh-TW/post/divide-and-conquer/
+https://blog.emn178.cc/zh-TW/post/merge-sort/
+https://blog.emn178.cc/zh-TW/post/tower-of-hanoi/
+https://blog.emn178.cc/zh-TW/post/the-script-tried-to-execute-a-method-or-access-a-property-of-an-incomplete-object/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-extensions/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-checkpoint/
 https://blog.emn178.cc/en/post/linea-airdrop-guide/
@@ -115,6 +119,7 @@ https://blog.emn178.cc/zh-TW/categories/%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1/
 https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/c-sharp/
 https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/
 https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Java/
+https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/
 https://blog.emn178.cc/zh-TW/tags/Midjourney/
 https://blog.emn178.cc/zh-TW/tags/Solidity/
 https://blog.emn178.cc/zh-TW/tags/zkSync/
