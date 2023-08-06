@@ -1234,6 +1234,78 @@
     </item>
     
     <item>
+      <title>費波那西數列 (Fibonacci)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/fibonacci/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/fibonacci/</guid>
+      <pubDate>Sun, 05 Aug 2012 10:16:27 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;費波那西數列 (Fibonacci)，又稱費氏數列、黃金分割數列等很多譯名，由西方的數學家費波那西使用兔子問題來描述這個數列，以下引用 &lt;a</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/">演算法</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/fibonacci/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>動態規劃 (Dynamic Programming)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/dynamic-programming/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/dynamic-programming/</guid>
+      <pubDate>Thu, 02 Aug 2012 13:27:57 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;Dynamic Programming 中文譯作動態規劃，動態規劃類似 &lt;a href=&quot;/zh-TW/post/divide-and-co</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/">演算法</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/dynamic-programming/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>迭代法 (Iterative)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/iterative/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/iterative/</guid>
+      <pubDate>Sat, 21 Apr 2012 05:58:34 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;Iterative Method 中文翻譯作迭代法或疊代法，而在數學領域和電腦程式領域的定義有些不同，數學領域的迭代法指的是無法使用公式一次</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/">演算法</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/iterative/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>最大子序列 (Maximum Subarray)</title>
       <link>https://blog.emn178.cc/zh-TW/post/maximum-subarray/</link>
       <guid>https://blog.emn178.cc/zh-TW/post/maximum-subarray/</guid>

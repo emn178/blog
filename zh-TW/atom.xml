@@ -1136,11 +1136,77 @@
   </entry>
   
   <entry>
+    <title>費波那西數列 (Fibonacci)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/fibonacci/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/fibonacci/</id>
+    <published>2012-08-05T10:16:27.000Z</published>
+    <updated>2023-08-06T02:56:59.080Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;費波那西數列 (Fibonacci)，又稱費氏數列、黃金分割數列等很多譯名，由西方的數學家費波那西使用兔子問題來描述這個數列，以下引用 &lt;a</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="演算法" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>動態規劃 (Dynamic Programming)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/dynamic-programming/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/dynamic-programming/</id>
+    <published>2012-08-02T13:27:57.000Z</published>
+    <updated>2023-08-06T02:14:02.001Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;Dynamic Programming 中文譯作動態規劃，動態規劃類似 &lt;a href=&quot;/zh-TW/post/divide-and-co</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="演算法" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>迭代法 (Iterative)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/iterative/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/iterative/</id>
+    <published>2012-04-21T05:58:34.000Z</published>
+    <updated>2023-08-06T02:48:55.241Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;Iterative Method 中文翻譯作迭代法或疊代法，而在數學領域和電腦程式領域的定義有些不同，數學領域的迭代法指的是無法使用公式一次</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="演算法" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>最大子序列 (Maximum Subarray)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/maximum-subarray/"/>
     <id>https://blog.emn178.cc/zh-TW/post/maximum-subarray/</id>
     <published>2012-04-15T02:04:01.000Z</published>
-    <updated>2023-08-05T12:56:30.404Z</updated>
+    <updated>2023-08-05T15:06:38.387Z</updated>
     
     
       
@@ -1162,7 +1228,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/binary-search/"/>
     <id>https://blog.emn178.cc/zh-TW/post/binary-search/</id>
     <published>2012-04-11T13:36:53.000Z</published>
-    <updated>2023-08-05T07:59:34.638Z</updated>
+    <updated>2023-08-06T02:53:32.779Z</updated>
     
     
       
@@ -1184,7 +1250,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/quick-sort/"/>
     <id>https://blog.emn178.cc/zh-TW/post/quick-sort/</id>
     <published>2012-04-01T01:28:48.000Z</published>
-    <updated>2023-08-05T07:37:42.917Z</updated>
+    <updated>2023-08-05T14:46:08.287Z</updated>
     
     
       
@@ -1228,7 +1294,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/tower-of-hanoi/"/>
     <id>https://blog.emn178.cc/zh-TW/post/tower-of-hanoi/</id>
     <published>2012-03-09T12:43:56.000Z</published>
-    <updated>2023-08-05T06:32:00.879Z</updated>
+    <updated>2023-08-05T15:03:18.329Z</updated>
     
     
       
@@ -1252,7 +1318,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/divide-and-conquer/"/>
     <id>https://blog.emn178.cc/zh-TW/post/divide-and-conquer/</id>
     <published>2012-03-08T12:57:10.000Z</published>
-    <updated>2023-08-05T12:57:25.260Z</updated>
+    <updated>2023-08-06T02:18:09.279Z</updated>
     
     
       
