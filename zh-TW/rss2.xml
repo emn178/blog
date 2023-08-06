@@ -1206,6 +1206,110 @@
     </item>
     
     <item>
+      <title>選擇排序法 (Selection Sort)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/selection-sort/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/selection-sort/</guid>
+      <pubDate>Sun, 18 Nov 2012 06:02:14 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;選擇排序法 (Selection Sort) 是&lt;a href=&quot;/zh-TW/post/sorting-algorithm/&quot;&gt;排序演算法</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/">演算法</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/%E6%8E%92%E5%BA%8F%E6%BC%94%E7%AE%97%E6%B3%95/">排序演算法</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/selection-sort/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>插入排序法 (Insertion Sort)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/insertion-sort/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/insertion-sort/</guid>
+      <pubDate>Sun, 11 Nov 2012 13:31:48 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;插入排序法 (Insertion Sort) 是&lt;a href=&quot;/zh-TW/post/sorting-algorithm/&quot;&gt;排序演算法</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/">演算法</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/%E6%8E%92%E5%BA%8F%E6%BC%94%E7%AE%97%E6%B3%95/">排序演算法</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/insertion-sort/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>氣泡排序法 (Bubble Sort)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/bubble-sort/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/bubble-sort/</guid>
+      <pubDate>Sat, 10 Nov 2012 13:17:55 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;氣泡排序法 (Bubble Sort) 是最容易理解和實作的一種&lt;a href=&quot;/zh-TW/post/sorting-algorithm</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/">演算法</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/%E6%8E%92%E5%BA%8F%E6%BC%94%E7%AE%97%E6%B3%95/">排序演算法</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/bubble-sort/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>排序演算法 (Sorting)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/sorting-algorithm/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/sorting-algorithm/</guid>
+      <pubDate>Mon, 05 Nov 2012 11:12:17 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;排序 (Sorting) 演算法是常用到的一種演算法，顧名思義他是用來將資料依據特定的規則做排序後輸出；既然稱為排序就會有一個比較順序的依據</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/">演算法</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/%E6%8E%92%E5%BA%8F%E6%BC%94%E7%AE%97%E6%B3%95/">排序演算法</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/sorting-algorithm/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>新竹旅遊景點 - 靜心湖和新竹公園</title>
       <link>https://blog.emn178.cc/zh-TW/post/lake-placid-and-hsinchu-park/</link>
       <guid>https://blog.emn178.cc/zh-TW/post/lake-placid-and-hsinchu-park/</guid>
@@ -1252,6 +1356,10 @@
       <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/">演算法</category>
       
       
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Divide-and-conquer/">Divide and conquer</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Dynamic-Programming/">Dynamic Programming</category>
+      
       
       <comments>https://blog.emn178.cc/zh-TW/post/fibonacci/#disqus_thread</comments>
       
@@ -1275,6 +1383,8 @@
       
       <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/">演算法</category>
       
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Dynamic-Programming/">Dynamic Programming</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/dynamic-programming/#disqus_thread</comments>
@@ -1324,6 +1434,10 @@
       <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/">演算法</category>
       
       
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Divide-and-conquer/">Divide and conquer</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Dynamic-Programming/">Dynamic Programming</category>
+      
       
       <comments>https://blog.emn178.cc/zh-TW/post/maximum-subarray/#disqus_thread</comments>
       
@@ -1348,6 +1462,8 @@
       <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/">演算法</category>
       
       
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Divide-and-conquer/">Divide and conquer</category>
+      
       
       <comments>https://blog.emn178.cc/zh-TW/post/binary-search/#disqus_thread</comments>
       
@@ -1361,7 +1477,7 @@
       
         
         
-      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;快速排序法是排序演算法的一種，使用 &lt;a href=&quot;/zh-TW/post/divide-and-conquer/&quot;&gt;Divide and</description>
+      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;快速排序法是&lt;a href=&quot;/zh-TW/post/sorting-algorithm/&quot;&gt;排序演算法&lt;/a&gt;的一種，使用 &lt;a href</description>
         
       
       
@@ -1371,6 +1487,10 @@
       
       <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/">演算法</category>
       
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Divide-and-conquer/">Divide and conquer</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/%E6%8E%92%E5%BA%8F%E6%BC%94%E7%AE%97%E6%B3%95/">排序演算法</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/quick-sort/#disqus_thread</comments>
@@ -1385,7 +1505,7 @@
       
         
         
-      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;合併排序法 (或稱歸併排序法)，是排序演算法的一種，使用 &lt;a href=&quot;/zh-TW/post/divide-and-conquer/&quot;</description>
+      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;合併排序法 (或稱歸併排序法)，是&lt;a href=&quot;/zh-TW/post/sorting-algorithm/&quot;&gt;排序演算法&lt;/a&gt;的一種</description>
         
       
       
@@ -1395,6 +1515,10 @@
       
       <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/">演算法</category>
       
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Divide-and-conquer/">Divide and conquer</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/%E6%8E%92%E5%BA%8F%E6%BC%94%E7%AE%97%E6%B3%95/">排序演算法</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/merge-sort/#disqus_thread</comments>
@@ -1422,6 +1546,8 @@
       <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/">演算法</category>
       
       
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Divide-and-conquer/">Divide and conquer</category>
+      
       
       <comments>https://blog.emn178.cc/zh-TW/post/tower-of-hanoi/#disqus_thread</comments>
       
@@ -1445,6 +1571,8 @@
       
       <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/">演算法</category>
       
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Divide-and-conquer/">Divide and conquer</category>
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/divide-and-conquer/#disqus_thread</comments>
