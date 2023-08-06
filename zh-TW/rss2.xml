@@ -1338,6 +1338,33 @@
     </item>
     
     <item>
+      <title>上下樓梯問題 &amp; (籃球) 得分問題</title>
+      <link>https://blog.emn178.cc/zh-TW/post/climbing-stairs/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/climbing-stairs/</guid>
+      <pubDate>Sun, 26 Aug 2012 06:06:10 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;先來描述一下問題，這裡以下樓梯為例：&lt;/p&gt;
+&lt;p&gt;有一個人下樓梯，一次可以走一階或兩階，假設總共有N階樓梯，共有幾總走法？例如 N &amp;#x</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/">演算法</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Dynamic-Programming/">Dynamic Programming</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/climbing-stairs/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>費波那西數列 (Fibonacci)</title>
       <link>https://blog.emn178.cc/zh-TW/post/fibonacci/</link>
       <guid>https://blog.emn178.cc/zh-TW/post/fibonacci/</guid>

@@ -1232,11 +1232,36 @@
   </entry>
   
   <entry>
+    <title>上下樓梯問題 &amp; (籃球) 得分問題</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/climbing-stairs/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/climbing-stairs/</id>
+    <published>2012-08-26T06:06:10.000Z</published>
+    <updated>2023-08-06T13:24:06.456Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;先來描述一下問題，這裡以下樓梯為例：&lt;/p&gt;
+&lt;p&gt;有一個人下樓梯，一次可以走一階或兩階，假設總共有N階樓梯，共有幾總走法？例如 N &amp;#x</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="演算法" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="Dynamic Programming" scheme="https://blog.emn178.cc/zh-TW/tags/Dynamic-Programming/"/>
+    
+  </entry>
+  
+  <entry>
     <title>費波那西數列 (Fibonacci)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/fibonacci/"/>
     <id>https://blog.emn178.cc/zh-TW/post/fibonacci/</id>
     <published>2012-08-05T10:16:27.000Z</published>
-    <updated>2023-08-06T12:13:33.459Z</updated>
+    <updated>2023-08-06T13:03:51.233Z</updated>
     
     
       
@@ -1262,7 +1287,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/dynamic-programming/"/>
     <id>https://blog.emn178.cc/zh-TW/post/dynamic-programming/</id>
     <published>2012-08-02T13:27:57.000Z</published>
-    <updated>2023-08-06T12:13:41.048Z</updated>
+    <updated>2023-08-06T13:04:09.364Z</updated>
     
     
       
