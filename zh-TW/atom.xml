@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2023-08-04T15:05:37.962Z</updated>
+  <updated>2023-08-19T14:34:53.040Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Stable Diffusion 教學 - web UI Extra Networks</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-extra-networks/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-extra-networks/</id>
+    <published>2023-08-19T14:34:15.000Z</published>
+    <updated>2023-08-19T14:34:53.040Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;本篇文章介紹 Stable Diffusion web UI Extra Networks 的功能，包含子模型 Textual Inversion、Hypernetworks 和 Lora 的安裝和使用。&lt;/p&gt;
+&lt;h2 id=&quot;功能區塊&quot;&gt;&lt;a href=&quot;#功能區塊&quot; </summary>
+      
+    
+    
+    
+    <category term="AI" scheme="https://blog.emn178.cc/zh-TW/categories/AI/"/>
+    
+    
+    <category term="Stable Diffusion" scheme="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Stable Diffusion 教學 - 擴充功能 (Extensions)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-extensions/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-extensions/</id>
     <published>2023-08-04T15:01:55.000Z</published>
-    <updated>2023-08-04T15:05:37.962Z</updated>
+    <updated>2023-08-19T14:11:52.841Z</updated>
     
     
       
@@ -151,7 +174,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/ftx-proof-of-claim/"/>
     <id>https://blog.emn178.cc/zh-TW/post/ftx-proof-of-claim/</id>
     <published>2023-07-13T03:14:20.000Z</published>
-    <updated>2023-07-13T03:14:50.137Z</updated>
+    <updated>2023-08-19T13:56:08.054Z</updated>
     
     
       
@@ -446,7 +469,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-prompt/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-prompt/</id>
     <published>2023-05-13T14:23:26.000Z</published>
-    <updated>2023-06-12T15:50:02.966Z</updated>
+    <updated>2023-08-19T14:19:40.745Z</updated>
     
     
       
@@ -691,7 +714,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-txt2img/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-txt2img/</id>
     <published>2023-03-15T13:28:11.000Z</published>
-    <updated>2023-04-25T14:18:58.827Z</updated>
+    <updated>2023-08-07T14:36:21.514Z</updated>
     
     
       
