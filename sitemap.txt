@@ -1,6 +1,7 @@
+https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-civitai-helper/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-extra-networks/
-https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-prompt/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-extensions/
+https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-prompt/
 https://blog.emn178.cc/zh-TW/post/ftx-proof-of-claim/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-txt2img/
 https://blog.emn178.cc/zh-TW/post/climbing-stairs/

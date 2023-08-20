@@ -9,8 +9,32 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sat, 19 Aug 2023 14:34:53 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 09:02:28 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Stable Diffusion web UI 擴充功能 - Civitai Helper</title>
+      <link>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-civitai-helper/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-civitai-helper/</guid>
+      <pubDate>Sun, 20 Aug 2023 09:02:41 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;透過使用 Civitai Helper，我們可以直接下載安裝模型，不需要再開啟資料夾手動安裝。除此之外他也能自動下載預覽圖，提供在 Extr</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/AI/">AI</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/">Stable Diffusion</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-civitai-helper/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Stable Diffusion 教學 - web UI Extra Networks</title>
