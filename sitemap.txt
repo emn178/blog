@@ -1,3 +1,10 @@
+https://blog.emn178.cc/zh-TW/post/topcoder/
+https://blog.emn178.cc/zh-TW/post/topcoder-inv-2001-semi-A-B-chess-cover/
+https://blog.emn178.cc/zh-TW/post/topcoder-inv-2001-semi-A-B-tothello/
+https://blog.emn178.cc/zh-TW/post/topcoder-inv-2001-semi-A-B-match-maker/
+https://blog.emn178.cc/zh-TW/post/topcoder-inv-2001-r1-prerequisites/
+https://blog.emn178.cc/zh-TW/post/topcoder-inv-2001-r1-square-digits/
+https://blog.emn178.cc/zh-TW/post/topcoder-inv-2001-r1-howeasy/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-civitai-helper/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-extra-networks/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-extensions/
@@ -24,7 +31,6 @@ https://blog.emn178.cc/en/post/linea-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/linea-airdrop-guide/
 https://blog.emn178.cc/en/post/zkevm-airdrop-guide/
 https://blog.emn178.cc/zh-TW/post/zkevm-airdrop-guide/
-https://blog.emn178.cc/zh-TW/post/topcoder-inv-2001-r1-howeasy/
 https://blog.emn178.cc/zh-TW/post/xapo-review/
 https://blog.emn178.cc/en/post/starknet-airdrop-guide/
 https://blog.emn178.cc/en/post/zksync-airdrop-strategy/
