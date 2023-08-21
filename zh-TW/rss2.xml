@@ -1516,6 +1516,30 @@
     </item>
     
     <item>
+      <title>JavaScript 效能測試與最佳化</title>
+      <link>https://blog.emn178.cc/zh-TW/post/javascript-performance-benchmark/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/javascript-performance-benchmark/</guid>
+      <pubDate>Sun, 27 May 2012 12:05:38 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;說明&quot;&gt;&lt;a href=&quot;#說明&quot; class=&quot;headerlink&quot; title=&quot;說明&quot;&gt;&lt;/a&gt;說明&lt;/h2&gt;&lt;p&gt;本文針對一些 JavaScript 效能相關的文章之理論進行實際的測試與驗證，結果有些符合預期，有些則意料之外。測試環境瀏覽器如下：&lt;/p&gt;</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/JavaScript/">JavaScript</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/javascript-performance-benchmark/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>迭代法 (Iterative)</title>
       <link>https://blog.emn178.cc/zh-TW/post/iterative/</link>
       <guid>https://blog.emn178.cc/zh-TW/post/iterative/</guid>
@@ -1666,6 +1690,29 @@
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/quick-sort/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Rails - Incorrect MySQL client library version!</title>
+      <link>https://blog.emn178.cc/zh-TW/post/rails-incorrect-mysql-client-library-version/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/rails-incorrect-mysql-client-library-version/</guid>
+      <pubDate>Wed, 28 Mar 2012 13:40:42 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;問題&quot;&gt;&lt;a href=&quot;#問題&quot; class=&quot;headerlink&quot; title=&quot;問題&quot;&gt;&lt;/a&gt;問題&lt;/h2&gt;&lt;p&gt;在 Windows 環境上使用 mysql2 的gem，啟動網站時出現以下錯誤&lt;/p&gt;
+&lt;figure class=&quot;highlight p</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/rails-incorrect-mysql-client-library-version/#disqus_thread</comments>
       
     </item>
     

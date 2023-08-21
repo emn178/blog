@@ -1396,6 +1396,28 @@
   </entry>
   
   <entry>
+    <title>JavaScript 效能測試與最佳化</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/javascript-performance-benchmark/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/javascript-performance-benchmark/</id>
+    <published>2012-05-27T12:05:38.000Z</published>
+    <updated>2023-08-21T13:54:05.748Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;說明&quot;&gt;&lt;a href=&quot;#說明&quot; class=&quot;headerlink&quot; title=&quot;說明&quot;&gt;&lt;/a&gt;說明&lt;/h2&gt;&lt;p&gt;本文針對一些 JavaScript 效能相關的文章之理論進行實際的測試與驗證，結果有些符合預期，有些則意料之外。測試環境瀏覽器如下：&lt;/p&gt;</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="JavaScript" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/JavaScript/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>迭代法 (Iterative)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/iterative/"/>
     <id>https://blog.emn178.cc/zh-TW/post/iterative/</id>
@@ -1534,6 +1556,27 @@
     <category term="Divide and conquer" scheme="https://blog.emn178.cc/zh-TW/tags/Divide-and-conquer/"/>
     
     <category term="排序演算法" scheme="https://blog.emn178.cc/zh-TW/tags/%E6%8E%92%E5%BA%8F%E6%BC%94%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rails - Incorrect MySQL client library version!</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/rails-incorrect-mysql-client-library-version/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/rails-incorrect-mysql-client-library-version/</id>
+    <published>2012-03-28T13:40:42.000Z</published>
+    <updated>2023-08-21T01:37:48.129Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;問題&quot;&gt;&lt;a href=&quot;#問題&quot; class=&quot;headerlink&quot; title=&quot;問題&quot;&gt;&lt;/a&gt;問題&lt;/h2&gt;&lt;p&gt;在 Windows 環境上使用 mysql2 的gem，啟動網站時出現以下錯誤&lt;/p&gt;
+&lt;figure class=&quot;highlight p</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
     
   </entry>
   

@@ -1,3 +1,5 @@
+https://blog.emn178.cc/zh-TW/post/javascript-performance-benchmark/
+https://blog.emn178.cc/zh-TW/post/rails-incorrect-mysql-client-library-version/
 https://blog.emn178.cc/zh-TW/post/topcoder/
 https://blog.emn178.cc/zh-TW/post/topcoder-inv-2001-semi-A-B-chess-cover/
 https://blog.emn178.cc/zh-TW/post/topcoder-inv-2001-semi-A-B-tothello/
@@ -139,6 +141,7 @@ https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/c-s
 https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/PHP/
 https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Java/
 https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/
+https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/JavaScript/
 https://blog.emn178.cc/zh-TW/tags/Midjourney/
 https://blog.emn178.cc/zh-TW/tags/Solidity/
 https://blog.emn178.cc/zh-TW/tags/zkSync/
