@@ -9,8 +9,32 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sun, 20 Aug 2023 09:02:28 GMT</pubDate>
+    <pubDate>Sun, 03 Sep 2023 07:45:41 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Solidity 智能合約 - ecrecover 簽章檢驗</title>
+      <link>https://blog.emn178.cc/zh-TW/post/solidity-ecrecover/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/solidity-ecrecover/</guid>
+      <pubDate>Sun, 03 Sep 2023 07:44:42 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;智能合約中的 &lt;code&gt;ecrecover&lt;/code&gt; 函式，可以用來驗證錢包的的簽章。檢驗方可以在沒有簽章者私鑰的情況下，確認簽署者的</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Solidity/">Solidity</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/solidity-ecrecover/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Stable Diffusion web UI 擴充功能 - Civitai Helper</title>
