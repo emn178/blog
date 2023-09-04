@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2023-09-03T07:45:41.670Z</updated>
+  <updated>2023-09-03T08:40:30.124Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/solidity-ecrecover/"/>
     <id>https://blog.emn178.cc/zh-TW/post/solidity-ecrecover/</id>
     <published>2023-09-03T07:44:42.000Z</published>
-    <updated>2023-09-03T07:45:41.670Z</updated>
+    <updated>2023-09-03T08:40:30.124Z</updated>
     
     
       
@@ -1364,6 +1364,27 @@
     
     
     <category term="Dynamic Programming" scheme="https://blog.emn178.cc/zh-TW/tags/Dynamic-Programming/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>不使用暫存變數交換兩個變數</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/swap-two-numbers-without-using-a-temporary-variable/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/swap-two-numbers-without-using-a-temporary-variable/</id>
+    <published>2012-08-10T13:54:53.000Z</published>
+    <updated>2023-09-04T01:00:34.273Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;解法&quot;&gt;&lt;a href=&quot;#解法&quot; class=&quot;headerlink&quot; title=&quot;解法&quot;&gt;&lt;/a&gt;解法&lt;/h2&gt;&lt;p&gt;常見的方法有以下方式：&lt;/p&gt;
+&lt;h3 id=&quot;加減法&quot;&gt;&lt;a href=&quot;#加減法&quot; class=&quot;headerlink&quot; title=&quot;</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
     
   </entry>
   

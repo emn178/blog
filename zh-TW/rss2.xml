@@ -9,7 +9,7 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sun, 03 Sep 2023 07:45:41 GMT</pubDate>
+    <pubDate>Sun, 03 Sep 2023 08:40:30 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -1482,6 +1482,29 @@
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/climbing-stairs/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>不使用暫存變數交換兩個變數</title>
+      <link>https://blog.emn178.cc/zh-TW/post/swap-two-numbers-without-using-a-temporary-variable/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/swap-two-numbers-without-using-a-temporary-variable/</guid>
+      <pubDate>Fri, 10 Aug 2012 13:54:53 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;解法&quot;&gt;&lt;a href=&quot;#解法&quot; class=&quot;headerlink&quot; title=&quot;解法&quot;&gt;&lt;/a&gt;解法&lt;/h2&gt;&lt;p&gt;常見的方法有以下方式：&lt;/p&gt;
+&lt;h3 id=&quot;加減法&quot;&gt;&lt;a href=&quot;#加減法&quot; class=&quot;headerlink&quot; title=&quot;</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/swap-two-numbers-without-using-a-temporary-variable/#disqus_thread</comments>
       
     </item>
     
