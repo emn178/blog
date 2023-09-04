@@ -9,8 +9,32 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sun, 03 Sep 2023 08:40:30 GMT</pubDate>
+    <pubDate>Mon, 04 Sep 2023 13:52:03 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Solidity 智能合約 - 簽名延展性 (Signature Malleability)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/solidity-signature-malleability/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/solidity-signature-malleability/</guid>
+      <pubDate>Mon, 04 Sep 2023 13:52:18 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;之前的文章介紹了 &lt;a href=&quot;/zh-TW/post/solidity-ecrecover/&quot;&gt;ecrecover&lt;/a&gt; 的用法，不過內建的 ecrecover 存在簽名延展性 (Signature Malleability) 的問題。這篇文章將說明這個問題，以及如</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Solidity/">Solidity</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/solidity-signature-malleability/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Solidity 智能合約 - ecrecover 簽章檢驗</title>
