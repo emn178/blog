@@ -9,8 +9,33 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Mon, 04 Sep 2023 13:52:03 GMT</pubDate>
+    <pubDate>Sun, 10 Sep 2023 06:42:32 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>使用 Web3.js 簽章與檢驗</title>
+      <link>https://blog.emn178.cc/zh-TW/post/using-web3-js-to-sign-and-recover/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/using-web3-js-to-sign-and-recover/</guid>
+      <pubDate>Sun, 10 Sep 2023 06:41:44 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;之前在 &lt;a href=&quot;/zh-TW/post/solidity-ecrecover/&quot;&gt;Solidity 智能合約 - ecrecover 簽章檢驗&lt;/a&gt;這篇文章，說明了智能合約如何檢驗簽章，這篇文章將說明如何使用 Web3.js 來進行簽章與檢驗。&lt;/p&gt;
+&lt;h2 </description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Solidity/">Solidity</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/using-web3-js-to-sign-and-recover/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Solidity 智能合約 - 簽名延展性 (Signature Malleability)</title>
