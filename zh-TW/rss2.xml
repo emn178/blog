@@ -9,8 +9,33 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Fri, 15 Sep 2023 14:13:41 GMT</pubDate>
+    <pubDate>Tue, 19 Sep 2023 15:55:39 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Solidity 智能合約 - EIP-712 類型結構化資料雜湊和簽名</title>
+      <link>https://blog.emn178.cc/zh-TW/post/solidity-eip-712-typed-structured-data-hashing-and-signing/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/solidity-eip-712-typed-structured-data-hashing-and-signing/</guid>
+      <pubDate>Tue, 19 Sep 2023 15:55:02 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;本篇文章說明 EIP-712 的標準，以及如何使用 Solidity 實作 EIP-712 的智能合約簽章驗證。&lt;/p&gt;
+&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;在之前的文章</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Solidity/">Solidity</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/solidity-eip-712-typed-structured-data-hashing-and-signing/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>使用 Ethers.js 簽章與檢驗</title>
