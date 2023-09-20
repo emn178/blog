@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2023-09-19T15:55:39.383Z</updated>
+  <updated>2023-09-20T14:52:51.860Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -21,13 +21,13 @@
     <link href="https://blog.emn178.cc/zh-TW/post/solidity-eip-712-typed-structured-data-hashing-and-signing/"/>
     <id>https://blog.emn178.cc/zh-TW/post/solidity-eip-712-typed-structured-data-hashing-and-signing/</id>
     <published>2023-09-19T15:55:02.000Z</published>
-    <updated>2023-09-19T15:55:39.383Z</updated>
+    <updated>2023-09-20T14:52:51.860Z</updated>
     
     
       
       
-    <summary type="html">&lt;p&gt;本篇文章說明 EIP-712 的標準，以及如何使用 Solidity 實作 EIP-712 的智能合約簽章驗證。&lt;/p&gt;
-&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;在之前的文章</summary>
+    <summary type="html">&lt;p&gt;本篇文章說明 &lt;a href=&quot;https://eips.ethereum.org/EIPS/eip-712&quot;&gt;EIP-712&lt;/a&gt; 的標準，以及如何使用 Solidity 實作 EIP-712 的智能合約簽章驗證。&lt;/p&gt;
+&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡</summary>
       
     
     
@@ -110,7 +110,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/solidity-ecrecover/"/>
     <id>https://blog.emn178.cc/zh-TW/post/solidity-ecrecover/</id>
     <published>2023-09-03T07:44:42.000Z</published>
-    <updated>2023-09-17T08:57:54.213Z</updated>
+    <updated>2023-09-20T14:46:55.003Z</updated>
     
     
       

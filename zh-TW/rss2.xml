@@ -9,7 +9,7 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Tue, 19 Sep 2023 15:55:39 GMT</pubDate>
+    <pubDate>Wed, 20 Sep 2023 14:52:51 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -20,8 +20,8 @@
       
         
         
-      <description>&lt;p&gt;本篇文章說明 EIP-712 的標準，以及如何使用 Solidity 實作 EIP-712 的智能合約簽章驗證。&lt;/p&gt;
-&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;在之前的文章</description>
+      <description>&lt;p&gt;本篇文章說明 &lt;a href=&quot;https://eips.ethereum.org/EIPS/eip-712&quot;&gt;EIP-712&lt;/a&gt; 的標準，以及如何使用 Solidity 實作 EIP-712 的智能合約簽章驗證。&lt;/p&gt;
+&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡</description>
         
       
       
