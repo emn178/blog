@@ -9,8 +9,34 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Wed, 20 Sep 2023 14:52:51 GMT</pubDate>
+    <pubDate>Thu, 21 Sep 2023 14:25:31 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>計算 1 * 2 + 2 * 3 +...+ (n-1) * n 總和</title>
+      <link>https://blog.emn178.cc/zh-TW/post/find-the-sum-of-1*2+2*3...+(n-1)*n/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/find-the-sum-of-1*2+2*3...+(n-1)*n/</guid>
+      <pubDate>Thu, 21 Sep 2023 14:24:59 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;說明&quot;&gt;&lt;a href=&quot;#說明&quot; class=&quot;headerlink&quot; title=&quot;說明&quot;&gt;&lt;/a&gt;說明&lt;/h2&gt;&lt;p&gt;題目為計算 1 * 2 + 2 * 3 +…+ (n-1) * n 的總和，一樣是求合的問題，同樣使用迴圈或遞迴即可，如果能用數學證明出公式</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/">演算法</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Divide-and-conquer/">Divide and conquer</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/find-the-sum-of-1*2+2*3...+(n-1)*n/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Solidity 智能合約 - EIP-712 類型結構化資料雜湊和簽名</title>
@@ -1579,6 +1605,32 @@
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/climbing-stairs/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>計算 1 到 N 總和 (1 + 2 + 3 +...+ N)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/how-to-sum-the-integers-from-1-to-n/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/how-to-sum-the-integers-from-1-to-n/</guid>
+      <pubDate>Sun, 12 Aug 2012 02:16:19 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;說明&quot;&gt;&lt;a href=&quot;#說明&quot; class=&quot;headerlink&quot; title=&quot;說明&quot;&gt;&lt;/a&gt;說明&lt;/h2&gt;&lt;p&gt;題目為計算 1 + 2 + 3 + … + N 的總和，這題看似很簡單，其實真的很簡單，只是可能會有不同要求，一般直覺會使用迴圈解，不過有時</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/">演算法</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Divide-and-conquer/">Divide and conquer</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/how-to-sum-the-integers-from-1-to-n/#disqus_thread</comments>
       
     </item>
     
