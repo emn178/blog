@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2023-09-21T14:25:31.133Z</updated>
+  <updated>2023-09-23T01:46:56.367Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -17,16 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>計算 1 * 2 + 2 * 3 +...+ (n-1) * n 總和</title>
+    <title>在陣列中找出第 K 大的數字</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/find-kth-largest-number-in-an-array/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/find-kth-largest-number-in-an-array/</id>
+    <published>2023-09-23T01:46:27.000Z</published>
+    <updated>2023-09-23T01:46:56.367Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;題目&quot;&gt;&lt;a href=&quot;#題目&quot; class=&quot;headerlink&quot; title=&quot;題目&quot;&gt;&lt;/a&gt;題目&lt;/h2&gt;&lt;p&gt;在陣列中找出第 K 大的數字。&lt;br&gt;Find Kth largest number in an array.&lt;/p&gt;
+&lt;h3 id=&quot;說明</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="演算法" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>計算 1 * 2 + 2 * 3 +...+ (N - 1) * N 總和</title>
     <link href="https://blog.emn178.cc/zh-TW/post/find-the-sum-of-1*2+2*3...+(n-1)*n/"/>
     <id>https://blog.emn178.cc/zh-TW/post/find-the-sum-of-1*2+2*3...+(n-1)*n/</id>
     <published>2023-09-21T14:24:59.000Z</published>
-    <updated>2023-09-21T14:25:31.133Z</updated>
+    <updated>2023-09-22T14:20:42.372Z</updated>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;說明&quot;&gt;&lt;a href=&quot;#說明&quot; class=&quot;headerlink&quot; title=&quot;說明&quot;&gt;&lt;/a&gt;說明&lt;/h2&gt;&lt;p&gt;題目為計算 1 * 2 + 2 * 3 +…+ (n-1) * n 的總和，一樣是求合的問題，同樣使用迴圈或遞迴即可，如果能用數學證明出公式</summary>
+    <summary type="html">&lt;h2 id=&quot;題目&quot;&gt;&lt;a href=&quot;#題目&quot; class=&quot;headerlink&quot; title=&quot;題目&quot;&gt;&lt;/a&gt;題目&lt;/h2&gt;&lt;p&gt;計算 1 * 2 + 2 * 3 +…+ (n-1) * n 總和。&lt;br&gt;Write a function to calculate 1 </summary>
       
     
     
@@ -1290,11 +1313,11 @@
   </entry>
   
   <entry>
-    <title>選擇排序法 (Selection Sort)</title>
+    <title>演算法 - 選擇排序法 (Selection Sort)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/selection-sort/"/>
     <id>https://blog.emn178.cc/zh-TW/post/selection-sort/</id>
     <published>2012-11-18T06:02:14.000Z</published>
-    <updated>2023-08-06T12:11:12.593Z</updated>
+    <updated>2023-09-23T00:45:42.905Z</updated>
     
     
       
@@ -1336,11 +1359,11 @@
   </entry>
   
   <entry>
-    <title>插入排序法 (Insertion Sort)</title>
+    <title>演算法 - 插入排序法 (Insertion Sort)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/insertion-sort/"/>
     <id>https://blog.emn178.cc/zh-TW/post/insertion-sort/</id>
     <published>2012-11-11T13:31:48.000Z</published>
-    <updated>2023-08-06T12:11:09.715Z</updated>
+    <updated>2023-09-23T00:45:39.804Z</updated>
     
     
       
@@ -1360,11 +1383,11 @@
   </entry>
   
   <entry>
-    <title>氣泡排序法 (Bubble Sort)</title>
+    <title>演算法 - 氣泡排序法 (Bubble Sort)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/bubble-sort/"/>
     <id>https://blog.emn178.cc/zh-TW/post/bubble-sort/</id>
     <published>2012-11-10T13:17:55.000Z</published>
-    <updated>2023-08-06T12:11:06.627Z</updated>
+    <updated>2023-09-23T00:45:35.971Z</updated>
     
     
       
@@ -1430,6 +1453,72 @@
   </entry>
   
   <entry>
+    <title>資料結構 - 鏈結串列 (Linked List)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/data-structure-linked-list/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/data-structure-linked-list/</id>
+    <published>2012-10-28T12:23:21.000Z</published>
+    <updated>2023-09-23T01:46:34.753Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;鏈結串列 (Linked List) 是串列 (List) 的一種，是一種常見的資料結構，利用這個資料結構也能進一步實作出其他的資料結構，例</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="資料結構" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>資料結構 - 佇列 (Queue)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/data-structure-queue/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/data-structure-queue/</id>
+    <published>2012-10-23T13:50:55.000Z</published>
+    <updated>2023-09-23T01:45:52.495Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;佇列 (Queue) 中文也翻作隊列，顧名思義是一種像排隊一樣的概念，以生活中的情況為例如下圖&lt;br&gt;&lt;img src=&quot;/images/z</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="資料結構" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>資料結構 - 堆疊 (Stack)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/data-structure-stack/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/data-structure-stack/</id>
+    <published>2012-10-20T13:17:21.000Z</published>
+    <updated>2023-09-23T01:45:34.263Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;堆疊 (Stack) 是資料結構的一種，是一種很基本常見的資料結構，首先利用現實生活中的例子來說明，如下圖&lt;br&gt;&lt;img src=&quot;/im</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="資料結構" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>新竹旅遊景點 - 靜心湖和新竹公園</title>
     <link href="https://blog.emn178.cc/zh-TW/post/lake-placid-and-hsinchu-park/"/>
     <id>https://blog.emn178.cc/zh-TW/post/lake-placid-and-hsinchu-park/</id>
@@ -1460,7 +1549,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/climbing-stairs/"/>
     <id>https://blog.emn178.cc/zh-TW/post/climbing-stairs/</id>
     <published>2012-08-26T06:06:10.000Z</published>
-    <updated>2023-09-21T14:22:12.347Z</updated>
+    <updated>2023-09-23T00:43:42.564Z</updated>
     
     
       
@@ -1481,16 +1570,82 @@
   </entry>
   
   <entry>
+    <title>面試常見程式考題</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/common-coding-interview-questions/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/common-coding-interview-questions/</id>
+    <published>2012-08-25T05:54:45.000Z</published>
+    <updated>2023-09-23T01:47:38.636Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;常見考題包含了基礎的演算法和資料結構，以及一些其他類型的程式實作考題。&lt;/p&gt;
+&lt;h2 id=&quot;演算法&quot;&gt;&lt;a href=&quot;#演算法&quot; class=&quot;headerlink&quot; title=&quot;演算法&quot;&gt;&lt;/a&gt;演算法&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/zh-TW/p</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>找出所缺的整數</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/find-the-missing-integer/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/find-the-missing-integer/</id>
+    <published>2012-08-23T12:11:54.000Z</published>
+    <updated>2023-09-22T15:26:47.358Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;題目&quot;&gt;&lt;a href=&quot;#題目&quot; class=&quot;headerlink&quot; title=&quot;題目&quot;&gt;&lt;/a&gt;題目&lt;/h2&gt;&lt;p&gt;未排序的 n 個連續整數中少了一個，試著找到最快的方法算出少了哪一個。例如：3, 6, 9, 7, 8, 4，連續整數範圍為 3-9，少了 </summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>在陣列中找出第二大的數字</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/find-second-largest-number-in-an-array/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/find-second-largest-number-in-an-array/</id>
+    <published>2012-08-13T13:22:01.000Z</published>
+    <updated>2023-09-22T14:45:37.032Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;題目&quot;&gt;&lt;a href=&quot;#題目&quot; class=&quot;headerlink&quot; title=&quot;題目&quot;&gt;&lt;/a&gt;題目&lt;/h2&gt;&lt;p&gt;在陣列中找出第二大的數字。&lt;br&gt;Find second largest number in an array.&lt;/p&gt;
+&lt;h2 id=&quot;說</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="演算法" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>計算 1 到 N 總和 (1 + 2 + 3 +...+ N)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/how-to-sum-the-integers-from-1-to-n/"/>
     <id>https://blog.emn178.cc/zh-TW/post/how-to-sum-the-integers-from-1-to-n/</id>
     <published>2012-08-12T02:16:19.000Z</published>
-    <updated>2023-09-21T14:23:16.065Z</updated>
+    <updated>2023-09-22T14:20:47.946Z</updated>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;說明&quot;&gt;&lt;a href=&quot;#說明&quot; class=&quot;headerlink&quot; title=&quot;說明&quot;&gt;&lt;/a&gt;說明&lt;/h2&gt;&lt;p&gt;題目為計算 1 + 2 + 3 + … + N 的總和，這題看似很簡單，其實真的很簡單，只是可能會有不同要求，一般直覺會使用迴圈解，不過有時</summary>
+    <summary type="html">&lt;h2 id=&quot;題目&quot;&gt;&lt;a href=&quot;#題目&quot; class=&quot;headerlink&quot; title=&quot;題目&quot;&gt;&lt;/a&gt;題目&lt;/h2&gt;&lt;p&gt;計算 1 到 N 總和 (1 + 2 + 3 +…+ N)&lt;br&gt;Sum the Integers from 1 to N.&lt;/p&gt;
+&lt;h2</summary>
       
     
     
@@ -1509,14 +1664,12 @@
     <link href="https://blog.emn178.cc/zh-TW/post/find-the-largest-of-two-numbers-without-using-conditional-statements-or-operators/"/>
     <id>https://blog.emn178.cc/zh-TW/post/find-the-largest-of-two-numbers-without-using-conditional-statements-or-operators/</id>
     <published>2012-08-11T11:02:38.000Z</published>
-    <updated>2023-09-13T00:54:35.660Z</updated>
+    <updated>2023-09-22T15:27:07.567Z</updated>
     
     
       
       
-    <summary type="html">&lt;p&gt;max(a, b)… 正解，這題題目限制不能用 if、switch 或 ? : 的語法，但沒說不能用 math 的 max。&lt;/p&gt;
-&lt;p&gt;不過這樣就太簡單了，所以我們假定不能用內建函式。&lt;/p&gt;
-&lt;h2 id=&quot;解法&quot;&gt;&lt;a href=&quot;#解法&quot; class=&quot;heade</summary>
+    <summary type="html">&lt;h2 id=&quot;題目&quot;&gt;&lt;a href=&quot;#題目&quot; class=&quot;headerlink&quot; title=&quot;題目&quot;&gt;&lt;/a&gt;題目&lt;/h2&gt;&lt;p&gt;從兩個數字中找出最大的一個而不使用判斷描述。&lt;br&gt;There are two int variables: a and b, don’t </summary>
       
     
     
@@ -1531,13 +1684,12 @@
     <link href="https://blog.emn178.cc/zh-TW/post/swap-two-numbers-without-using-a-temporary-variable/"/>
     <id>https://blog.emn178.cc/zh-TW/post/swap-two-numbers-without-using-a-temporary-variable/</id>
     <published>2012-08-10T13:54:53.000Z</published>
-    <updated>2023-09-04T01:00:34.273Z</updated>
+    <updated>2023-09-22T15:25:47.026Z</updated>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;解法&quot;&gt;&lt;a href=&quot;#解法&quot; class=&quot;headerlink&quot; title=&quot;解法&quot;&gt;&lt;/a&gt;解法&lt;/h2&gt;&lt;p&gt;常見的方法有以下方式：&lt;/p&gt;
-&lt;h3 id=&quot;加減法&quot;&gt;&lt;a href=&quot;#加減法&quot; class=&quot;headerlink&quot; title=&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;題目&quot;&gt;&lt;a href=&quot;#題目&quot; class=&quot;headerlink&quot; title=&quot;題目&quot;&gt;&lt;/a&gt;題目&lt;/h2&gt;&lt;p&gt;不使用暫存變數交換兩個變數。&lt;br&gt;Swap two variables without using a temporary variabl</summary>
       
     
     
@@ -1548,11 +1700,11 @@
   </entry>
   
   <entry>
-    <title>費波那西數列 (Fibonacci)</title>
+    <title>演算法 - 費波那西數列 (Fibonacci)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/fibonacci/"/>
     <id>https://blog.emn178.cc/zh-TW/post/fibonacci/</id>
     <published>2012-08-05T10:16:27.000Z</published>
-    <updated>2023-08-06T13:03:51.233Z</updated>
+    <updated>2023-09-23T00:43:29.539Z</updated>
     
     
       
@@ -1574,11 +1726,11 @@
   </entry>
   
   <entry>
-    <title>動態規劃 (Dynamic Programming)</title>
+    <title>演算法 - 動態規劃 (Dynamic Programming)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/dynamic-programming/"/>
     <id>https://blog.emn178.cc/zh-TW/post/dynamic-programming/</id>
     <published>2012-08-02T13:27:57.000Z</published>
-    <updated>2023-08-06T13:04:09.364Z</updated>
+    <updated>2023-09-23T00:42:12.209Z</updated>
     
     
       
@@ -1620,11 +1772,11 @@
   </entry>
   
   <entry>
-    <title>迭代法 (Iterative)</title>
+    <title>演算法 - 迭代法 (Iterative)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/iterative/"/>
     <id>https://blog.emn178.cc/zh-TW/post/iterative/</id>
     <published>2012-04-21T05:58:34.000Z</published>
-    <updated>2023-08-06T02:48:55.241Z</updated>
+    <updated>2023-09-23T00:45:13.725Z</updated>
     
     
       
@@ -1664,11 +1816,11 @@
   </entry>
   
   <entry>
-    <title>最大子序列 (Maximum Subarray)</title>
+    <title>演算法 - 最大子序列 (Maximum Subarray)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/maximum-subarray/"/>
     <id>https://blog.emn178.cc/zh-TW/post/maximum-subarray/</id>
     <published>2012-04-15T02:04:01.000Z</published>
-    <updated>2023-08-06T12:13:49.216Z</updated>
+    <updated>2023-09-23T00:43:21.792Z</updated>
     
     
       
@@ -1690,11 +1842,11 @@
   </entry>
   
   <entry>
-    <title>二元搜索法 (Binary Search)</title>
+    <title>演算法 - 二元搜索法 (Binary Search)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/binary-search/"/>
     <id>https://blog.emn178.cc/zh-TW/post/binary-search/</id>
     <published>2012-04-11T13:36:53.000Z</published>
-    <updated>2023-08-06T12:11:56.696Z</updated>
+    <updated>2023-09-23T00:43:16.089Z</updated>
     
     
       
@@ -1736,11 +1888,11 @@
   </entry>
   
   <entry>
-    <title>快速排序法 (Quick Sort)</title>
+    <title>演算法 - 快速排序法 (Quick Sort)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/quick-sort/"/>
     <id>https://blog.emn178.cc/zh-TW/post/quick-sort/</id>
     <published>2012-04-01T01:28:48.000Z</published>
-    <updated>2023-08-06T12:12:32.627Z</updated>
+    <updated>2023-09-23T00:45:08.375Z</updated>
     
     
       
@@ -1825,11 +1977,11 @@
   </entry>
   
   <entry>
-    <title>合併排序法 (Merge Sort)</title>
+    <title>演算法 - 合併排序法 (Merge Sort)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/merge-sort/"/>
     <id>https://blog.emn178.cc/zh-TW/post/merge-sort/</id>
     <published>2012-03-11T06:19:04.000Z</published>
-    <updated>2023-08-06T12:12:29.643Z</updated>
+    <updated>2023-09-23T00:44:57.065Z</updated>
     
     
       
@@ -1851,11 +2003,11 @@
   </entry>
   
   <entry>
-    <title>河內塔 (Tower of Hanoi)</title>
+    <title>演算法 - 河內塔 (Tower of Hanoi)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/tower-of-hanoi/"/>
     <id>https://blog.emn178.cc/zh-TW/post/tower-of-hanoi/</id>
     <published>2012-03-09T12:43:56.000Z</published>
-    <updated>2023-08-06T12:11:53.260Z</updated>
+    <updated>2023-09-23T00:45:01.873Z</updated>
     
     
       
@@ -1877,11 +2029,11 @@
   </entry>
   
   <entry>
-    <title>分治法 (Divide and conquer)</title>
+    <title>演算法 - 分治法 (Divide and conquer)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/divide-and-conquer/"/>
     <id>https://blog.emn178.cc/zh-TW/post/divide-and-conquer/</id>
     <published>2012-03-08T12:57:10.000Z</published>
-    <updated>2023-08-06T12:11:47.112Z</updated>
+    <updated>2023-09-23T00:42:03.592Z</updated>
     
     
       
