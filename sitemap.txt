@@ -1,3 +1,7 @@
+https://blog.emn178.cc/zh-TW/post/using-web3-js-to-sign-eip-712-typed-structured-data/
+https://blog.emn178.cc/zh-TW/post/solidity-eip-712-typed-structured-data-hashing-and-signing/
+https://blog.emn178.cc/zh-TW/post/using-ethers-js-to-sign-and-recover/
+https://blog.emn178.cc/zh-TW/post/using-web3-js-to-sign-and-recover/
 https://blog.emn178.cc/zh-TW/post/taoyuan-xiao-wulai-skywalk/
 https://blog.emn178.cc/zh-TW/post/taoyuan-dongyanshan-forest-recreation-area/
 https://blog.emn178.cc/zh-TW/post/taipei-hsing-tian-kong-and-tamsui/
@@ -27,10 +31,7 @@ https://blog.emn178.cc/zh-TW/post/swap-two-numbers-without-using-a-temporary-var
 https://blog.emn178.cc/zh-TW/post/find-second-largest-number-in-an-array/
 https://blog.emn178.cc/zh-TW/post/how-to-sum-the-integers-from-1-to-n/
 https://blog.emn178.cc/zh-TW/post/find-the-sum-of-1*2+2*3...+(n-1)*n/
-https://blog.emn178.cc/zh-TW/post/solidity-eip-712-typed-structured-data-hashing-and-signing/
 https://blog.emn178.cc/zh-TW/post/solidity-ecrecover/
-https://blog.emn178.cc/zh-TW/post/using-ethers-js-to-sign-and-recover/
-https://blog.emn178.cc/zh-TW/post/using-web3-js-to-sign-and-recover/
 https://blog.emn178.cc/zh-TW/post/solidity-signature-malleability/
 https://blog.emn178.cc/zh-TW/post/javascript-performance-benchmark/
 https://blog.emn178.cc/zh-TW/post/rails-incorrect-mysql-client-library-version/
