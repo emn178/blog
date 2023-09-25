@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2023-09-24T14:23:54.068Z</updated>
+  <updated>2023-09-25T01:30:52.330Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>使用 Web3.js 進行 EIP-712 類型結構化資料簽名</title>
-    <link href="https://blog.emn178.cc/zh-TW/post/using-web3-js-to-sign-eip-712-typed-structured-data/"/>
-    <id>https://blog.emn178.cc/zh-TW/post/using-web3-js-to-sign-eip-712-typed-structured-data/</id>
+    <title>使用 Web3.js 進行 EIP-712 類型結構化資料簽名與檢驗</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/</id>
     <published>2023-09-24T12:23:59.000Z</published>
-    <updated>2023-09-24T14:23:54.068Z</updated>
+    <updated>2023-09-25T01:30:52.330Z</updated>
     
     
       

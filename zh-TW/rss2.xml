@@ -9,13 +9,13 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sun, 24 Sep 2023 14:23:54 GMT</pubDate>
+    <pubDate>Mon, 25 Sep 2023 01:30:52 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title>使用 Web3.js 進行 EIP-712 類型結構化資料簽名</title>
-      <link>https://blog.emn178.cc/zh-TW/post/using-web3-js-to-sign-eip-712-typed-structured-data/</link>
-      <guid>https://blog.emn178.cc/zh-TW/post/using-web3-js-to-sign-eip-712-typed-structured-data/</guid>
+      <title>使用 Web3.js 進行 EIP-712 類型結構化資料簽名與檢驗</title>
+      <link>https://blog.emn178.cc/zh-TW/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/</guid>
       <pubDate>Sun, 24 Sep 2023 12:23:59 GMT</pubDate>
       
         
@@ -30,7 +30,7 @@
       
       
       
-      <comments>https://blog.emn178.cc/zh-TW/post/using-web3-js-to-sign-eip-712-typed-structured-data/#disqus_thread</comments>
+      <comments>https://blog.emn178.cc/zh-TW/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/#disqus_thread</comments>
       
     </item>
     
