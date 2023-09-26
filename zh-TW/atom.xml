@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2023-09-25T01:31:48.529Z</updated>
+  <updated>2023-09-26T00:37:25.705Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>使用 Ethers.js 進行 EIP-712 類型結構化資料簽名</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/using-ethers-js-to-sign-eip-712-typed-structured-data/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/using-ethers-js-to-sign-eip-712-typed-structured-data/</id>
+    <published>2023-09-26T00:36:07.000Z</published>
+    <updated>2023-09-26T00:37:25.705Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;之前在的文章 &lt;a href=&quot;/zh-TW/post/solidity-eip-712-typed-structured-data-hashing-and-signing/&quot;&gt;Solidity 智能合約 - EIP-712 類型結構化資料雜湊和簽名&lt;/a&gt;，說明了智能合約</summary>
+      
+    
+    
+    
+    <category term="區塊鏈" scheme="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>使用 Web3.js 進行 EIP-712 類型結構化資料簽名與檢驗</title>
     <link href="https://blog.emn178.cc/zh-TW/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/"/>
     <id>https://blog.emn178.cc/zh-TW/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/</id>
     <published>2023-09-24T12:23:59.000Z</published>
-    <updated>2023-09-25T01:31:48.529Z</updated>
+    <updated>2023-09-26T00:34:58.878Z</updated>
     
     
       
@@ -111,7 +131,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/using-ethers-js-to-sign-and-recover/"/>
     <id>https://blog.emn178.cc/zh-TW/post/using-ethers-js-to-sign-and-recover/</id>
     <published>2023-09-11T13:54:31.000Z</published>
-    <updated>2023-09-24T06:59:00.895Z</updated>
+    <updated>2023-09-26T00:31:08.519Z</updated>
     
     
       
