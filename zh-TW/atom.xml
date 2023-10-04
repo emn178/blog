@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2023-09-26T00:37:25.705Z</updated>
+  <updated>2023-10-04T15:02:39.382Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Stable Diffusion 教學 - Restore faces</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-restore-faces/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-restore-faces/</id>
+    <published>2023-10-04T15:02:55.000Z</published>
+    <updated>2023-10-04T15:02:39.382Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;本篇文章介紹 Stable Diffusion web UI 的 Restore faces 功能，能達到修復臉部的效果。&lt;/p&gt;
+&lt;h2 id=&quot;功能區塊&quot;&gt;&lt;a href=&quot;#功能區塊&quot; class=&quot;headerlink&quot; title=&quot;功能區塊&quot;&gt;&lt;/a&gt;功能區塊&lt;</summary>
+      
+    
+    
+    
+    <category term="AI" scheme="https://blog.emn178.cc/zh-TW/categories/AI/"/>
+    
+    
+    <category term="Stable Diffusion" scheme="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/"/>
+    
+  </entry>
   
   <entry>
     <title>使用 Ethers.js 進行 EIP-712 類型結構化資料簽名</title>
@@ -237,7 +260,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-extra-networks/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-extra-networks/</id>
     <published>2023-08-19T14:34:15.000Z</published>
-    <updated>2023-08-20T09:01:59.212Z</updated>
+    <updated>2023-10-04T15:01:10.045Z</updated>
     
     
       
@@ -907,7 +930,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img/</id>
     <published>2023-03-21T10:46:47.000Z</published>
-    <updated>2023-04-25T14:18:36.494Z</updated>
+    <updated>2023-10-03T12:07:28.711Z</updated>
     
     
       
@@ -930,7 +953,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-txt2img/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-txt2img/</id>
     <published>2023-03-15T13:28:11.000Z</published>
-    <updated>2023-08-07T14:36:21.514Z</updated>
+    <updated>2023-10-03T12:06:54.070Z</updated>
     
     
       
