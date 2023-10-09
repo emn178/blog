@@ -9,8 +9,56 @@
     <atom:link href="https://blog.emn178.cc/en/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>A blog sharing experiences about programming and technology.</description>
-    <pubDate>Thu, 03 Aug 2023 02:39:57 GMT</pubDate>
+    <pubDate>Sun, 08 Oct 2023 07:05:47 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Solidity - Signature Malleability</title>
+      <link>https://blog.emn178.cc/en/post/solidity-signature-malleability/</link>
+      <guid>https://blog.emn178.cc/en/post/solidity-signature-malleability/</guid>
+      <pubDate>Mon, 09 Oct 2023 06:54:28 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;The previous article introduced the usage of &lt;a href=&quot;/en/post/solidity-ecrecover/&quot;&gt;ecrecover&lt;/a&gt;, but the built-in ecrecover has a signa</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      
+      
+      <category domain="https://blog.emn178.cc/en/tags/Solidity/">Solidity</category>
+      
+      
+      <comments>https://blog.emn178.cc/en/post/solidity-signature-malleability/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Solidity - ecrecover</title>
+      <link>https://blog.emn178.cc/en/post/solidity-ecrecover/</link>
+      <guid>https://blog.emn178.cc/en/post/solidity-ecrecover/</guid>
+      <pubDate>Sun, 08 Oct 2023 06:47:24 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h2&gt;&lt;p&gt;The &lt;code&gt;ecrecover&lt;/code&gt; fun</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      
+      
+      <category domain="https://blog.emn178.cc/en/tags/Solidity/">Solidity</category>
+      
+      
+      <comments>https://blog.emn178.cc/en/post/solidity-ecrecover/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>zkEVM Airdrop Guide</title>

@@ -9,8 +9,33 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Wed, 04 Oct 2023 15:02:39 GMT</pubDate>
+    <pubDate>Mon, 09 Oct 2023 02:10:58 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Stable Diffusion 教學 - Tiling</title>
+      <link>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-tiling/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-tiling/</guid>
+      <pubDate>Mon, 09 Oct 2023 02:10:14 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;本篇文章介紹 Stable Diffusion web UI 的 Tiling 功能，能用來生成 Tiled Image，可以用來作為背景圖或桌布。&lt;/p&gt;
+&lt;h2 id=&quot;Tiled-Image&quot;&gt;&lt;a href=&quot;#Tiled-Image&quot; class=&quot;headerl</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/AI/">AI</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/">Stable Diffusion</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-tiling/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Stable Diffusion 教學 - Restore faces</title>

@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/en/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/en/"/>
-  <updated>2023-08-03T02:39:57.812Z</updated>
+  <updated>2023-10-08T07:05:47.235Z</updated>
   <id>https://blog.emn178.cc/en/</id>
   
   <author>
@@ -15,6 +15,50 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Solidity - Signature Malleability</title>
+    <link href="https://blog.emn178.cc/en/post/solidity-signature-malleability/"/>
+    <id>https://blog.emn178.cc/en/post/solidity-signature-malleability/</id>
+    <published>2023-10-09T06:54:28.000Z</published>
+    <updated>2023-10-08T07:05:47.235Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;The previous article introduced the usage of &lt;a href=&quot;/en/post/solidity-ecrecover/&quot;&gt;ecrecover&lt;/a&gt;, but the built-in ecrecover has a signa</summary>
+      
+    
+    
+    
+    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    
+    
+    <category term="Solidity" scheme="https://blog.emn178.cc/en/tags/Solidity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Solidity - ecrecover</title>
+    <link href="https://blog.emn178.cc/en/post/solidity-ecrecover/"/>
+    <id>https://blog.emn178.cc/en/post/solidity-ecrecover/</id>
+    <published>2023-10-08T06:47:24.000Z</published>
+    <updated>2023-10-09T02:12:29.589Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h2&gt;&lt;p&gt;The &lt;code&gt;ecrecover&lt;/code&gt; fun</summary>
+      
+    
+    
+    
+    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    
+    
+    <category term="Solidity" scheme="https://blog.emn178.cc/en/tags/Solidity/"/>
+    
+  </entry>
   
   <entry>
     <title>zkEVM Airdrop Guide</title>
@@ -82,7 +126,7 @@
     <link href="https://blog.emn178.cc/en/post/using-web3-js-to-parse-custom-error/"/>
     <id>https://blog.emn178.cc/en/post/using-web3-js-to-parse-custom-error/</id>
     <published>2023-06-20T13:43:40.000Z</published>
-    <updated>2023-06-20T14:04:04.424Z</updated>
+    <updated>2023-10-08T06:43:21.468Z</updated>
     
     
       
@@ -102,7 +146,7 @@
     <link href="https://blog.emn178.cc/en/post/ethers-js-parse-custom-error/"/>
     <id>https://blog.emn178.cc/en/post/ethers-js-parse-custom-error/</id>
     <published>2023-06-19T15:21:18.000Z</published>
-    <updated>2023-06-20T14:03:50.108Z</updated>
+    <updated>2023-10-08T06:43:23.465Z</updated>
     
     
       
@@ -122,7 +166,7 @@
     <link href="https://blog.emn178.cc/en/post/solidity-custom-error/"/>
     <id>https://blog.emn178.cc/en/post/solidity-custom-error/</id>
     <published>2023-06-18T15:20:31.000Z</published>
-    <updated>2023-06-21T14:14:04.358Z</updated>
+    <updated>2023-10-08T06:43:29.764Z</updated>
     
     
       
@@ -205,7 +249,7 @@
     <link href="https://blog.emn178.cc/en/post/awesome-crypto-world-acw-scam-token/"/>
     <id>https://blog.emn178.cc/en/post/awesome-crypto-world-acw-scam-token/</id>
     <published>2023-06-05T15:00:11.000Z</published>
-    <updated>2023-06-10T12:27:49.098Z</updated>
+    <updated>2023-10-08T06:44:18.768Z</updated>
     
     
       
@@ -245,7 +289,7 @@
     <link href="https://blog.emn178.cc/en/post/ai-a-scam-token/"/>
     <id>https://blog.emn178.cc/en/post/ai-a-scam-token/</id>
     <published>2023-04-01T12:21:32.000Z</published>
-    <updated>2023-06-10T12:27:46.278Z</updated>
+    <updated>2023-10-08T06:44:18.768Z</updated>
     
     
       
@@ -287,7 +331,7 @@
     <link href="https://blog.emn178.cc/en/post/zksync-airdrop-strategy/"/>
     <id>https://blog.emn178.cc/en/post/zksync-airdrop-strategy/</id>
     <published>2023-03-26T14:43:07.000Z</published>
-    <updated>2023-07-30T06:56:48.114Z</updated>
+    <updated>2023-10-08T06:44:18.768Z</updated>
     
     
       
@@ -309,7 +353,7 @@
     <link href="https://blog.emn178.cc/en/post/solidity-gas-optimization-variable-ordering/"/>
     <id>https://blog.emn178.cc/en/post/solidity-gas-optimization-variable-ordering/</id>
     <published>2018-09-11T02:26:38.000Z</published>
-    <updated>2023-04-17T14:40:52.923Z</updated>
+    <updated>2023-10-08T06:44:18.768Z</updated>
     
     
     <summary type="html">This article explains the gas optimization techniques of Solidity smart contracts, explains how variable ordering affect gas consumption, and provides two optimization strategies to reduce gas consumption.</summary>
@@ -328,7 +372,7 @@
     <link href="https://blog.emn178.cc/en/post/solidity-gas-optimization-data-compression/"/>
     <id>https://blog.emn178.cc/en/post/solidity-gas-optimization-data-compression/</id>
     <published>2018-05-07T10:26:05.000Z</published>
-    <updated>2023-04-25T13:07:47.666Z</updated>
+    <updated>2023-10-08T06:44:18.768Z</updated>
     
     
     <summary type="html">This article explains the gas optimization techniques of Solidity smart contracts. Explain how to use data merging and numbering to compress data to reduce variables and gas consumption.</summary>
@@ -347,7 +391,7 @@
     <link href="https://blog.emn178.cc/en/post/solidity-gas-optimization-function-name/"/>
     <id>https://blog.emn178.cc/en/post/solidity-gas-optimization-function-name/</id>
     <published>2018-05-04T09:04:52.000Z</published>
-    <updated>2023-04-17T14:40:52.922Z</updated>
+    <updated>2023-10-08T06:44:18.768Z</updated>
     
     
     <summary type="html">This article explains the gas optimization techniques of Solidity smart contracts. The article will explain the rules and principles of function names on gas consumption, explain the definition and generation of function signatures and Method IDs, and finally provide optimization methods.</summary>
@@ -366,7 +410,7 @@
     <link href="https://blog.emn178.cc/en/post/solidity-gas-optimization/"/>
     <id>https://blog.emn178.cc/en/post/solidity-gas-optimization/</id>
     <published>2018-03-07T09:02:40.000Z</published>
-    <updated>2023-04-17T14:40:52.922Z</updated>
+    <updated>2023-10-08T06:44:18.768Z</updated>
     
     
     <summary type="html">This article explains the gas optimization techniques of Solidity smart contracts. This article will organize and analyze some factors that affect gas consumption in smart contracts, which will help us understand which instructions consume the most and use them cautiously.</summary>
