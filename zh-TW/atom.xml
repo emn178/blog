@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2023-10-09T02:10:58.655Z</updated>
+  <updated>2023-10-10T01:02:51.533Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Stable Diffusion 教學 - Hires. fix</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-hires-fix/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-hires-fix/</id>
+    <published>2023-10-10T01:02:57.000Z</published>
+    <updated>2023-10-10T01:02:51.533Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;本篇文章介紹 Stable Diffusion web UI 的 Hires. fix 功能，用來提升圖片的解析度。&lt;/p&gt;
+&lt;h2 id=&quot;原理說明&quot;&gt;&lt;a href=&quot;#原理說明&quot; class=&quot;headerlink&quot; title=&quot;原理說明&quot;&gt;&lt;/a&gt;原理說明&lt;/h2</summary>
+      
+    
+    
+    
+    <category term="AI" scheme="https://blog.emn178.cc/zh-TW/categories/AI/"/>
+    
+    
+    <category term="Stable Diffusion" scheme="https://blog.emn178.cc/zh-TW/tags/Stable-Diffusion/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Stable Diffusion 教學 - Tiling</title>
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-tiling/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-tiling/</id>
     <published>2023-10-09T02:10:14.000Z</published>
-    <updated>2023-10-09T02:10:58.655Z</updated>
+    <updated>2023-10-09T07:56:06.296Z</updated>
     
     
       
@@ -372,7 +395,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-sampling-method/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-sampling-method/</id>
     <published>2023-07-25T15:39:09.000Z</published>
-    <updated>2023-10-08T14:15:18.643Z</updated>
+    <updated>2023-10-09T08:04:03.495Z</updated>
     
     
       
@@ -976,7 +999,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-txt2img/"/>
     <id>https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-txt2img/</id>
     <published>2023-03-15T13:28:11.000Z</published>
-    <updated>2023-10-08T13:21:52.774Z</updated>
+    <updated>2023-10-09T07:57:36.092Z</updated>
     
     
       
