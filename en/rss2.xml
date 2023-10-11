@@ -9,8 +9,30 @@
     <atom:link href="https://blog.emn178.cc/en/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>A blog sharing experiences about programming and technology.</description>
-    <pubDate>Tue, 10 Oct 2023 01:03:55 GMT</pubDate>
+    <pubDate>Wed, 11 Oct 2023 11:59:46 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Using Ethers.js to Sign and Recover</title>
+      <link>https://blog.emn178.cc/en/post/using-ethers-js-to-sign-and-recover/</link>
+      <guid>https://blog.emn178.cc/en/post/using-ethers-js-to-sign-and-recover/</guid>
+      <pubDate>Wed, 11 Oct 2023 11:59:57 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;&lt;a href=&quot;/en/post/solidity-ecrecover/&quot;&gt;Solidity - ecrecover&lt;/a&gt; this article explains how smart contracts verify signatures. This article</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/en/post/using-ethers-js-to-sign-and-recover/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Using Web3.js to Sign and Recover</title>
