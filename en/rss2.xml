@@ -9,8 +9,32 @@
     <atom:link href="https://blog.emn178.cc/en/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>A blog sharing experiences about programming and technology.</description>
-    <pubDate>Wed, 11 Oct 2023 11:59:46 GMT</pubDate>
+    <pubDate>Thu, 12 Oct 2023 12:39:32 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Solidity - EIP-712 Typed Structured Data Hashing and Signing</title>
+      <link>https://blog.emn178.cc/en/post/solidity-eip-712-typed-structured-data-hashing-and-signing/</link>
+      <guid>https://blog.emn178.cc/en/post/solidity-eip-712-typed-structured-data-hashing-and-signing/</guid>
+      <pubDate>Thu, 12 Oct 2023 12:39:22 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;This article explains the &lt;a href=&quot;https://eips.ethereum.org/EIPS/eip-712&quot;&gt;EIP-712&lt;/a&gt; standard and how to use Solidity to implement EIP-</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      
+      
+      <category domain="https://blog.emn178.cc/en/tags/Solidity/">Solidity</category>
+      
+      
+      <comments>https://blog.emn178.cc/en/post/solidity-eip-712-typed-structured-data-hashing-and-signing/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Using Ethers.js to Sign and Recover</title>

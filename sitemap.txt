@@ -1,7 +1,8 @@
-https://blog.emn178.cc/zh-TW/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/
-https://blog.emn178.cc/en/post/solidity-ecrecover/
 https://blog.emn178.cc/en/post/using-ethers-js-to-sign-and-recover/
+https://blog.emn178.cc/en/post/solidity-eip-712-typed-structured-data-hashing-and-signing/
 https://blog.emn178.cc/en/post/using-web3-js-to-sign-and-recover/
+https://blog.emn178.cc/en/post/solidity-ecrecover/
+https://blog.emn178.cc/zh-TW/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/
 https://blog.emn178.cc/zh-TW/post/solidity-eip-712-typed-structured-data-hashing-and-signing/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-hires-fix/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-sampling-method/
