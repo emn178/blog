@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/en/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/en/"/>
-  <updated>2023-10-12T12:39:32.969Z</updated>
+  <updated>2023-10-13T11:50:51.473Z</updated>
   <id>https://blog.emn178.cc/en/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Using Web3.js to Sign and Recover EIP-712 Typed Structured Data</title>
+    <link href="https://blog.emn178.cc/en/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/"/>
+    <id>https://blog.emn178.cc/en/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/</id>
+    <published>2023-10-13T11:50:47.000Z</published>
+    <updated>2023-10-13T11:50:51.473Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;/en/post/solidity-eip-712-typed-structured-data-hashing-and-signing/&quot;&gt;Solidity - EIP-712 Typed Structured Data Hashing and Signi</summary>
+      
+    
+    
+    
+    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Solidity - EIP-712 Typed Structured Data Hashing and Signing</title>
     <link href="https://blog.emn178.cc/en/post/solidity-eip-712-typed-structured-data-hashing-and-signing/"/>
     <id>https://blog.emn178.cc/en/post/solidity-eip-712-typed-structured-data-hashing-and-signing/</id>
     <published>2023-10-12T12:39:22.000Z</published>
-    <updated>2023-10-12T12:39:32.969Z</updated>
+    <updated>2023-10-13T11:51:05.026Z</updated>
     
     
       
@@ -63,7 +83,7 @@
     <link href="https://blog.emn178.cc/en/post/using-web3-js-to-sign-and-recover/"/>
     <id>https://blog.emn178.cc/en/post/using-web3-js-to-sign-and-recover/</id>
     <published>2023-10-10T01:03:27.000Z</published>
-    <updated>2023-10-11T12:58:31.996Z</updated>
+    <updated>2023-10-13T11:51:16.971Z</updated>
     
     
       
