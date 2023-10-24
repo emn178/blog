@@ -1717,16 +1717,16 @@
   </entry>
   
   <entry>
-    <title>資料結構 - 鏈結串列 (Linked List)</title>
+    <title>資料結構 - 連結串列 (Linked List)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/data-structure-linked-list/"/>
     <id>https://blog.emn178.cc/zh-TW/post/data-structure-linked-list/</id>
     <published>2012-10-28T12:23:21.000Z</published>
-    <updated>2023-09-23T01:46:34.753Z</updated>
+    <updated>2023-10-24T07:26:46.719Z</updated>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;鏈結串列 (Linked List) 是串列 (List) 的一種，是一種常見的資料結構，利用這個資料結構也能進一步實作出其他的資料結構，例</summary>
+    <summary type="html">&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;連結串列 (Linked List 或稱鏈結串列) 是串列 (List) 的一種，是一種常見的資料結構，利用這個資料結構也能進一步實作出其他</summary>
       
     
     
@@ -1743,7 +1743,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/data-structure-queue/"/>
     <id>https://blog.emn178.cc/zh-TW/post/data-structure-queue/</id>
     <published>2012-10-23T13:50:55.000Z</published>
-    <updated>2023-09-23T01:45:52.495Z</updated>
+    <updated>2023-10-24T07:26:12.252Z</updated>
     
     
       
@@ -1765,7 +1765,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/data-structure-stack/"/>
     <id>https://blog.emn178.cc/zh-TW/post/data-structure-stack/</id>
     <published>2012-10-20T13:17:21.000Z</published>
-    <updated>2023-09-23T01:45:34.263Z</updated>
+    <updated>2023-10-24T07:25:55.576Z</updated>
     
     
       
@@ -1838,7 +1838,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/common-coding-interview-questions/"/>
     <id>https://blog.emn178.cc/zh-TW/post/common-coding-interview-questions/</id>
     <published>2012-08-25T05:54:45.000Z</published>
-    <updated>2023-09-23T01:47:38.636Z</updated>
+    <updated>2023-10-24T07:25:36.801Z</updated>
     
     
       

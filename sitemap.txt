@@ -1,3 +1,7 @@
+https://blog.emn178.cc/zh-TW/post/data-structure-linked-list/
+https://blog.emn178.cc/zh-TW/post/data-structure-queue/
+https://blog.emn178.cc/zh-TW/post/data-structure-stack/
+https://blog.emn178.cc/zh-TW/post/common-coding-interview-questions/
 https://blog.emn178.cc/zh-TW/post/javascript-syntax/
 https://blog.emn178.cc/zh-TW/post/web-devtools/
 https://blog.emn178.cc/zh-TW/post/javascript-operators-final/
@@ -40,11 +44,7 @@ https://blog.emn178.cc/zh-TW/post/taoyuan-dongyanshan-forest-recreation-area/
 https://blog.emn178.cc/zh-TW/post/taipei-hsing-tian-kong-and-tamsui/
 https://blog.emn178.cc/zh-TW/post/hsinchu-gang-nan-seeside-scenic-spot/
 https://blog.emn178.cc/zh-TW/post/hsinchu-shan-shang-homestay-and-zhang-xueliang-cultural-park/
-https://blog.emn178.cc/zh-TW/post/common-coding-interview-questions/
 https://blog.emn178.cc/zh-TW/post/find-kth-largest-number-in-an-array/
-https://blog.emn178.cc/zh-TW/post/data-structure-linked-list/
-https://blog.emn178.cc/zh-TW/post/data-structure-queue/
-https://blog.emn178.cc/zh-TW/post/data-structure-stack/
 https://blog.emn178.cc/zh-TW/post/selection-sort/
 https://blog.emn178.cc/zh-TW/post/insertion-sort/
 https://blog.emn178.cc/zh-TW/post/bubble-sort/
