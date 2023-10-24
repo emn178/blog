@@ -1,9 +1,9 @@
+https://blog.emn178.cc/zh-TW/post/web-devtools/
 https://blog.emn178.cc/zh-TW/post/data-structure-linked-list/
 https://blog.emn178.cc/zh-TW/post/data-structure-queue/
 https://blog.emn178.cc/zh-TW/post/data-structure-stack/
 https://blog.emn178.cc/zh-TW/post/common-coding-interview-questions/
 https://blog.emn178.cc/zh-TW/post/javascript-syntax/
-https://blog.emn178.cc/zh-TW/post/web-devtools/
 https://blog.emn178.cc/zh-TW/post/javascript-operators-final/
 https://blog.emn178.cc/zh-TW/post/javascript-operators/
 https://blog.emn178.cc/zh-TW/post/javascript-variables/
