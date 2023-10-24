@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.emn178.cc/zh-TW/post/javascript-syntax/</loc>
+    
+    <lastmod>2023-10-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.emn178.cc/zh-TW/post/web-devtools/</loc>
+    
+    <lastmod>2023-10-24</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.emn178.cc/zh-TW/post/javascript-operators-final/</loc>
     
     <lastmod>2023-10-24</lastmod>
@@ -31,13 +45,6 @@
   
   <url>
     <loc>https://blog.emn178.cc/zh-TW/post/javascript-data-type/</loc>
-    
-    <lastmod>2023-10-24</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.emn178.cc/zh-TW/post/javascript-syntax/</loc>
     
     <lastmod>2023-10-24</lastmod>
     

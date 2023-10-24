@@ -1,9 +1,10 @@
+https://blog.emn178.cc/zh-TW/post/javascript-syntax/
+https://blog.emn178.cc/zh-TW/post/web-devtools/
 https://blog.emn178.cc/zh-TW/post/javascript-operators-final/
 https://blog.emn178.cc/zh-TW/post/javascript-operators/
 https://blog.emn178.cc/zh-TW/post/javascript-variables/
 https://blog.emn178.cc/zh-TW/post/javascript-data-type-final/
 https://blog.emn178.cc/zh-TW/post/javascript-data-type/
-https://blog.emn178.cc/zh-TW/post/javascript-syntax/
 https://blog.emn178.cc/en/post/using-ethers-js-to-sign-eip-712-typed-structured-data/
 https://blog.emn178.cc/en/post/solidity-eip-712-typed-structured-data-hashing-and-signing/
 https://blog.emn178.cc/en/post/using-ethers-js-to-sign-and-recover/
