@@ -1542,6 +1542,155 @@
     </item>
     
     <item>
+      <title>JavaScript 教學 - 運算子 (Operators) - 下</title>
+      <link>https://blog.emn178.cc/zh-TW/post/javascript-operators-final/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/javascript-operators-final/</guid>
+      <pubDate>Sun, 04 Aug 2013 06:42:44 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;介紹JavaScript中的運算子 (Operators) 的用法，包含邏輯運算子 (Logical Operator)、字串運算子 (String Operator) 和特殊運算子 (Special Operator)。&lt;/p&gt;
+&lt;h2 id=&quot;邏輯運算子&quot;&gt;&lt;a hre</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/JavaScript/">JavaScript</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/javascript-operators-final/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>JavaScript 教學 - 運算子 (Operators) - 上</title>
+      <link>https://blog.emn178.cc/zh-TW/post/javascript-operators/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/javascript-operators/</guid>
+      <pubDate>Sun, 21 Apr 2013 03:23:49 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;介紹 JavaScript 中的運算子 (Operators) 的用法，包含種類、優先順序、算術運算子 (Arithmetic Operator)、指派運算子 (Assignment Operator)、位元運算子 (Bitwise Operator) 和比較運算子 (Co</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/JavaScript/">JavaScript</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/javascript-operators/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>JavaScript 教學 - 變數 (Variables)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/javascript-variables/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/javascript-variables/</guid>
+      <pubDate>Sun, 06 Jan 2013 06:09:03 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;介紹 JavaScript 中的變數 (Variables) 的用法，包含宣告 (Declare)、指派 (Assign) 與變數範圍 (Scope)，以及識別子 (Identifier) 的格式。&lt;/p&gt;
+&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/JavaScript/">JavaScript</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/javascript-variables/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>JavaScript 教學 - 資料型態 (Data Type) - 下</title>
+      <link>https://blog.emn178.cc/zh-TW/post/javascript-data-type-final/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/javascript-data-type-final/</guid>
+      <pubDate>Sun, 23 Dec 2012 02:23:24 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;介紹 JavaScript 中的資料型態 (型別)，包含物件 (Object)、陣列 (Array)、未定義 (undefined)、空值 (null)、和函式 (Function)。&lt;/p&gt;
+&lt;h2 id=&quot;陣列-Array&quot;&gt;&lt;a href=&quot;#陣列-Array&quot; cl</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/JavaScript/">JavaScript</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/javascript-data-type-final/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>JavaScript 教學 - 資料型態 (Data Type) - 上</title>
+      <link>https://blog.emn178.cc/zh-TW/post/javascript-data-type/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/javascript-data-type/</guid>
+      <pubDate>Sat, 15 Dec 2012 12:51:04 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;介紹 JavaScript 中的資料型態 (型別)，包含布林 (Boolean)、數值 (Number) 和字串 (String)，以及轉型的方法。&lt;/p&gt;
+&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/JavaScript/">JavaScript</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/javascript-data-type/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>JavaScript 教學 - 基本語法 (Syntax)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/javascript-syntax/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/javascript-syntax/</guid>
+      <pubDate>Sat, 24 Nov 2012 07:36:58 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;介紹 JavaScript 中的基本語法與使用方式，包含執行 JavaScript、在 HTML中 嵌入 JavaScript、註解與其他特性。&lt;/p&gt;
+&lt;h2 id=&quot;如何執行-JavaScript&quot;&gt;&lt;a href=&quot;#如何執行-JavaScript&quot; class=&quot;h</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/JavaScript/">JavaScript</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/javascript-syntax/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>演算法 - 選擇排序法 (Selection Sort)</title>
       <link>https://blog.emn178.cc/zh-TW/post/selection-sort/</link>
       <guid>https://blog.emn178.cc/zh-TW/post/selection-sort/</guid>
