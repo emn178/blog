@@ -1463,6 +1463,51 @@
   </entry>
   
   <entry>
+    <title>樹的走訪 (Tree Traversal)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/tree-traversal/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/tree-traversal/</id>
+    <published>2013-02-15T13:28:55.000Z</published>
+    <updated>2023-10-25T09:26:19.134Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;透過一些演算法能夠對樹狀結構的節點進行逐一的訪問，可以應用在搜索、序列化或其他的用途上。依據走訪的方式，大致上可分為以下兩大類：&lt;/p&gt;
+&lt;</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="資料結構" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>資料結構 - 一般樹轉二元樹</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/data-structure-generic-tree-to-binary-tree/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/data-structure-generic-tree-to-binary-tree/</id>
+    <published>2013-01-19T02:55:48.000Z</published>
+    <updated>2023-10-25T09:26:57.546Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;在樹狀結構中我們可能會使用陣列或指標來表示子節點，然而許多的陣列或指標並沒有真的利用到，造成記憶體上的浪費。透過特定的儲存方式，能夠將各種樹</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="資料結構" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>JavaScript 教學 - 變數 (Variables)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/javascript-variables/"/>
     <id>https://blog.emn178.cc/zh-TW/post/javascript-variables/</id>
@@ -1481,6 +1526,28 @@
     <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
     
     <category term="JavaScript" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/JavaScript/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>資料結構 - 二元搜索樹 (Binary Search Tree)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/data-structure-binary-search-tree/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/data-structure-binary-search-tree/</id>
+    <published>2013-01-02T12:34:00.000Z</published>
+    <updated>2023-10-25T09:26:09.145Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;二元搜索樹 (Binary Search Tree) 是基於二元樹的一種延伸，二元搜索樹的應用範圍很廣，可以利用在搜索、排序和提供資料集合基</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="資料結構" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/"/>
     
     
   </entry>
@@ -1532,6 +1599,28 @@
   </entry>
   
   <entry>
+    <title>資料結構 - 二元樹 (Binary Tree)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/data-structure-binary-tree/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/data-structure-binary-tree/</id>
+    <published>2012-12-09T11:40:52.000Z</published>
+    <updated>2023-10-25T09:25:59.895Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;二元樹 (Binary Tree) 是資料結構中樹狀結構的一種，也是常使用的一種資料結構，很多其他的樹種也是基於二元樹發展出來，所以是很重要</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="資料結構" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>網頁開發人員工具</title>
     <link href="https://blog.emn178.cc/zh-TW/post/web-devtools/"/>
     <id>https://blog.emn178.cc/zh-TW/post/web-devtools/</id>
@@ -1549,6 +1638,28 @@
     <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
     
     <category term="JavaScript" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/JavaScript/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>資料結構 - 樹 (Tree)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/data-structure-tree/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/data-structure-tree/</id>
+    <published>2012-11-30T14:00:07.000Z</published>
+    <updated>2023-10-25T09:25:25.032Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;樹 (Tree) 是一種常見的資料結構，他是一種階層式 (Hierarchical) 的資料集合，我們就先來看看下面這棵樹：&lt;br&gt;&lt;img</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="資料結構" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/"/>
     
     
   </entry>
