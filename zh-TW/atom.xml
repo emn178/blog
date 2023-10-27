@@ -1486,16 +1486,106 @@
   </entry>
   
   <entry>
+    <title>圖解 offsetLeft、offsetTop、offsetWidth 和 offsetHeight</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/offsetLeft-offsetTop-offsetWidth-offsetHeight/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/offsetLeft-offsetTop-offsetWidth-offsetHeight/</id>
+    <published>2013-02-03T05:06:39.000Z</published>
+    <updated>2023-10-27T02:08:04.206Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;本文將透過圖解的方式說明 CSSOM View Model 中 HTMLElement 定義的屬性，包含 offsetLeft、offsetTop、offsetWidth、offsetHeight 和 offsetParent。&lt;/p&gt;
+&lt;p&gt;JavaScript 中可以由</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="JavaScript" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/JavaScript/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>圖解 scrollLeft、scrollTop、scrollWidth、scrollHeight 和 scrollIntoView</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/scrollleft-scrolltop-scrollwidth-scrollheight-scrollintoview/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/scrollleft-scrolltop-scrollwidth-scrollheight-scrollintoview/</id>
+    <published>2013-01-24T13:07:35.000Z</published>
+    <updated>2023-10-27T02:08:26.662Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;本文將透過圖解的方式說明 CSSOM View Model 中 Element 定義的屬性，包含 scrollLeft、scrollTop、scrollWidth、scrollHeight 和 scrollIntoView。&lt;/p&gt;
+&lt;p&gt;JavaScript 中可以由 E</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="JavaScript" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/JavaScript/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>圖解 clientLeft、clientTop、clientWidth 和 clientHeight</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/clientleft-clienttop-clientwidth-clientheight/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/clientleft-clienttop-clientwidth-clientheight/</id>
+    <published>2013-01-23T11:34:44.000Z</published>
+    <updated>2023-10-27T02:08:22.005Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;本文將透過圖解的方式說明 CSSOM View Model 中 Element 定義的屬性，包含 clientLeft、clientTop、clientWidth 和 clientHeight。&lt;/p&gt;
+&lt;p&gt;JavaScript 中可以由 Element 的 DOM 物件</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="JavaScript" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/JavaScript/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>解決 Table &#39;./dbname/tablename&#39; is marked as crashed and should be repaired when using LOCK TABLES</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/table-dbname-tablename-is-marked-as-crashed-and-should-be-repaired-when-using-lock-tables/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/table-dbname-tablename-is-marked-as-crashed-and-should-be-repaired-when-using-lock-tables/</id>
+    <published>2013-01-20T13:15:26.000Z</published>
+    <updated>2023-10-27T02:10:20.845Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;問題&quot;&gt;&lt;a href=&quot;#問題&quot; class=&quot;headerlink&quot; title=&quot;問題&quot;&gt;&lt;/a&gt;問題&lt;/h2&gt;&lt;p&gt;資料庫存取發生錯誤，例如使用 &lt;code&gt;mysqldump&lt;/code&gt; 時出現：&lt;/p&gt;
+&lt;figure class=&quot;highligh</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>資料結構 - 一般樹轉二元樹</title>
     <link href="https://blog.emn178.cc/zh-TW/post/data-structure-generic-tree-to-binary-tree/"/>
     <id>https://blog.emn178.cc/zh-TW/post/data-structure-generic-tree-to-binary-tree/</id>
     <published>2013-01-19T02:55:48.000Z</published>
-    <updated>2023-10-25T09:26:57.546Z</updated>
+    <updated>2023-10-26T09:25:30.677Z</updated>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;在樹狀結構中我們可能會使用陣列或指標來表示子節點，然而許多的陣列或指標並沒有真的利用到，造成記憶體上的浪費。透過特定的儲存方式，能夠將各種樹</summary>
+    <summary type="html">&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;在&lt;a href=&quot;/zh-TW/post/data-structure-tree/&quot;&gt;樹狀結構&lt;/a&gt;中我們可能會使用陣列或指標來表示子節</summary>
       
     
     
@@ -1535,12 +1625,12 @@
     <link href="https://blog.emn178.cc/zh-TW/post/data-structure-binary-search-tree/"/>
     <id>https://blog.emn178.cc/zh-TW/post/data-structure-binary-search-tree/</id>
     <published>2013-01-02T12:34:00.000Z</published>
-    <updated>2023-10-25T09:26:09.145Z</updated>
+    <updated>2023-10-26T09:24:54.616Z</updated>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;二元搜索樹 (Binary Search Tree) 是基於二元樹的一種延伸，二元搜索樹的應用範圍很廣，可以利用在搜索、排序和提供資料集合基</summary>
+    <summary type="html">&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;二元搜索樹 (Binary Search Tree) 是基於&lt;a href=&quot;/zh-TW/post/data-structure-bina</summary>
       
     
     
@@ -1603,12 +1693,12 @@
     <link href="https://blog.emn178.cc/zh-TW/post/data-structure-binary-tree/"/>
     <id>https://blog.emn178.cc/zh-TW/post/data-structure-binary-tree/</id>
     <published>2012-12-09T11:40:52.000Z</published>
-    <updated>2023-10-25T09:25:59.895Z</updated>
+    <updated>2023-10-26T09:24:20.023Z</updated>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;二元樹 (Binary Tree) 是資料結構中樹狀結構的一種，也是常使用的一種資料結構，很多其他的樹種也是基於二元樹發展出來，所以是很重要</summary>
+    <summary type="html">&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;二元樹 (Binary Tree) 是資料結構中&lt;a href=&quot;/zh-TW/post/data-structure-tree/&quot;&gt;樹狀結</summary>
       
     
     
