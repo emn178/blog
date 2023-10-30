@@ -1,6 +1,13 @@
+https://blog.emn178.cc/zh-TW/post/balance-puzzle-weighing-9-coins/
+https://blog.emn178.cc/zh-TW/post/balance-puzzle-conclusion/
+https://blog.emn178.cc/zh-TW/post/balance-puzzle-weighing-8-coins/
+https://blog.emn178.cc/zh-TW/post/balance-puzzle-weighing-12-balls/
+https://blog.emn178.cc/zh-TW/post/balance-puzzle-weighing-10-balls/
+https://blog.emn178.cc/zh-TW/post/balance-puzzle-weighing-8-balls/
+https://blog.emn178.cc/zh-TW/post/birthday-puzzle/
+https://blog.emn178.cc/zh-TW/post/offsetleft-offsettop-offsetwidth-offsetheight/
 https://blog.emn178.cc/zh-TW/post/scrollleft-scrolltop-scrollwidth-scrollheight-scrollintoview/
 https://blog.emn178.cc/zh-TW/post/clientleft-clienttop-clientwidth-clientheight/
-https://blog.emn178.cc/zh-TW/post/offsetleft-offsettop-offsetwidth-offsetheight/
 https://blog.emn178.cc/zh-TW/post/table-dbname-tablename-is-marked-as-crashed-and-should-be-repaired-when-using-lock-tables/
 https://blog.emn178.cc/zh-TW/post/data-structure-generic-tree-to-binary-tree/
 https://blog.emn178.cc/zh-TW/post/data-structure-binary-search-tree/
@@ -195,6 +202,7 @@ https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Jav
 https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6%BC%94%E7%AE%97%E6%B3%95/
 https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/JavaScript/
 https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/
+https://blog.emn178.cc/zh-TW/categories/%E6%99%BA%E5%8A%9B%E6%B8%AC%E9%A9%97/
 https://blog.emn178.cc/zh-TW/tags/Midjourney/
 https://blog.emn178.cc/zh-TW/tags/Solidity/
 https://blog.emn178.cc/zh-TW/tags/zkSync/
