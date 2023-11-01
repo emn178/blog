@@ -3490,6 +3490,26 @@
   </entry>
   
   <entry>
+    <title>修正 SyntaxHighlighter 單行與卷軸顯示問題</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/pixnet-syntaxhighlighter-style/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/pixnet-syntaxhighlighter-style/</id>
+    <published>2011-08-27T02:19:22.000Z</published>
+    <updated>2023-11-01T09:00:26.569Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;之前在&lt;a href=&quot;/zh-TW/post/pixnet-syntaxhighlighter/&quot;&gt;在痞客邦使用 SyntaxHighlighter 為程式碼上色&lt;/a&gt;這篇文章提到如何使用，但在實際使用了一段時間之後就發現到一個問題：&lt;br&gt;overflow 的捲軸顯示</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Java 如何解析命令列參數</title>
     <link href="https://blog.emn178.cc/zh-TW/post/parse-command-line-arguments-in-java/"/>
     <id>https://blog.emn178.cc/zh-TW/post/parse-command-line-arguments-in-java/</id>
@@ -3606,6 +3626,27 @@
   </entry>
   
   <entry>
+    <title>心機 99 聯盟</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/ninety-nine/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/ninety-nine/</id>
+    <published>2011-08-14T12:11:08.000Z</published>
+    <updated>2023-11-01T09:09:34.911Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;以前研究所去澎湖旅行的時候，晚上打牌出現的遊戲，由於人數超過四個人，所以一開始玩了 99，然後變成心機 99，接著又亂加一些規則變成可以分隊的心機 99 聯盟。規則如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;多人對戰：分隊後交錯坐，可同時使用多副撲克牌。&lt;/li&gt;
+&lt;li&gt;勝利條件：</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>C# 以屬性的方式存取陣列元素</title>
     <link href="https://blog.emn178.cc/zh-TW/post/using-property-to-access-elements-of-array-in-csharp/"/>
     <id>https://blog.emn178.cc/zh-TW/post/using-property-to-access-elements-of-array-in-csharp/</id>
@@ -3702,6 +3743,26 @@
     
     
     <category term="景點" scheme="https://blog.emn178.cc/zh-TW/tags/%E6%99%AF%E9%BB%9E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在痞客邦使用 SyntaxHighlighter 為程式碼上色</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/pixnet-syntaxhighlighter/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/pixnet-syntaxhighlighter/</id>
+    <published>2011-07-26T02:25:47.000Z</published>
+    <updated>2023-11-01T08:59:00.275Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;2015&amp;#x2F;06&amp;#x2F;02 更新&lt;br&gt;寫了一個 Pixnet 外掛，直接安裝就可以使用了&lt;br&gt;&lt;a href=&quot;https://appmarket.pixnet.tw/#!/addon/787&quot;&gt;https://appmarket.pixnet.tw/#!</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
     
   </entry>
   

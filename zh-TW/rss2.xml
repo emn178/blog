@@ -3794,6 +3794,28 @@
     </item>
     
     <item>
+      <title>修正 SyntaxHighlighter 單行與卷軸顯示問題</title>
+      <link>https://blog.emn178.cc/zh-TW/post/pixnet-syntaxhighlighter-style/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/pixnet-syntaxhighlighter-style/</guid>
+      <pubDate>Sat, 27 Aug 2011 02:19:22 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;之前在&lt;a href=&quot;/zh-TW/post/pixnet-syntaxhighlighter/&quot;&gt;在痞客邦使用 SyntaxHighlighter 為程式碼上色&lt;/a&gt;這篇文章提到如何使用，但在實際使用了一段時間之後就發現到一個問題：&lt;br&gt;overflow 的捲軸顯示</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/pixnet-syntaxhighlighter-style/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>Java 如何解析命令列參數</title>
       <link>https://blog.emn178.cc/zh-TW/post/parse-command-line-arguments-in-java/</link>
       <guid>https://blog.emn178.cc/zh-TW/post/parse-command-line-arguments-in-java/</guid>
@@ -3920,6 +3942,29 @@
     </item>
     
     <item>
+      <title>心機 99 聯盟</title>
+      <link>https://blog.emn178.cc/zh-TW/post/ninety-nine/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/ninety-nine/</guid>
+      <pubDate>Sun, 14 Aug 2011 12:11:08 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;以前研究所去澎湖旅行的時候，晚上打牌出現的遊戲，由於人數超過四個人，所以一開始玩了 99，然後變成心機 99，接著又亂加一些規則變成可以分隊的心機 99 聯盟。規則如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;多人對戰：分隊後交錯坐，可同時使用多副撲克牌。&lt;/li&gt;
+&lt;li&gt;勝利條件：</description>
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/ninety-nine/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>C# 以屬性的方式存取陣列元素</title>
       <link>https://blog.emn178.cc/zh-TW/post/using-property-to-access-elements-of-array-in-csharp/</link>
       <guid>https://blog.emn178.cc/zh-TW/post/using-property-to-access-elements-of-array-in-csharp/</guid>
@@ -4024,6 +4069,28 @@
       
       
       <comments>https://blog.emn178.cc/zh-TW/post/shirokiya-museum-yingge-ceramics-museum/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>在痞客邦使用 SyntaxHighlighter 為程式碼上色</title>
+      <link>https://blog.emn178.cc/zh-TW/post/pixnet-syntaxhighlighter/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/pixnet-syntaxhighlighter/</guid>
+      <pubDate>Tue, 26 Jul 2011 02:25:47 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;2015&amp;#x2F;06&amp;#x2F;02 更新&lt;br&gt;寫了一個 Pixnet 外掛，直接安裝就可以使用了&lt;br&gt;&lt;a href=&quot;https://appmarket.pixnet.tw/#!/addon/787&quot;&gt;https://appmarket.pixnet.tw/#!</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/pixnet-syntaxhighlighter/#disqus_thread</comments>
       
     </item>
     
