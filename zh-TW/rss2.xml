@@ -1542,6 +1542,76 @@
     </item>
     
     <item>
+      <title>Markdown 語法 (README.md)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/markdown/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/markdown/</guid>
+      <pubDate>Sun, 05 Jan 2014 02:17:28 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;有使用過 GitHub 可能會看過 README.md 或者其他 xxx.md 的檔案，md 表示的意思其實是 Markdown，所以如果有在開發 open source project 的人可能會需要知道 Markdown 文件如何撰寫。&lt;/p&gt;
+&lt;p&gt;基本上 Markd</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/markdown/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>免費獲得比特幣</title>
+      <link>https://blog.emn178.cc/zh-TW/post/free-bitcoin/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/free-bitcoin/</guid>
+      <pubDate>Tue, 03 Dec 2013 12:19:10 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;提供一些免費獲得比特幣的網站，每個網站獲得的條件和時間限制都不太一樣&lt;/p&gt;
+&lt;h2 id=&quot;The-Free-bitcoins-com&quot;&gt;&lt;a href=&quot;#The-Free-bitcoins-com&quot; class=&quot;headerlink&quot; title=&quot;The Free</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/free-bitcoin/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>比特幣礦池 - GHash.IO / CEX.IO</title>
+      <link>https://blog.emn178.cc/zh-TW/post/ghash-io/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/ghash-io/</guid>
+      <pubDate>Sun, 17 Nov 2013 05:41:07 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;(GHash.IO 已關閉，CEX.IO 仍可使用)&lt;/p&gt;
+&lt;p&gt;推薦一個不錯的比特幣礦池：&lt;a href=&quot;https://cex.io/r/0/emn178/0/&quot;&gt;GHash.IO&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;他結合了交易平台：&lt;a href=&quot;https://cex.i</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/ghash-io/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>智力測驗 - 金幣問題 (三)</title>
       <link>https://blog.emn178.cc/zh-TW/post/fake-coin-problem-unknown-number-and-limit-amount/</link>
       <guid>https://blog.emn178.cc/zh-TW/post/fake-coin-problem-unknown-number-and-limit-amount/</guid>
