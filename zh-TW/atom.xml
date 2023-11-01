@@ -1418,6 +1418,67 @@
   </entry>
   
   <entry>
+    <title>智力測驗 - 金幣問題 (三)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/fake-coin-problem-unknown-number-and-limit-amount/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/fake-coin-problem-unknown-number-and-limit-amount/</id>
+    <published>2013-09-08T06:45:34.000Z</published>
+    <updated>2023-11-01T07:34:07.049Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;問題&quot;&gt;&lt;a href=&quot;#問題&quot; class=&quot;headerlink&quot; title=&quot;問題&quot;&gt;&lt;/a&gt;問題&lt;/h2&gt;&lt;p&gt;有金幣六袋，每袋有 24 枚金幣，不知道有幾袋真幾袋假，真的金幣重 10 克，假的重 9 克。給你一個電子秤，只能秤重一次，就知道哪幾袋是假</summary>
+      
+    
+    
+    
+    <category term="智力測驗" scheme="https://blog.emn178.cc/zh-TW/categories/%E6%99%BA%E5%8A%9B%E6%B8%AC%E9%A9%97/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>智力測驗 - 金幣問題 (二)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/fake-coin-problem-unknown-number/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/fake-coin-problem-unknown-number/</id>
+    <published>2013-09-02T13:27:58.000Z</published>
+    <updated>2023-11-01T07:33:44.422Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;問題&quot;&gt;&lt;a href=&quot;#問題&quot; class=&quot;headerlink&quot; title=&quot;問題&quot;&gt;&lt;/a&gt;問題&lt;/h2&gt;&lt;p&gt;有金幣六袋，不知道有幾袋真幾袋假，真的金幣重 10 克，假的重 9 克。給你一個電子秤，只能秤重一次，就知道哪幾袋是假的？&lt;/p&gt;
+&lt;h2 </summary>
+      
+    
+    
+    
+    <category term="智力測驗" scheme="https://blog.emn178.cc/zh-TW/categories/%E6%99%BA%E5%8A%9B%E6%B8%AC%E9%A9%97/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>智力測驗 - 金幣問題 (一)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/fake-coin-problem/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/fake-coin-problem/</id>
+    <published>2013-08-24T01:39:10.000Z</published>
+    <updated>2023-11-01T07:34:03.424Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;問題&quot;&gt;&lt;a href=&quot;#問題&quot; class=&quot;headerlink&quot; title=&quot;問題&quot;&gt;&lt;/a&gt;問題&lt;/h2&gt;&lt;p&gt;有金幣九袋，每一袋裡面的金幣都不一樣多，九袋金幣中，只有一袋是真的，真的整袋都是真的，假的當然整袋是假的，真的金幣重 10 克，假的重 9 </summary>
+      
+    
+    
+    
+    <category term="智力測驗" scheme="https://blog.emn178.cc/zh-TW/categories/%E6%99%BA%E5%8A%9B%E6%B8%AC%E9%A9%97/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>JavaScript 教學 - 運算子 (Operators) - 下</title>
     <link href="https://blog.emn178.cc/zh-TW/post/javascript-operators-final/"/>
     <id>https://blog.emn178.cc/zh-TW/post/javascript-operators-final/</id>
@@ -1458,6 +1519,28 @@
     <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
     
     <category term="JavaScript" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/JavaScript/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>如何在 Mac 移除 pkg 程式</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/how-to-uninstall-pkg-in-mac/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/how-to-uninstall-pkg-in-mac/</id>
+    <published>2013-04-18T12:18:37.000Z</published>
+    <updated>2023-11-01T06:54:33.008Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;有時候會在 Mac 上安裝一些 pkg 類型的程式，不像 app 類型的程式可以在 Launchpad 中管理刪除，或者直接將 app 檔案刪除即可，要移除 pkg 套件相對麻煩許多，必須將它安裝的檔案逐一移除。&lt;/p&gt;
+&lt;p&gt;你可以嘗試以下的步驟將相關檔案移除：&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
     
     
   </entry>
