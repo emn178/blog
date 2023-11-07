@@ -1,3 +1,13 @@
+https://blog.emn178.cc/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/
+https://blog.emn178.cc/en/post/node-js-how-to-integrate-travis-ci-with-github/
+https://blog.emn178.cc/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/
+https://blog.emn178.cc/zh-TW/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/
+https://blog.emn178.cc/zh-TW/post/javascript-base64-encode-decode/
+https://blog.emn178.cc/zh-TW/post/node-js-how-to-integrate-travis-ci-with-github/
+https://blog.emn178.cc/zh-TW/post/node-js-how-to-integrate-coveralls-with-github/
+https://blog.emn178.cc/zh-TW/post/how-to-measure-javascript-code-coverage-with-jscoverage/
+https://blog.emn178.cc/zh-TW/post/jquery-common-functions/
+https://blog.emn178.cc/zh-TW/post/ruby-on-rails-deploy-to-heroku/
 https://blog.emn178.cc/zh-TW/post/ninety-nine/
 https://blog.emn178.cc/zh-TW/post/pixnet-syntaxhighlighter-style/
 https://blog.emn178.cc/zh-TW/post/pixnet-syntaxhighlighter/
@@ -177,9 +187,6 @@ https://blog.emn178.cc/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/
 https://blog.emn178.cc/en/post/zksync-airdrop-step-by-step/
 https://blog.emn178.cc/zh-TW/post/zksync-airdrop-step-by-step/
 https://blog.emn178.cc/zh-TW/post/stable-diffusion-webui-img2img-batch/
-https://blog.emn178.cc/en/post/node-js-how-to-integrate-travis-ci-with-github/
-https://blog.emn178.cc/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/
-https://blog.emn178.cc/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/
 https://blog.emn178.cc/zh-TW/post/korea-seoul-gyeongbokgung-samcheong-dong-bukchon-hanok-village/
 https://blog.emn178.cc/zh-TW/post/korea-seoul-n-seoul-tower/
 https://blog.emn178.cc/zh-TW/post/dall-e-2-ai-art-generator/
@@ -225,6 +232,8 @@ https://blog.emn178.cc/zh-TW/tags/Midjourney/
 https://blog.emn178.cc/zh-TW/tags/Solidity/
 https://blog.emn178.cc/zh-TW/tags/zkSync/
 https://blog.emn178.cc/zh-TW/tags/%E6%99%AF%E9%BB%9E/
+https://blog.emn178.cc/zh-TW/tags/Node-js/
+https://blog.emn178.cc/zh-TW/tags/JavaScript/
 https://blog.emn178.cc/zh-TW/tags/Ruby/
 https://blog.emn178.cc/zh-TW/tags/PHP/
 https://blog.emn178.cc/zh-TW/tags/%E6%96%B0%E7%AB%B9/

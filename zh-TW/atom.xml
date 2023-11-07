@@ -1418,6 +1418,181 @@
   </entry>
   
   <entry>
+    <title>在 Github 上使用 Coveralls 顯示程式覆蓋率 - Node.js</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/node-js-how-to-integrate-coveralls-with-github/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/node-js-how-to-integrate-coveralls-with-github/</id>
+    <published>2015-02-08T06:07:25.000Z</published>
+    <updated>2023-11-07T08:08:17.867Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;前面的文章提到了&lt;a href=&quot;/zh-TW/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/&quot;&gt;使用 mocha 在 Node.js 和瀏覽器環境中單元測試&lt;/a&gt;和&lt;a</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="JavaScript" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/JavaScript/"/>
+    
+    
+    <category term="Node.js" scheme="https://blog.emn178.cc/zh-TW/tags/Node-js/"/>
+    
+    <category term="JavaScript" scheme="https://blog.emn178.cc/zh-TW/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 jscoverage 計算 Node.js 程式覆蓋率</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/how-to-measure-javascript-code-coverage-with-jscoverage/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/how-to-measure-javascript-code-coverage-with-jscoverage/</id>
+    <published>2015-01-14T12:29:28.000Z</published>
+    <updated>2023-11-07T08:08:11.135Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;在之前的文章&lt;a href=&quot;/zh-TW/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/&quot;&gt;使用 mocha 在 Node.js 和瀏覽器環境中單元測試&lt;/a&gt;提到如何進</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="JavaScript" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/JavaScript/"/>
+    
+    
+    <category term="Node.js" scheme="https://blog.emn178.cc/zh-TW/tags/Node-js/"/>
+    
+    <category term="JavaScript" scheme="https://blog.emn178.cc/zh-TW/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在 Github 上使用 Travis CI 進行持續整合 - Node.js</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/node-js-how-to-integrate-travis-ci-with-github/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/node-js-how-to-integrate-travis-ci-with-github/</id>
+    <published>2015-01-09T12:14:49.000Z</published>
+    <updated>2023-11-07T08:10:40.606Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://travis-ci.com/&quot;&gt;Travis CI&lt;/a&gt; 是一個提供 GitHub 專案持續整合的服務平台，支援各種程式語言，本篇介紹 JavaScript(Node.js) 專案如何結合此服務。&lt;/p&gt;
+&lt;p&gt;藉由整合 Travis C</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="JavaScript" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/JavaScript/"/>
+    
+    
+    <category term="Node.js" scheme="https://blog.emn178.cc/zh-TW/tags/Node-js/"/>
+    
+    <category term="JavaScript" scheme="https://blog.emn178.cc/zh-TW/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 mocha 在 Node.js 和瀏覽器環境中單元測試</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/</id>
+    <published>2015-01-06T12:54:49.000Z</published>
+    <updated>2023-11-07T08:10:57.367Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Mocha 是一套 JavaScript 的測試框架 (Test Framework)，有 Node.js 和瀏覽器版本，可分別測試不同環境。&lt;/p&gt;
+&lt;p&gt;假設我們開發了一個 JavaScript 套件，我們希望可以在 Node.js 和不同瀏覽器上測試，可以用以下方法來</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="JavaScript" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/JavaScript/"/>
+    
+    
+    <category term="Node.js" scheme="https://blog.emn178.cc/zh-TW/tags/Node-js/"/>
+    
+    <category term="JavaScript" scheme="https://blog.emn178.cc/zh-TW/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在 JavaScript 中使用 Base64 Encode / Decode</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/javascript-base64-encode-decode/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/javascript-base64-encode-decode/</id>
+    <published>2015-01-03T06:06:20.000Z</published>
+    <updated>2023-11-07T08:10:49.577Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;在較新的瀏覽器中已經有提供 &lt;code&gt;btoa&lt;/code&gt; 和 &lt;code&gt;atob&lt;/code&gt; 兩個全域函式，可以用來做 base64 的 encode 和 decode，瀏覽器支援參考這裡，基本上就是 IE9 以下不支援，使用方法如下：&lt;/p&gt;
+&lt;figure c</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="JavaScript" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/JavaScript/"/>
+    
+    
+    <category term="Node.js" scheme="https://blog.emn178.cc/zh-TW/tags/Node-js/"/>
+    
+    <category term="JavaScript" scheme="https://blog.emn178.cc/zh-TW/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>jQuery 教學 - 常用函式</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/jquery-common-functions/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/jquery-common-functions/</id>
+    <published>2014-09-15T07:30:13.000Z</published>
+    <updated>2023-11-07T07:24:41.732Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;核心-Core&quot;&gt;&lt;a href=&quot;#核心-Core&quot; class=&quot;headerlink&quot; title=&quot;核心 (Core)&quot;&gt;&lt;/a&gt;核心 (Core)&lt;/h2&gt;&lt;h3 id=&quot;something&quot;&gt;&lt;a href=&quot;#something&quot; class=&quot;he</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="JavaScript" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/JavaScript/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Ruby on Rails 部署到 Heroku</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/ruby-on-rails-deploy-to-heroku/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/ruby-on-rails-deploy-to-heroku/</id>
+    <published>2014-06-22T06:04:05.000Z</published>
+    <updated>2023-11-06T23:49:45.204Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;本篇文章說明如何將開發好的 Rails 網站程式部署到 Heroku 平台上，並包含 Production 與 Staging 兩種環境。&lt;</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Markdown 語法 (README.md)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/markdown/"/>
     <id>https://blog.emn178.cc/zh-TW/post/markdown/</id>
