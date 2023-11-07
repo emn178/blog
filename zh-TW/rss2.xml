@@ -1542,6 +1542,31 @@
     </item>
     
     <item>
+      <title>Ruby 教學 - 基本語法 (Syntax)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/ruby-syntax/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/ruby-syntax/</guid>
+      <pubDate>Sun, 24 May 2015 07:18:48 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;如何執行-Ruby&quot;&gt;&lt;a href=&quot;#如何執行-Ruby&quot; class=&quot;headerlink&quot; title=&quot;如何執行 Ruby&quot;&gt;&lt;/a&gt;如何執行 Ruby&lt;/h2&gt;&lt;p&gt;Ruby 有以下三種方式可以執行 Ruby 指令&lt;/p&gt;
+&lt;h3 id=&quot;建立-Ru</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Ruby/">Ruby</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/ruby-syntax/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>在 Github 上使用 Coveralls 顯示程式覆蓋率 - Node.js</title>
       <link>https://blog.emn178.cc/zh-TW/post/node-js-how-to-integrate-coveralls-with-github/</link>
       <guid>https://blog.emn178.cc/zh-TW/post/node-js-how-to-integrate-coveralls-with-github/</guid>

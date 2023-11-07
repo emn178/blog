@@ -1,4 +1,5 @@
 https://blog.emn178.cc/zh-TW/post/macau-tour/
+https://blog.emn178.cc/zh-TW/post/ruby-syntax/
 https://blog.emn178.cc/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/
 https://blog.emn178.cc/en/post/node-js-how-to-integrate-travis-ci-with-github/
 https://blog.emn178.cc/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/
@@ -229,6 +230,7 @@ https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E6
 https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/JavaScript/
 https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/
 https://blog.emn178.cc/zh-TW/categories/%E6%99%BA%E5%8A%9B%E6%B8%AC%E9%A9%97/
+https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Ruby/
 https://blog.emn178.cc/zh-TW/tags/Midjourney/
 https://blog.emn178.cc/zh-TW/tags/Solidity/
 https://blog.emn178.cc/zh-TW/tags/zkSync/
