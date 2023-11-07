@@ -1,3 +1,4 @@
+https://blog.emn178.cc/zh-TW/post/macau-tour/
 https://blog.emn178.cc/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/
 https://blog.emn178.cc/en/post/node-js-how-to-integrate-travis-ci-with-github/
 https://blog.emn178.cc/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/
@@ -251,6 +252,7 @@ https://blog.emn178.cc/zh-TW/tags/Dynamic-Programming/
 https://blog.emn178.cc/zh-TW/tags/%E5%8F%B0%E5%8C%97/
 https://blog.emn178.cc/zh-TW/tags/%E6%A1%83%E5%9C%92/
 https://blog.emn178.cc/zh-TW/tags/%E8%8B%97%E6%A0%97/
+https://blog.emn178.cc/zh-TW/tags/%E6%BE%B3%E9%96%80/
 https://blog.emn178.cc/en/
 https://blog.emn178.cc/en/categories/Blockchain/
 https://blog.emn178.cc/en/categories/Programming/
