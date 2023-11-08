@@ -1,5 +1,12 @@
-https://blog.emn178.cc/zh-TW/post/macau-tour/
+https://blog.emn178.cc/zh-TW/post/ruby-array/
+https://blog.emn178.cc/zh-TW/post/ruby-symbol/
+https://blog.emn178.cc/zh-TW/post/ruby-string/
+https://blog.emn178.cc/zh-TW/post/ruby-numeric/
+https://blog.emn178.cc/zh-TW/post/ruby-nil-true-and-false/
+https://blog.emn178.cc/zh-TW/post/ruby-data-type/
 https://blog.emn178.cc/zh-TW/post/ruby-syntax/
+https://blog.emn178.cc/zh-TW/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/
+https://blog.emn178.cc/zh-TW/post/macau-tour/
 https://blog.emn178.cc/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/
 https://blog.emn178.cc/en/post/node-js-how-to-integrate-travis-ci-with-github/
 https://blog.emn178.cc/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/

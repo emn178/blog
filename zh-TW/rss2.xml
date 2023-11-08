@@ -1542,6 +1542,183 @@
     </item>
     
     <item>
+      <title>利用 binstubs 省略 bundle exec</title>
+      <link>https://blog.emn178.cc/zh-TW/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/</guid>
+      <pubDate>Sat, 25 Jul 2015 13:27:16 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;bundle-binstubs&quot;&gt;&lt;a href=&quot;#bundle-binstubs&quot; class=&quot;headerlink&quot; title=&quot;bundle binstubs&quot;&gt;&lt;/a&gt;bundle binstubs&lt;/h2&gt;&lt;p&gt;在 Ruby 中我們可以使用 Bun</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Ruby/">Ruby</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Ruby 教學 - 陣列 (Array)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/ruby-array/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/ruby-array/</guid>
+      <pubDate>Thu, 18 Jun 2015 09:09:58 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;語法&quot;&gt;&lt;a href=&quot;#語法&quot; class=&quot;headerlink&quot; title=&quot;語法&quot;&gt;&lt;/a&gt;語法&lt;/h2&gt;&lt;h3 id=&quot;一般陣列&quot;&gt;&lt;a href=&quot;#一般陣列&quot; class=&quot;headerlink&quot; title=&quot;一般陣列&quot;&gt;&lt;/a&gt;一般陣列&lt;/h</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Ruby/">Ruby</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/ruby-array/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Ruby 教學 - 符號 (Symbol)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/ruby-symbol/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/ruby-symbol/</guid>
+      <pubDate>Wed, 17 Jun 2015 05:46:17 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;語法&quot;&gt;&lt;a href=&quot;#語法&quot; class=&quot;headerlink&quot; title=&quot;語法&quot;&gt;&lt;/a&gt;語法&lt;/h2&gt;&lt;p&gt;符號類似一種無法修改的字串，使用冒號 (&lt;code&gt;:&lt;/code&gt;) 開頭，有以下三種使用方式：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;冒號加名稱，&lt;</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Ruby/">Ruby</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/ruby-symbol/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Ruby 教學 - 字串 (String)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/ruby-string/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/ruby-string/</guid>
+      <pubDate>Wed, 03 Jun 2015 07:18:55 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;語法&quot;&gt;&lt;a href=&quot;#語法&quot; class=&quot;headerlink&quot; title=&quot;語法&quot;&gt;&lt;/a&gt;語法&lt;/h2&gt;&lt;p&gt;字串有四種使用方式：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;單引號&lt;/li&gt;
+&lt;li&gt;雙引號&lt;/li&gt;
+&lt;li&gt;Heredoc&lt;/li&gt;
+&lt;li&gt;百分比</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Ruby/">Ruby</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/ruby-string/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Ruby 教學 - 數字 (Numeric)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/ruby-numeric/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/ruby-numeric/</guid>
+      <pubDate>Thu, 28 May 2015 09:21:14 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;語法&quot;&gt;&lt;a href=&quot;#語法&quot; class=&quot;headerlink&quot; title=&quot;語法&quot;&gt;&lt;/a&gt;語法&lt;/h2&gt;&lt;p&gt;Ruby 的數字型別許多衍生的類別，本文將針對整數和浮點數介紹。從整數的角度來看，它可以用以下四種寫法：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;十進位制</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Ruby/">Ruby</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/ruby-numeric/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Ruby 教學 - Nil, True 和 False</title>
+      <link>https://blog.emn178.cc/zh-TW/post/ruby-nil-true-and-false/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/ruby-nil-true-and-false/</guid>
+      <pubDate>Wed, 27 May 2015 01:43:47 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;NilClass&quot;&gt;&lt;a href=&quot;#NilClass&quot; class=&quot;headerlink&quot; title=&quot;NilClass&quot;&gt;&lt;/a&gt;NilClass&lt;/h2&gt;&lt;h3 id=&quot;語法&quot;&gt;&lt;a href=&quot;#語法&quot; class=&quot;headerlink&quot; titl</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Ruby/">Ruby</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/ruby-nil-true-and-false/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Ruby 教學 - 資料型態 (Data Type)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/ruby-data-type/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/ruby-data-type/</guid>
+      <pubDate>Mon, 25 May 2015 02:45:45 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;Ruby-的物件導向&quot;&gt;&lt;a href=&quot;#Ruby-的物件導向&quot; class=&quot;headerlink&quot; title=&quot;Ruby 的物件導向&quot;&gt;&lt;/a&gt;Ruby 的物件導向&lt;/h2&gt;&lt;p&gt;由於 Ruby 是個完全物件導向的語言，它不像其他語言使用原始型別 (pri</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Ruby/">Ruby</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/ruby-data-type/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>Ruby 教學 - 基本語法 (Syntax)</title>
       <link>https://blog.emn178.cc/zh-TW/post/ruby-syntax/</link>
       <guid>https://blog.emn178.cc/zh-TW/post/ruby-syntax/</guid>
