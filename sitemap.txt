@@ -1,3 +1,4 @@
+https://blog.emn178.cc/zh-TW/post/birthday-puzzle/
 https://blog.emn178.cc/zh-TW/post/heroes-of-jin-yong-secret-skills/
 https://blog.emn178.cc/zh-TW/post/jquery-common-functions/
 https://blog.emn178.cc/zh-TW/post/korea-seoul-tour/
@@ -46,7 +47,6 @@ https://blog.emn178.cc/zh-TW/post/balance-puzzle-weighing-8-coins/
 https://blog.emn178.cc/zh-TW/post/balance-puzzle-weighing-12-balls/
 https://blog.emn178.cc/zh-TW/post/balance-puzzle-weighing-10-balls/
 https://blog.emn178.cc/zh-TW/post/balance-puzzle-weighing-8-balls/
-https://blog.emn178.cc/zh-TW/post/birthday-puzzle/
 https://blog.emn178.cc/zh-TW/post/offsetleft-offsettop-offsetwidth-offsetheight/
 https://blog.emn178.cc/zh-TW/post/scrollleft-scrolltop-scrollwidth-scrollheight-scrollintoview/
 https://blog.emn178.cc/zh-TW/post/clientleft-clienttop-clientwidth-clientheight/
