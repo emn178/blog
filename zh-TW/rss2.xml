@@ -9,13 +9,13 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sat, 25 Nov 2023 07:41:04 GMT</pubDate>
+    <pubDate>Sat, 25 Nov 2023 07:51:40 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>zkSync 帳戶抽象 (Account Abstraction) 程式範例</title>
-      <link>https://blog.emn178.cc/zh-TW/post/zksync-account-abstraction-tutorial/</link>
-      <guid>https://blog.emn178.cc/zh-TW/post/zksync-account-abstraction-tutorial/</guid>
+      <link>https://blog.emn178.cc/zh-TW/post/zksync-account-abstraction-example/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/zksync-account-abstraction-example/</guid>
       <pubDate>Sat, 25 Nov 2023 07:39:28 GMT</pubDate>
       
         
@@ -32,7 +32,7 @@
       <category domain="https://blog.emn178.cc/zh-TW/tags/Solidity/">Solidity</category>
       
       
-      <comments>https://blog.emn178.cc/zh-TW/post/zksync-account-abstraction-tutorial/#disqus_thread</comments>
+      <comments>https://blog.emn178.cc/zh-TW/post/zksync-account-abstraction-example/#disqus_thread</comments>
       
     </item>
     
