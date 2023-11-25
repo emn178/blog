@@ -9,8 +9,32 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Tue, 10 Oct 2023 01:02:51 GMT</pubDate>
+    <pubDate>Sat, 25 Nov 2023 07:41:04 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>zkSync 帳戶抽象 (Account Abstraction) 程式範例</title>
+      <link>https://blog.emn178.cc/zh-TW/post/zksync-account-abstraction-tutorial/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/zksync-account-abstraction-tutorial/</guid>
+      <pubDate>Sat, 25 Nov 2023 07:39:28 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;zkSync Era 原生支援帳戶抽象 (Account Abstraction) 的功能，這篇文章會簡單介紹一下帳戶抽象是什麼，主要會說明</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Solidity/">Solidity</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/zksync-account-abstraction-tutorial/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Stable Diffusion 教學 - Hires. fix</title>
