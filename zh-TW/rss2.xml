@@ -9,8 +9,32 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sat, 25 Nov 2023 16:00:01 GMT</pubDate>
+    <pubDate>Sun, 26 Nov 2023 02:48:42 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>使用 Ethers.js 操作 zkSync 帳戶抽象</title>
+      <link>https://blog.emn178.cc/zh-TW/post/using-ethers-js-to-interact-with-zksync-account-abstraction/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/using-ethers-js-to-interact-with-zksync-account-abstraction/</guid>
+      <pubDate>Sun, 26 Nov 2023 02:48:53 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;在前一篇文章 &lt;a href=&quot;/zh-TW/post/zksync-account-abstraction-example/&quot;&gt;zkSync 帳戶抽象 (Account Abstraction) 程式範例&lt;/a&gt;說明了如何撰寫和部署帳戶抽象合約，也有使用抽象帳戶發起交易的</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Solidity/">Solidity</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/using-ethers-js-to-interact-with-zksync-account-abstraction/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>zkSync 帳戶抽象 (Account Abstraction) 程式範例</title>
