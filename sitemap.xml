@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.emn178.cc/zh-TW/post/using-ethers-js-to-interact-with-zksync-account-abstraction/</loc>
+    <loc>https://blog.emn178.cc/zh-TW/post/zksync-account-abstraction-example/</loc>
     
     <lastmod>2023-11-27</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.emn178.cc/zh-TW/post/zksync-account-abstraction-example/</loc>
+    <loc>https://blog.emn178.cc/zh-TW/post/using-ethers-js-to-interact-with-zksync-account-abstraction/</loc>
     
-    <lastmod>2023-11-26</lastmod>
+    <lastmod>2023-11-27</lastmod>
     
   </url>
   
