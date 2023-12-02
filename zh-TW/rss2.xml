@@ -9,8 +9,30 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Fri, 01 Dec 2023 13:19:32 GMT</pubDate>
+    <pubDate>Sat, 02 Dec 2023 02:14:20 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>使用 Web3.js 操作 zkSync Paymaster</title>
+      <link>https://blog.emn178.cc/zh-TW/post/using-web3-js-to-interact-with-zksync-paymaster/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/using-web3-js-to-interact-with-zksync-paymaster/</guid>
+      <pubDate>Sat, 02 Dec 2023 02:14:19 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;在之前的文章 &lt;a href=&quot;/zh-TW/post/solidity-zksync-paymaster-example/&quot;&gt;Solidity - zkSync Paymaster 程式範例&lt;/a&gt;說明了如何撰寫和部署 Paymaster 合約，也有使用 Paymaste</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/using-web3-js-to-interact-with-zksync-paymaster/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>使用 Ethers.js 操作 zkSync Paymaster</title>
