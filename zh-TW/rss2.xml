@@ -9,8 +9,52 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sat, 02 Dec 2023 02:14:20 GMT</pubDate>
+    <pubDate>Tue, 05 Dec 2023 13:47:48 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>日本旅遊 - MITSUI OUTLET PARK 幕張 &amp; 八岳高原新東方渡假村</title>
+      <link>https://blog.emn178.cc/zh-TW/post/japan-mitsui-outlet-park-neo-oriental-resort-yatsugatake-kogen/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/japan-mitsui-outlet-park-neo-oriental-resort-yatsugatake-kogen/</guid>
+      <pubDate>Tue, 05 Dec 2023 13:47:16 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;拍攝時間：2023 年 11 月 2 日&lt;/p&gt;
+&lt;h2 id=&quot;行程&quot;&gt;&lt;a href=&quot;#行程&quot; class=&quot;headerlink&quot; title=&quot;行程&quot;&gt;&lt;/a&gt;行程&lt;/h2&gt;&lt;p&gt;這是&lt;a href=&quot;/zh-TW/post/japan-tour/&quot;&gt;日本旅遊 -</description>
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/japan-mitsui-outlet-park-neo-oriental-resort-yatsugatake-kogen/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>日本旅遊 - 五天四夜</title>
+      <link>https://blog.emn178.cc/zh-TW/post/japan-tour/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/japan-tour/</guid>
+      <pubDate>Mon, 04 Dec 2023 13:41:50 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;這次是跟團去日本五天四夜，行程主要在長野一帶賞楓，以及一天在東京的自由行。這次團費一人 30400，包含四天飯店早餐，一天午餐，和兩天晚餐。&lt;/p&gt;
+&lt;h2 id=&quot;機票&quot;&gt;&lt;a href=&quot;#機票&quot; class=&quot;headerlink&quot; title=&quot;機票&quot;&gt;&lt;/a&gt;機票</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E6%97%85%E9%81%8A/">旅遊</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/japan-tour/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>使用 Web3.js 操作 zkSync Paymaster</title>
