@@ -1,5 +1,4 @@
 https://blog.emn178.cc/zh-TW/post/japan-yokotani-kannon-observation-deck/
-https://blog.emn178.cc/en/post/japan-tateshina-lake/
 https://blog.emn178.cc/zh-TW/post/japan-tour/
 https://blog.emn178.cc/zh-TW/post/japan-mitsui-outlet-park-neo-oriental-resort-yatsugatake-kogen/
 https://blog.emn178.cc/zh-TW/post/birthday-puzzle/
@@ -278,7 +277,6 @@ https://blog.emn178.cc/zh-TW/tags/%E6%BE%B3%E9%96%80/
 https://blog.emn178.cc/en/
 https://blog.emn178.cc/en/categories/Blockchain/
 https://blog.emn178.cc/en/categories/Programming/
-https://blog.emn178.cc/en/categories/%E6%97%85%E9%81%8A/
 https://blog.emn178.cc/en/categories/DevOps/
 https://blog.emn178.cc/en/tags/Solidity/
 https://blog.emn178.cc/en/tags/zkSync/

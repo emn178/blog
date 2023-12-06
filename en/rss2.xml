@@ -9,31 +9,8 @@
     <atom:link href="https://blog.emn178.cc/en/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>A blog sharing experiences about programming and technology.</description>
-    <pubDate>Wed, 06 Dec 2023 08:00:02 GMT</pubDate>
+    <pubDate>Tue, 28 Nov 2023 07:24:28 GMT</pubDate>
     <generator>http://hexo.io/</generator>
-    
-    <item>
-      <title>日本旅遊 - 蓼科湖</title>
-      <link>https://blog.emn178.cc/en/post/japan-tateshina-lake/</link>
-      <guid>https://blog.emn178.cc/en/post/japan-tateshina-lake/</guid>
-      <pubDate>Thu, 07 Dec 2023 13:50:37 GMT</pubDate>
-      
-        
-        
-      <description>&lt;p&gt;拍攝時間：2023 年 11 月 3 日&lt;/p&gt;
-&lt;h2 id=&quot;行程&quot;&gt;&lt;a href=&quot;#行程&quot; class=&quot;headerlink&quot; title=&quot;行程&quot;&gt;&lt;/a&gt;行程&lt;/h2&gt;&lt;p&gt;這是&lt;a href=&quot;/zh-TW/post/japan-tour/&quot;&gt;日本旅遊 -</description>
-        
-      
-      
-      
-      
-      <category domain="https://blog.emn178.cc/en/categories/%E6%97%85%E9%81%8A/">旅遊</category>
-      
-      
-      
-      <comments>https://blog.emn178.cc/en/post/japan-tateshina-lake/#disqus_thread</comments>
-      
-    </item>
     
     <item>
       <title>Using Ethers.js to Sign and Recover EIP-712 Typed Structured Data</title>
