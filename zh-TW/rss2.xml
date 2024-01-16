@@ -9,8 +9,32 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sun, 17 Dec 2023 09:15:03 GMT</pubDate>
+    <pubDate>Tue, 16 Jan 2024 12:10:13 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>在 zkSync 驗證 TransparentUpgradeableProxy 合約</title>
+      <link>https://blog.emn178.cc/zh-TW/post/zksync-verify-transparent-upgradeable-proxy/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/zksync-verify-transparent-upgradeable-proxy/</guid>
+      <pubDate>Tue, 16 Jan 2024 12:10:41 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;說明&quot;&gt;&lt;a href=&quot;#說明&quot; class=&quot;headerlink&quot; title=&quot;說明&quot;&gt;&lt;/a&gt;說明&lt;/h2&gt;&lt;p&gt;zkSync 可以使用 &lt;a href=&quot;https://era.zksync.io/docs/tools/hardhat/hardhat-</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Solidity/">Solidity</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/zksync-verify-transparent-upgradeable-proxy/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>新北旅遊景點 - 象鼻岩</title>

@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2023-12-17T09:15:03.486Z</updated>
+  <updated>2024-01-16T12:10:13.814Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>在 zkSync 驗證 TransparentUpgradeableProxy 合約</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/zksync-verify-transparent-upgradeable-proxy/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/zksync-verify-transparent-upgradeable-proxy/</id>
+    <published>2024-01-16T12:10:41.000Z</published>
+    <updated>2024-01-16T12:10:13.814Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;說明&quot;&gt;&lt;a href=&quot;#說明&quot; class=&quot;headerlink&quot; title=&quot;說明&quot;&gt;&lt;/a&gt;說明&lt;/h2&gt;&lt;p&gt;zkSync 可以使用 &lt;a href=&quot;https://era.zksync.io/docs/tools/hardhat/hardhat-</summary>
+      
+    
+    
+    
+    <category term="區塊鏈" scheme="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/"/>
+    
+    
+    <category term="Solidity" scheme="https://blog.emn178.cc/zh-TW/tags/Solidity/"/>
+    
+  </entry>
   
   <entry>
     <title>新北旅遊景點 - 象鼻岩</title>
