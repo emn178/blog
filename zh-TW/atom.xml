@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2024-01-16T12:10:13.814Z</updated>
+  <updated>2024-01-17T14:37:28.599Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新光銀行 OU 數位帳戶任務攻略</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/skbank-ou/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/skbank-ou/</id>
+    <published>2024-01-17T14:34:36.000Z</published>
+    <updated>2024-01-17T14:37:28.599Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;最近被 Facebook 廣告&lt;code&gt;台幣活儲最高 6.08%&lt;/code&gt; 打到，研究了一下。除了 &lt;code&gt;6.08%&lt;/code&gt; 的台幣活存之外，其他同時有些活動覺得還不錯，就記錄一下寫成一篇攻略。前面先整理出目前有的活動進行簡單說明，後面會說明如何操作能拿到</summary>
+      
+    
+    
+    
+    <category term="投資理財" scheme="https://blog.emn178.cc/zh-TW/categories/%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>在 zkSync 驗證 TransparentUpgradeableProxy 合約</title>

@@ -9,8 +9,30 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Tue, 16 Jan 2024 12:10:13 GMT</pubDate>
+    <pubDate>Wed, 17 Jan 2024 14:37:28 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>新光銀行 OU 數位帳戶任務攻略</title>
+      <link>https://blog.emn178.cc/zh-TW/post/skbank-ou/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/skbank-ou/</guid>
+      <pubDate>Wed, 17 Jan 2024 14:34:36 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;最近被 Facebook 廣告&lt;code&gt;台幣活儲最高 6.08%&lt;/code&gt; 打到，研究了一下。除了 &lt;code&gt;6.08%&lt;/code&gt; 的台幣活存之外，其他同時有些活動覺得還不錯，就記錄一下寫成一篇攻略。前面先整理出目前有的活動進行簡單說明，後面會說明如何操作能拿到</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1/">投資理財</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/skbank-ou/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>在 zkSync 驗證 TransparentUpgradeableProxy 合約</title>
