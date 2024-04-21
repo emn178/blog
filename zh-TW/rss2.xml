@@ -9,8 +9,32 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Thu, 18 Jan 2024 01:58:59 GMT</pubDate>
+    <pubDate>Sun, 21 Apr 2024 08:37:11 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Solidity 智能合約 - 工廠模式 (Factory Pattern)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/solidity-factory-pattern/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/solidity-factory-pattern/</guid>
+      <pubDate>Sun, 21 Apr 2024 08:35:16 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;工廠模式 (Factory Pattern) 是一種程式設計的設計模式 (Design Pattern)，用來生成物件的一種方式。在智能合約</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Solidity/">Solidity</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/solidity-factory-pattern/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>新光銀行 OU 數位帳戶任務攻略</title>
@@ -1046,7 +1070,7 @@
       
         
         
-      <description>&lt;h2 id=&quot;2024-03-27-更新&quot;&gt;&lt;a href=&quot;#2024-03-27-更新&quot; class=&quot;headerlink&quot; title=&quot;2024-03-27 更新&quot;&gt;&lt;/a&gt;2024-03-27 更新&lt;/h2&gt;&lt;p&gt;突然被毫無理由的關閉帳號，問他們也不說為什麼，錢現在</description>
+      <description>&lt;h2 id=&quot;2024-04-16-更新&quot;&gt;&lt;a href=&quot;#2024-04-16-更新&quot; class=&quot;headerlink&quot; title=&quot;2024-04-16 更新&quot;&gt;&lt;/a&gt;2024-04-16 更新&lt;/h2&gt;&lt;p&gt;後來要求他們暫時開啟我的帳號，讓我領完錢再關閉，花了</description>
         
       
       
