@@ -9,8 +9,32 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Mon, 22 Apr 2024 15:33:56 GMT</pubDate>
+    <pubDate>Thu, 25 Apr 2024 15:14:11 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Solidity 智能合約 - 工廠模式的重組問題 (Reorg)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/solidity-reorg-in-factory-pattern/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/solidity-reorg-in-factory-pattern/</guid>
+      <pubDate>Thu, 25 Apr 2024 15:13:05 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;之前的文章 &lt;a href=&quot;/zh-TW/post/solidity-factory-pattern/&quot;&gt;Solidity 智能合約 - 工廠模式 (Factory Pattern)&lt;/a&gt; 和 &lt;a href=&quot;/zh-TW/post/solidity-how-are-</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/">區塊鏈</category>
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/tags/Solidity/">Solidity</category>
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/solidity-reorg-in-factory-pattern/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Solidity 智能合約 - 地址生成規則</title>

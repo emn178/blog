@@ -1,3 +1,4 @@
+https://blog.emn178.cc/zh-TW/post/solidity-reorg-in-factory-pattern/
 https://blog.emn178.cc/zh-TW/post/solidity-how-are-smart-contract-addresses-generated/
 https://blog.emn178.cc/zh-TW/post/solidity-factory-pattern/
 https://blog.emn178.cc/zh-TW/post/xapo-review/
