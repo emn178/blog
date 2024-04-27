@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2024-04-25T15:14:11.298Z</updated>
+  <updated>2024-04-27T15:30:21.210Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Solidity 智能合約 - 工廠模式的搶先交易問題 (Front Running)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/solidity-factory-pattern-front-running/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/solidity-factory-pattern-front-running/</id>
+    <published>2024-04-27T15:30:17.000Z</published>
+    <updated>2024-04-27T15:30:21.210Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;之前的文章 &lt;a href=&quot;/zh-TW/post/solidity-reorg-in-factory-pattern/&quot;&gt;Solidity 智能合約 - 工廠模式的重組問題 (Reorg)&lt;/a&gt; 說明了重組問題和解決方案，但是並不能防止搶先交易 (Front Runn</summary>
+      
+    
+    
+    
+    <category term="區塊鏈" scheme="https://blog.emn178.cc/zh-TW/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/"/>
+    
+    
+    <category term="Solidity" scheme="https://blog.emn178.cc/zh-TW/tags/Solidity/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Solidity 智能合約 - 工廠模式的重組問題 (Reorg)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/solidity-reorg-in-factory-pattern/"/>
     <id>https://blog.emn178.cc/zh-TW/post/solidity-reorg-in-factory-pattern/</id>
     <published>2024-04-25T15:13:05.000Z</published>
-    <updated>2024-04-25T15:14:11.298Z</updated>
+    <updated>2024-04-27T15:29:56.827Z</updated>
     
     
       
@@ -43,7 +65,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/solidity-how-are-smart-contract-addresses-generated/"/>
     <id>https://blog.emn178.cc/zh-TW/post/solidity-how-are-smart-contract-addresses-generated/</id>
     <published>2024-04-22T15:33:16.000Z</published>
-    <updated>2024-04-25T15:12:52.834Z</updated>
+    <updated>2024-04-27T15:29:53.811Z</updated>
     
     
       
@@ -65,7 +87,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/solidity-factory-pattern/"/>
     <id>https://blog.emn178.cc/zh-TW/post/solidity-factory-pattern/</id>
     <published>2024-04-21T08:35:16.000Z</published>
-    <updated>2024-04-25T15:12:49.260Z</updated>
+    <updated>2024-04-27T15:29:49.701Z</updated>
     
     
       
