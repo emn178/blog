@@ -9,8 +9,31 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sat, 27 Apr 2024 15:30:21 GMT</pubDate>
+    <pubDate>Sat, 25 May 2024 06:44:44 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Rails ActionCable 效能測試</title>
+      <link>https://blog.emn178.cc/zh-TW/post/rails-actioncable-benchmark/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/rails-actioncable-benchmark/</guid>
+      <pubDate>Sat, 25 May 2024 06:44:58 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;本篇文章說明連線數上限相關設定，以及實測 ActionCable 預設模式、Standalone 模式和 AnyCable 三種方案的效能比較。&lt;/p&gt;
+&lt;h2 id=&quot;準備&quot;&gt;&lt;a href=&quot;#準備&quot; class=&quot;headerlink&quot; title=&quot;準備&quot;&gt;&lt;/a&gt;</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/rails-actioncable-benchmark/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Solidity 智能合約 - 工廠模式的搶先交易問題 (Front Running)</title>
