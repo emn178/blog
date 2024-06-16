@@ -1,3 +1,4 @@
+https://blog.emn178.cc/zh-TW/post/rails-passenger-solve-request-queue-full/
 https://blog.emn178.cc/zh-TW/post/rails-actioncable-benchmark/
 https://blog.emn178.cc/zh-TW/post/solidity-factory-pattern-front-running/
 https://blog.emn178.cc/zh-TW/post/solidity-reorg-in-factory-pattern/

@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2024-05-25T06:44:44.857Z</updated>
+  <updated>2024-06-16T10:37:00.132Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Rails + Passenger 解決 Request queue full (configured max. size: 100)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/rails-passenger-solve-request-queue-full/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/rails-passenger-solve-request-queue-full/</id>
+    <published>2024-06-16T10:38:43.000Z</published>
+    <updated>2024-06-16T10:37:00.132Z</updated>
+    
+    
+    <summary type="html">本篇文章說明 Request queue full (configured max. size: 100) 錯誤的各種原因，並提供對應的處理方法。說明 Timeout 機制與 Passenger 狀態監測與除錯方式。</summary>
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="Ruby" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Ruby/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Rails ActionCable 效能測試</title>
     <link href="https://blog.emn178.cc/zh-TW/post/rails-actioncable-benchmark/"/>
     <id>https://blog.emn178.cc/zh-TW/post/rails-actioncable-benchmark/</id>
     <published>2024-05-25T06:44:58.000Z</published>
-    <updated>2024-05-25T06:44:44.857Z</updated>
+    <updated>2024-06-16T10:31:36.741Z</updated>
     
     
       
@@ -33,6 +52,8 @@
     
     
     <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="Ruby" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Ruby/"/>
     
     
   </entry>

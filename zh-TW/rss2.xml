@@ -9,8 +9,29 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sat, 25 May 2024 06:44:44 GMT</pubDate>
+    <pubDate>Sun, 16 Jun 2024 10:37:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Rails + Passenger 解決 Request queue full (configured max. size: 100)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/rails-passenger-solve-request-queue-full/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/rails-passenger-solve-request-queue-full/</guid>
+      <pubDate>Sun, 16 Jun 2024 10:38:43 GMT</pubDate>
+      
+      <description>本篇文章說明 Request queue full (configured max. size: 100) 錯誤的各種原因，並提供對應的處理方法。說明 Timeout 機制與 Passenger 狀態監測與除錯方式。</description>
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Ruby/">Ruby</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/rails-passenger-solve-request-queue-full/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Rails ActionCable 效能測試</title>
@@ -28,6 +49,8 @@
       
       
       <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Ruby/">Ruby</category>
       
       
       
