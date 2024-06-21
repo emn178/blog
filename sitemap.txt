@@ -1,3 +1,4 @@
+https://blog.emn178.cc/zh-TW/post/nginx-limit-number-of-connections-ngx-http-limit-conn_module/
 https://blog.emn178.cc/zh-TW/post/rails-passenger-solve-request-queue-full/
 https://blog.emn178.cc/zh-TW/post/rails-actioncable-benchmark/
 https://blog.emn178.cc/zh-TW/post/solidity-factory-pattern-front-running/
