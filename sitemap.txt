@@ -1,6 +1,7 @@
+https://blog.emn178.cc/zh-TW/post/nginx-limit-number-of-requests-ngx-http-limit-req-module/
 https://blog.emn178.cc/zh-TW/post/nginx-limit-number-of-connections-ngx-http-limit-conn-module/
-https://blog.emn178.cc/zh-TW/post/rails-actioncable-benchmark/
 https://blog.emn178.cc/zh-TW/post/rails-passenger-solve-request-queue-full/
+https://blog.emn178.cc/zh-TW/post/rails-actioncable-benchmark/
 https://blog.emn178.cc/zh-TW/post/solidity-factory-pattern-front-running/
 https://blog.emn178.cc/zh-TW/post/solidity-reorg-in-factory-pattern/
 https://blog.emn178.cc/zh-TW/post/solidity-how-are-smart-contract-addresses-generated/

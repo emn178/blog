@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2024-06-22T13:27:43.469Z</updated>
+  <updated>2024-06-25T00:45:53.011Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Nginx 限制請求速率 (ngx_http_limit_req_module)</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/nginx-limit-number-of-requests-ngx-http-limit-req-module/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/nginx-limit-number-of-requests-ngx-http-limit-req-module/</id>
+    <published>2024-06-25T00:45:12.000Z</published>
+    <updated>2024-06-25T00:45:53.011Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;說明&quot;&gt;&lt;a href=&quot;#說明&quot; class=&quot;headerlink&quot; title=&quot;說明&quot;&gt;&lt;/a&gt;說明&lt;/h2&gt;&lt;p&gt;本篇文章介紹 Nginx 的限制請求速率模組 &lt;a href=&quot;https://nginx.org/en/docs/http/ngx_htt</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Nginx 限制連線數 (ngx_http_limit_conn_module)</title>
     <link href="https://blog.emn178.cc/zh-TW/post/nginx-limit-number-of-connections-ngx-http-limit-conn-module/"/>
     <id>https://blog.emn178.cc/zh-TW/post/nginx-limit-number-of-connections-ngx-http-limit-conn-module/</id>
     <published>2024-06-21T13:53:42.000Z</published>
-    <updated>2024-06-22T13:27:43.469Z</updated>
+    <updated>2024-06-25T00:44:15.600Z</updated>
     
     
       
@@ -41,7 +61,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/rails-passenger-solve-request-queue-full/"/>
     <id>https://blog.emn178.cc/zh-TW/post/rails-passenger-solve-request-queue-full/</id>
     <published>2024-06-16T10:38:43.000Z</published>
-    <updated>2024-06-22T13:27:08.206Z</updated>
+    <updated>2024-06-25T00:27:27.554Z</updated>
     
     
     <summary type="html">本篇文章說明 Request queue full (configured max. size: 100) 錯誤的各種原因，並提供對應的處理方法。說明 Timeout 機制與 Passenger 狀態監測與除錯方式。</summary>

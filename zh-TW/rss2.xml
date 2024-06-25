@@ -9,8 +9,30 @@
     <atom:link href="https://blog.emn178.cc/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享 AI 應用和程式技術文章之外，也記錄旅遊、生活與各種其他資訊。</description>
-    <pubDate>Sat, 22 Jun 2024 13:27:43 GMT</pubDate>
+    <pubDate>Tue, 25 Jun 2024 00:45:53 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Nginx 限制請求速率 (ngx_http_limit_req_module)</title>
+      <link>https://blog.emn178.cc/zh-TW/post/nginx-limit-number-of-requests-ngx-http-limit-req-module/</link>
+      <guid>https://blog.emn178.cc/zh-TW/post/nginx-limit-number-of-requests-ngx-http-limit-req-module/</guid>
+      <pubDate>Tue, 25 Jun 2024 00:45:12 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;說明&quot;&gt;&lt;a href=&quot;#說明&quot; class=&quot;headerlink&quot; title=&quot;說明&quot;&gt;&lt;/a&gt;說明&lt;/h2&gt;&lt;p&gt;本篇文章介紹 Nginx 的限制請求速率模組 &lt;a href=&quot;https://nginx.org/en/docs/http/ngx_htt</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      
+      <comments>https://blog.emn178.cc/zh-TW/post/nginx-limit-number-of-requests-ngx-http-limit-req-module/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Nginx 限制連線數 (ngx_http_limit_conn_module)</title>
