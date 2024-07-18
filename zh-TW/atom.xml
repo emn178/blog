@@ -61,7 +61,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/rails-passenger-solve-request-queue-full/"/>
     <id>https://blog.emn178.cc/zh-TW/post/rails-passenger-solve-request-queue-full/</id>
     <published>2024-06-16T10:38:43.000Z</published>
-    <updated>2024-06-25T00:27:27.554Z</updated>
+    <updated>2024-07-18T05:31:15.730Z</updated>
     
     
     <summary type="html">本篇文章說明 Request queue full (configured max. size: 100) 錯誤的各種原因，並提供對應的處理方法。說明 Timeout 機制與 Passenger 狀態監測與除錯方式。</summary>
@@ -147,7 +147,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/solidity-how-are-smart-contract-addresses-generated/"/>
     <id>https://blog.emn178.cc/zh-TW/post/solidity-how-are-smart-contract-addresses-generated/</id>
     <published>2024-04-22T15:33:16.000Z</published>
-    <updated>2024-04-27T15:29:53.811Z</updated>
+    <updated>2024-07-18T05:30:50.180Z</updated>
     
     
       
@@ -169,7 +169,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/solidity-factory-pattern/"/>
     <id>https://blog.emn178.cc/zh-TW/post/solidity-factory-pattern/</id>
     <published>2024-04-21T08:35:16.000Z</published>
-    <updated>2024-04-27T15:29:49.701Z</updated>
+    <updated>2024-07-18T05:30:53.925Z</updated>
     
     
       
