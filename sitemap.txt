@@ -1,3 +1,4 @@
+https://blog.emn178.cc/zh-TW/post/openssl-rsa-generate-key-pair/
 https://blog.emn178.cc/zh-TW/post/openssl-ec-generate-key-pair/
 https://blog.emn178.cc/zh-TW/post/rails-passenger-solve-request-queue-full/
 https://blog.emn178.cc/zh-TW/post/solidity-factory-pattern/
