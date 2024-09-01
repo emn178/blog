@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2024-08-31T03:09:59.334Z</updated>
+  <updated>2024-09-01T15:00:13.578Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>OpenSSL 使用指令進行簽章和檢驗</title>
+    <link href="https://blog.emn178.cc/zh-TW/post/openssl-sign-and-verify/"/>
+    <id>https://blog.emn178.cc/zh-TW/post/openssl-sign-and-verify/</id>
+    <published>2024-08-31T15:00:34.000Z</published>
+    <updated>2024-09-01T15:00:13.578Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;本篇文章介紹使用 openssl 使用指令進行簽章和檢驗，例如可以使用 RSA 或 EC (ECDSA) 金鑰來簽章和檢驗。包含使用 PEM、DER 和 PVK 格式，以及使用 Base64 格式的方法。&lt;/p&gt;
+&lt;h2 id=&quot;簽章&quot;&gt;&lt;a href=&quot;#簽章&quot; clas</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.cc/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>OpenSSL 指令產生 RSA 私鑰和公鑰</title>
     <link href="https://blog.emn178.cc/zh-TW/post/openssl-rsa-generate-key-pair/"/>
     <id>https://blog.emn178.cc/zh-TW/post/openssl-rsa-generate-key-pair/</id>
     <published>2024-08-31T03:09:17.000Z</published>
-    <updated>2024-08-31T03:09:59.334Z</updated>
+    <updated>2024-08-31T14:49:47.105Z</updated>
     
     
       
@@ -42,7 +63,7 @@
     <link href="https://blog.emn178.cc/zh-TW/post/openssl-ec-generate-key-pair/"/>
     <id>https://blog.emn178.cc/zh-TW/post/openssl-ec-generate-key-pair/</id>
     <published>2024-08-29T01:11:11.000Z</published>
-    <updated>2024-08-31T03:09:13.303Z</updated>
+    <updated>2024-08-31T14:49:53.949Z</updated>
     
     
       
