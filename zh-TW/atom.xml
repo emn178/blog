@@ -6,7 +6,7 @@
   <link href="https://emn178.github.io/blog/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://emn178.github.io/blog/zh-TW/"/>
-  <updated>2025-03-15T14:30:41.991Z</updated>
+  <updated>2025-03-15T14:32:23.937Z</updated>
   <id>https://emn178.github.io/blog/zh-TW/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>比較 Jbuilder、active_model_serializers 和 oj_serializers - Rails JSON API 解決方案選擇</title>
+    <title>比較 Jbuilder, active_model_serializers 和 oj_serializers - Rails JSON API 解決方案選擇</title>
     <link href="https://emn178.github.io/blog/zh-TW/post/jbuilder-vs-active-model-serializers-vs-oj-serializers/"/>
     <id>https://emn178.github.io/blog/zh-TW/post/jbuilder-vs-active-model-serializers-vs-oj-serializers/</id>
     <published>2025-03-15T13:16:20.000Z</published>
-    <updated>2025-03-15T14:30:41.991Z</updated>
+    <updated>2025-03-15T14:32:23.937Z</updated>
     
     
       
