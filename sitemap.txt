@@ -1,4 +1,4 @@
-https://emn178.github.io/blog/zh-TW/post/jbuilder-vs-oj-serializers/
+https://emn178.github.io/blog/zh-TW/post/jbuilder-vs-active-model-serializers-vs-oj-serializers/
 https://emn178.github.io/blog/en/tags/
 https://emn178.github.io/blog/en/categories/
 https://emn178.github.io/blog/zh-TW/categories/
