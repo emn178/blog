@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://blog.emn178.cc/sitemap.xml
+Sitemap: https://emn178.github.io/blog/sitemap.xml
