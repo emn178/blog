@@ -1,3 +1,4 @@
+https://emn178.github.io/blog/en/post/jbuilder-vs-active-model-serializers-vs-oj-serializers/
 https://emn178.github.io/blog/zh-TW/post/jbuilder-vs-active-model-serializers-vs-oj-serializers/
 https://emn178.github.io/blog/en/tags/
 https://emn178.github.io/blog/en/categories/
@@ -7,4 +8,6 @@ https://emn178.github.io/blog/zh-TW/
 https://emn178.github.io/blog/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/
 https://emn178.github.io/blog/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Ruby/
 https://emn178.github.io/blog/en/
+https://emn178.github.io/blog/en/categories/Programming/
+https://emn178.github.io/blog/en/categories/Programming/Ruby/
 

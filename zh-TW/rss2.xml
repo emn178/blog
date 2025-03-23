@@ -9,11 +9,11 @@
     <atom:link href="https://emn178.github.io/blog/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享程式技術文章。</description>
-    <pubDate>Sat, 15 Mar 2025 14:32:23 GMT</pubDate>
+    <pubDate>Sat, 22 Mar 2025 15:42:01 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title>比較 Jbuilder, active_model_serializers 和 oj_serializers - Rails JSON API 解決方案選擇</title>
+      <title>jbuilder vs active_model_serializers vs oj_serializers - Rails JSON API 解決方案選擇</title>
       <link>https://emn178.github.io/blog/zh-TW/post/jbuilder-vs-active-model-serializers-vs-oj-serializers/</link>
       <guid>https://emn178.github.io/blog/zh-TW/post/jbuilder-vs-active-model-serializers-vs-oj-serializers/</guid>
       <pubDate>Sat, 15 Mar 2025 13:16:20 GMT</pubDate>

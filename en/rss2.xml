@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>emn178&#39;s Blog</title>
+    <link>https://emn178.github.io/blog/en/</link>
+    
+    <atom:link href="https://emn178.github.io/blog/en/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>A blog sharing experiences about programming and technology.</description>
+    <pubDate>Sun, 23 Mar 2025 02:05:35 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>jbuilder vs active_model_serializers vs oj_serializers - Rails JSON API Comparison</title>
+      <link>https://emn178.github.io/blog/en/post/jbuilder-vs-active-model-serializers-vs-oj-serializers/</link>
+      <guid>https://emn178.github.io/blog/en/post/jbuilder-vs-active-model-serializers-vs-oj-serializers/</guid>
+      <pubDate>Sun, 23 Mar 2025 02:03:34 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;Rails provides a built-in &lt;code&gt;as_json&lt;/code&gt; method for generating JSON. Additionally, jbuilder is the default gem for handling JSON AP</description>
+        
+      
+      
+      
+      
+      <category domain="https://emn178.github.io/blog/en/categories/Programming/">Programming</category>
+      
+      <category domain="https://emn178.github.io/blog/en/categories/Programming/Ruby/">Ruby</category>
+      
+      
+      
+      <comments>https://emn178.github.io/blog/en/post/jbuilder-vs-active-model-serializers-vs-oj-serializers/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
