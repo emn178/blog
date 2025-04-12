@@ -6,7 +6,7 @@
   <link href="https://emn178.github.io/blog/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://emn178.github.io/blog/zh-TW/"/>
-  <updated>2025-03-22T15:42:01.243Z</updated>
+  <updated>2025-04-12T02:15:35.796Z</updated>
   <id>https://emn178.github.io/blog/zh-TW/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>acts-as-taggable-on vs. PostgreSQL Array (acts-as-taggable-array-on)</title>
+    <link href="https://emn178.github.io/blog/zh-TW/post/acts-as-taggable-on-vs-postgresql-array/"/>
+    <id>https://emn178.github.io/blog/zh-TW/post/acts-as-taggable-on-vs-postgresql-array/</id>
+    <published>2025-04-12T02:13:09.000Z</published>
+    <updated>2025-04-12T02:15:35.796Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;acts-as-taggable-on 是 Rails 中處理標籤功能的常用套件，而利用 PostgreSQL 特殊的 Array 型別也能實現類似的功能，像是 acts-as-taggable-array-on 套件就是以 PostgreSQL Array 實現。本篇文章</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://emn178.github.io/blog/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="Ruby" scheme="https://emn178.github.io/blog/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Ruby/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>jbuilder vs active_model_serializers vs oj_serializers - Rails JSON API 解決方案選擇</title>

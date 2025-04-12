@@ -9,8 +9,32 @@
     <atom:link href="https://emn178.github.io/blog/zh-TW/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>小殘的部落格，分享程式技術文章。</description>
-    <pubDate>Sat, 22 Mar 2025 15:42:01 GMT</pubDate>
+    <pubDate>Sat, 12 Apr 2025 02:15:35 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>acts-as-taggable-on vs. PostgreSQL Array (acts-as-taggable-array-on)</title>
+      <link>https://emn178.github.io/blog/zh-TW/post/acts-as-taggable-on-vs-postgresql-array/</link>
+      <guid>https://emn178.github.io/blog/zh-TW/post/acts-as-taggable-on-vs-postgresql-array/</guid>
+      <pubDate>Sat, 12 Apr 2025 02:13:09 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;acts-as-taggable-on 是 Rails 中處理標籤功能的常用套件，而利用 PostgreSQL 特殊的 Array 型別也能實現類似的功能，像是 acts-as-taggable-array-on 套件就是以 PostgreSQL Array 實現。本篇文章</description>
+        
+      
+      
+      
+      
+      <category domain="https://emn178.github.io/blog/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://emn178.github.io/blog/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Ruby/">Ruby</category>
+      
+      
+      
+      <comments>https://emn178.github.io/blog/zh-TW/post/acts-as-taggable-on-vs-postgresql-array/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>jbuilder vs active_model_serializers vs oj_serializers - Rails JSON API 解決方案選擇</title>
