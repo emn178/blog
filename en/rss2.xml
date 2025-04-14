@@ -9,8 +9,32 @@
     <atom:link href="https://emn178.github.io/blog/en/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>A blog sharing experiences about programming and technology.</description>
-    <pubDate>Sun, 23 Mar 2025 02:05:35 GMT</pubDate>
+    <pubDate>Mon, 14 Apr 2025 13:32:36 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>acts-as-taggable-on vs. PostgreSQL Array (acts-as-taggable-array-on)</title>
+      <link>https://emn178.github.io/blog/en/post/acts-as-taggable-on-vs-postgresql-array/</link>
+      <guid>https://emn178.github.io/blog/en/post/acts-as-taggable-on-vs-postgresql-array/</guid>
+      <pubDate>Mon, 14 Apr 2025 13:32:09 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;acts-as-taggable-on is a commonly used gem in Rails for handling tagging functionality. However, similar features can also be implemented</description>
+        
+      
+      
+      
+      
+      <category domain="https://emn178.github.io/blog/en/categories/Programming/">Programming</category>
+      
+      <category domain="https://emn178.github.io/blog/en/categories/Programming/Ruby/">Ruby</category>
+      
+      
+      
+      <comments>https://emn178.github.io/blog/en/post/acts-as-taggable-on-vs-postgresql-array/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>jbuilder vs active_model_serializers vs oj_serializers - Rails JSON API Comparison</title>

@@ -1,3 +1,4 @@
+https://emn178.github.io/blog/en/post/acts-as-taggable-on-vs-postgresql-array/
 https://emn178.github.io/blog/zh-TW/post/acts-as-taggable-on-vs-postgresql-array/
 https://emn178.github.io/blog/en/post/jbuilder-vs-active-model-serializers-vs-oj-serializers/
 https://emn178.github.io/blog/zh-TW/post/jbuilder-vs-active-model-serializers-vs-oj-serializers/
