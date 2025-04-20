@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://emn178.github.io/blog/en/post/acts-as-taggable-on-vs-postgresql-array/</loc>
-    
-    <lastmod>2025-04-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://emn178.github.io/blog/zh-TW/post/acts-as-taggable-on-vs-postgresql-array/</loc>
-    
-    <lastmod>2025-04-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://emn178.github.io/blog/en/post/jbuilder-vs-active-model-serializers-vs-oj-serializers/</loc>
     
-    <lastmod>2025-03-23</lastmod>
+    <lastmod>2025-04-20</lastmod>
     
   </url>
   
   <url>
     <loc>https://emn178.github.io/blog/zh-TW/post/jbuilder-vs-active-model-serializers-vs-oj-serializers/</loc>
     
-    <lastmod>2025-03-22</lastmod>
+    <lastmod>2025-04-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://emn178.github.io/blog/zh-TW/post/acts-as-taggable-on-vs-postgresql-array/</loc>
+    
+    <lastmod>2025-04-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://emn178.github.io/blog/en/post/acts-as-taggable-on-vs-postgresql-array/</loc>
+    
+    <lastmod>2025-04-20</lastmod>
     
   </url>
   
@@ -61,18 +61,18 @@
   
   <url>
     <loc>https://emn178.github.io/blog/zh-TW/</loc>
-    <lastmod>2025-04-14</lastmod>
+    <lastmod>2025-04-20</lastmod>
   </url>
 
     
   <url>
     <loc>https://emn178.github.io/blog/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/</loc>
-    <lastmod>2025-04-14</lastmod>
+    <lastmod>2025-04-20</lastmod>
   </url>
     
   <url>
     <loc>https://emn178.github.io/blog/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Ruby/</loc>
-    <lastmod>2025-04-14</lastmod>
+    <lastmod>2025-04-20</lastmod>
   </url>
     
 
@@ -80,18 +80,18 @@
   
   <url>
     <loc>https://emn178.github.io/blog/en/</loc>
-    <lastmod>2025-04-14</lastmod>
+    <lastmod>2025-04-20</lastmod>
   </url>
 
     
   <url>
     <loc>https://emn178.github.io/blog/en/categories/Programming/</loc>
-    <lastmod>2025-04-14</lastmod>
+    <lastmod>2025-04-20</lastmod>
   </url>
     
   <url>
     <loc>https://emn178.github.io/blog/en/categories/Programming/Ruby/</loc>
-    <lastmod>2025-04-14</lastmod>
+    <lastmod>2025-04-20</lastmod>
   </url>
     
 
