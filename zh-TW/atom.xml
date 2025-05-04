@@ -6,7 +6,7 @@
   <link href="https://emn178.github.io/blog/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://emn178.github.io/blog/zh-TW/"/>
-  <updated>2025-04-20T13:47:21.948Z</updated>
+  <updated>2025-05-04T05:56:38.536Z</updated>
   <id>https://emn178.github.io/blog/zh-TW/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ancestry vs awesome_nested_set - Rails 樹狀結構比較</title>
+    <link href="https://emn178.github.io/blog/zh-TW/post/ancestry-vs-awesome-nested-set/"/>
+    <id>https://emn178.github.io/blog/zh-TW/post/ancestry-vs-awesome-nested-set/</id>
+    <published>2025-05-04T05:56:20.000Z</published>
+    <updated>2025-05-04T05:56:38.536Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;在 Rails 中處理樹狀結構有一些套件可用，本篇文章將比較下面幾種解決方案：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/stefankroes/ancestry&quot;&gt;ancestry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;htt</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://emn178.github.io/blog/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    <category term="Ruby" scheme="https://emn178.github.io/blog/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Ruby/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>acts-as-taggable-on vs. PostgreSQL Array (acts-as-taggable-array-on)</title>
