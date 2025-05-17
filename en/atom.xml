@@ -6,7 +6,7 @@
   <link href="https://emn178.github.io/blog/en/atom.xml" rel="self"/>
   
   <link href="https://emn178.github.io/blog/en/"/>
-  <updated>2025-04-20T13:47:25.702Z</updated>
+  <updated>2025-05-17T13:16:36.733Z</updated>
   <id>https://emn178.github.io/blog/en/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ancestry vs. awesome_nested_set</title>
+    <link href="https://emn178.github.io/blog/en/post/ancestry-vs-awesome-nested-set/"/>
+    <id>https://emn178.github.io/blog/en/post/ancestry-vs-awesome-nested-set/</id>
+    <published>2025-05-17T13:16:57.000Z</published>
+    <updated>2025-05-17T13:16:36.733Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;There are several gems available for handling tree structures in Rails. This article will compare the following solutions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;</summary>
+      
+    
+    
+    
+    <category term="Programming" scheme="https://emn178.github.io/blog/en/categories/Programming/"/>
+    
+    <category term="Ruby" scheme="https://emn178.github.io/blog/en/categories/Programming/Ruby/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>acts-as-taggable-on vs. PostgreSQL Array (acts-as-taggable-array-on)</title>
