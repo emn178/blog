@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.com/en/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.com/en/"/>
-  <updated>2026-08-26T06:40:21.856Z</updated>
+  <updated>2026-08-26T06:32:07.000Z</updated>
   <id>https://blog.emn178.com/en/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.emn178.com/en/post/cc-specific-domain-sitemap-fetch-issue/"/>
     <id>https://blog.emn178.com/en/post/cc-specific-domain-sitemap-fetch-issue/</id>
     <published>2026-08-26T06:32:07.000Z</published>
-    <updated>2026-08-26T06:40:21.856Z</updated>
+    <updated>2026-08-26T06:32:07.000Z</updated>
     
     
       
@@ -41,7 +41,7 @@
     <link href="https://blog.emn178.com/en/post/ancestry-vs-awesome-nested-set/"/>
     <id>https://blog.emn178.com/en/post/ancestry-vs-awesome-nested-set/</id>
     <published>2025-05-17T13:16:57.000Z</published>
-    <updated>2026-08-26T06:45:15.692Z</updated>
+    <updated>2025-05-17T13:16:57.000Z</updated>
     
     
       
@@ -65,7 +65,7 @@
     <link href="https://blog.emn178.com/en/post/acts-as-taggable-on-vs-postgresql-array/"/>
     <id>https://blog.emn178.com/en/post/acts-as-taggable-on-vs-postgresql-array/</id>
     <published>2025-04-14T13:32:09.000Z</published>
-    <updated>2026-08-26T06:45:25.325Z</updated>
+    <updated>2025-04-14T13:32:09.000Z</updated>
     
     
       
@@ -87,7 +87,7 @@
     <link href="https://blog.emn178.com/en/post/jbuilder-vs-active-model-serializers-vs-oj-serializers/"/>
     <id>https://blog.emn178.com/en/post/jbuilder-vs-active-model-serializers-vs-oj-serializers/</id>
     <published>2025-03-23T02:03:34.000Z</published>
-    <updated>2026-08-26T06:45:25.314Z</updated>
+    <updated>2025-03-23T02:03:34.000Z</updated>
     
     
       
@@ -109,7 +109,7 @@
     <link href="https://blog.emn178.com/en/post/using-ethers-js-to-sign-eip-712-typed-structured-data/"/>
     <id>https://blog.emn178.com/en/post/using-ethers-js-to-sign-eip-712-typed-structured-data/</id>
     <published>2023-10-14T02:17:23.000Z</published>
-    <updated>2023-11-28T07:24:28.027Z</updated>
+    <updated>2023-10-14T02:17:23.000Z</updated>
     
     
       
@@ -129,7 +129,7 @@
     <link href="https://blog.emn178.com/en/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/"/>
     <id>https://blog.emn178.com/en/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/</id>
     <published>2023-10-13T11:50:47.000Z</published>
-    <updated>2023-10-14T02:15:42.448Z</updated>
+    <updated>2023-10-13T11:50:47.000Z</updated>
     
     
       
@@ -149,7 +149,7 @@
     <link href="https://blog.emn178.com/en/post/solidity-eip-712-typed-structured-data-hashing-and-signing/"/>
     <id>https://blog.emn178.com/en/post/solidity-eip-712-typed-structured-data-hashing-and-signing/</id>
     <published>2023-10-12T12:39:22.000Z</published>
-    <updated>2023-11-28T07:24:32.068Z</updated>
+    <updated>2023-10-12T12:39:22.000Z</updated>
     
     
       
@@ -171,7 +171,7 @@
     <link href="https://blog.emn178.com/en/post/using-ethers-js-to-sign-and-recover/"/>
     <id>https://blog.emn178.com/en/post/using-ethers-js-to-sign-and-recover/</id>
     <published>2023-10-11T11:59:57.000Z</published>
-    <updated>2023-10-14T02:16:16.152Z</updated>
+    <updated>2023-10-11T11:59:57.000Z</updated>
     
     
       
@@ -191,7 +191,7 @@
     <link href="https://blog.emn178.com/en/post/using-web3-js-to-sign-and-recover/"/>
     <id>https://blog.emn178.com/en/post/using-web3-js-to-sign-and-recover/</id>
     <published>2023-10-10T01:03:27.000Z</published>
-    <updated>2023-11-28T07:24:40.733Z</updated>
+    <updated>2023-10-10T01:03:27.000Z</updated>
     
     
       
@@ -211,7 +211,7 @@
     <link href="https://blog.emn178.com/en/post/solidity-signature-malleability/"/>
     <id>https://blog.emn178.com/en/post/solidity-signature-malleability/</id>
     <published>2023-10-09T02:21:28.000Z</published>
-    <updated>2023-10-09T02:21:47.484Z</updated>
+    <updated>2023-10-09T02:21:28.000Z</updated>
     
     
       
@@ -233,7 +233,7 @@
     <link href="https://blog.emn178.com/en/post/solidity-ecrecover/"/>
     <id>https://blog.emn178.com/en/post/solidity-ecrecover/</id>
     <published>2023-10-08T06:47:24.000Z</published>
-    <updated>2023-10-11T12:46:11.772Z</updated>
+    <updated>2023-10-08T06:47:24.000Z</updated>
     
     
       
@@ -255,7 +255,7 @@
     <link href="https://blog.emn178.com/en/post/zkevm-airdrop-guide/"/>
     <id>https://blog.emn178.com/en/post/zkevm-airdrop-guide/</id>
     <published>2023-07-30T10:06:32.000Z</published>
-    <updated>2023-08-03T02:39:57.812Z</updated>
+    <updated>2023-07-30T10:06:32.000Z</updated>
     
     
       
@@ -275,7 +275,7 @@
     <link href="https://blog.emn178.com/en/post/load-css-asynchronously/"/>
     <id>https://blog.emn178.com/en/post/load-css-asynchronously/</id>
     <published>2023-07-28T14:20:34.000Z</published>
-    <updated>2023-07-28T14:20:12.076Z</updated>
+    <updated>2023-07-28T14:20:34.000Z</updated>
     
     
       
@@ -296,7 +296,7 @@
     <link href="https://blog.emn178.com/en/post/gcp-cloud-monitoring-reduce-data-and-cost/"/>
     <id>https://blog.emn178.com/en/post/gcp-cloud-monitoring-reduce-data-and-cost/</id>
     <published>2023-07-27T15:12:03.000Z</published>
-    <updated>2023-07-27T15:12:35.446Z</updated>
+    <updated>2023-07-27T15:12:03.000Z</updated>
     
     
       
@@ -316,7 +316,7 @@
     <link href="https://blog.emn178.com/en/post/using-web3-js-to-parse-custom-error/"/>
     <id>https://blog.emn178.com/en/post/using-web3-js-to-parse-custom-error/</id>
     <published>2023-06-20T13:43:40.000Z</published>
-    <updated>2023-10-08T06:43:21.468Z</updated>
+    <updated>2023-06-20T13:43:40.000Z</updated>
     
     
       
@@ -336,7 +336,7 @@
     <link href="https://blog.emn178.com/en/post/ethers-js-parse-custom-error/"/>
     <id>https://blog.emn178.com/en/post/ethers-js-parse-custom-error/</id>
     <published>2023-06-19T15:21:18.000Z</published>
-    <updated>2023-10-08T06:43:23.465Z</updated>
+    <updated>2023-06-19T15:21:18.000Z</updated>
     
     
       
@@ -356,7 +356,7 @@
     <link href="https://blog.emn178.com/en/post/solidity-custom-error/"/>
     <id>https://blog.emn178.com/en/post/solidity-custom-error/</id>
     <published>2023-06-18T15:20:31.000Z</published>
-    <updated>2023-10-08T06:43:29.764Z</updated>
+    <updated>2023-06-18T15:20:31.000Z</updated>
     
     
       
@@ -379,7 +379,7 @@
     <link href="https://blog.emn178.com/en/post/scam-token-check-tools-token-sniffer-and-goplus/"/>
     <id>https://blog.emn178.com/en/post/scam-token-check-tools-token-sniffer-and-goplus/</id>
     <published>2023-06-10T12:33:37.000Z</published>
-    <updated>2023-06-10T12:33:31.906Z</updated>
+    <updated>2023-06-10T12:33:37.000Z</updated>
     
     
       
@@ -399,7 +399,7 @@
     <link href="https://blog.emn178.com/en/post/layerzero-airdrop-guide/"/>
     <id>https://blog.emn178.com/en/post/layerzero-airdrop-guide/</id>
     <published>2023-06-09T14:32:17.000Z</published>
-    <updated>2023-06-18T07:50:49.773Z</updated>
+    <updated>2023-06-09T14:32:17.000Z</updated>
     
     
       
@@ -419,7 +419,7 @@
     <link href="https://blog.emn178.com/en/post/linea-airdrop-guide/"/>
     <id>https://blog.emn178.com/en/post/linea-airdrop-guide/</id>
     <published>2023-06-06T15:11:26.000Z</published>
-    <updated>2023-08-04T05:40:58.943Z</updated>
+    <updated>2023-06-06T15:11:26.000Z</updated>
     
     
       
@@ -439,7 +439,7 @@
     <link href="https://blog.emn178.com/en/post/awesome-crypto-world-acw-scam-token/"/>
     <id>https://blog.emn178.com/en/post/awesome-crypto-world-acw-scam-token/</id>
     <published>2023-06-05T15:00:11.000Z</published>
-    <updated>2023-10-08T06:44:18.768Z</updated>
+    <updated>2023-06-05T15:00:11.000Z</updated>
     
     
       
@@ -459,7 +459,7 @@
     <link href="https://blog.emn178.com/en/post/starknet-airdrop-guide/"/>
     <id>https://blog.emn178.com/en/post/starknet-airdrop-guide/</id>
     <published>2023-04-02T12:09:49.000Z</published>
-    <updated>2023-07-30T07:00:44.158Z</updated>
+    <updated>2023-04-02T12:09:49.000Z</updated>
     
     
       
@@ -479,7 +479,7 @@
     <link href="https://blog.emn178.com/en/post/ai-a-scam-token/"/>
     <id>https://blog.emn178.com/en/post/ai-a-scam-token/</id>
     <published>2023-04-01T12:21:32.000Z</published>
-    <updated>2023-10-08T06:44:18.768Z</updated>
+    <updated>2023-04-01T12:21:32.000Z</updated>
     
     
       
@@ -499,7 +499,7 @@
     <link href="https://blog.emn178.com/en/post/zksync-airdrop-step-by-step/"/>
     <id>https://blog.emn178.com/en/post/zksync-airdrop-step-by-step/</id>
     <published>2023-03-30T14:14:18.000Z</published>
-    <updated>2023-05-17T14:09:13.855Z</updated>
+    <updated>2023-03-30T14:14:18.000Z</updated>
     
     
       
@@ -521,7 +521,7 @@
     <link href="https://blog.emn178.com/en/post/zksync-airdrop-strategy/"/>
     <id>https://blog.emn178.com/en/post/zksync-airdrop-strategy/</id>
     <published>2023-03-26T14:43:07.000Z</published>
-    <updated>2023-10-08T06:44:18.768Z</updated>
+    <updated>2023-03-26T14:43:07.000Z</updated>
     
     
       
@@ -543,7 +543,7 @@
     <link href="https://blog.emn178.com/en/post/solidity-gas-optimization-variable-ordering/"/>
     <id>https://blog.emn178.com/en/post/solidity-gas-optimization-variable-ordering/</id>
     <published>2018-09-11T02:26:38.000Z</published>
-    <updated>2023-10-08T06:44:18.768Z</updated>
+    <updated>2018-09-11T02:26:38.000Z</updated>
     
     
     <summary type="html">This article explains the gas optimization techniques of Solidity smart contracts, explains how variable ordering affect gas consumption, and provides two optimization strategies to reduce gas consumption.</summary>
@@ -562,7 +562,7 @@
     <link href="https://blog.emn178.com/en/post/solidity-gas-optimization-data-compression/"/>
     <id>https://blog.emn178.com/en/post/solidity-gas-optimization-data-compression/</id>
     <published>2018-05-07T10:26:05.000Z</published>
-    <updated>2023-10-08T06:44:18.768Z</updated>
+    <updated>2018-05-07T10:26:05.000Z</updated>
     
     
     <summary type="html">This article explains the gas optimization techniques of Solidity smart contracts. Explain how to use data merging and numbering to compress data to reduce variables and gas consumption.</summary>
@@ -581,7 +581,7 @@
     <link href="https://blog.emn178.com/en/post/solidity-gas-optimization-function-name/"/>
     <id>https://blog.emn178.com/en/post/solidity-gas-optimization-function-name/</id>
     <published>2018-05-04T09:04:52.000Z</published>
-    <updated>2023-10-08T06:44:18.768Z</updated>
+    <updated>2018-05-04T09:04:52.000Z</updated>
     
     
     <summary type="html">This article explains the gas optimization techniques of Solidity smart contracts. The article will explain the rules and principles of function names on gas consumption, explain the definition and generation of function signatures and Method IDs, and finally provide optimization methods.</summary>
@@ -600,7 +600,7 @@
     <link href="https://blog.emn178.com/en/post/solidity-gas-optimization/"/>
     <id>https://blog.emn178.com/en/post/solidity-gas-optimization/</id>
     <published>2018-03-07T09:02:40.000Z</published>
-    <updated>2023-10-08T06:44:18.768Z</updated>
+    <updated>2018-03-07T09:02:40.000Z</updated>
     
     
     <summary type="html">This article explains the gas optimization techniques of Solidity smart contracts. This article will organize and analyze some factors that affect gas consumption in smart contracts, which will help us understand which instructions consume the most and use them cautiously.</summary>
@@ -619,7 +619,7 @@
     <link href="https://blog.emn178.com/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/"/>
     <id>https://blog.emn178.com/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/</id>
     <published>2015-10-30T09:34:00.000Z</published>
-    <updated>2023-11-07T08:14:09.984Z</updated>
+    <updated>2015-10-30T09:34:00.000Z</updated>
     
     
       
@@ -643,7 +643,7 @@
     <link href="https://blog.emn178.com/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/"/>
     <id>https://blog.emn178.com/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/</id>
     <published>2015-10-28T09:20:00.000Z</published>
-    <updated>2023-11-07T08:13:22.614Z</updated>
+    <updated>2015-10-28T09:20:00.000Z</updated>
     
     
       
@@ -667,7 +667,7 @@
     <link href="https://blog.emn178.com/en/post/node-js-how-to-integrate-travis-ci-with-github/"/>
     <id>https://blog.emn178.com/en/post/node-js-how-to-integrate-travis-ci-with-github/</id>
     <published>2015-10-28T07:50:00.000Z</published>
-    <updated>2023-11-07T08:14:03.156Z</updated>
+    <updated>2015-10-28T07:50:00.000Z</updated>
     
     
       
@@ -691,7 +691,7 @@
     <link href="https://blog.emn178.com/en/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/"/>
     <id>https://blog.emn178.com/en/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/</id>
     <published>2015-10-28T06:00:00.000Z</published>
-    <updated>2023-04-17T01:37:34.943Z</updated>
+    <updated>2015-10-28T06:00:00.000Z</updated>
     
     
       

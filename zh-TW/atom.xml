@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.com/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.com/zh-TW/"/>
-  <updated>2026-08-26T06:39:27.311Z</updated>
+  <updated>2026-08-26T05:58:07.000Z</updated>
   <id>https://blog.emn178.com/zh-TW/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/cc-specific-domain-sitemap-fetch-issue/"/>
     <id>https://blog.emn178.com/zh-TW/post/cc-specific-domain-sitemap-fetch-issue/</id>
     <published>2026-08-26T05:58:07.000Z</published>
-    <updated>2026-08-26T06:39:27.311Z</updated>
+    <updated>2026-08-26T05:58:07.000Z</updated>
     
     
       
@@ -41,7 +41,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/ancestry-vs-awesome-nested-set/"/>
     <id>https://blog.emn178.com/zh-TW/post/ancestry-vs-awesome-nested-set/</id>
     <published>2025-05-04T05:56:20.000Z</published>
-    <updated>2026-08-26T06:45:25.258Z</updated>
+    <updated>2025-05-04T05:56:20.000Z</updated>
     
     
       
@@ -66,7 +66,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/acts-as-taggable-on-vs-postgresql-array/"/>
     <id>https://blog.emn178.com/zh-TW/post/acts-as-taggable-on-vs-postgresql-array/</id>
     <published>2025-04-12T02:13:09.000Z</published>
-    <updated>2026-08-26T06:45:25.258Z</updated>
+    <updated>2025-04-12T02:13:09.000Z</updated>
     
     
       
@@ -88,7 +88,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/jbuilder-vs-active-model-serializers-vs-oj-serializers/"/>
     <id>https://blog.emn178.com/zh-TW/post/jbuilder-vs-active-model-serializers-vs-oj-serializers/</id>
     <published>2025-03-15T13:16:20.000Z</published>
-    <updated>2026-08-26T06:45:25.314Z</updated>
+    <updated>2025-03-15T13:16:20.000Z</updated>
     
     
       
@@ -113,7 +113,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/openssl-rsa-encryption-and-decryption/"/>
     <id>https://blog.emn178.com/zh-TW/post/openssl-rsa-encryption-and-decryption/</id>
     <published>2024-09-02T13:25:07.000Z</published>
-    <updated>2024-09-02T13:25:30.474Z</updated>
+    <updated>2024-09-02T13:25:07.000Z</updated>
     
     
       
@@ -134,7 +134,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/openssl-sign-and-verify/"/>
     <id>https://blog.emn178.com/zh-TW/post/openssl-sign-and-verify/</id>
     <published>2024-08-31T15:00:34.000Z</published>
-    <updated>2024-09-01T15:00:13.578Z</updated>
+    <updated>2024-08-31T15:00:34.000Z</updated>
     
     
       
@@ -155,7 +155,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/openssl-rsa-generate-key-pair/"/>
     <id>https://blog.emn178.com/zh-TW/post/openssl-rsa-generate-key-pair/</id>
     <published>2024-08-31T03:09:17.000Z</published>
-    <updated>2024-09-02T13:41:08.284Z</updated>
+    <updated>2024-08-31T03:09:17.000Z</updated>
     
     
       
@@ -176,7 +176,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/openssl-ec-generate-key-pair/"/>
     <id>https://blog.emn178.com/zh-TW/post/openssl-ec-generate-key-pair/</id>
     <published>2024-08-29T01:11:11.000Z</published>
-    <updated>2024-09-02T13:38:16.953Z</updated>
+    <updated>2024-08-29T01:11:11.000Z</updated>
     
     
       
@@ -197,7 +197,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/nginx-limit-number-of-requests-ngx-http-limit-req-module/"/>
     <id>https://blog.emn178.com/zh-TW/post/nginx-limit-number-of-requests-ngx-http-limit-req-module/</id>
     <published>2024-06-25T00:45:12.000Z</published>
-    <updated>2024-06-26T00:27:00.537Z</updated>
+    <updated>2024-06-25T00:45:12.000Z</updated>
     
     
       
@@ -217,7 +217,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/nginx-limit-number-of-connections-ngx-http-limit-conn-module/"/>
     <id>https://blog.emn178.com/zh-TW/post/nginx-limit-number-of-connections-ngx-http-limit-conn-module/</id>
     <published>2024-06-21T13:53:42.000Z</published>
-    <updated>2024-06-25T00:44:15.600Z</updated>
+    <updated>2024-06-21T13:53:42.000Z</updated>
     
     
       
@@ -237,7 +237,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/rails-passenger-solve-request-queue-full/"/>
     <id>https://blog.emn178.com/zh-TW/post/rails-passenger-solve-request-queue-full/</id>
     <published>2024-06-16T10:38:43.000Z</published>
-    <updated>2024-07-18T05:31:15.730Z</updated>
+    <updated>2024-06-16T10:38:43.000Z</updated>
     
     
     <summary type="html">本篇文章說明 Request queue full (configured max. size: 100) 錯誤的各種原因，並提供對應的處理方法。說明 Timeout 機制與 Passenger 狀態監測與除錯方式。</summary>
@@ -256,7 +256,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/rails-actioncable-benchmark/"/>
     <id>https://blog.emn178.com/zh-TW/post/rails-actioncable-benchmark/</id>
     <published>2024-05-25T06:44:58.000Z</published>
-    <updated>2024-06-22T13:27:10.229Z</updated>
+    <updated>2024-05-25T06:44:58.000Z</updated>
     
     
       
@@ -279,7 +279,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/solidity-factory-pattern-front-running/"/>
     <id>https://blog.emn178.com/zh-TW/post/solidity-factory-pattern-front-running/</id>
     <published>2024-04-27T15:30:17.000Z</published>
-    <updated>2024-04-27T15:30:21.210Z</updated>
+    <updated>2024-04-27T15:30:17.000Z</updated>
     
     
       
@@ -301,7 +301,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/solidity-reorg-in-factory-pattern/"/>
     <id>https://blog.emn178.com/zh-TW/post/solidity-reorg-in-factory-pattern/</id>
     <published>2024-04-25T15:13:05.000Z</published>
-    <updated>2024-04-27T15:29:56.827Z</updated>
+    <updated>2024-04-25T15:13:05.000Z</updated>
     
     
       
@@ -323,7 +323,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/solidity-how-are-smart-contract-addresses-generated/"/>
     <id>https://blog.emn178.com/zh-TW/post/solidity-how-are-smart-contract-addresses-generated/</id>
     <published>2024-04-22T15:33:16.000Z</published>
-    <updated>2024-07-18T05:30:50.180Z</updated>
+    <updated>2024-04-22T15:33:16.000Z</updated>
     
     
       
@@ -345,7 +345,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/solidity-factory-pattern/"/>
     <id>https://blog.emn178.com/zh-TW/post/solidity-factory-pattern/</id>
     <published>2024-04-21T08:35:16.000Z</published>
-    <updated>2024-07-18T05:30:53.925Z</updated>
+    <updated>2024-04-21T08:35:16.000Z</updated>
     
     
       
@@ -367,7 +367,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/skbank-ou/"/>
     <id>https://blog.emn178.com/zh-TW/post/skbank-ou/</id>
     <published>2024-01-17T14:34:36.000Z</published>
-    <updated>2024-01-18T01:58:59.958Z</updated>
+    <updated>2024-01-17T14:34:36.000Z</updated>
     
     
       
@@ -387,7 +387,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/zksync-verify-transparent-upgradeable-proxy/"/>
     <id>https://blog.emn178.com/zh-TW/post/zksync-verify-transparent-upgradeable-proxy/</id>
     <published>2024-01-16T12:10:41.000Z</published>
-    <updated>2024-01-16T12:10:13.814Z</updated>
+    <updated>2024-01-16T12:10:41.000Z</updated>
     
     
       
@@ -409,7 +409,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/new-taipei-elephant-trunk-rock/"/>
     <id>https://blog.emn178.com/zh-TW/post/new-taipei-elephant-trunk-rock/</id>
     <published>2023-12-17T09:14:00.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2023-12-17T09:14:00.000Z</updated>
     
     
       
@@ -430,7 +430,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/japan-sensoji-temple/"/>
     <id>https://blog.emn178.com/zh-TW/post/japan-sensoji-temple/</id>
     <published>2023-12-17T03:30:15.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2023-12-17T03:30:15.000Z</updated>
     
     
       
@@ -451,7 +451,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/japan-ueno-park/"/>
     <id>https://blog.emn178.com/zh-TW/post/japan-ueno-park/</id>
     <published>2023-12-16T03:29:12.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2023-12-16T03:29:12.000Z</updated>
     
     
       
@@ -472,7 +472,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/japan-kitaguchi-hongu-fuji-sengen-jinja-shrine/"/>
     <id>https://blog.emn178.com/zh-TW/post/japan-kitaguchi-hongu-fuji-sengen-jinja-shrine/</id>
     <published>2023-12-13T14:20:58.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2023-12-13T14:20:58.000Z</updated>
     
     
       
@@ -493,7 +493,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/japan-oshino-hakkai/"/>
     <id>https://blog.emn178.com/zh-TW/post/japan-oshino-hakkai/</id>
     <published>2023-12-12T01:25:23.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2023-12-12T01:25:23.000Z</updated>
     
     
       
@@ -514,7 +514,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/japan-saiko-iyashi-no-sato-nenba/"/>
     <id>https://blog.emn178.com/zh-TW/post/japan-saiko-iyashi-no-sato-nenba/</id>
     <published>2023-12-11T10:23:53.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2023-12-11T10:23:53.000Z</updated>
     
     
       
@@ -535,7 +535,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/japan-seisen-ryo/"/>
     <id>https://blog.emn178.com/zh-TW/post/japan-seisen-ryo/</id>
     <published>2023-12-10T02:17:42.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2023-12-10T02:17:42.000Z</updated>
     
     
       
@@ -556,7 +556,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/japan-moegi-village-rock/"/>
     <id>https://blog.emn178.com/zh-TW/post/japan-moegi-village-rock/</id>
     <published>2023-12-09T15:15:58.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2023-12-09T15:15:58.000Z</updated>
     
     
       
@@ -577,7 +577,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/japan-tateshina-lake/"/>
     <id>https://blog.emn178.com/zh-TW/post/japan-tateshina-lake/</id>
     <published>2023-12-07T12:19:37.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2023-12-07T12:19:37.000Z</updated>
     
     
       
@@ -598,7 +598,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/japan-yokotani-kannon-observation-deck/"/>
     <id>https://blog.emn178.com/zh-TW/post/japan-yokotani-kannon-observation-deck/</id>
     <published>2023-12-06T12:41:51.000Z</published>
-    <updated>2026-08-21T06:34:07.383Z</updated>
+    <updated>2023-12-06T12:41:51.000Z</updated>
     
     
       
@@ -619,7 +619,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/japan-mitsui-outlet-park-neo-oriental-resort-yatsugatake-kogen/"/>
     <id>https://blog.emn178.com/zh-TW/post/japan-mitsui-outlet-park-neo-oriental-resort-yatsugatake-kogen/</id>
     <published>2023-12-05T13:47:16.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2023-12-05T13:47:16.000Z</updated>
     
     
       
@@ -640,7 +640,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/japan-tour/"/>
     <id>https://blog.emn178.com/zh-TW/post/japan-tour/</id>
     <published>2023-12-04T13:41:50.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2023-12-04T13:41:50.000Z</updated>
     
     
       
@@ -661,7 +661,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/using-web3-js-to-interact-with-zksync-paymaster/"/>
     <id>https://blog.emn178.com/zh-TW/post/using-web3-js-to-interact-with-zksync-paymaster/</id>
     <published>2023-12-02T02:14:19.000Z</published>
-    <updated>2024-01-24T06:47:09.792Z</updated>
+    <updated>2023-12-02T02:14:19.000Z</updated>
     
     
       
@@ -681,7 +681,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/using-ethers-js-to-interact-with-zksync-paymaster/"/>
     <id>https://blog.emn178.com/zh-TW/post/using-ethers-js-to-interact-with-zksync-paymaster/</id>
     <published>2023-12-01T13:18:05.000Z</published>
-    <updated>2023-12-01T13:54:32.823Z</updated>
+    <updated>2023-12-01T13:18:05.000Z</updated>
     
     
       
@@ -701,7 +701,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/solidity-zksync-paymaster-example/"/>
     <id>https://blog.emn178.com/zh-TW/post/solidity-zksync-paymaster-example/</id>
     <published>2023-11-29T15:32:32.000Z</published>
-    <updated>2023-12-01T13:54:44.437Z</updated>
+    <updated>2023-11-29T15:32:32.000Z</updated>
     
     
       
@@ -723,7 +723,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/using-web3-js-to-interact-with-zksync-account-abstraction/"/>
     <id>https://blog.emn178.com/zh-TW/post/using-web3-js-to-interact-with-zksync-account-abstraction/</id>
     <published>2023-11-28T11:21:09.000Z</published>
-    <updated>2023-12-01T13:54:57.662Z</updated>
+    <updated>2023-11-28T11:21:09.000Z</updated>
     
     
       
@@ -743,7 +743,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/using-ethers-js-to-interact-with-zksync-account-abstraction/"/>
     <id>https://blog.emn178.com/zh-TW/post/using-ethers-js-to-interact-with-zksync-account-abstraction/</id>
     <published>2023-11-26T02:48:53.000Z</published>
-    <updated>2023-12-01T13:53:15.723Z</updated>
+    <updated>2023-11-26T02:48:53.000Z</updated>
     
     
       
@@ -763,7 +763,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/zksync-account-abstraction-example/"/>
     <id>https://blog.emn178.com/zh-TW/post/zksync-account-abstraction-example/</id>
     <published>2023-11-25T07:39:28.000Z</published>
-    <updated>2023-11-29T15:01:50.764Z</updated>
+    <updated>2023-11-25T07:39:28.000Z</updated>
     
     
       
@@ -785,7 +785,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-hires-fix/"/>
     <id>https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-hires-fix/</id>
     <published>2023-10-10T01:02:57.000Z</published>
-    <updated>2023-10-10T01:02:51.533Z</updated>
+    <updated>2023-10-10T01:02:57.000Z</updated>
     
     
       
@@ -808,7 +808,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-tiling/"/>
     <id>https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-tiling/</id>
     <published>2023-10-09T02:10:14.000Z</published>
-    <updated>2023-10-09T07:56:06.296Z</updated>
+    <updated>2023-10-09T02:10:14.000Z</updated>
     
     
       
@@ -831,7 +831,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-restore-faces/"/>
     <id>https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-restore-faces/</id>
     <published>2023-10-04T15:02:55.000Z</published>
-    <updated>2023-10-09T02:11:15.415Z</updated>
+    <updated>2023-10-04T15:02:55.000Z</updated>
     
     
       
@@ -854,7 +854,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/using-ethers-js-to-sign-eip-712-typed-structured-data/"/>
     <id>https://blog.emn178.com/zh-TW/post/using-ethers-js-to-sign-eip-712-typed-structured-data/</id>
     <published>2023-09-26T00:36:07.000Z</published>
-    <updated>2023-10-14T02:12:40.564Z</updated>
+    <updated>2023-09-26T00:36:07.000Z</updated>
     
     
       
@@ -874,7 +874,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/"/>
     <id>https://blog.emn178.com/zh-TW/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/</id>
     <published>2023-09-24T12:23:59.000Z</published>
-    <updated>2023-10-11T12:45:40.277Z</updated>
+    <updated>2023-09-24T12:23:59.000Z</updated>
     
     
       
@@ -894,7 +894,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/find-kth-largest-number-in-an-array/"/>
     <id>https://blog.emn178.com/zh-TW/post/find-kth-largest-number-in-an-array/</id>
     <published>2023-09-23T01:46:27.000Z</published>
-    <updated>2023-09-23T01:46:56.367Z</updated>
+    <updated>2023-09-23T01:46:27.000Z</updated>
     
     
       
@@ -917,7 +917,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/find-the-sum-of-1*2+2*3...+(n-1)*n/"/>
     <id>https://blog.emn178.com/zh-TW/post/find-the-sum-of-1*2+2*3...+(n-1)*n/</id>
     <published>2023-09-21T14:24:59.000Z</published>
-    <updated>2023-09-22T14:20:42.372Z</updated>
+    <updated>2023-09-21T14:24:59.000Z</updated>
     
     
       
@@ -941,7 +941,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/solidity-eip-712-typed-structured-data-hashing-and-signing/"/>
     <id>https://blog.emn178.com/zh-TW/post/solidity-eip-712-typed-structured-data-hashing-and-signing/</id>
     <published>2023-09-19T15:55:02.000Z</published>
-    <updated>2023-11-28T07:24:12.032Z</updated>
+    <updated>2023-09-19T15:55:02.000Z</updated>
     
     
       
@@ -964,7 +964,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/using-ethers-js-to-sign-and-recover/"/>
     <id>https://blog.emn178.com/zh-TW/post/using-ethers-js-to-sign-and-recover/</id>
     <published>2023-09-11T13:54:31.000Z</published>
-    <updated>2023-10-08T13:14:08.784Z</updated>
+    <updated>2023-09-11T13:54:31.000Z</updated>
     
     
       
@@ -984,7 +984,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/using-web3-js-to-sign-and-recover/"/>
     <id>https://blog.emn178.com/zh-TW/post/using-web3-js-to-sign-and-recover/</id>
     <published>2023-09-10T06:41:44.000Z</published>
-    <updated>2023-11-28T07:24:22.662Z</updated>
+    <updated>2023-09-10T06:41:44.000Z</updated>
     
     
       
@@ -1004,7 +1004,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/solidity-signature-malleability/"/>
     <id>https://blog.emn178.com/zh-TW/post/solidity-signature-malleability/</id>
     <published>2023-09-04T13:52:18.000Z</published>
-    <updated>2023-09-04T13:52:03.280Z</updated>
+    <updated>2023-09-04T13:52:18.000Z</updated>
     
     
       
@@ -1026,7 +1026,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/solidity-ecrecover/"/>
     <id>https://blog.emn178.com/zh-TW/post/solidity-ecrecover/</id>
     <published>2023-09-03T07:44:42.000Z</published>
-    <updated>2023-10-08T08:37:47.411Z</updated>
+    <updated>2023-09-03T07:44:42.000Z</updated>
     
     
       
@@ -1048,7 +1048,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-civitai-helper/"/>
     <id>https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-civitai-helper/</id>
     <published>2023-08-20T09:02:41.000Z</published>
-    <updated>2023-08-20T09:02:28.558Z</updated>
+    <updated>2023-08-20T09:02:41.000Z</updated>
     
     
       
@@ -1070,7 +1070,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-extra-networks/"/>
     <id>https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-extra-networks/</id>
     <published>2023-08-19T14:34:15.000Z</published>
-    <updated>2023-10-04T15:01:10.045Z</updated>
+    <updated>2023-08-19T14:34:15.000Z</updated>
     
     
       
@@ -1093,7 +1093,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-extensions/"/>
     <id>https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-extensions/</id>
     <published>2023-08-04T15:01:55.000Z</published>
-    <updated>2023-08-20T08:56:36.025Z</updated>
+    <updated>2023-08-04T15:01:55.000Z</updated>
     
     
       
@@ -1116,7 +1116,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/zkevm-airdrop-guide/"/>
     <id>https://blog.emn178.com/zh-TW/post/zkevm-airdrop-guide/</id>
     <published>2023-07-28T12:24:33.000Z</published>
-    <updated>2023-08-03T02:39:29.674Z</updated>
+    <updated>2023-07-28T12:24:33.000Z</updated>
     
     
       
@@ -1136,7 +1136,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-checkpoint/"/>
     <id>https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-checkpoint/</id>
     <published>2023-07-27T13:34:21.000Z</published>
-    <updated>2023-08-04T14:59:26.472Z</updated>
+    <updated>2023-07-27T13:34:21.000Z</updated>
     
     
       
@@ -1159,7 +1159,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-sampling-method/"/>
     <id>https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-sampling-method/</id>
     <published>2023-07-25T15:39:09.000Z</published>
-    <updated>2023-10-09T08:04:03.495Z</updated>
+    <updated>2023-07-25T15:39:09.000Z</updated>
     
     
       
@@ -1182,7 +1182,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/pagespeed-remove-unused-css/"/>
     <id>https://blog.emn178.com/zh-TW/post/pagespeed-remove-unused-css/</id>
     <published>2023-07-22T06:59:42.000Z</published>
-    <updated>2023-07-22T07:16:29.471Z</updated>
+    <updated>2023-07-22T06:59:42.000Z</updated>
     
     
       
@@ -1202,7 +1202,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/load-css-asynchronously/"/>
     <id>https://blog.emn178.com/zh-TW/post/load-css-asynchronously/</id>
     <published>2023-07-15T12:31:31.000Z</published>
-    <updated>2023-07-28T14:02:25.819Z</updated>
+    <updated>2023-07-15T12:31:31.000Z</updated>
     
     
       
@@ -1223,7 +1223,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/ftx-proof-of-claim/"/>
     <id>https://blog.emn178.com/zh-TW/post/ftx-proof-of-claim/</id>
     <published>2023-07-13T03:14:20.000Z</published>
-    <updated>2023-08-19T13:56:08.054Z</updated>
+    <updated>2023-07-13T03:14:20.000Z</updated>
     
     
       
@@ -1243,7 +1243,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/using-schwab-to-invest-bonds/"/>
     <id>https://blog.emn178.com/zh-TW/post/using-schwab-to-invest-bonds/</id>
     <published>2023-07-07T10:31:01.000Z</published>
-    <updated>2023-07-07T10:31:57.926Z</updated>
+    <updated>2023-07-07T10:31:01.000Z</updated>
     
     
       
@@ -1264,7 +1264,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/gcp-cloud-monitoring-reduce-data-and-cost/"/>
     <id>https://blog.emn178.com/zh-TW/post/gcp-cloud-monitoring-reduce-data-and-cost/</id>
     <published>2023-07-06T13:08:30.000Z</published>
-    <updated>2023-07-06T13:08:18.315Z</updated>
+    <updated>2023-07-06T13:08:30.000Z</updated>
     
     
       
@@ -1285,7 +1285,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/gcp-cloud-storage-can-not-download-or-copy/"/>
     <id>https://blog.emn178.com/zh-TW/post/gcp-cloud-storage-can-not-download-or-copy/</id>
     <published>2023-06-30T12:45:50.000Z</published>
-    <updated>2023-07-01T14:03:24.381Z</updated>
+    <updated>2023-06-30T12:45:50.000Z</updated>
     
     
       
@@ -1305,7 +1305,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/xapo-review/"/>
     <id>https://blog.emn178.com/zh-TW/post/xapo-review/</id>
     <published>2023-06-24T15:07:16.000Z</published>
-    <updated>2024-04-16T14:54:47.962Z</updated>
+    <updated>2023-06-24T15:07:16.000Z</updated>
     
     
       
@@ -1325,7 +1325,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/using-web3-js-to-parse-custom-error/"/>
     <id>https://blog.emn178.com/zh-TW/post/using-web3-js-to-parse-custom-error/</id>
     <published>2023-06-18T07:44:36.000Z</published>
-    <updated>2023-06-20T13:55:19.067Z</updated>
+    <updated>2023-06-18T07:44:36.000Z</updated>
     
     
       
@@ -1345,7 +1345,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/ethers-js-parse-custom-error/"/>
     <id>https://blog.emn178.com/zh-TW/post/ethers-js-parse-custom-error/</id>
     <published>2023-06-15T15:06:49.000Z</published>
-    <updated>2023-06-20T13:46:07.209Z</updated>
+    <updated>2023-06-15T15:06:49.000Z</updated>
     
     
       
@@ -1365,7 +1365,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/solidity-custom-error/"/>
     <id>https://blog.emn178.com/zh-TW/post/solidity-custom-error/</id>
     <published>2023-06-14T14:51:35.000Z</published>
-    <updated>2023-06-21T14:11:51.621Z</updated>
+    <updated>2023-06-14T14:51:35.000Z</updated>
     
     
       
@@ -1388,7 +1388,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-png-info/"/>
     <id>https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-png-info/</id>
     <published>2023-06-13T12:37:48.000Z</published>
-    <updated>2023-07-25T15:40:24.413Z</updated>
+    <updated>2023-06-13T12:37:48.000Z</updated>
     
     
       
@@ -1411,7 +1411,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-seed/"/>
     <id>https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-seed/</id>
     <published>2023-06-11T08:59:34.000Z</published>
-    <updated>2023-06-24T13:58:02.828Z</updated>
+    <updated>2023-06-11T08:59:34.000Z</updated>
     
     
       
@@ -1434,7 +1434,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/scam-token-check-tools-token-sniffer-and-goplus/"/>
     <id>https://blog.emn178.com/zh-TW/post/scam-token-check-tools-token-sniffer-and-goplus/</id>
     <published>2023-06-08T14:35:00.000Z</published>
-    <updated>2023-06-10T10:14:08.224Z</updated>
+    <updated>2023-06-08T14:35:00.000Z</updated>
     
     
       
@@ -1455,7 +1455,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/awesome-crypto-world-acw-scam-token/"/>
     <id>https://blog.emn178.com/zh-TW/post/awesome-crypto-world-acw-scam-token/</id>
     <published>2023-06-05T02:33:54.000Z</published>
-    <updated>2023-06-08T14:36:53.942Z</updated>
+    <updated>2023-06-05T02:33:54.000Z</updated>
     
     
       
@@ -1475,7 +1475,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/layerzero-airdrop-guide/"/>
     <id>https://blog.emn178.com/zh-TW/post/layerzero-airdrop-guide/</id>
     <published>2023-06-04T03:08:09.000Z</published>
-    <updated>2023-06-18T07:50:33.955Z</updated>
+    <updated>2023-06-04T03:08:09.000Z</updated>
     
     
       
@@ -1498,7 +1498,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/linea-airdrop-guide/"/>
     <id>https://blog.emn178.com/zh-TW/post/linea-airdrop-guide/</id>
     <published>2023-05-21T03:07:08.000Z</published>
-    <updated>2023-08-04T05:40:46.592Z</updated>
+    <updated>2023-05-21T03:07:08.000Z</updated>
     
     
       
@@ -1518,7 +1518,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-prompt/"/>
     <id>https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-prompt/</id>
     <published>2023-05-13T14:23:26.000Z</published>
-    <updated>2023-08-19T14:19:40.745Z</updated>
+    <updated>2023-05-13T14:23:26.000Z</updated>
     
     
       
@@ -1541,7 +1541,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-img2img-batch/"/>
     <id>https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-img2img-batch/</id>
     <published>2023-04-25T12:40:54.000Z</published>
-    <updated>2023-05-13T14:26:36.312Z</updated>
+    <updated>2023-04-25T12:40:54.000Z</updated>
     
     
       
@@ -1564,7 +1564,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-inpaint-upload/"/>
     <id>https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-inpaint-upload/</id>
     <published>2023-04-24T13:34:55.000Z</published>
-    <updated>2023-04-25T12:37:48.743Z</updated>
+    <updated>2023-04-24T13:34:55.000Z</updated>
     
     
       
@@ -1587,7 +1587,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-inpaint-sketch/"/>
     <id>https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-inpaint-sketch/</id>
     <published>2023-04-16T04:14:24.000Z</published>
-    <updated>2023-04-24T13:28:00.451Z</updated>
+    <updated>2023-04-16T04:14:24.000Z</updated>
     
     
       
@@ -1610,7 +1610,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-sketch/"/>
     <id>https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-sketch/</id>
     <published>2023-04-13T14:55:59.000Z</published>
-    <updated>2023-04-24T13:16:39.720Z</updated>
+    <updated>2023-04-13T14:55:59.000Z</updated>
     
     
       
@@ -1633,7 +1633,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-inpaint/"/>
     <id>https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-inpaint/</id>
     <published>2023-04-04T14:05:11.000Z</published>
-    <updated>2023-04-17T14:40:52.936Z</updated>
+    <updated>2023-04-04T14:05:11.000Z</updated>
     
     
       
@@ -1656,7 +1656,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/starknet-airdrop-guide/"/>
     <id>https://blog.emn178.com/zh-TW/post/starknet-airdrop-guide/</id>
     <published>2023-04-02T00:05:27.000Z</published>
-    <updated>2023-07-28T02:20:38.142Z</updated>
+    <updated>2023-04-02T00:05:27.000Z</updated>
     
     
       
@@ -1676,7 +1676,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/ai-a-scam-token/"/>
     <id>https://blog.emn178.com/zh-TW/post/ai-a-scam-token/</id>
     <published>2023-03-30T15:47:42.000Z</published>
-    <updated>2023-06-08T14:36:50.793Z</updated>
+    <updated>2023-03-30T15:47:42.000Z</updated>
     
     
       
@@ -1696,7 +1696,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/zksync-airdrop-step-by-step/"/>
     <id>https://blog.emn178.com/zh-TW/post/zksync-airdrop-step-by-step/</id>
     <published>2023-03-29T13:02:07.000Z</published>
-    <updated>2023-05-17T14:08:37.181Z</updated>
+    <updated>2023-03-29T13:02:07.000Z</updated>
     
     
       
@@ -1718,7 +1718,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/zksync-airdrop-strategy/"/>
     <id>https://blog.emn178.com/zh-TW/post/zksync-airdrop-strategy/</id>
     <published>2023-03-26T08:20:02.000Z</published>
-    <updated>2023-07-30T06:12:33.229Z</updated>
+    <updated>2023-03-26T08:20:02.000Z</updated>
     
     
       
@@ -1740,7 +1740,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-img2img/"/>
     <id>https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-img2img/</id>
     <published>2023-03-21T10:46:47.000Z</published>
-    <updated>2023-10-03T12:07:28.711Z</updated>
+    <updated>2023-03-21T10:46:47.000Z</updated>
     
     
       
@@ -1763,7 +1763,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-txt2img/"/>
     <id>https://blog.emn178.com/zh-TW/post/stable-diffusion-webui-txt2img/</id>
     <published>2023-03-15T13:28:11.000Z</published>
-    <updated>2023-10-09T07:57:36.092Z</updated>
+    <updated>2023-03-15T13:28:11.000Z</updated>
     
     
       
@@ -1786,7 +1786,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/"/>
     <id>https://blog.emn178.com/zh-TW/post/install-stable-diffusion-webui-on-macbook-m1/</id>
     <published>2023-03-14T15:24:28.000Z</published>
-    <updated>2023-06-04T12:15:30.879Z</updated>
+    <updated>2023-03-14T15:24:28.000Z</updated>
     
     
       
@@ -1808,7 +1808,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/midjourney-parameters-chaos/"/>
     <id>https://blog.emn178.com/zh-TW/post/midjourney-parameters-chaos/</id>
     <published>2023-03-13T03:31:33.000Z</published>
-    <updated>2023-04-25T13:57:57.489Z</updated>
+    <updated>2023-03-13T03:31:33.000Z</updated>
     
     
       
@@ -1830,7 +1830,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/midjourney-parameters-aspect-ratios/"/>
     <id>https://blog.emn178.com/zh-TW/post/midjourney-parameters-aspect-ratios/</id>
     <published>2023-03-12T05:38:12.000Z</published>
-    <updated>2023-04-25T14:19:21.208Z</updated>
+    <updated>2023-03-12T05:38:12.000Z</updated>
     
     
       
@@ -1853,7 +1853,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/how-to-solve-you-have-already-activated-x-but-your-gemfile-requires-y/"/>
     <id>https://blog.emn178.com/zh-TW/post/how-to-solve-you-have-already-activated-x-but-your-gemfile-requires-y/</id>
     <published>2023-03-11T07:43:17.000Z</published>
-    <updated>2023-04-17T01:37:34.953Z</updated>
+    <updated>2023-03-11T07:43:17.000Z</updated>
     
     
     <summary type="html">本篇文章說明如何解決 Ruby on Rails 專案部署到伺服器後，出現這個錯誤訊息「You have already activated x, but your Gemfile requires y」的兩種解決方法。</summary>
@@ -1874,7 +1874,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/midjourney-hide-messages/"/>
     <id>https://blog.emn178.com/zh-TW/post/midjourney-hide-messages/</id>
     <published>2023-03-09T13:11:10.000Z</published>
-    <updated>2023-04-25T13:53:25.136Z</updated>
+    <updated>2023-03-09T13:11:10.000Z</updated>
     
     
       
@@ -1896,7 +1896,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/how-to-disable-redirects-in-browser/"/>
     <id>https://blog.emn178.com/zh-TW/post/how-to-disable-redirects-in-browser/</id>
     <published>2023-03-05T14:11:10.000Z</published>
-    <updated>2023-04-17T01:37:34.953Z</updated>
+    <updated>2023-03-05T14:11:10.000Z</updated>
     
     
     <summary type="html">本篇文章記錄如何使用 FireFox 瀏覽器來停用轉址功能，可以解決例如痞客邦等，使用第三方平台後台編輯文章內容錯誤設定造成轉址進不去的問題。</summary>
@@ -1913,7 +1913,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/how-to-solve-libicui18n-dylib-no-such-file-not-in-dyld-cache/"/>
     <id>https://blog.emn178.com/zh-TW/post/how-to-solve-libicui18n-dylib-no-such-file-not-in-dyld-cache/</id>
     <published>2023-02-27T04:01:53.000Z</published>
-    <updated>2023-04-17T01:37:34.952Z</updated>
+    <updated>2023-02-27T04:01:53.000Z</updated>
     
     
     <summary type="html">本篇文章記錄如何解決 Mac OS 從 Monterey 升級到 Ventura 後，使用 Homebrew 安裝的 Postgresql 跑不起來的問題 libicui18n.70.dylib (no such file, not in dyld cache)。</summary>
@@ -1932,7 +1932,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/midjourney-ai-art-generator/"/>
     <id>https://blog.emn178.com/zh-TW/post/midjourney-ai-art-generator/</id>
     <published>2023-02-26T02:58:07.000Z</published>
-    <updated>2023-04-25T14:21:07.494Z</updated>
+    <updated>2023-02-26T02:58:07.000Z</updated>
     
     
       
@@ -1955,7 +1955,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/dreamstudio-ai-art-generator/"/>
     <id>https://blog.emn178.com/zh-TW/post/dreamstudio-ai-art-generator/</id>
     <published>2023-02-24T12:34:05.000Z</published>
-    <updated>2023-04-25T14:22:23.948Z</updated>
+    <updated>2023-02-24T12:34:05.000Z</updated>
     
     
       
@@ -1977,7 +1977,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/dall-e-2-ai-art-generator/"/>
     <id>https://blog.emn178.com/zh-TW/post/dall-e-2-ai-art-generator/</id>
     <published>2023-02-14T15:34:35.000Z</published>
-    <updated>2023-04-25T14:23:15.086Z</updated>
+    <updated>2023-02-14T15:34:35.000Z</updated>
     
     
       
@@ -1998,7 +1998,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/korea-seoul-n-seoul-tower/"/>
     <id>https://blog.emn178.com/zh-TW/post/korea-seoul-n-seoul-tower/</id>
     <published>2023-02-05T08:28:59.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2023-02-05T08:28:59.000Z</updated>
     
     
       
@@ -2028,7 +2028,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/korea-seoul-vivaldi-park/"/>
     <id>https://blog.emn178.com/zh-TW/post/korea-seoul-vivaldi-park/</id>
     <published>2023-01-29T14:18:54.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2023-01-29T14:18:54.000Z</updated>
     
     
       
@@ -2058,7 +2058,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/korea-seoul-gyeongbokgung-samcheong-dong-bukchon-hanok-village/"/>
     <id>https://blog.emn178.com/zh-TW/post/korea-seoul-gyeongbokgung-samcheong-dong-bukchon-hanok-village/</id>
     <published>2023-01-27T03:22:11.000Z</published>
-    <updated>2026-08-21T06:34:07.383Z</updated>
+    <updated>2023-01-27T03:22:11.000Z</updated>
     
     
       
@@ -2087,7 +2087,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/korea-seoul-tour/"/>
     <id>https://blog.emn178.com/zh-TW/post/korea-seoul-tour/</id>
     <published>2023-01-24T01:56:27.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2023-01-24T01:56:27.000Z</updated>
     
     
     <summary type="html">分享2023年韓國首爾自由行經驗，包含入境、換錢、上網、交通和地圖導航等等心得和注意事項，以及每日行程紀錄、心得和一些特別的經驗。行程包含景福宮、洪川大明滑雪村和南山首爾塔等知名景點，韓服和汗蒸幕體驗，以及一些知名餐廳等地點。</summary>
@@ -2110,7 +2110,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/solidity-gas-optimization-variable-ordering/"/>
     <id>https://blog.emn178.com/zh-TW/post/solidity-gas-optimization-variable-ordering/</id>
     <published>2018-09-09T02:26:38.000Z</published>
-    <updated>2023-04-17T14:40:52.933Z</updated>
+    <updated>2018-09-09T02:26:38.000Z</updated>
     
     
     <summary type="html">本篇文章說明 Solidity 智能合約 Gas 優化技巧，說明變數順序影響 gas 消耗的原因和特性，提供兩種優化的策略教學來減少 gas 消耗。</summary>
@@ -2129,7 +2129,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/solidity-gas-optimization-data-compression/"/>
     <id>https://blog.emn178.com/zh-TW/post/solidity-gas-optimization-data-compression/</id>
     <published>2018-05-07T15:29:52.000Z</published>
-    <updated>2023-06-13T14:18:01.093Z</updated>
+    <updated>2018-05-07T15:29:52.000Z</updated>
     
     
     <summary type="html">本篇文章說明 Solidity 智能合約 Gas 優化技巧。如何利用資料合併和編碼的方式，來壓縮資料達到減少變數和 Gas 消耗的目的。</summary>
@@ -2148,7 +2148,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/solidity-gas-optimization-function-name/"/>
     <id>https://blog.emn178.com/zh-TW/post/solidity-gas-optimization-function-name/</id>
     <published>2018-03-22T15:30:38.000Z</published>
-    <updated>2023-04-17T14:40:52.933Z</updated>
+    <updated>2018-03-22T15:30:38.000Z</updated>
     
     
     <summary type="html">本篇文章說明 Solidity 智能合約 Gas 優化技巧，文章將說明函式名稱對 gas 消耗的規則和原理，解釋函式簽章和 Method ID 定義和產生，最後提供優化的方法。</summary>
@@ -2167,7 +2167,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/solidity-gas-optimization/"/>
     <id>https://blog.emn178.com/zh-TW/post/solidity-gas-optimization/</id>
     <published>2018-02-13T14:38:38.000Z</published>
-    <updated>2023-07-16T04:58:47.777Z</updated>
+    <updated>2018-02-13T14:38:38.000Z</updated>
     
     
     <summary type="html">本篇文章說明 Solidity 智能合約 Gas 優化技巧，文章將整理分析智能合約中，影響 gas 消耗的一些因素，有助於我們了解消耗最大的指令是哪些，並謹慎的使用。</summary>
@@ -2186,7 +2186,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/"/>
     <id>https://blog.emn178.com/zh-TW/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/</id>
     <published>2015-07-25T13:27:16.000Z</published>
-    <updated>2023-11-08T01:28:13.838Z</updated>
+    <updated>2015-07-25T13:27:16.000Z</updated>
     
     
       
@@ -2208,7 +2208,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/ruby-array/"/>
     <id>https://blog.emn178.com/zh-TW/post/ruby-array/</id>
     <published>2015-06-18T09:09:58.000Z</published>
-    <updated>2023-11-08T01:32:38.884Z</updated>
+    <updated>2015-06-18T09:09:58.000Z</updated>
     
     
       
@@ -2230,7 +2230,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/ruby-symbol/"/>
     <id>https://blog.emn178.com/zh-TW/post/ruby-symbol/</id>
     <published>2015-06-17T05:46:17.000Z</published>
-    <updated>2023-11-08T01:32:21.667Z</updated>
+    <updated>2015-06-17T05:46:17.000Z</updated>
     
     
       
@@ -2254,7 +2254,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/ruby-string/"/>
     <id>https://blog.emn178.com/zh-TW/post/ruby-string/</id>
     <published>2015-06-03T07:18:55.000Z</published>
-    <updated>2023-11-08T01:31:46.889Z</updated>
+    <updated>2015-06-03T07:18:55.000Z</updated>
     
     
       
@@ -2281,7 +2281,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/ruby-numeric/"/>
     <id>https://blog.emn178.com/zh-TW/post/ruby-numeric/</id>
     <published>2015-05-28T09:21:14.000Z</published>
-    <updated>2023-11-08T01:31:19.044Z</updated>
+    <updated>2015-05-28T09:21:14.000Z</updated>
     
     
       
@@ -2305,7 +2305,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/ruby-nil-true-and-false/"/>
     <id>https://blog.emn178.com/zh-TW/post/ruby-nil-true-and-false/</id>
     <published>2015-05-27T01:43:47.000Z</published>
-    <updated>2023-11-08T01:30:45.271Z</updated>
+    <updated>2015-05-27T01:43:47.000Z</updated>
     
     
       
@@ -2327,7 +2327,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/ruby-data-type/"/>
     <id>https://blog.emn178.com/zh-TW/post/ruby-data-type/</id>
     <published>2015-05-25T02:45:45.000Z</published>
-    <updated>2023-11-08T01:29:58.564Z</updated>
+    <updated>2015-05-25T02:45:45.000Z</updated>
     
     
       
@@ -2349,7 +2349,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/ruby-syntax/"/>
     <id>https://blog.emn178.com/zh-TW/post/ruby-syntax/</id>
     <published>2015-05-24T07:18:48.000Z</published>
-    <updated>2023-11-08T01:29:05.804Z</updated>
+    <updated>2015-05-24T07:18:48.000Z</updated>
     
     
       
@@ -2372,7 +2372,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/node-js-how-to-integrate-coveralls-with-github/"/>
     <id>https://blog.emn178.com/zh-TW/post/node-js-how-to-integrate-coveralls-with-github/</id>
     <published>2015-02-08T06:07:25.000Z</published>
-    <updated>2023-11-07T08:08:17.867Z</updated>
+    <updated>2015-02-08T06:07:25.000Z</updated>
     
     
       
@@ -2398,7 +2398,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/cambodia-angkor-wat/"/>
     <id>https://blog.emn178.com/zh-TW/post/cambodia-angkor-wat/</id>
     <published>2015-02-01T02:43:47.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2015-02-01T02:43:47.000Z</updated>
     
     
       
@@ -2421,7 +2421,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/how-to-measure-javascript-code-coverage-with-jscoverage/"/>
     <id>https://blog.emn178.com/zh-TW/post/how-to-measure-javascript-code-coverage-with-jscoverage/</id>
     <published>2015-01-14T12:29:28.000Z</published>
-    <updated>2023-11-07T08:08:11.135Z</updated>
+    <updated>2015-01-14T12:29:28.000Z</updated>
     
     
       
@@ -2447,7 +2447,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/node-js-how-to-integrate-travis-ci-with-github/"/>
     <id>https://blog.emn178.com/zh-TW/post/node-js-how-to-integrate-travis-ci-with-github/</id>
     <published>2015-01-09T12:14:49.000Z</published>
-    <updated>2023-11-07T08:10:40.606Z</updated>
+    <updated>2015-01-09T12:14:49.000Z</updated>
     
     
       
@@ -2474,7 +2474,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/"/>
     <id>https://blog.emn178.com/zh-TW/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/</id>
     <published>2015-01-06T12:54:49.000Z</published>
-    <updated>2023-11-07T08:10:57.367Z</updated>
+    <updated>2015-01-06T12:54:49.000Z</updated>
     
     
       
@@ -2501,7 +2501,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/javascript-base64-encode-decode/"/>
     <id>https://blog.emn178.com/zh-TW/post/javascript-base64-encode-decode/</id>
     <published>2015-01-03T06:06:20.000Z</published>
-    <updated>2023-11-07T08:10:49.577Z</updated>
+    <updated>2015-01-03T06:06:20.000Z</updated>
     
     
       
@@ -2528,7 +2528,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/jquery-common-functions/"/>
     <id>https://blog.emn178.com/zh-TW/post/jquery-common-functions/</id>
     <published>2014-09-15T07:30:13.000Z</published>
-    <updated>2023-11-10T23:30:07.734Z</updated>
+    <updated>2014-09-15T07:30:13.000Z</updated>
     
     
       
@@ -2550,7 +2550,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/new-taipei-pingxi-houtong/"/>
     <id>https://blog.emn178.com/zh-TW/post/new-taipei-pingxi-houtong/</id>
     <published>2014-08-11T13:45:51.000Z</published>
-    <updated>2026-08-21T06:34:07.325Z</updated>
+    <updated>2014-08-11T13:45:51.000Z</updated>
     
     
       
@@ -2575,7 +2575,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/macau-tour/"/>
     <id>https://blog.emn178.com/zh-TW/post/macau-tour/</id>
     <published>2014-08-10T14:09:03.000Z</published>
-    <updated>2026-08-21T06:34:07.325Z</updated>
+    <updated>2014-08-10T14:09:03.000Z</updated>
     
     
       
@@ -2602,7 +2602,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/ruby-on-rails-deploy-to-heroku/"/>
     <id>https://blog.emn178.com/zh-TW/post/ruby-on-rails-deploy-to-heroku/</id>
     <published>2014-06-22T06:04:05.000Z</published>
-    <updated>2023-11-06T23:49:45.204Z</updated>
+    <updated>2014-06-22T06:04:05.000Z</updated>
     
     
       
@@ -2622,7 +2622,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/markdown/"/>
     <id>https://blog.emn178.com/zh-TW/post/markdown/</id>
     <published>2014-01-05T02:17:28.000Z</published>
-    <updated>2023-11-01T08:01:19.147Z</updated>
+    <updated>2014-01-05T02:17:28.000Z</updated>
     
     
       
@@ -2643,7 +2643,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/free-bitcoin/"/>
     <id>https://blog.emn178.com/zh-TW/post/free-bitcoin/</id>
     <published>2013-12-03T12:19:10.000Z</published>
-    <updated>2023-11-01T08:29:40.135Z</updated>
+    <updated>2013-12-03T12:19:10.000Z</updated>
     
     
       
@@ -2664,7 +2664,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/ghash-io/"/>
     <id>https://blog.emn178.com/zh-TW/post/ghash-io/</id>
     <published>2013-11-17T05:41:07.000Z</published>
-    <updated>2023-11-01T08:28:37.674Z</updated>
+    <updated>2013-11-17T05:41:07.000Z</updated>
     
     
       
@@ -2686,7 +2686,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/fake-coin-problem-unknown-number-and-limit-amount/"/>
     <id>https://blog.emn178.com/zh-TW/post/fake-coin-problem-unknown-number-and-limit-amount/</id>
     <published>2013-09-08T06:45:34.000Z</published>
-    <updated>2023-11-01T07:34:07.049Z</updated>
+    <updated>2013-09-08T06:45:34.000Z</updated>
     
     
       
@@ -2706,7 +2706,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/fake-coin-problem-unknown-number/"/>
     <id>https://blog.emn178.com/zh-TW/post/fake-coin-problem-unknown-number/</id>
     <published>2013-09-02T13:27:58.000Z</published>
-    <updated>2023-11-01T07:33:44.422Z</updated>
+    <updated>2013-09-02T13:27:58.000Z</updated>
     
     
       
@@ -2727,7 +2727,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/fake-coin-problem/"/>
     <id>https://blog.emn178.com/zh-TW/post/fake-coin-problem/</id>
     <published>2013-08-24T01:39:10.000Z</published>
-    <updated>2023-11-01T07:34:03.424Z</updated>
+    <updated>2013-08-24T01:39:10.000Z</updated>
     
     
       
@@ -2747,7 +2747,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/javascript-operators-final/"/>
     <id>https://blog.emn178.com/zh-TW/post/javascript-operators-final/</id>
     <published>2013-08-04T06:42:44.000Z</published>
-    <updated>2023-10-24T06:46:44.211Z</updated>
+    <updated>2013-08-04T06:42:44.000Z</updated>
     
     
       
@@ -2770,7 +2770,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/javascript-operators/"/>
     <id>https://blog.emn178.com/zh-TW/post/javascript-operators/</id>
     <published>2013-04-21T03:23:49.000Z</published>
-    <updated>2023-10-24T06:43:21.222Z</updated>
+    <updated>2013-04-21T03:23:49.000Z</updated>
     
     
       
@@ -2792,7 +2792,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/how-to-uninstall-pkg-in-mac/"/>
     <id>https://blog.emn178.com/zh-TW/post/how-to-uninstall-pkg-in-mac/</id>
     <published>2013-04-18T12:18:37.000Z</published>
-    <updated>2023-11-01T06:54:33.008Z</updated>
+    <updated>2013-04-18T12:18:37.000Z</updated>
     
     
       
@@ -2814,7 +2814,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/balance-puzzle-conclusion/"/>
     <id>https://blog.emn178.com/zh-TW/post/balance-puzzle-conclusion/</id>
     <published>2013-04-07T02:05:05.000Z</published>
-    <updated>2023-10-30T01:30:20.299Z</updated>
+    <updated>2013-04-07T02:05:05.000Z</updated>
     
     
       
@@ -2835,7 +2835,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/balance-puzzle-weighing-9-coins/"/>
     <id>https://blog.emn178.com/zh-TW/post/balance-puzzle-weighing-9-coins/</id>
     <published>2013-04-06T00:35:51.000Z</published>
-    <updated>2023-10-30T01:30:28.151Z</updated>
+    <updated>2013-04-06T00:35:51.000Z</updated>
     
     
       
@@ -2855,7 +2855,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/balance-puzzle-weighing-8-coins/"/>
     <id>https://blog.emn178.com/zh-TW/post/balance-puzzle-weighing-8-coins/</id>
     <published>2013-04-05T01:17:27.000Z</published>
-    <updated>2023-10-30T01:29:24.069Z</updated>
+    <updated>2013-04-05T01:17:27.000Z</updated>
     
     
       
@@ -2875,7 +2875,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/balance-puzzle-weighing-12-balls/"/>
     <id>https://blog.emn178.com/zh-TW/post/balance-puzzle-weighing-12-balls/</id>
     <published>2013-03-30T07:51:49.000Z</published>
-    <updated>2023-10-30T01:29:01.362Z</updated>
+    <updated>2013-03-30T07:51:49.000Z</updated>
     
     
       
@@ -2895,7 +2895,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/balance-puzzle-weighing-10-balls/"/>
     <id>https://blog.emn178.com/zh-TW/post/balance-puzzle-weighing-10-balls/</id>
     <published>2013-03-18T11:47:19.000Z</published>
-    <updated>2023-10-30T01:28:36.776Z</updated>
+    <updated>2013-03-18T11:47:19.000Z</updated>
     
     
       
@@ -2916,7 +2916,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/balance-puzzle-weighing-8-balls/"/>
     <id>https://blog.emn178.com/zh-TW/post/balance-puzzle-weighing-8-balls/</id>
     <published>2013-03-17T02:39:10.000Z</published>
-    <updated>2023-10-30T01:28:00.084Z</updated>
+    <updated>2013-03-17T02:39:10.000Z</updated>
     
     
       
@@ -2937,7 +2937,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/birthday-puzzle/"/>
     <id>https://blog.emn178.com/zh-TW/post/birthday-puzzle/</id>
     <published>2013-03-16T12:21:52.000Z</published>
-    <updated>2023-12-03T01:50:28.078Z</updated>
+    <updated>2013-03-16T12:21:52.000Z</updated>
     
     
       
@@ -2958,7 +2958,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/tree-traversal/"/>
     <id>https://blog.emn178.com/zh-TW/post/tree-traversal/</id>
     <published>2013-02-15T13:28:55.000Z</published>
-    <updated>2023-10-25T09:26:19.134Z</updated>
+    <updated>2013-02-15T13:28:55.000Z</updated>
     
     
       
@@ -2981,7 +2981,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/offsetleft-offsettop-offsetwidth-offsetheight/"/>
     <id>https://blog.emn178.com/zh-TW/post/offsetleft-offsettop-offsetwidth-offsetheight/</id>
     <published>2013-02-03T05:06:39.000Z</published>
-    <updated>2023-10-29T15:00:09.678Z</updated>
+    <updated>2013-02-03T05:06:39.000Z</updated>
     
     
       
@@ -3004,7 +3004,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/scrollleft-scrolltop-scrollwidth-scrollheight-scrollintoview/"/>
     <id>https://blog.emn178.com/zh-TW/post/scrollleft-scrolltop-scrollwidth-scrollheight-scrollintoview/</id>
     <published>2013-01-24T13:07:35.000Z</published>
-    <updated>2023-10-27T05:49:46.339Z</updated>
+    <updated>2013-01-24T13:07:35.000Z</updated>
     
     
       
@@ -3027,7 +3027,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/clientleft-clienttop-clientwidth-clientheight/"/>
     <id>https://blog.emn178.com/zh-TW/post/clientleft-clienttop-clientwidth-clientheight/</id>
     <published>2013-01-23T11:34:44.000Z</published>
-    <updated>2023-10-27T05:49:40.538Z</updated>
+    <updated>2013-01-23T11:34:44.000Z</updated>
     
     
       
@@ -3050,7 +3050,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/table-dbname-tablename-is-marked-as-crashed-and-should-be-repaired-when-using-lock-tables/"/>
     <id>https://blog.emn178.com/zh-TW/post/table-dbname-tablename-is-marked-as-crashed-and-should-be-repaired-when-using-lock-tables/</id>
     <published>2013-01-20T13:15:26.000Z</published>
-    <updated>2023-10-27T02:10:20.845Z</updated>
+    <updated>2013-01-20T13:15:26.000Z</updated>
     
     
       
@@ -3071,7 +3071,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/data-structure-generic-tree-to-binary-tree/"/>
     <id>https://blog.emn178.com/zh-TW/post/data-structure-generic-tree-to-binary-tree/</id>
     <published>2013-01-19T02:55:48.000Z</published>
-    <updated>2023-10-26T09:25:30.677Z</updated>
+    <updated>2013-01-19T02:55:48.000Z</updated>
     
     
       
@@ -3093,7 +3093,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/javascript-variables/"/>
     <id>https://blog.emn178.com/zh-TW/post/javascript-variables/</id>
     <published>2013-01-06T06:09:03.000Z</published>
-    <updated>2023-10-24T06:20:37.273Z</updated>
+    <updated>2013-01-06T06:09:03.000Z</updated>
     
     
       
@@ -3116,7 +3116,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/data-structure-binary-search-tree/"/>
     <id>https://blog.emn178.com/zh-TW/post/data-structure-binary-search-tree/</id>
     <published>2013-01-02T12:34:00.000Z</published>
-    <updated>2023-10-26T09:24:54.616Z</updated>
+    <updated>2013-01-02T12:34:00.000Z</updated>
     
     
       
@@ -3138,7 +3138,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/javascript-data-type-final/"/>
     <id>https://blog.emn178.com/zh-TW/post/javascript-data-type-final/</id>
     <published>2012-12-23T02:23:24.000Z</published>
-    <updated>2023-10-24T06:02:39.884Z</updated>
+    <updated>2012-12-23T02:23:24.000Z</updated>
     
     
       
@@ -3161,7 +3161,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/javascript-data-type/"/>
     <id>https://blog.emn178.com/zh-TW/post/javascript-data-type/</id>
     <published>2012-12-15T12:51:04.000Z</published>
-    <updated>2023-10-24T05:44:09.156Z</updated>
+    <updated>2012-12-15T12:51:04.000Z</updated>
     
     
       
@@ -3184,7 +3184,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/data-structure-binary-tree/"/>
     <id>https://blog.emn178.com/zh-TW/post/data-structure-binary-tree/</id>
     <published>2012-12-09T11:40:52.000Z</published>
-    <updated>2023-10-26T09:24:20.023Z</updated>
+    <updated>2012-12-09T11:40:52.000Z</updated>
     
     
       
@@ -3206,7 +3206,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/web-devtools/"/>
     <id>https://blog.emn178.com/zh-TW/post/web-devtools/</id>
     <published>2012-12-01T11:53:37.000Z</published>
-    <updated>2023-10-24T07:32:21.491Z</updated>
+    <updated>2012-12-01T11:53:37.000Z</updated>
     
     
       
@@ -3228,7 +3228,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/data-structure-tree/"/>
     <id>https://blog.emn178.com/zh-TW/post/data-structure-tree/</id>
     <published>2012-11-30T14:00:07.000Z</published>
-    <updated>2023-10-25T09:25:25.032Z</updated>
+    <updated>2012-11-30T14:00:07.000Z</updated>
     
     
       
@@ -3250,7 +3250,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/javascript-syntax/"/>
     <id>https://blog.emn178.com/zh-TW/post/javascript-syntax/</id>
     <published>2012-11-24T07:36:58.000Z</published>
-    <updated>2023-10-24T07:14:07.278Z</updated>
+    <updated>2012-11-24T07:36:58.000Z</updated>
     
     
       
@@ -3273,7 +3273,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/selection-sort/"/>
     <id>https://blog.emn178.com/zh-TW/post/selection-sort/</id>
     <published>2012-11-18T06:02:14.000Z</published>
-    <updated>2023-09-23T00:45:42.905Z</updated>
+    <updated>2012-11-18T06:02:14.000Z</updated>
     
     
       
@@ -3297,7 +3297,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/topcoder-inv-2001-semi-A-B-chess-cover/"/>
     <id>https://blog.emn178.com/zh-TW/post/topcoder-inv-2001-semi-A-B-chess-cover/</id>
     <published>2012-11-17T13:37:04.000Z</published>
-    <updated>2023-08-20T12:18:18.686Z</updated>
+    <updated>2012-11-17T13:37:04.000Z</updated>
     
     
       
@@ -3319,7 +3319,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/insertion-sort/"/>
     <id>https://blog.emn178.com/zh-TW/post/insertion-sort/</id>
     <published>2012-11-11T13:31:48.000Z</published>
-    <updated>2023-09-23T00:45:39.804Z</updated>
+    <updated>2012-11-11T13:31:48.000Z</updated>
     
     
       
@@ -3343,7 +3343,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/bubble-sort/"/>
     <id>https://blog.emn178.com/zh-TW/post/bubble-sort/</id>
     <published>2012-11-10T13:17:55.000Z</published>
-    <updated>2023-09-23T00:45:35.971Z</updated>
+    <updated>2012-11-10T13:17:55.000Z</updated>
     
     
       
@@ -3367,7 +3367,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/taipei-little-white-house-and-liberty-square/"/>
     <id>https://blog.emn178.com/zh-TW/post/taipei-little-white-house-and-liberty-square/</id>
     <published>2012-11-08T13:19:14.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2012-11-08T13:19:14.000Z</updated>
     
     
       
@@ -3391,7 +3391,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/taipei-national-palace-museum/"/>
     <id>https://blog.emn178.com/zh-TW/post/taipei-national-palace-museum/</id>
     <published>2012-11-07T11:35:58.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2012-11-07T11:35:58.000Z</updated>
     
     
       
@@ -3418,7 +3418,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/taipei-yangming-park/"/>
     <id>https://blog.emn178.com/zh-TW/post/taipei-yangming-park/</id>
     <published>2012-11-06T11:20:48.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2012-11-06T11:20:48.000Z</updated>
     
     
       
@@ -3444,7 +3444,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/sorting-algorithm/"/>
     <id>https://blog.emn178.com/zh-TW/post/sorting-algorithm/</id>
     <published>2012-11-05T11:12:17.000Z</published>
-    <updated>2023-08-06T12:11:03.856Z</updated>
+    <updated>2012-11-05T11:12:17.000Z</updated>
     
     
       
@@ -3468,7 +3468,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/topcoder-inv-2001-semi-A-B-tothello/"/>
     <id>https://blog.emn178.com/zh-TW/post/topcoder-inv-2001-semi-A-B-tothello/</id>
     <published>2012-11-04T05:59:15.000Z</published>
-    <updated>2023-08-20T12:17:51.984Z</updated>
+    <updated>2012-11-04T05:59:15.000Z</updated>
     
     
       
@@ -3490,7 +3490,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/data-structure-linked-list/"/>
     <id>https://blog.emn178.com/zh-TW/post/data-structure-linked-list/</id>
     <published>2012-10-28T12:23:21.000Z</published>
-    <updated>2023-10-24T07:26:46.719Z</updated>
+    <updated>2012-10-28T12:23:21.000Z</updated>
     
     
       
@@ -3512,7 +3512,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/data-structure-queue/"/>
     <id>https://blog.emn178.com/zh-TW/post/data-structure-queue/</id>
     <published>2012-10-23T13:50:55.000Z</published>
-    <updated>2023-10-24T07:26:12.252Z</updated>
+    <updated>2012-10-23T13:50:55.000Z</updated>
     
     
       
@@ -3534,7 +3534,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/data-structure-stack/"/>
     <id>https://blog.emn178.com/zh-TW/post/data-structure-stack/</id>
     <published>2012-10-20T13:17:21.000Z</published>
-    <updated>2023-10-24T07:25:55.576Z</updated>
+    <updated>2012-10-20T13:17:21.000Z</updated>
     
     
       
@@ -3556,7 +3556,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/lake-placid-and-hsinchu-park/"/>
     <id>https://blog.emn178.com/zh-TW/post/lake-placid-and-hsinchu-park/</id>
     <published>2012-08-27T10:54:00.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2012-08-27T10:54:00.000Z</updated>
     
     
       
@@ -3571,9 +3571,9 @@
     <category term="旅遊" scheme="https://blog.emn178.com/zh-TW/categories/%E6%97%85%E9%81%8A/"/>
     
     
-    <category term="景點" scheme="https://blog.emn178.com/zh-TW/tags/%E6%99%AF%E9%BB%9E/"/>
-    
     <category term="新竹" scheme="https://blog.emn178.com/zh-TW/tags/%E6%96%B0%E7%AB%B9/"/>
+    
+    <category term="景點" scheme="https://blog.emn178.com/zh-TW/tags/%E6%99%AF%E9%BB%9E/"/>
     
   </entry>
   
@@ -3582,7 +3582,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/climbing-stairs/"/>
     <id>https://blog.emn178.com/zh-TW/post/climbing-stairs/</id>
     <published>2012-08-26T06:06:10.000Z</published>
-    <updated>2023-09-23T00:43:42.564Z</updated>
+    <updated>2012-08-26T06:06:10.000Z</updated>
     
     
       
@@ -3607,7 +3607,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/common-coding-interview-questions/"/>
     <id>https://blog.emn178.com/zh-TW/post/common-coding-interview-questions/</id>
     <published>2012-08-25T05:54:45.000Z</published>
-    <updated>2023-10-24T07:25:36.801Z</updated>
+    <updated>2012-08-25T05:54:45.000Z</updated>
     
     
       
@@ -3629,7 +3629,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/find-the-missing-integer/"/>
     <id>https://blog.emn178.com/zh-TW/post/find-the-missing-integer/</id>
     <published>2012-08-23T12:11:54.000Z</published>
-    <updated>2023-09-22T15:26:47.358Z</updated>
+    <updated>2012-08-23T12:11:54.000Z</updated>
     
     
       
@@ -3649,7 +3649,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/find-second-largest-number-in-an-array/"/>
     <id>https://blog.emn178.com/zh-TW/post/find-second-largest-number-in-an-array/</id>
     <published>2012-08-13T13:22:01.000Z</published>
-    <updated>2023-09-22T14:45:37.032Z</updated>
+    <updated>2012-08-13T13:22:01.000Z</updated>
     
     
       
@@ -3672,7 +3672,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/how-to-sum-the-integers-from-1-to-n/"/>
     <id>https://blog.emn178.com/zh-TW/post/how-to-sum-the-integers-from-1-to-n/</id>
     <published>2012-08-12T02:16:19.000Z</published>
-    <updated>2023-09-22T14:20:47.946Z</updated>
+    <updated>2012-08-12T02:16:19.000Z</updated>
     
     
       
@@ -3697,7 +3697,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/find-the-largest-of-two-numbers-without-using-conditional-statements-or-operators/"/>
     <id>https://blog.emn178.com/zh-TW/post/find-the-largest-of-two-numbers-without-using-conditional-statements-or-operators/</id>
     <published>2012-08-11T11:02:38.000Z</published>
-    <updated>2023-09-22T15:27:07.567Z</updated>
+    <updated>2012-08-11T11:02:38.000Z</updated>
     
     
       
@@ -3717,7 +3717,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/swap-two-numbers-without-using-a-temporary-variable/"/>
     <id>https://blog.emn178.com/zh-TW/post/swap-two-numbers-without-using-a-temporary-variable/</id>
     <published>2012-08-10T13:54:53.000Z</published>
-    <updated>2023-09-22T15:25:47.026Z</updated>
+    <updated>2012-08-10T13:54:53.000Z</updated>
     
     
       
@@ -3737,7 +3737,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/fibonacci/"/>
     <id>https://blog.emn178.com/zh-TW/post/fibonacci/</id>
     <published>2012-08-05T10:16:27.000Z</published>
-    <updated>2023-09-23T00:43:29.539Z</updated>
+    <updated>2012-08-05T10:16:27.000Z</updated>
     
     
       
@@ -3763,7 +3763,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/dynamic-programming/"/>
     <id>https://blog.emn178.com/zh-TW/post/dynamic-programming/</id>
     <published>2012-08-02T13:27:57.000Z</published>
-    <updated>2023-09-23T00:42:12.209Z</updated>
+    <updated>2012-08-02T13:27:57.000Z</updated>
     
     
       
@@ -3787,7 +3787,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/javascript-performance-benchmark/"/>
     <id>https://blog.emn178.com/zh-TW/post/javascript-performance-benchmark/</id>
     <published>2012-05-27T12:05:38.000Z</published>
-    <updated>2023-08-21T13:54:05.748Z</updated>
+    <updated>2012-05-27T12:05:38.000Z</updated>
     
     
       
@@ -3809,7 +3809,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/iterative/"/>
     <id>https://blog.emn178.com/zh-TW/post/iterative/</id>
     <published>2012-04-21T05:58:34.000Z</published>
-    <updated>2023-09-23T00:45:13.725Z</updated>
+    <updated>2012-04-21T05:58:34.000Z</updated>
     
     
       
@@ -3831,7 +3831,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/topcoder-inv-2001-semi-A-B-match-maker/"/>
     <id>https://blog.emn178.com/zh-TW/post/topcoder-inv-2001-semi-A-B-match-maker/</id>
     <published>2012-04-19T12:21:37.000Z</published>
-    <updated>2023-08-20T12:17:47.146Z</updated>
+    <updated>2012-04-19T12:21:37.000Z</updated>
     
     
       
@@ -3853,7 +3853,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/taipei-yangmingshan/"/>
     <id>https://blog.emn178.com/zh-TW/post/taipei-yangmingshan/</id>
     <published>2012-04-17T12:18:15.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2012-04-17T12:18:15.000Z</updated>
     
     
       
@@ -3878,7 +3878,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/maximum-subarray/"/>
     <id>https://blog.emn178.com/zh-TW/post/maximum-subarray/</id>
     <published>2012-04-15T02:04:01.000Z</published>
-    <updated>2023-09-23T00:43:21.792Z</updated>
+    <updated>2012-04-15T02:04:01.000Z</updated>
     
     
       
@@ -3904,7 +3904,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/taipei-chiang-kai-shek-shilin-residence/"/>
     <id>https://blog.emn178.com/zh-TW/post/taipei-chiang-kai-shek-shilin-residence/</id>
     <published>2012-04-13T13:18:22.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2012-04-13T13:18:22.000Z</updated>
     
     
       
@@ -3932,7 +3932,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/binary-search/"/>
     <id>https://blog.emn178.com/zh-TW/post/binary-search/</id>
     <published>2012-04-11T13:36:53.000Z</published>
-    <updated>2023-09-23T00:43:16.089Z</updated>
+    <updated>2012-04-11T13:36:53.000Z</updated>
     
     
       
@@ -3956,7 +3956,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/new-taipei-tamsui-fort-santo-domingo/"/>
     <id>https://blog.emn178.com/zh-TW/post/new-taipei-tamsui-fort-santo-domingo/</id>
     <published>2012-04-10T12:42:21.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2012-04-10T12:42:21.000Z</updated>
     
     
       
@@ -3979,7 +3979,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/topcoder-inv-2001-r1-prerequisites/"/>
     <id>https://blog.emn178.com/zh-TW/post/topcoder-inv-2001-r1-prerequisites/</id>
     <published>2012-04-04T14:03:25.000Z</published>
-    <updated>2023-08-20T12:17:41.796Z</updated>
+    <updated>2012-04-04T14:03:25.000Z</updated>
     
     
       
@@ -4001,7 +4001,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/quick-sort/"/>
     <id>https://blog.emn178.com/zh-TW/post/quick-sort/</id>
     <published>2012-04-01T01:28:48.000Z</published>
-    <updated>2023-09-23T00:45:08.375Z</updated>
+    <updated>2012-04-01T01:28:48.000Z</updated>
     
     
       
@@ -4027,7 +4027,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/rails-incorrect-mysql-client-library-version/"/>
     <id>https://blog.emn178.com/zh-TW/post/rails-incorrect-mysql-client-library-version/</id>
     <published>2012-03-28T13:40:42.000Z</published>
-    <updated>2023-08-21T01:37:48.129Z</updated>
+    <updated>2012-03-28T13:40:42.000Z</updated>
     
     
       
@@ -4048,7 +4048,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/topcoder-inv-2001-r1-square-digits/"/>
     <id>https://blog.emn178.com/zh-TW/post/topcoder-inv-2001-r1-square-digits/</id>
     <published>2012-03-18T13:38:15.000Z</published>
-    <updated>2023-08-20T12:17:37.542Z</updated>
+    <updated>2012-03-18T13:38:15.000Z</updated>
     
     
       
@@ -4070,7 +4070,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/topcoder/"/>
     <id>https://blog.emn178.com/zh-TW/post/topcoder/</id>
     <published>2012-03-12T14:20:08.000Z</published>
-    <updated>2023-08-20T12:45:23.942Z</updated>
+    <updated>2012-03-12T14:20:08.000Z</updated>
     
     
       
@@ -4090,7 +4090,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/merge-sort/"/>
     <id>https://blog.emn178.com/zh-TW/post/merge-sort/</id>
     <published>2012-03-11T06:19:04.000Z</published>
-    <updated>2023-09-23T00:44:57.065Z</updated>
+    <updated>2012-03-11T06:19:04.000Z</updated>
     
     
       
@@ -4116,7 +4116,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/kaohsiung-love-pier-the-pier-2-art-center/"/>
     <id>https://blog.emn178.com/zh-TW/post/kaohsiung-love-pier-the-pier-2-art-center/</id>
     <published>2012-03-10T12:14:02.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2012-03-10T12:14:02.000Z</updated>
     
     
       
@@ -4139,7 +4139,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/tower-of-hanoi/"/>
     <id>https://blog.emn178.com/zh-TW/post/tower-of-hanoi/</id>
     <published>2012-03-09T12:43:56.000Z</published>
-    <updated>2023-09-23T00:45:01.873Z</updated>
+    <updated>2012-03-09T12:43:56.000Z</updated>
     
     
       
@@ -4165,7 +4165,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/divide-and-conquer/"/>
     <id>https://blog.emn178.com/zh-TW/post/divide-and-conquer/</id>
     <published>2012-03-08T12:57:10.000Z</published>
-    <updated>2023-09-23T00:42:03.592Z</updated>
+    <updated>2012-03-08T12:57:10.000Z</updated>
     
     
       
@@ -4189,7 +4189,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/the-script-tried-to-execute-a-method-or-access-a-property-of-an-incomplete-object/"/>
     <id>https://blog.emn178.com/zh-TW/post/the-script-tried-to-execute-a-method-or-access-a-property-of-an-incomplete-object/</id>
     <published>2012-03-06T12:28:02.000Z</published>
-    <updated>2023-08-05T07:18:11.512Z</updated>
+    <updated>2012-03-06T12:28:02.000Z</updated>
     
     
       
@@ -4214,7 +4214,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/kaohsiung-fo-guang-shan-buddha-museum/"/>
     <id>https://blog.emn178.com/zh-TW/post/kaohsiung-fo-guang-shan-buddha-museum/</id>
     <published>2012-03-05T13:24:57.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2012-03-05T13:24:57.000Z</updated>
     
     
       
@@ -4239,7 +4239,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/topcoder-inv-2001-r1-howeasy/"/>
     <id>https://blog.emn178.com/zh-TW/post/topcoder-inv-2001-r1-howeasy/</id>
     <published>2012-03-04T06:39:43.000Z</published>
-    <updated>2023-08-20T11:32:32.127Z</updated>
+    <updated>2012-03-04T06:39:43.000Z</updated>
     
     
       
@@ -4261,7 +4261,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/change-or-reset-user-password-on-mysql/"/>
     <id>https://blog.emn178.com/zh-TW/post/change-or-reset-user-password-on-mysql/</id>
     <published>2012-03-02T11:49:48.000Z</published>
-    <updated>2023-07-28T12:46:52.890Z</updated>
+    <updated>2012-03-02T11:49:48.000Z</updated>
     
     
       
@@ -4282,7 +4282,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/opensearch/"/>
     <id>https://blog.emn178.com/zh-TW/post/opensearch/</id>
     <published>2012-02-15T11:57:48.000Z</published>
-    <updated>2023-07-27T14:27:49.885Z</updated>
+    <updated>2012-02-15T11:57:48.000Z</updated>
     
     
       
@@ -4303,7 +4303,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/kaohsiung-shoushan/"/>
     <id>https://blog.emn178.com/zh-TW/post/kaohsiung-shoushan/</id>
     <published>2012-02-12T03:49:10.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2012-02-12T03:49:10.000Z</updated>
     
     
       
@@ -4330,7 +4330,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/heroes-of-jin-yong-secret-skills/"/>
     <id>https://blog.emn178.com/zh-TW/post/heroes-of-jin-yong-secret-skills/</id>
     <published>2012-02-02T13:48:23.000Z</published>
-    <updated>2023-11-18T02:22:39.853Z</updated>
+    <updated>2012-02-02T13:48:23.000Z</updated>
     
     
       
@@ -4351,7 +4351,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/hsinchu-green-world-ecological-farm/"/>
     <id>https://blog.emn178.com/zh-TW/post/hsinchu-green-world-ecological-farm/</id>
     <published>2012-01-26T07:47:10.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2012-01-26T07:47:10.000Z</updated>
     
     
       
@@ -4368,9 +4368,9 @@
     <category term="旅遊" scheme="https://blog.emn178.com/zh-TW/categories/%E6%97%85%E9%81%8A/"/>
     
     
-    <category term="景點" scheme="https://blog.emn178.com/zh-TW/tags/%E6%99%AF%E9%BB%9E/"/>
-    
     <category term="新竹" scheme="https://blog.emn178.com/zh-TW/tags/%E6%96%B0%E7%AB%B9/"/>
+    
+    <category term="景點" scheme="https://blog.emn178.com/zh-TW/tags/%E6%99%AF%E9%BB%9E/"/>
     
   </entry>
   
@@ -4379,7 +4379,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/opds-catalog/"/>
     <id>https://blog.emn178.com/zh-TW/post/opds-catalog/</id>
     <published>2011-12-30T14:16:21.000Z</published>
-    <updated>2023-07-23T09:58:35.921Z</updated>
+    <updated>2011-12-30T14:16:21.000Z</updated>
     
     
       
@@ -4399,7 +4399,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/taipei-pavilion-of-dreams/"/>
     <id>https://blog.emn178.com/zh-TW/post/taipei-pavilion-of-dreams/</id>
     <published>2011-12-24T06:39:29.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2011-12-24T06:39:29.000Z</updated>
     
     
       
@@ -4425,7 +4425,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/atom-feed/"/>
     <id>https://blog.emn178.com/zh-TW/post/atom-feed/</id>
     <published>2011-12-16T13:39:05.000Z</published>
-    <updated>2023-07-23T09:55:48.731Z</updated>
+    <updated>2011-12-16T13:39:05.000Z</updated>
     
     
       
@@ -4445,7 +4445,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/miaoli-hsinchu-lions-head-mountain-scenic/"/>
     <id>https://blog.emn178.com/zh-TW/post/miaoli-hsinchu-lions-head-mountain-scenic/</id>
     <published>2011-11-20T01:50:36.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2011-11-20T01:50:36.000Z</updated>
     
     
       
@@ -4459,9 +4459,9 @@
     <category term="旅遊" scheme="https://blog.emn178.com/zh-TW/categories/%E6%97%85%E9%81%8A/"/>
     
     
-    <category term="景點" scheme="https://blog.emn178.com/zh-TW/tags/%E6%99%AF%E9%BB%9E/"/>
-    
     <category term="新竹" scheme="https://blog.emn178.com/zh-TW/tags/%E6%96%B0%E7%AB%B9/"/>
+    
+    <category term="景點" scheme="https://blog.emn178.com/zh-TW/tags/%E6%99%AF%E9%BB%9E/"/>
     
     <category term="苗栗" scheme="https://blog.emn178.com/zh-TW/tags/%E8%8B%97%E6%A0%97/"/>
     
@@ -4472,7 +4472,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/simulate-httpcontext-for-unit-test-in-non-web-project-using-c-sharp/"/>
     <id>https://blog.emn178.com/zh-TW/post/simulate-httpcontext-for-unit-test-in-non-web-project-using-c-sharp/</id>
     <published>2011-11-19T06:02:26.000Z</published>
-    <updated>2023-07-22T13:22:58.636Z</updated>
+    <updated>2011-11-19T06:02:26.000Z</updated>
     
     
       
@@ -4496,7 +4496,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/mysql-explain-profiling/"/>
     <id>https://blog.emn178.com/zh-TW/post/mysql-explain-profiling/</id>
     <published>2011-11-17T11:58:25.000Z</published>
-    <updated>2023-07-22T08:07:41.534Z</updated>
+    <updated>2011-11-17T11:58:25.000Z</updated>
     
     
       
@@ -4516,7 +4516,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/taoyuan-xiao-wulai-skywalk/"/>
     <id>https://blog.emn178.com/zh-TW/post/taoyuan-xiao-wulai-skywalk/</id>
     <published>2011-11-06T11:34:28.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2011-11-06T11:34:28.000Z</updated>
     
     
       
@@ -4542,7 +4542,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/how-to-truncate-a-table-with-foreign-key-in-sql-server/"/>
     <id>https://blog.emn178.com/zh-TW/post/how-to-truncate-a-table-with-foreign-key-in-sql-server/</id>
     <published>2011-11-03T11:39:09.000Z</published>
-    <updated>2023-07-17T13:55:29.187Z</updated>
+    <updated>2011-11-03T11:39:09.000Z</updated>
     
     
       
@@ -4563,7 +4563,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/taoyuan-dongyanshan-forest-recreation-area/"/>
     <id>https://blog.emn178.com/zh-TW/post/taoyuan-dongyanshan-forest-recreation-area/</id>
     <published>2011-10-30T01:59:59.000Z</published>
-    <updated>2026-08-21T06:34:07.325Z</updated>
+    <updated>2011-10-30T01:59:59.000Z</updated>
     
     
       
@@ -4590,7 +4590,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/taipei-hsing-tian-kong-and-tamsui/"/>
     <id>https://blog.emn178.com/zh-TW/post/taipei-hsing-tian-kong-and-tamsui/</id>
     <published>2011-10-22T05:57:22.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2011-10-22T05:57:22.000Z</updated>
     
     
       
@@ -4616,7 +4616,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/how-to-show-windows-form-in-fullscreen-mode-using-c-sharp/"/>
     <id>https://blog.emn178.com/zh-TW/post/how-to-show-windows-form-in-fullscreen-mode-using-c-sharp/</id>
     <published>2011-10-16T06:54:04.000Z</published>
-    <updated>2023-07-17T13:47:29.159Z</updated>
+    <updated>2011-10-16T06:54:04.000Z</updated>
     
     
       
@@ -4641,7 +4641,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/hsinchu-gang-nan-seeside-scenic-spot/"/>
     <id>https://blog.emn178.com/zh-TW/post/hsinchu-gang-nan-seeside-scenic-spot/</id>
     <published>2011-09-30T13:45:39.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2011-09-30T13:45:39.000Z</updated>
     
     
       
@@ -4656,9 +4656,9 @@
     <category term="旅遊" scheme="https://blog.emn178.com/zh-TW/categories/%E6%97%85%E9%81%8A/"/>
     
     
-    <category term="景點" scheme="https://blog.emn178.com/zh-TW/tags/%E6%99%AF%E9%BB%9E/"/>
-    
     <category term="新竹" scheme="https://blog.emn178.com/zh-TW/tags/%E6%96%B0%E7%AB%B9/"/>
+    
+    <category term="景點" scheme="https://blog.emn178.com/zh-TW/tags/%E6%99%AF%E9%BB%9E/"/>
     
   </entry>
   
@@ -4667,7 +4667,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/routing-in-asp-dot-net-c-sharp-iis-url-rewrite-alternate/"/>
     <id>https://blog.emn178.com/zh-TW/post/routing-in-asp-dot-net-c-sharp-iis-url-rewrite-alternate/</id>
     <published>2011-09-24T03:10:36.000Z</published>
-    <updated>2023-07-16T07:19:57.169Z</updated>
+    <updated>2011-09-24T03:10:36.000Z</updated>
     
     
       
@@ -4691,7 +4691,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/php-user-permission-design-using-bitwise/"/>
     <id>https://blog.emn178.com/zh-TW/post/php-user-permission-design-using-bitwise/</id>
     <published>2011-09-14T13:39:25.000Z</published>
-    <updated>2023-07-16T06:52:02.930Z</updated>
+    <updated>2011-09-14T13:39:25.000Z</updated>
     
     
       
@@ -4715,7 +4715,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/pixnet-syntaxhighlighter-style/"/>
     <id>https://blog.emn178.com/zh-TW/post/pixnet-syntaxhighlighter-style/</id>
     <published>2011-08-27T02:19:22.000Z</published>
-    <updated>2023-11-01T09:00:26.569Z</updated>
+    <updated>2011-08-27T02:19:22.000Z</updated>
     
     
       
@@ -4735,7 +4735,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/parse-command-line-arguments-in-java/"/>
     <id>https://blog.emn178.com/zh-TW/post/parse-command-line-arguments-in-java/</id>
     <published>2011-08-22T13:46:37.000Z</published>
-    <updated>2023-07-16T04:51:05.044Z</updated>
+    <updated>2011-08-22T13:46:37.000Z</updated>
     
     
       
@@ -4759,7 +4759,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/clear-database-transaction-log-file/"/>
     <id>https://blog.emn178.com/zh-TW/post/clear-database-transaction-log-file/</id>
     <published>2011-08-21T04:14:16.000Z</published>
-    <updated>2023-06-22T04:33:39.493Z</updated>
+    <updated>2011-08-21T04:14:16.000Z</updated>
     
     
       
@@ -4780,7 +4780,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/how-to-create-file-and-directory-in-java/"/>
     <id>https://blog.emn178.com/zh-TW/post/how-to-create-file-and-directory-in-java/</id>
     <published>2011-08-20T01:33:29.000Z</published>
-    <updated>2023-07-16T04:51:01.566Z</updated>
+    <updated>2011-08-20T01:33:29.000Z</updated>
     
     
       
@@ -4805,7 +4805,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/recursively-chmod-all-directories/"/>
     <id>https://blog.emn178.com/zh-TW/post/recursively-chmod-all-directories/</id>
     <published>2011-08-18T14:27:57.000Z</published>
-    <updated>2023-07-28T12:44:22.258Z</updated>
+    <updated>2011-08-18T14:27:57.000Z</updated>
     
     
       
@@ -4826,7 +4826,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/load-a-config-file-in-java/"/>
     <id>https://blog.emn178.com/zh-TW/post/load-a-config-file-in-java/</id>
     <published>2011-08-16T12:55:33.000Z</published>
-    <updated>2023-07-16T04:50:56.787Z</updated>
+    <updated>2011-08-16T12:55:33.000Z</updated>
     
     
       
@@ -4851,7 +4851,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/ninety-nine/"/>
     <id>https://blog.emn178.com/zh-TW/post/ninety-nine/</id>
     <published>2011-08-14T12:11:08.000Z</published>
-    <updated>2023-11-01T09:09:34.911Z</updated>
+    <updated>2011-08-14T12:11:08.000Z</updated>
     
     
       
@@ -4872,7 +4872,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/using-property-to-access-elements-of-array-in-csharp/"/>
     <id>https://blog.emn178.com/zh-TW/post/using-property-to-access-elements-of-array-in-csharp/</id>
     <published>2011-08-13T11:42:45.000Z</published>
-    <updated>2023-07-16T04:49:15.902Z</updated>
+    <updated>2011-08-13T11:42:45.000Z</updated>
     
     
       
@@ -4897,7 +4897,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/execute-external-programs-in-php/"/>
     <id>https://blog.emn178.com/zh-TW/post/execute-external-programs-in-php/</id>
     <published>2011-08-10T12:10:57.000Z</published>
-    <updated>2023-07-16T04:49:04.066Z</updated>
+    <updated>2011-08-10T12:10:57.000Z</updated>
     
     
       
@@ -4921,7 +4921,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/hsinchu-shan-shang-homestay-and-zhang-xueliang-cultural-park/"/>
     <id>https://blog.emn178.com/zh-TW/post/hsinchu-shan-shang-homestay-and-zhang-xueliang-cultural-park/</id>
     <published>2011-08-07T05:46:31.000Z</published>
-    <updated>2026-08-21T06:34:07.325Z</updated>
+    <updated>2011-08-07T05:46:31.000Z</updated>
     
     
       
@@ -4935,9 +4935,9 @@
     <category term="旅遊" scheme="https://blog.emn178.com/zh-TW/categories/%E6%97%85%E9%81%8A/"/>
     
     
-    <category term="景點" scheme="https://blog.emn178.com/zh-TW/tags/%E6%99%AF%E9%BB%9E/"/>
-    
     <category term="新竹" scheme="https://blog.emn178.com/zh-TW/tags/%E6%96%B0%E7%AB%B9/"/>
+    
+    <category term="景點" scheme="https://blog.emn178.com/zh-TW/tags/%E6%99%AF%E9%BB%9E/"/>
     
   </entry>
   
@@ -4946,7 +4946,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/shirokiya-museum-yingge-ceramics-museum/"/>
     <id>https://blog.emn178.com/zh-TW/post/shirokiya-museum-yingge-ceramics-museum/</id>
     <published>2011-07-29T12:54:29.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2011-07-29T12:54:29.000Z</updated>
     
     
       
@@ -4972,7 +4972,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/pixnet-syntaxhighlighter/"/>
     <id>https://blog.emn178.com/zh-TW/post/pixnet-syntaxhighlighter/</id>
     <published>2011-07-26T02:25:47.000Z</published>
-    <updated>2023-11-01T08:59:00.275Z</updated>
+    <updated>2011-07-26T02:25:47.000Z</updated>
     
     
       
@@ -4992,7 +4992,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/hsinchu-green-grass-lake-water-dance-show/"/>
     <id>https://blog.emn178.com/zh-TW/post/hsinchu-green-grass-lake-water-dance-show/</id>
     <published>2010-09-04T02:47:28.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2010-09-04T02:47:28.000Z</updated>
     
     
       
@@ -5006,9 +5006,9 @@
     <category term="旅遊" scheme="https://blog.emn178.com/zh-TW/categories/%E6%97%85%E9%81%8A/"/>
     
     
-    <category term="景點" scheme="https://blog.emn178.com/zh-TW/tags/%E6%99%AF%E9%BB%9E/"/>
-    
     <category term="新竹" scheme="https://blog.emn178.com/zh-TW/tags/%E6%96%B0%E7%AB%B9/"/>
+    
+    <category term="景點" scheme="https://blog.emn178.com/zh-TW/tags/%E6%99%AF%E9%BB%9E/"/>
     
   </entry>
   
@@ -5017,7 +5017,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/hsinchu-green-grassland/"/>
     <id>https://blog.emn178.com/zh-TW/post/hsinchu-green-grassland/</id>
     <published>2010-08-28T10:54:00.000Z</published>
-    <updated>2026-08-21T06:34:07.326Z</updated>
+    <updated>2010-08-28T10:54:00.000Z</updated>
     
     
       
@@ -5032,9 +5032,9 @@
     <category term="旅遊" scheme="https://blog.emn178.com/zh-TW/categories/%E6%97%85%E9%81%8A/"/>
     
     
-    <category term="景點" scheme="https://blog.emn178.com/zh-TW/tags/%E6%99%AF%E9%BB%9E/"/>
-    
     <category term="新竹" scheme="https://blog.emn178.com/zh-TW/tags/%E6%96%B0%E7%AB%B9/"/>
+    
+    <category term="景點" scheme="https://blog.emn178.com/zh-TW/tags/%E6%99%AF%E9%BB%9E/"/>
     
   </entry>
   
@@ -5043,7 +5043,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/php-tutorial-operators-final/"/>
     <id>https://blog.emn178.com/zh-TW/post/php-tutorial-operators-final/</id>
     <published>2010-05-18T01:05:37.000Z</published>
-    <updated>2023-07-16T04:48:53.061Z</updated>
+    <updated>2010-05-18T01:05:37.000Z</updated>
     
     
       
@@ -5067,7 +5067,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/php-tutorial-operators/"/>
     <id>https://blog.emn178.com/zh-TW/post/php-tutorial-operators/</id>
     <published>2010-05-13T03:09:11.000Z</published>
-    <updated>2023-07-16T04:48:51.144Z</updated>
+    <updated>2010-05-13T03:09:11.000Z</updated>
     
     
       
@@ -5091,7 +5091,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/maximum-execution-time-of-30-seconds-exceeded/"/>
     <id>https://blog.emn178.com/zh-TW/post/maximum-execution-time-of-30-seconds-exceeded/</id>
     <published>2010-05-03T03:16:42.000Z</published>
-    <updated>2023-07-16T04:48:49.343Z</updated>
+    <updated>2010-05-03T03:16:42.000Z</updated>
     
     
     <summary type="html">本篇文章說明 PHP 出現誤訊息「Fatal error: Maximum execution time of 30 seconds exceeded in ....php on line ...」的原因和解決方法。</summary>
@@ -5112,7 +5112,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/php-tutorial-constants/"/>
     <id>https://blog.emn178.com/zh-TW/post/php-tutorial-constants/</id>
     <published>2010-05-01T02:10:59.000Z</published>
-    <updated>2023-07-16T04:48:46.394Z</updated>
+    <updated>2010-05-01T02:10:59.000Z</updated>
     
     
       
@@ -5137,7 +5137,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/php-tutorial-variables/"/>
     <id>https://blog.emn178.com/zh-TW/post/php-tutorial-variables/</id>
     <published>2010-04-29T08:21:13.000Z</published>
-    <updated>2023-07-16T04:48:44.698Z</updated>
+    <updated>2010-04-29T08:21:13.000Z</updated>
     
     
       
@@ -5162,7 +5162,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/php-tutorial-data-type-final/"/>
     <id>https://blog.emn178.com/zh-TW/post/php-tutorial-data-type-final/</id>
     <published>2010-04-18T06:02:13.000Z</published>
-    <updated>2023-07-16T04:48:39.706Z</updated>
+    <updated>2010-04-18T06:02:13.000Z</updated>
     
     
       
@@ -5187,7 +5187,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/php-tutorial-data-type/"/>
     <id>https://blog.emn178.com/zh-TW/post/php-tutorial-data-type/</id>
     <published>2010-04-11T11:33:13.000Z</published>
-    <updated>2023-07-16T04:48:28.314Z</updated>
+    <updated>2010-04-11T11:33:13.000Z</updated>
     
     
       
@@ -5212,7 +5212,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/php-tutorial-syntax/"/>
     <id>https://blog.emn178.com/zh-TW/post/php-tutorial-syntax/</id>
     <published>2010-04-07T14:00:37.000Z</published>
-    <updated>2023-07-16T04:48:23.587Z</updated>
+    <updated>2010-04-07T14:00:37.000Z</updated>
     
     
       
@@ -5237,7 +5237,7 @@
     <link href="https://blog.emn178.com/zh-TW/post/php-startup-unable-to-load-dynamic-library-php-exif-dll/"/>
     <id>https://blog.emn178.com/zh-TW/post/php-startup-unable-to-load-dynamic-library-php-exif-dll/</id>
     <published>2010-04-06T12:19:37.000Z</published>
-    <updated>2023-07-16T04:48:21.901Z</updated>
+    <updated>2010-04-06T12:19:37.000Z</updated>
     
     
     <summary type="html">本篇文章說明如何解決 PHP 開啟 exif 模組後，出現這個錯誤訊息「PHP Startup: Unable to load dynamic library php_exif.dll」的解決方法。</summary>
