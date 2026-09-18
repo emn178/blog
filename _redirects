@@ -1,0 +1,6 @@
+/                   /zh-TW/                         301
+/categories/*       /zh-TW/categories/:splat        301
+/tags/*             /zh-TW/tags/:splat              301
+/archives/*         /zh-TW/archives/:splat          301
+/page/*             /zh-TW/page/:splat              301
+/post/*             /zh-TW/post/:splat              301
